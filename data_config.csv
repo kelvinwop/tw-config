@@ -975,7 +975,7 @@ int,string,string
 950007,unlocklevel _arsenal,4900,key_novice_adjustments,14|3200,key_novice_adjustments,45|3300,key_novice_adjustments,45
 950008,unlocklevel_bigworld,5
 950009,oldscience_close,1901,key_novice_adjustments,0|2201,key_novice_adjustments,0
-950010,new_version_content_login_official,659,663,680,674,675,682,684,685-3000:1.117.1|1623,1637,1639,1640,1663,1664:1.207
+950010,new_version_content_login_official,659,663,680,674,675,682,684,685-3000:1.117.1|1623,1637,1639,1640,1663,1664,1668-1670,1694-3000:1.207
 950011,new_version_content_login_Test,1-4017:1.0.0|4023:1.205
 950012,harvester_display_status,0|1|3000|10000
 15010,heterogeneous_ore_attack_number,5|5|30
@@ -1084,7 +1084,7 @@ int,string,string
 1017,hero_fixed_attribute_para,50000
 930301,heroskill_exclusion_id,1402|116|21402|20630
 930131,herospin_times,1000
-930132,herospin_price,60|600
+930132,herospin_price,100|1000
 930133,herospin_luckypoint,1|5
 930134,herospin_item,5900011
 452001,paypay_level,10
