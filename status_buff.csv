@@ -1,0 +1,6 @@
+id,buff_id,buff_value,time,maxNum,sameTime,prefab,skin_id,desc,world_offset,key_derail
+int,int,string,int,int,int,string,int,string,string,int
+10001,930100,1000,86400,3,1,Effect_skill_gong,1747000,1. If you use the castle, you can get a layer of special BUFF every time you destroy all defenders of the other players' bases. Each buff increases ATK for all units by 10%. You can have 3 stack layers at most. \n2. The buff lasts for 24 hours, each time you get the buffs, the duration will be updated again.\n3. When all your own defenders are destroyed, a layer of buff will be removed.,0,0,1,0
+10002,990100,0,0,0,0,0,1753000,\n1. Basic speed of VIT recovery and VIT recovery are calculated separately.\n2. After obtaining the latter, you need to use some VIT so that the recovery countdown can take effect.,0,0,1,1
+10003,990134,0,0,0,0,0,1770000,\n1. This bonus is effective for heroes with HP shield related skills.\n2. Heroes: Aya, Ishi Tarou, Fahed, 914, Dante, Bradley, Katrina,0,1
+10004,990176,0,0,0,0,0,1777000,Refers to the attributes when the base is placed on other servers, including: Eternal Land, War of Odinium, and SVS.,0,1

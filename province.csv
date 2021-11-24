@@ -1,0 +1,58 @@
+id,name,world_id,wx
+int,string,int,string
+1,Region (46),46,beijing
+2,Region (43),43,tianjin
+3,Region (17),17,shanghai
+4,Region (52),52,chongqing
+5,Region (59),59,hebei
+6,Region (60),60,shanxi
+7,Region (44),44,liaoning
+8,Region (21),21,jilin
+9,No Man's Land (23),23,heilongjiang
+10,Region (41),41,jiangsu
+11,Region (40),40,zhejiang
+12,Region (14),14,fujian
+13,Region (55),55,jiangxi
+14,Region (57),57,shandong
+15,Region (54),54,hunan
+16,Region (37),37,guangdong
+17,Region (13),13,hainan
+18,Region (33),33,sichuan
+19,Region (35),35,guizhou
+20,Region (09),9,yunnan
+21,Region (50),50,shaanxi
+22,Region (30),30,gansu
+23,Region (31),31,qinghai
+24,Region (25),25,neimenggu
+25,Region (36),36,guangxi
+26,Region (05),5,xizang
+27,Region (48),48,ningxia
+28,Region (02),2,xinjiang
+29,No Man's Land (16),16,
+30,Ukraine (27),27,
+31,Asia (11),11,
+32,Colombia (19),19,
+33,Africa (07),7,
+34,No Man's Land (20),20,
+35,No Man's Land (03),3,
+36,No Man's Land (04),4,
+37,No Man's Land (6),6,
+38,No Man's Land (10),10,
+39,No Man's Land (12),12,
+40,No Man's Land (18),18,
+41,No Man's Land (24),24,
+42,No Man's Land (26),26,
+43,No Man's Land (28),28,
+44,No Man's Land (29),29,
+45,No Man's Land (32),32,
+46,No Man's Land (34),34,
+47,No Man's Land (38),38,
+48,No Man's Land (39),39,
+49,No Man's Land (42),42,
+50,No Man's Land (45),45,
+51,No Man's Land (47),47,
+52,No Man's Land (49),49,
+53,Region (51),51,
+54,Region (53),53,
+55,No Man's Land (56),56,
+56,Region (58),58,

@@ -1,0 +1,8 @@
+medal_lv,medal_lv_num,medal_lv_reward,medal_lv_icon
+int,int,int,string
+0,0,0,medal_lv_icon_1
+1,10,9992005,medal_lv_icon_1
+2,15,9992003,medal_lv_icon_1
+3,25,9992003,medal_lv_icon_1
+4,40,9992003,medal_lv_icon_1
+5,55,9992004,medal_lv_icon_1

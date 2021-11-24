@@ -1,0 +1,3 @@
+id,cost,reward,return_day,hero_id
+int,int,int,int,int
+1,3000,916409,3,108

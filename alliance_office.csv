@@ -1,0 +1,6 @@
+id,officer_name,position_desc,officer_icon,officer_buff
+int,string,string,string,string
+6,Vice-leader,The vice-leader is a core member in the Alliance. This position will gain the commander an attribute bonus.,vice_leader,920900|300,930100|300
+7,Matriarch,The Matriarch is the influencer with the power to make some decisions for the Alliance. This position will gain the commander an attribute bonus.,matriarch,990101|300,930000|300
+8,War Commander,War Commander is the tactical master, the artist of war. This position will gain the commander an attribute bonus.,war_Commander,930100|800,930000|800
+9,Ambassador,The Alliance Ambassador is the fixer that deals with problems for your Alliance. This position will gain the commander an attribute bonus.,ambassador,960002|300,910300|300

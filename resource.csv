@@ -1,0 +1,54 @@
+id,level,resource_type,model,gather_speed,lifetime,gather_time,storage,load_factor,name,desc,reward,is_visible,drop_show,kvk_honor,cab_score,build_prefab,iconSrc,iconType,scale_para,x_para,y_para,need_level,show_group,show_need_level
+int,int,int,string,double,int,int,long,int,string,string,int,int,string,int,int,int,string,int,string,string,string,int,int,int
+501,1,5,gather_res_1,25.0,14400,1,,1,105016,105017,204,0,310001|311001|312001|313001,,,1,building/resource/gather_res_1,2,1,0,0,0,0,0
+601,1,6,gather_res_2,25.0,14400,1,,1,105018,105019,0,0,,,,0,building/resource/gather_res_2,2,1,0,0,0,0,0
+701,1,7,gather_res_3,25.0,14400,1,,1,105020,105021,205,0,320001|321001|322001|323001,,,1,building/resource/gather_res_3,2,1,0,0,0,0,0
+801,1,8,gather_res_4,25.0,14400,1,,1,105022,105023,0,0,,,,0,building/resource/gather_res_4,2,1,0,0,0,0,0
+101,1,1,gather_res_5,0.0,14400,1,,1,Gold Mine,Gather Gold from Gold Mines.,206,0,300001|301001|302001|303001,,,1,building/resource/gather_res_5,2,1,0,0,0,0,0
+7001,1,7,gather_res_3,25.0,28800,1,,1,105020,105021,205,0,,,,1,building/resource/gather_res_3,2,1,0,0,0,0,0
+1001,1,1,gather_res_5,25.0,28800,1,,1,Gold Mine,Gather Gold from Gold Mines.,206,0,,,,1,building/resource/gather_res_5,2,1,0,0,0,0,0
+5001,1,5,gather_res_1,25.0,28800,1,,1,105016,105017,204,0,,,,1,building/resource/gather_res_1,2,1,0,0,0,0,0
+1101,1,18,gather_res_1,25.0,14400,1,,1,Amethyst,Amethyst is used to build Alliance fortresses and power stations in the Eternal Land. Obtained by gathering in the Alliance territory or special resource area.,0,0,,,,1,,2,1,0,0,0,0,0
+1102,1,19,gather_res_1,25.0,14400,1,,1,Individual Honor,Add Individual honor in the Eternal Land,0,0,,,,1,,2,1,0,0,0,0,0
+1201,1,1,gather_res_5,0.0,14400,1,,1,Gold Mine,Gather Gold from Gold Mines.,206,2,300001|301001|302001|303001,2,,1,building/resource/gather_res_5,2,1,0,0,0,3,0
+1205,1,5,gather_res_1,32.0,14400,1,,1,105016,105017,204,2,310001|311001|312001|313001,2,,1,building/resource/gather_res_1,2,1,0,0,0,1,0
+1207,1,7,gather_res_3,32.0,14400,1,,1,105020,105021,205,2,320001|321001|322001|323001,2,,1,building/resource/gather_res_3,2,1,0,0,0,2,0
+1301,1,10,gather_res_6,0.0084,21600,120,150.0,50000,Mine,For a troop with {0} load, every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,2,,1,building/resource/gather_res_6,2,1,0,0,0,0,0
+1302,1,10,gather_res_6,0.0017,60,120,0.0,100000,Mine,For a troop with {0} load, every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,0,,1,building/resource/gather_res_6,2,1,0,0,0,0,0
+1401,1,10,gather_res_6,0.017,4200,60,20.0,100000,Resource Tile,For a troop with {0} load, every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,2,15,1,building/resource/gather_res_6,2,1,0,0,0,0,0
+1303,2,20,gather_res_7,0.01,21600,60,1500.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,0,,2,,1,building/resource/gather_res_7,2,1,0,0,80,0,0
+1501,6,5,gather_res_8,25.0,14400,1,7000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,0,0
+1502,6,7,gather_res_9,25.0,14400,1,7000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,0,0
+1503,6,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,0,0
+1504,6,10,gather_res_4,0.0084,14400,120,20.0,100000,Mine,You may gather [Gems] by digging Mines.,0,0,,,,1,building/resource/gather_res_6,2,1,0,0,0,0,0
+502,1,5,gather_res_1,25.0,14400,1,400000.0,1,105016,105017,204,1,310001|311001|312001|313001,,,1,building/resource/gather_res_1,2,1,0,0,0,1,0
+702,1,7,gather_res_3,25.0,14400,1,400000.0,1,105020,105021,205,1,320001|321001|322001|323001,,,1,building/resource/gather_res_3,2,1,0,0,0,2,0
+102,1,1,gather_res_5,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,206,1,300001|301001|302001|303001,,,1,building/resource/gather_res_5,2,1,0,0,0,3,0
+503,2,5,gather_res_1,25.0,14400,1,800000.0,1,105016,105017,204,1,310001|311001|312001|313001,,,1,building/resource/gather_res_1,2,1,0,0,0,1,0
+703,2,7,gather_res_3,25.0,14400,1,800000.0,1,105020,105021,205,1,320001|321001|322001|323001,,,1,building/resource/gather_res_3,2,1,0,0,0,2,0
+103,2,1,gather_res_5,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,206,1,300001|301001|302001|303001,,,1,building/resource/gather_res_5,2,1,0,0,0,3,0
+504,3,5,gather_res_1,25.0,14400,1,1200000.0,1,105016,105017,204,1,310001|311001|312001|313001,,,1,building/resource/gather_res_1,2,1,0,0,0,1,0
+704,3,7,gather_res_3,25.0,14400,1,1200000.0,1,105020,105021,205,1,320001|321001|322001|323001,,,1,building/resource/gather_res_3,2,1,0,0,0,2,0
+104,3,1,gather_res_5,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,206,1,300001|301001|302001|303001,,,1,building/resource/gather_res_5,2,1,0,0,0,3,0
+505,4,5,gather_res_1,25.0,14400,1,2500000.0,1,105016,105017,204,1,310001|311001|312001|313001,,,1,building/resource/gather_res_1,2,1,0,0,0,1,0
+705,4,7,gather_res_3,25.0,14400,1,2500000.0,1,105020,105021,205,1,320001|321001|322001|323001,,,1,building/resource/gather_res_3,2,1,0,0,0,2,0
+105,4,1,gather_res_5,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,206,1,300001|301001|302001|303001,,,1,building/resource/gather_res_5,2,1,0,0,0,3,0
+506,5,5,gather_res_1,25.0,14400,1,6300000.0,1,105016,105017,204,1,310001|311001|312001|313001,,,1,building/resource/gather_res_1,2,1,0,0,0,1,0
+706,5,7,gather_res_3,25.0,14400,1,6300000.0,1,105020,105021,205,1,320001|321001|322001|323001,,,1,building/resource/gather_res_3,2,1,0,0,0,2,0
+106,5,1,gather_res_5,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,206,1,300001|301001|302001|303001,,,1,building/resource/gather_res_5,2,1,0,0,0,3,0
+1601,1,20,gather_res_7,0.005,14400,1,200.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,1,,,,1,building/resource/gather_res_7,2,1,0,0,80,10,80
+1602,2,20,gather_res_7,0.005,14400,1,300.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,1,,,,1,building/resource/gather_res_7,2,1,0,0,80,10,80
+1603,3,20,gather_res_7,0.005,14400,1,400.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,1,,,,1,building/resource/gather_res_7,2,1,0,0,80,10,80
+1505,6,5,gather_res_8,25.0,14400,1,8000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
+1506,6,7,gather_res_9,25.0,14400,1,8000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
+1507,6,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
+1508,6,5,gather_res_8,25.0,14400,1,9000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
+1509,6,7,gather_res_9,25.0,14400,1,9000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
+1510,6,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
+1511,1,5,gather_res_8,25.0,14400,1,9500000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
+1512,1,7,gather_res_9,25.0,14400,1,9500000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
+1513,1,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
+1514,1,5,gather_res_8,25.0,14400,1,10000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
+1515,1,7,gather_res_9,25.0,14400,1,10000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
+1516,1,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
+1304,1,20,gather_res_7,0.01,21600,60,1000.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,2,,2,,1,building/resource/gather_res_7,2,1,0,0,80,5,0

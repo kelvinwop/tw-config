@@ -1,0 +1,6 @@
+id,needRss,reward,times,sku
+int,string,int,int,string
+9400001,100,9027481,99,com.topwar.playpoint.product_1.rew
+9400002,200,9027482,99,com.topwar.playpoint.product_2.rew
+9400003,500,9027483,99,com.topwar.playpoint.product_3.rew
+9400004,1000,9027484,99,com.topwar.playpoint.product_4.rew

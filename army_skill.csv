@@ -1,0 +1,54 @@
+id,name,desc,skill_icon,skill_effect,skill_type,key_num
+int,string,string,string,string,int,string
+540001,Rapid-firing Gun,Attack a row of targets,Rapid-firing Gun,,,
+540002,Enhanced Armor,Damage taken from Naval units reduces by {0}%,Enhanced Armor,930505,1,25
+540003,Enhanced Deck,Damage taken from Army units reduces by {0}%,Enhanced Deck,930504,1,25
+540004,Enhanced Track,Damage taken from Air Force units reduces by {0}%,Enhanced Track,930506,1,25
+540005,Defense Radar,When defending a building, damage increases by {0}%,Defense Radar,980104,1,30
+540006,Rapid Attack Device,When attacking a building, damage increases by {0}%,Rapid Attack Device,980105,1,30
+540007,Safety Alarm,When defending, generates a shield equals to {0}% of the HP at the beginning of the battle,Safety Alarm,1010010,1,20
+540008,Light Armor,Dodge rate increases by {0}%,Light Armor,930300,1,100
+540009,Odinium Ammo,Attack increases by {0}%,Odinium Ammo,1003002,1,60
+540010,Odinium Armor,HP increases by {0}%,Odinium Armor,1003001,1,60
+540011,Odinium Gunpowder,Critical Rate increases by {0}%,Odinium Gunpowder,1003003,1,150
+540012,Armor-piercing Bullet,Increase ATK against the Army by {0}%,Armor-piercing Bullet,930107,1,200
+540013,Torpedo Blast,Increase ATK against the Navy by {0}%,Torpedo Blast,930108,1,200
+540014,Guided Missile,Increase ATK against the Air Force by {0}%,Guided Missile,930109,1,200
+540015,Guided Bomb,Attack 4 targets randomly,Rapid-firing Gun5,,,
+540016,Full Suppression,Attack all enemy targets,Full Suppression,1000005,1,
+540017,Loaded Attack,Increases damage by {0}% (on the offensive), while the Hit Rate is reduced by {1}%,Loaded Attack,1000004,1,20|10
+540018,Frag Missile,Final damage (total damage) dealt increases by {0}%,Frag Missile,,,25
+540019,Smart-Tracking,Attack 2 targets randomly,Smart-Tracking,,,
+540020,Overloaded,Load increases by {0}%, while the marching speed is reduced by {1}%,Overloaded,970002,1,300|50
+540021,Gathering Equip,Reduces damage taken while gathering by {0}%,Gathering Equip,1000001,1,30
+540022,Triple Burst,Attack 3 times randomly,Triple Burst,,,
+540023,Giant Cannon,Your marching speed is reduced by {0}%, while the damage is increased by {1}%,Giant Cannon,1000002,1,30|30
+540024,Focus Fire,When attacking three different targets in an attack, increases the final damage (total damage) by {0}%,Focus Fire,,,38
+540025,Rapid-firing Gun,Attack the target with the lowest HP every time,Rapid-firing Gun,1000007,,
+540026,Enhanced Armor,When attacking, the HP of your units are reduced by {0}% while the Crit. rate is increased by {1}%,Enhanced Armor,1000008,1,10|170
+540027,Enhanced Deck,Units deal more damage to targets with lower HP, and increases up to {0}% damage,Enhanced Deck,,1,30
+540028,Enhanced Track,Deal damage to a line of targets,Enhanced Track,,,
+540029,Defense Radar,When defending, the Dodge is increased by {0}%,Defense Radar,1000009,1,200
+540030,Rapid Attack Device,After being attacked, reduce the attacker's ATK by {0}% (not stackable),Rapid Attack Device,50003,2,35
+540031,Safety Alarm,Deal damage to a single target, the damage is increased by {0}%,Safety Alarm,,,10
+540032,Light Armor,When the enemy untis are less than yours, the damage is increased by {0}%,Light Armor,,,30
+540033,Odinium Ammo,When receiving fatal damage, reserve HP to 1 (effective only ONCE for each unit),Odinium Ammo,1000016,1,1
+540034,Odinium Armor,Deal damage to targets in the front row,Odinium Armor,,,10
+540035,Odinium Gunpowder,Reduce the damage taken by {0}% of the first two attacks,Odinium Gunpowder,50004,2,40
+540036,Armor-piercing Bullet,DMG reduces by {0}% while HP increases by {1}%,Armor-piercing Bullet,,,13|200
+540037,Torpedo Blast,Deal damage to a line of targets, the damage is increased by {0}%,Torpedo Blast,,,10
+540038,Guided Missile,When defending, the HP of units increases by {0}%,Guided Missile,1000010,1,260
+540039,Guided Bomb,Restores HP equals to {0}% of the damage the unit dealt, up to a maximum of {1}% of a single unit's HP,Guided Bomb,50002,2,100|20
+540040,Torpedo Blast,Randomly launch 3 missiles against targets,Torpedo Blast,,,
+540041,Full Suppression,Each unit deals {0}% more damage for the first 6 attacks,Full Suppression,1000012,1,30
+540042,Loaded Attack,By deploying this unit in all slots, the March Speed will be increased by {0}%,Loaded Attack,,,100
+900001,armySkill_900001,Block {0}% damage dealt by Army,armySkill_900001,941212,1,50
+900002,armySkill_900002,When attacked by Naval units, the damage taken is increased by {0}%,armySkill_900002,941213,1,300
+900003,Bullseye,When receiving crit, the damage taken is increased by {0}%,Bullseye,941214,1,300
+900004,Dodged!,{0}% chance to dodge regular attack,Dodged!,941215,1,60
+900005,Dangerous Zone,Attacks with Special Effect will cause damage equal to {0}% of the ATK,Dangerous Zone,941216,1,300
+900006,Spearheads II,It will explode if it's being attacked with 2 different Special Effects (which gained from Special Effect Research Center), deals damage equal to {0}% of the ATK. Effective {1} times in this battle,Spearheads II,941217,1,2000|5
+900007,Spearheads III,It will explode if it's being attacked with 3 different Special Effects (which gained from Special Effect Research Center), deals damage equal to {0}% of the ATK. Effective {1} times in this battle,Spearheads III,941218,1,5000|5
+900008,Unit Suppression - Army,When receiving damage from the Army, 100% it will be a Critical Hit,Unit Suppression - Army,941219,1,
+900009,Unit Suppression - Navy,When receiving damage from the Navy, 100% it will be a Critical Hit,Unit Suppression - Navy,941220,1,
+900010,Unit Suppression - Air Force,When receiving damage from the Air Force, 100% it will be a Critical Hit,Unit Suppression - Air Force,941221,1,

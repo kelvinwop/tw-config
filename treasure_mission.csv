@@ -1,0 +1,22 @@
+id,weight,desc,targetType,target,rewardId
+int,int,string,int,double,int
+101,100,Defeat Dark Forces {0} time(s) on the World Map,6,1.0,216001
+102,100,Defeat Dark Forces {0} time(s) on the World Map,6,2.0,216001
+103,100,Defeat Dark Forces {0} time(s) on the World Map,6,3.0,216001
+104,100,Defeat Dark Forces {0} time(s) on the World Map,6,4.0,216001
+105,100,Defeat Dark Forces {0} time(s) on the World Map,6,5.0,216001
+201,100,Join rally against Warhammer {0} times,22,1.0,216001
+202,100,Join rally against Warhammer {0} times,22,2.0,216001
+203,100,Join rally against Warhammer {0} times,22,3.0,216001
+204,100,Join rally against Warhammer {0} times,22,4.0,216001
+205,100,Join rally against Warhammer {0} times,22,5.0,216001
+301,100,Consume {0} VIT,28,5.0,216001
+302,100,Consume {0} VIT,28,10.0,216001
+303,100,Consume {0} VIT,28,15.0,216001
+304,100,Consume {0} VIT,28,20.0,216001
+305,100,Consume {0} VIT,28,25.0,216001
+401,100,Gather {0} times,25,1.0,216001
+402,100,Gather {0} times,25,2.0,216001
+403,100,Gather {0} times,25,3.0,216001
+404,100,Gather {0} times,25,1.0,216001
+405,100,Gather {0} times,25,2.0,216001

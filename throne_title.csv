@@ -1,0 +1,17 @@
+id,name,icon,type,buff,buff_value,gender,edit_name,edit_manifesto,entitle,commit_buff,send_gift,summon_boss,castle_effect,chat_effect
+int,string,string,int,string,string,int,int,int,int,int,int,int,int,string
+1,Leader,Leader,1,910200,930100,930000,1,1500,1500,-1,1,1,1,1,1,,101,bg_liaotian_2_2|bg_liaotian_8_2|bg_liaotian_13_1
+2,Staff Officer,Staff Officer,1,920900,930100,930000,1000,750,750,-1,0,0,1,1,1,,,
+3,Army Commander,Army Commander,1,930101,930001,1500,1500,-1,0,0,0,0,0,,,
+4,Naval Commander,Air Force Commander,1,930102,930002,1500,1500,-1,0,0,0,0,0,,,
+5,Air Force Commander,Naval Commander,1,930103,930003,1500,1500,-1,0,0,0,0,0,,,
+6,Logistical Director,Logistical Director,1,970001,500,-1,0,0,0,0,0,,,
+7,Minister of Economy,Minister of Economy,1,920900,500,-1,0,0,0,0,0,,,
+8,Expert Technician,Expert Technician,1,970003,1000,-1,0,0,0,0,0,,,
+9,Lady of War,Lady of War,1,920900,930100,930000,970001,970003,500,750,750,500,1000,2,0,0,0,0,0,,,
+10,Plague Prevails,Plague Prevails,2,930000,-250,-1,0,0,0,0,0,,,
+11,Food Shortage,Food Shortage,2,970001,-250,-1,0,0,0,0,0,,,
+12,Suppress the Rebels,Suppress the Rebels,2,970003,-1000,-1,0,0,0,0,0,,,
+13,Not enough supplies,Not enough supplies,2,930100,-250,-1,0,0,0,0,0,,,
+14,Economic Crisis,Economic Crisis,2,920900,-250,-1,0,0,0,0,0,,,
+15,Material Shortage,Material Shortage,2,970002,-250,-1,0,0,0,0,0,,,

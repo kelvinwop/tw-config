@@ -1,0 +1,12 @@
+id,name,prefab,type,total,action,speed
+int,string,string,int,int,int,int
+1,shell,effect/prefab/Effect_dongwu_beike,3,2,3,0
+2,piegeon,effect/prefab/Effect_dongwu_gezi,7,1,4,100
+3,turtleIdle,effect/prefab/Effect_dongwu_haigui_idle,2,2,2,5
+4,turtleRun,effect/prefab/Effect_dongwu_haigui_run,2,1,2,10
+5,crab,effect/prefab/Effect_dongwu_pangxie,3,2,1,6
+6,Rabbit,effect/prefab/Effect_dongwu_tuzi,1,0,1,30
+7,fishBone,effect/prefab/Effect_dongwu_yugu,3,1,3,0
+8,fishGroup,effect/prefab/Effect_dongwu_yuqun,2,1,2,10
+9,seagull,effect/prefab/Effect_haiou,7,1,4,80
+10,helicopter,effect/prefab/Effect_helicopter,7,1,4,100

@@ -1,0 +1,3 @@
+id,lang_name,platform,forum_address
+int,string,string,string
+340001,zh_cn,appios|appandroid|appwx|appqq|wx,https://forum-cn.rivergame.net

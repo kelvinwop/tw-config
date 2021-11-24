@@ -1,0 +1,18 @@
+id,type,inapp,desc1,desc2,desc3,platform,is_on,no_show,para,default
+int,int,int,string,string,string,string,int,int,string,int
+101,1,2,Harvester Notification,Harvester Notification,notification_desc1,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+102,2,2,Scouted Notification,Scouted Notification,notification_desc2,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+103,3,2,Attacked Notification,Attacked Notification,notification_desc3,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+104,4,2,Alliance Chat Notification,Alliance Chat Notification,,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+105,5,2,Private Chat Notification,Private Chat Notification,,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+106,6,2,VIT Notification,VIT Notification,notification_desc6,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+107,7,2,[Notice] Expedition Gains,[Notice] Expedition Gains,Get notified when you're under attack!,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+110,10,2,Auto-join Notification,Auto-join Notification,Never miss Alliance and private messages again!,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+111,11,2,Limited-time Supply is available,Limited-time Supply is available,Notifications will be affected by network operators and platforms. There may be delays or missing info. We appreciate your understanding.,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,0,,,1
+112,12,2,Message from a mod,Message from a mod,,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+113,13,2,Perk Development Progress,Perk Development Progress,notification_desc13,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+114,14,2,Unit Suppression Notification,Unit Suppression Notification,notification_desc14,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+108,8,2,,,notification_desc15,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,1,1440,4320,1
+109,9,2,,,notification_desc16,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,1,500211,5511,1
+115,15,2,Select Droid notification,Select Droid notification,notification_desc17,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+116,16,2,Enable Droid notification,Enable Droid notification,notification_desc18,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1

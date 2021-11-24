@@ -1,0 +1,59 @@
+id,name,icon,animation,height
+int,string,string,string,int
+1,smile,smile,,50
+2,uneasy,uneasy,,50
+3,drool,drool,,50
+4,stunned,stunned,,50
+5,sunglasses,sunglasses,,50
+6,sob,sob,,50
+7,shy,shy,,50
+8,silent,silent,,50
+9,sleep,sleep,,50
+10,cry,cry,,50
+11,awkward,awkward,,50
+12,angry,angry,,50
+13,wink,wink,,50
+14,grin,grin,,50
+15,surprised,surprised,,50
+16,sad,sad,,50
+17,cool,cool,,50
+18,awkward,awkward,,50
+19,scream,scream,,50
+20,puke,puke,,50
+21,chuckle,chuckle,,50
+22,cute,cute,,50
+23,slight,slight,,50
+24,smug,smug,,50
+25,sleepy,sleepy,,50
+26,sweating,sweating,,50
+27,laugh,laugh,,50
+28,curse,curse,,50
+29,curious,curious,,50
+30,lost,lost,,50
+31,dizzy,dizzy,,50
+32,torture,torture,,50
+33,dead,dead,,50
+34,skull,skull,,50
+35,wipe sweat,wipe sweat,,50
+36,pick nose,pick nose,,50
+37,clap,clap,,50
+38,embarrased,embarrased,,50
+39,look down,look down,,50
+40,snob left,snob left,,50
+41,snob right,snob right,,50
+42,booo,booo,,50
+43,distressed,distressed,,50
+44,sniffle,sniffle,,50
+45,sly,sly,,50
+46,kiss,kiss,,50
+47,whimper,whimper,,50
+48,laugh crying,laugh crying,,50
+49,wail,wail,,50
+50,squint,squint,,50
+51,blood spurt,blood spurt,,50
+52,surprise,surprise,,50
+53,dilemma,dilemma,,50
+54,pistol,pistol,,50
+55,cough blood,cough blood,,50
+56,power,power,,50
+57,threat,threat,,50

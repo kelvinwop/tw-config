@@ -1,0 +1,20 @@
+id,condMode,condValue,table,ids,fields,modify
+int,string,string,string,string,string,string
+2,2|3|5|6,ru|2165|1|esprit,item,2200052,icon,image/hero_icon/hero_icon115_rulink
+7,2|3|5|6,ru|2165|1|esprit,hero_skill,10115,skill_icon,skill_icon045_ru
+3,2|6|5,ru|esprit|3,tutorial_dialog,11,12,13,16,17,18,19,20,25,41,42,43,1000,1010,1030,1040,1050,1070,59,62,64,66,68,69,71,72,75,80,82,89,91,94,98,100,103,105,106,107,114,115,116,117,118,119,npc_name,*_ru
+4,2|6|5,ru|esprit|3,tutorial_dialog,1000,1010,1030,1040,1050,1070,59,type,3
+5,2|6|5,ru|esprit|3,tutorial_dialog,11,12,13,16,17,18,19,20,25,41,42,43,1000,1010,1030,1040,1050,1070,59,62,64,66,68,69,71,72,75,80,82,89,91,94,98,100,103,105,106,107,114,115,116,117,118,119,npc_pic,ea_prefab/hero/bust/hero_tachie115_rulink
+6,2|6,ru|esprit,specialresources,1,3,25,path,Russia*
+8,2|6,ru|esprit,data_config,21090102,value,900000|900001|900002|900003|900013,_ru
+9,2|6,ru|esprit,item,39201005,39201006,1800110,icon,*_ru
+10,2|6,ru|esprit,dress_nameplate,48,pic,*_ru
+11,2|6,ru|esprit,dress_headframe,50,pic,*_ru
+12,2|6,ru|esprit,specialresources,2,4,5-24,path,*RU
+13,2|5|6,ru|1|esprit,data_config,21090103,value,900002|900003|800200,_ru
+14,2|5|6,ru|1|esprit,data_config,21090101,value,800200|900001|900002|900003,_ru
+15,2|3|5|6,ru|2165|1|esprit,newbuyer_intro,1,exchange_pic,newbuyer_banner1_01_ru|newbuyer_banner1_02
+16,2|3|5|6,ru|2165|1|esprit,newbuyer_intro,1,exchange_des,Sergey, a cost-effective hero that helps you save VIT!|Never miss a shot again!
+17,2|3|5|6,ru|2165|1|esprit,item,2200052,name,desc,*_ru
+18,1,g123,G123,data_config,21090103,value,900002|900003,_g123
+19,1,g123,G123,data_config,21090102,value,900000|900001|900002|900003|900013,_g123

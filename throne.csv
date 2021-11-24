@@ -1,0 +1,7 @@
+id,throne_type,icon,model,name,desc,pos_x,pos_y,height,width,reward1,reward2,isopen,buff,buff_value,cross_server_area_requirement,army_deploy,offset_pos_x,offset_pos_y,csb_occupy_time,csb_server_point,csb_server_point_cd,csb_personal_point,csb_personal_point_cd,csb_kill_army_ratio,csb_protection_time
+int,int,string,string,string,string,int,int,int,int,string,string,int,string,int,string,string,int,int,int,int,int,int,int,double,int
+1001,1,shoufu_icon,throne_1001,Capital,Capital,256,512,3,3,0,0,1,,,50,51,53,54,56,57,59,60,61,62,63,64,,0,0,60,100,60,150,60,3.0,180
+4001,4,paota_icon,throne_1006,North Silo,North Silo,256,486,2,2,0,0,1,,,1,2,28,29,701,50,15,10,,,,,,2.0,
+4002,4,paota_icon,throne_1006,East Silo,East Silo,278,512,2,2,0,0,1,,,21,22,23,44,701,50,10,-5,,,,,,2.0,
+4003,4,paota_icon,throne_1006,West Silo,West Silo,234,512,2,2,0,0,1,,,7,8,9,34,701,50,-10,5,,,,,,2.0,
+4004,4,paota_icon,throne_1006,South Silo,South Silo,256,534,2,2,0,0,1,,,14,15,16,39,701,50,-15,-10,,,,,,2.0,

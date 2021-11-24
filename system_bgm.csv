@@ -1,0 +1,6 @@
+id,name_key,sound_file_name,exchange_id
+int,string,string,int
+1,g123,sound/pve_map_music,0
+2,system_bgm_02,sound/pve_map_music_g123_2006041,20200604
+3,system_bgm_03,sound/pve_map_music_g123_201223,20211223
+4,system_bgm_04,sound/pve_map_music_g123_210708,913228

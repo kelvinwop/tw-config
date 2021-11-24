@@ -1,0 +1,9 @@
+id,name,desc,building_image
+int,string,string,string
+1,Fortress,The Fortress. Taking it over will gain you Alliance and Individual points. Points awarded: low.,image/EightCountry/military_base
+2,Transfer Station,Transfer Station - Take it over to gain Alliance and Individual points. It also gives you teleport opportunities as time passes by,image/EightCountry/T_hongbaolei
+3,Frontline Base,Frontline base. Taking it over will gain you Alliance and Individual points. Points awarded: high.,image/EightCountry/throne_tower_model
+4,Empire Tech Center,The Empire Tech Center. Take it over to get HP bonus and gain Alliance and Individual points.,image/EightCountry/jianzhu1
+5,Empire Military Center,The Empire Military Center. Take it over to get ATK bonus and gain Alliance and Individual points.,image/EightCountry/jianzhu2
+6,Mine,A resource tile. You can gather Gems here, and it will gain you individual points and Alliance Points. You can not search for the tiles.,image/world_unit/gather_res_6
+7,Empire Military Center,The Airdrop Zone, where the Bomb Truck appears from time to time. Attack it to gain Alliance and Individual points. It will also attack an opponent's facility,image/CABActivity/btn_icon_airdrop_CABBattle_01

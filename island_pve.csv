@@ -1,0 +1,623 @@
+id,level_id,type,elite,monster_level,para1,para2,weight,add_reward,integral,icon,name,desc,icon1,times
+int,int,int,int,string,int,int,int,int,int,string,string,string,string,string
+1010101,10102,1,1,-4,101,9,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+1010102,10102,1,,-5,201,9,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+1010103,10102,1,,-5,301,9,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+1010301,10104,1,1,-4,101,9,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+1010302,10104,1,,-5,201,9,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+1010303,10104,1,,-5,301,9,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+1020101,10201,2,,,9220017,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700039,
+1020102,10201,2,,,9220010,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_500000,
+1020103,10201,2,,,9220006,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1900001,
+1020301,10203,2,,,9220015,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700030,
+1020302,10203,1,1,-3,201,12,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+1020303,10203,1,1,-3,301,12,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+1020501,10205,2,,,9220012,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_chouka1,
+1020502,10205,1,,-4,201,12,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+1020503,10205,1,,-4,301,12,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+1030201,10302,3,,,1003031,500,1,,,icon_island7,Island Banner,,enhance_403900,
+1030202,10302,3,,,1003011,500,1,,,icon_island7,Island Banner,,enhance_400300,
+1030203,10302,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+1030401,10304,3,,,1003023,500,1,,,icon_island7,Island Banner,,enhance_403700,
+1030402,10304,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+1030403,10304,3,,,1003029,500,1,,,icon_island7,Island Banner,,enhance_403900,
+1040101,10401,3,,,1003020,500,1,,,icon_island7,Island Banner,,enhance_403600,
+1040102,10401,1,,-3,101,15,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+1040103,10401,1,,-3,201,15,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+1040301,10403,1,1,-2,101,15,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+1040302,10403,1,1,-2,201,15,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+1040303,10403,1,1,-2,301,15,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+1040501,10405,3,,,1003006,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+1040502,10405,3,,,1003007,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+1040503,10405,3,,,1003031,500,1,,,icon_island7,Island Banner,,enhance_403900,
+1050201,10502,1,,-2,101,18,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+1050202,10502,1,,-2,201,18,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+1050203,10502,1,,-2,301,18,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+1050401,10504,1,,-2,101,18,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+1050402,10504,1,,-2,201,18,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+1050403,10504,1,,-2,301,18,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+1060101,10601,2,,,9220013,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,ro_chip_4,
+1060102,10601,2,,,9220012,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_chouka1,
+1060103,10601,2,,,9220016,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700030,
+1060301,10603,2,,,9220015,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700030,
+1060302,10603,3,,,1003007,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+1060303,10603,3,,,1003002,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+1060501,10605,3,,,1003001,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+1060502,10605,3,,,1003010,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+1060503,10605,3,,,1003026,500,1,,,icon_island7,Island Banner,,enhance_403800,
+1070201,10702,1,1,0,101,21,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+1070202,10702,1,1,0,301,21,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+1070203,10702,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+1070401,10704,1,,-1,101,21,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+1070402,10704,1,,-1,301,21,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+1070403,10704,3,,,1003013,500,1,,,icon_island7,Island Banner,,enhance_400300,
+1080101,10801,1,1,0,101,25,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+1080102,10801,1,1,0,201,25,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+1080103,10801,1,1,0,301,25,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+1080301,10803,1,1,0,101,25,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+1080302,10803,1,1,0,201,25,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+1080303,10803,1,1,0,301,25,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+1080501,10805,1,,-1,101,25,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+1080502,10805,1,,-1,201,25,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+1080503,10805,1,,-1,301,25,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+1090201,10902,2,,,9220018,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_2520001,
+1090202,10902,2,,,9220017,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700039,
+1090203,10902,2,,,9220006,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1900001,
+1090401,10904,3,,,1003026,500,1,,,icon_island7,Island Banner,,enhance_403800,
+1090402,10904,3,,,1003030,500,1,,,icon_island7,Island Banner,,enhance_403900,
+1090403,10904,3,,,1003006,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+1100301,11003,1,,2,101,30,1,9220003,200,icon_island2,105721,100337,icon_island2,2
+1100302,11003,1,,2,201,30,1,9220003,200,icon_island1,105719,100337,icon_island1,2
+1100303,11003,1,,2,301,30,1,9220003,200,icon_island3,105717,100337,icon_island3,2
+2010101,20102,1,1,1,201,30,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+2010102,20102,1,,0,301,30,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+2010103,20102,1,,0,101,30,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+2010301,20104,1,1,1,201,30,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+2010302,20104,1,,0,301,30,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+2010303,20104,1,,0,101,30,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+2020101,20201,2,,,9220013,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,ro_chip_4,
+2020102,20201,2,,,9220007,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900002,
+2020103,20201,2,,,9220007,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900002,
+2020301,20203,2,,,9220006,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900001,
+2020302,20203,1,1,2,301,33,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+2020303,20203,1,1,2,101,33,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+2020501,20205,2,,,9220015,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1700030,
+2020502,20205,1,,1,301,33,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+2020503,20205,1,,1,101,33,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+2030201,20302,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+2030202,20302,3,,,1003030,500,1,,,icon_island7,Island Banner,,enhance_403900,
+2030203,20302,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+2030401,20304,3,,,1003003,500,1,,,icon_island7,Island Banner,,enhance_400300,
+2030402,20304,3,,,1003023,500,1,,,icon_island7,Island Banner,,enhance_403700,
+2030403,20304,3,,,1003030,500,1,,,icon_island7,Island Banner,,enhance_403900,
+2040101,20401,3,,,1003008,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+2040102,20401,1,,2,201,36,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+2040103,20401,1,,2,301,36,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+2040301,20403,1,1,3,201,36,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+2040302,20403,1,1,3,301,36,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+2040303,20403,1,1,3,101,36,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+2040501,20405,3,,,1003025,500,1,,,icon_island7,Island Banner,,enhance_403700,
+2040502,20405,3,,,1003018,500,1,,,icon_island7,Island Banner,,enhance_403500,
+2040503,20405,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+2050201,20502,1,,3,201,39,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+2050202,20502,1,,3,301,39,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+2050203,20502,1,,3,101,39,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+2050401,20504,1,,3,201,39,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+2050402,20504,1,,3,301,39,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+2050403,20504,1,,3,101,39,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+2060101,20601,2,,,9220010,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_500000,
+2060102,20601,2,,,9220011,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_510000,
+2060103,20601,2,,,9220013,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,ro_chip_4,
+2060301,20603,2,,,9220014,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_3200001,
+2060302,20603,3,,,1003028,500,1,,,icon_island7,Island Banner,,enhance_403800,
+2060303,20603,3,,,1003005,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+2060501,20605,3,,,1003025,500,1,,,icon_island7,Island Banner,,enhance_403700,
+2060502,20605,3,,,1003013,500,1,,,icon_island7,Island Banner,,enhance_400300,
+2060503,20605,3,,,1003019,500,1,,,icon_island7,Island Banner,,enhance_403500,
+2070201,20702,1,1,5,201,42,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+2070202,20702,1,1,5,101,42,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+2070203,20702,3,,,1003011,500,1,,,icon_island7,Island Banner,,enhance_400300,
+2070401,20704,1,,4,201,42,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+2070402,20704,1,,4,101,42,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+2070403,20704,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+2080101,20801,1,1,5,201,45,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+2080102,20801,1,1,5,301,45,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+2080103,20801,1,1,5,101,45,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+2080301,20803,1,1,5,201,45,1,9220002,100,icon_island1,105719,100337,icon_island1,1.2
+2080302,20803,1,1,5,301,45,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+2080303,20803,1,1,5,101,45,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+2080501,20805,1,,4,201,45,1,9220001,80,icon_island1,105719,100337,icon_island1,1
+2080502,20805,1,,4,301,45,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+2080503,20805,1,,4,101,45,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+2090201,20902,2,,,9220010,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_500000,
+2090202,20902,2,,,9220016,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1700030,
+2090203,20902,2,,,9220006,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900001,
+2090401,20904,3,,,1003013,500,1,,,icon_island7,Island Banner,,enhance_400300,
+2090402,20904,3,,,1003010,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+2090403,20904,3,,,1003003,500,1,,,icon_island7,Island Banner,,enhance_400300,
+2100301,21003,1,,7,201,48,1,9220004,200,icon_island1,105719,100337,icon_island1,2
+2100302,21003,1,,7,301,48,1,9220004,200,icon_island3,105717,100337,icon_island3,2
+2100303,21003,1,,7,101,48,1,9220004,200,icon_island2,105721,100337,icon_island2,2
+3010101,30102,1,1,7,301,48,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+3010102,30102,1,,6,101,48,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+3010103,30102,1,,6,201,48,1,9220001,80,icon_island1,105719,100337,icon_island5,1
+3010301,30104,1,1,7,301,48,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+3010302,30104,1,,6,101,48,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+3010303,30104,1,,6,201,48,1,9220001,80,icon_island1,105719,100337,icon_island5,1
+3020101,30201,2,,,9220007,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1900002,
+3020102,30201,2,,,9220016,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700030,
+3020103,30201,2,,,9220015,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700030,
+3020301,30203,2,,,9220017,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700039,
+3020302,30203,1,1,8,101,51,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+3020303,30203,1,1,8,201,51,1,9220002,100,icon_island1,105719,100337,icon_island5,1.2
+3020501,30205,2,,,9220019,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_2560001,
+3020502,30205,1,,7,101,51,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+3020503,30205,1,,7,201,51,1,9220001,80,icon_island1,105719,100337,icon_island5,1
+3030201,30302,3,,,1003002,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+3030202,30302,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+3030203,30302,3,,,1003019,500,1,,,icon_island7,Island Banner,,enhance_403500,
+3030401,30304,3,,,1003018,500,1,,,icon_island7,Island Banner,,enhance_403500,
+3030402,30304,3,,,1003016,500,1,,,icon_island7,Island Banner,,enhance_400400,
+3030403,30304,3,,,1003023,500,1,,,icon_island7,Island Banner,,enhance_403700,
+3040101,30401,3,,,1003011,500,1,,,icon_island7,Island Banner,,enhance_400300,
+3040102,30401,1,,8,301,54,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+3040103,30401,1,,8,101,54,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+3040301,30403,1,1,9,301,54,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+3040302,30403,1,1,9,101,54,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+3040303,30403,1,1,9,201,54,1,9220002,100,icon_island1,105719,100337,icon_island5,1.2
+3040501,30405,3,,,1003020,500,1,,,icon_island7,Island Banner,,enhance_403600,
+3040502,30405,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+3040503,30405,3,,,1003022,500,1,,,icon_island7,Island Banner,,enhance_403600,
+3050201,30502,1,,9,301,57,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+3050202,30502,1,,9,101,57,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+3050203,30502,1,,9,201,57,1,9220001,80,icon_island1,105719,100337,icon_island5,1
+3050401,30504,1,,9,301,57,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+3050402,30504,1,,9,101,57,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+3050403,30504,1,,9,201,57,1,9220001,80,icon_island1,105719,100337,icon_island5,1
+3060101,30601,2,,,9220017,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700039,
+3060102,30601,2,,,9220009,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700011,
+3060103,30601,2,,,9220009,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700011,
+3060301,30603,2,,,9220015,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700030,
+3060302,30603,3,,,1003029,500,1,,,icon_island7,Island Banner,,enhance_403900,
+3060303,30603,3,,,1003029,500,1,,,icon_island7,Island Banner,,enhance_403900,
+3060501,30605,3,,,1003015,500,1,,,icon_island7,Island Banner,,enhance_400400,
+3060502,30605,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+3060503,30605,3,,,1003008,,1,,,icon_island7,Island Banner,,enhance_400200,
+3070201,30702,1,1,11,301,60,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+3070202,30702,1,1,11,201,60,1,9220002,100,icon_island1,105719,100337,icon_island5,1.2
+3070203,30702,3,,,1003015,500,1,,,icon_island7,Island Banner,,enhance_400400,
+3070401,30704,1,,10,301,60,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+3070402,30704,1,,10,201,60,1,9220001,80,icon_island1,105719,100337,icon_island5,1
+3070403,30704,3,,,1003015,500,1,,,icon_island7,Island Banner,,enhance_400400,
+3080101,30801,1,1,12,301,63,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+3080102,30801,1,1,12,101,63,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+3080103,30801,1,1,12,201,63,1,9220002,100,icon_island1,105719,100337,icon_island5,1.2
+3080301,30803,1,1,12,301,63,1,9220002,100,icon_island3,105717,100337,icon_island3,1.2
+3080302,30803,1,1,12,101,63,1,9220002,100,icon_island2,105721,100337,icon_island2,1.2
+3080303,30803,1,1,12,201,63,1,9220002,100,icon_island1,105719,100337,icon_island5,1.2
+3080501,30805,1,,11,301,63,1,9220001,80,icon_island3,105717,100337,icon_island3,1
+3080502,30805,1,,11,101,63,1,9220001,80,icon_island2,105721,100337,icon_island2,1
+3080503,30805,1,,11,201,63,1,9220001,80,icon_island1,105719,100337,icon_island5,1
+3090201,30902,2,,,9220006,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1900001,
+3090202,30902,2,,,9220007,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1900002,
+3090203,30902,2,,,9220010,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_500000,
+3090401,30904,3,,,1003020,500,1,,,icon_island7,Island Banner,,enhance_403600,
+3090402,30904,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+3090403,30904,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+3100301,31003,1,,15,301,70,1,9220005,200,icon_island3,105717,100337,icon_island3,2
+3100302,31003,1,,15,101,70,1,9220005,200,icon_island2,105721,100337,icon_island2,2
+3100303,31003,1,,15,201,70,1,9220005,200,icon_island1,105719,100337,icon_island5,2
+11010101,110102,1,1,-6,101,8,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+11010102,110102,1,,-7,201,8,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+11010103,110102,1,,-7,301,8,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+11010301,110104,1,1,-6,101,8,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+11010302,110104,1,,-7,201,8,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+11010303,110104,1,,-7,301,8,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+11020101,110201,2,,,9220017,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700039,
+11020102,110201,2,,,9220010,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_500000,
+11020103,110201,2,,,9220006,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1900001,
+11020301,110203,2,,,9220015,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700030,
+11020302,110203,1,1,-5,201,10,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+11020303,110203,1,1,-5,301,10,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+11020501,110205,2,,,9220012,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_chouka1,
+11020502,110205,1,,-6,201,10,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+11020503,110205,1,,-6,301,10,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+11030201,110302,3,,,1003031,500,1,,,icon_island7,Island Banner,,enhance_403900,
+11030202,110302,3,,,1003011,500,1,,,icon_island7,Island Banner,,enhance_400300,
+11030203,110302,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+11030401,110304,3,,,1003023,500,1,,,icon_island7,Island Banner,,enhance_403700,
+11030402,110304,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+11030403,110304,3,,,1003029,500,1,,,icon_island7,Island Banner,,enhance_403900,
+11040101,110401,3,,,1003020,500,1,,,icon_island7,Island Banner,,enhance_403600,
+11040102,110401,1,,-5,101,12,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+11040103,110401,1,,-5,201,12,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+11040301,110403,1,1,-4,101,12,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+11040302,110403,1,1,-4,201,12,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+11040303,110403,1,1,-4,301,12,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+11040501,110405,3,,,1003006,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+11040502,110405,3,,,1003007,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+11040503,110405,3,,,1003031,500,1,,,icon_island7,Island Banner,,enhance_403900,
+11050201,110502,1,,-4,101,15,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+11050202,110502,1,,-4,201,15,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+11050203,110502,1,,-4,301,15,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+11050401,110504,1,,-4,101,15,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+11050402,110504,1,,-4,201,15,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+11050403,110504,1,,-4,301,15,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+11060101,110601,2,,,9220013,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,ro_chip_4,
+11060102,110601,2,,,9220012,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_chouka1,
+11060103,110601,2,,,9220016,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700030,
+11060301,110603,2,,,9220015,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700030,
+11060302,110603,3,,,1003007,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+11060303,110603,3,,,1003002,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+11060501,110605,3,,,1003001,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+11060502,110605,3,,,1003010,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+11060503,110605,3,,,1003026,500,1,,,icon_island7,Island Banner,,enhance_403800,
+11070201,110702,1,1,-2,101,17,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+11070202,110702,1,1,-2,301,17,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+11070203,110702,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+11070401,110704,1,,-3,101,17,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+11070402,110704,1,,-3,301,17,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+11070403,110704,3,,,1003013,500,1,,,icon_island7,Island Banner,,enhance_400300,
+11080101,110801,1,1,-2,101,20,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+11080102,110801,1,1,-2,201,20,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+11080103,110801,1,1,-2,301,20,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+11080301,110803,1,1,-2,101,20,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+11080302,110803,1,1,-2,201,20,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+11080303,110803,1,1,-2,301,20,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+11080501,110805,1,,-3,101,20,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+11080502,110805,1,,-3,201,20,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+11080503,110805,1,,-3,301,20,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+11090201,110902,2,,,9220018,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_2520001,
+11090202,110902,2,,,9220017,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700039,
+11090203,110902,2,,,9220006,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1900001,
+11090401,110904,3,,,1003026,500,1,,,icon_island7,Island Banner,,enhance_403800,
+11090402,110904,3,,,1003030,500,1,,,icon_island7,Island Banner,,enhance_403900,
+11090403,110904,3,,,1003006,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+11100301,111003,1,,0,101,24,1,9220003,160,icon_island2,105721,100337,icon_island2,1.6
+11100302,111003,1,,0,201,24,1,9220003,160,icon_island1,105719,100337,icon_island1,1.6
+11100303,111003,1,,0,301,24,1,9220003,160,icon_island3,105717,100337,icon_island3,1.6
+12010101,120102,1,1,-1,201,24,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+12010102,120102,1,,-2,301,24,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+12010103,120102,1,,-2,101,24,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+12010301,120104,1,1,-1,201,24,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+12010302,120104,1,,-2,301,24,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+12010303,120104,1,,-2,101,24,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+12020101,120201,2,,,9220013,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,ro_chip_4,
+12020102,120201,2,,,9220007,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900002,
+12020103,120201,2,,,9220007,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900002,
+12020301,120203,2,,,9220006,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900001,
+12020302,120203,1,1,0,301,27,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+12020303,120203,1,1,0,101,27,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+12020501,120205,2,,,9220015,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1700030,
+12020502,120205,1,,-1,301,27,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+12020503,120205,1,,-1,101,27,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+12030201,120302,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+12030202,120302,3,,,1003030,500,1,,,icon_island7,Island Banner,,enhance_403900,
+12030203,120302,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+12030401,120304,3,,,1003003,500,1,,,icon_island7,Island Banner,,enhance_400300,
+12030402,120304,3,,,1003023,500,1,,,icon_island7,Island Banner,,enhance_403700,
+12030403,120304,3,,,1003030,500,1,,,icon_island7,Island Banner,,enhance_403900,
+12040101,120401,3,,,1003008,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+12040102,120401,1,,0,201,29,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+12040103,120401,1,,0,301,29,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+12040301,120403,1,1,1,201,29,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+12040302,120403,1,1,1,301,29,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+12040303,120403,1,1,1,101,29,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+12040501,120405,3,,,1003025,500,1,,,icon_island7,Island Banner,,enhance_403700,
+12040502,120405,3,,,1003018,500,1,,,icon_island7,Island Banner,,enhance_403500,
+12040503,120405,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+12050201,120502,1,,1,201,32,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+12050202,120502,1,,1,301,32,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+12050203,120502,1,,1,101,32,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+12050401,120504,1,,1,201,32,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+12050402,120504,1,,1,301,32,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+12050403,120504,1,,1,101,32,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+12060101,120601,2,,,9220010,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_500000,
+12060102,120601,2,,,9220011,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_510000,
+12060103,120601,2,,,9220013,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,ro_chip_4,
+12060301,120603,2,,,9220014,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_3200001,
+12060302,120603,3,,,1003028,500,1,,,icon_island7,Island Banner,,enhance_403800,
+12060303,120603,3,,,1003005,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+12060501,120605,3,,,1003025,500,1,,,icon_island7,Island Banner,,enhance_403700,
+12060502,120605,3,,,1003013,500,1,,,icon_island7,Island Banner,,enhance_400300,
+12060503,120605,3,,,1003019,500,1,,,icon_island7,Island Banner,,enhance_403500,
+12070201,120702,1,1,3,201,34,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+12070202,120702,1,1,3,101,34,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+12070203,120702,3,,,1003011,500,1,,,icon_island7,Island Banner,,enhance_400300,
+12070401,120704,1,,2,201,34,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+12070402,120704,1,,2,101,34,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+12070403,120704,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+12080101,120801,1,1,3,201,36,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+12080102,120801,1,1,3,301,36,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+12080103,120801,1,1,3,101,36,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+12080301,120803,1,1,3,201,36,1,9220002,80,icon_island1,105719,100337,icon_island1,0.96
+12080302,120803,1,1,3,301,36,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+12080303,120803,1,1,3,101,36,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+12080501,120805,1,,2,201,36,1,9220001,64,icon_island1,105719,100337,icon_island1,0.8
+12080502,120805,1,,2,301,36,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+12080503,120805,1,,2,101,36,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+12090201,120902,2,,,9220010,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_500000,
+12090202,120902,2,,,9220016,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1700030,
+12090203,120902,2,,,9220006,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900001,
+12090401,120904,3,,,1003013,500,1,,,icon_island7,Island Banner,,enhance_400300,
+12090402,120904,3,,,1003010,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+12090403,120904,3,,,1003003,500,1,,,icon_island7,Island Banner,,enhance_400300,
+12100301,121003,1,,5,201,39,1,9220004,160,icon_island1,105719,100337,icon_island1,1.6
+12100302,121003,1,,5,301,39,1,9220004,160,icon_island3,105717,100337,icon_island3,1.6
+12100303,121003,1,,5,101,39,1,9220004,160,icon_island2,105721,100337,icon_island2,1.6
+13010101,130102,1,1,5,301,39,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+13010102,130102,1,,4,101,39,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+13010103,130102,1,,4,201,39,1,9220001,64,icon_island1,105719,100337,icon_island5,0.8
+13010301,130104,1,1,5,301,39,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+13010302,130104,1,,4,101,39,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+13010303,130104,1,,4,201,39,1,9220001,64,icon_island1,105719,100337,icon_island5,0.8
+13020101,130201,2,,,9220007,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1900002,
+13020102,130201,2,,,9220016,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700030,
+13020103,130201,2,,,9220015,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700030,
+13020301,130203,2,,,9220017,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700039,
+13020302,130203,1,1,6,101,41,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+13020303,130203,1,1,6,201,41,1,9220002,80,icon_island1,105719,100337,icon_island5,0.96
+13020501,130205,2,,,9220019,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_2560001,
+13020502,130205,1,,5,101,41,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+13020503,130205,1,,5,201,41,1,9220001,64,icon_island1,105719,100337,icon_island5,0.8
+13030201,130302,3,,,1003002,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+13030202,130302,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+13030203,130302,3,,,1003019,500,1,,,icon_island7,Island Banner,,enhance_403500,
+13030401,130304,3,,,1003018,500,1,,,icon_island7,Island Banner,,enhance_403500,
+13030402,130304,3,,,1003016,500,1,,,icon_island7,Island Banner,,enhance_400400,
+13030403,130304,3,,,1003023,500,1,,,icon_island7,Island Banner,,enhance_403700,
+13040101,130401,3,,,1003011,500,1,,,icon_island7,Island Banner,,enhance_400300,
+13040102,130401,1,,6,301,44,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+13040103,130401,1,,6,101,44,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+13040301,130403,1,1,7,301,44,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+13040302,130403,1,1,7,101,44,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+13040303,130403,1,1,7,201,44,1,9220002,80,icon_island1,105719,100337,icon_island5,0.96
+13040501,130405,3,,,1003020,500,1,,,icon_island7,Island Banner,,enhance_403600,
+13040502,130405,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+13040503,130405,3,,,1003022,500,1,,,icon_island7,Island Banner,,enhance_403600,
+13050201,130502,1,,7,301,46,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+13050202,130502,1,,7,101,46,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+13050203,130502,1,,7,201,46,1,9220001,64,icon_island1,105719,100337,icon_island5,0.8
+13050401,130504,1,,7,301,46,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+13050402,130504,1,,7,101,46,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+13050403,130504,1,,7,201,46,1,9220001,64,icon_island1,105719,100337,icon_island5,0.8
+13060101,130601,2,,,9220017,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700039,
+13060102,130601,2,,,9220009,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700011,
+13060103,130601,2,,,9220009,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700011,
+13060301,130603,2,,,9220015,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700030,
+13060302,130603,3,,,1003029,500,1,,,icon_island7,Island Banner,,enhance_403900,
+13060303,130603,3,,,1003029,500,1,,,icon_island7,Island Banner,,enhance_403900,
+13060501,130605,3,,,1003015,500,1,,,icon_island7,Island Banner,,enhance_400400,
+13060502,130605,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+13060503,130605,3,,,1003008,,1,,,icon_island7,Island Banner,,enhance_400200,
+13070201,130702,1,1,9,301,48,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+13070202,130702,1,1,9,201,48,1,9220002,80,icon_island1,105719,100337,icon_island5,0.96
+13070203,130702,3,,,1003015,500,1,,,icon_island7,Island Banner,,enhance_400400,
+13070401,130704,1,,8,301,48,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+13070402,130704,1,,8,201,48,1,9220001,64,icon_island1,105719,100337,icon_island5,0.8
+13070403,130704,3,,,1003015,500,1,,,icon_island7,Island Banner,,enhance_400400,
+13080101,130801,1,1,10,301,51,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+13080102,130801,1,1,10,101,51,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+13080103,130801,1,1,10,201,51,1,9220002,80,icon_island1,105719,100337,icon_island5,0.96
+13080301,130803,1,1,10,301,51,1,9220002,80,icon_island3,105717,100337,icon_island3,0.96
+13080302,130803,1,1,10,101,51,1,9220002,80,icon_island2,105721,100337,icon_island2,0.96
+13080303,130803,1,1,10,201,51,1,9220002,80,icon_island1,105719,100337,icon_island5,0.96
+13080501,130805,1,,9,301,51,1,9220001,64,icon_island3,105717,100337,icon_island3,0.8
+13080502,130805,1,,9,101,51,1,9220001,64,icon_island2,105721,100337,icon_island2,0.8
+13080503,130805,1,,9,201,51,1,9220001,64,icon_island1,105719,100337,icon_island5,0.8
+13090201,130902,2,,,9220006,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1900001,
+13090202,130902,2,,,9220007,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1900002,
+13090203,130902,2,,,9220010,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_500000,
+13090401,130904,3,,,1003020,500,1,,,icon_island7,Island Banner,,enhance_403600,
+13090402,130904,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+13090403,130904,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+13100301,131003,1,,13,301,56,1,9220005,160,icon_island3,105717,100337,icon_island3,1.6
+13100302,131003,1,,13,101,56,1,9220005,160,icon_island2,105721,100337,icon_island2,1.6
+13100303,131003,1,,13,201,56,1,9220005,160,icon_island1,105719,100337,icon_island5,1.6
+31010101,310102,1,1,-2,101,11,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+31010102,310102,1,,-3,201,11,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+31010103,310102,1,,-3,301,11,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+31010301,310104,1,1,-2,101,11,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+31010302,310104,1,,-3,201,11,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+31010303,310104,1,,-3,301,11,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+31020101,310201,2,,,9220017,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700039,
+31020102,310201,2,,,9220010,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_500000,
+31020103,310201,2,,,9220006,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1900001,
+31020301,310203,2,,,9220015,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700030,
+31020302,310203,1,1,-1,201,15,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+31020303,310203,1,1,-1,301,15,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+31020501,310205,2,,,9220012,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_chouka1,
+31020502,310205,1,,-2,201,15,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+31020503,310205,1,,-2,301,15,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+31030201,310302,3,,,1003031,500,1,,,icon_island7,Island Banner,,enhance_403900,
+31030202,310302,3,,,1003011,500,1,,,icon_island7,Island Banner,,enhance_400300,
+31030203,310302,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+31030401,310304,3,,,1003023,500,1,,,icon_island7,Island Banner,,enhance_403700,
+31030402,310304,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+31030403,310304,3,,,1003029,500,1,,,icon_island7,Island Banner,,enhance_403900,
+31040101,310401,3,,,1003020,500,1,,,icon_island7,Island Banner,,enhance_403600,
+31040102,310401,1,,-1,101,18,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+31040103,310401,1,,-1,201,18,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+31040301,310403,1,1,0,101,18,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+31040302,310403,1,1,0,201,18,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+31040303,310403,1,1,0,301,18,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+31040501,310405,3,,,1003006,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+31040502,310405,3,,,1003007,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+31040503,310405,3,,,1003031,500,1,,,icon_island7,Island Banner,,enhance_403900,
+31050201,310502,1,,0,101,22,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+31050202,310502,1,,0,201,22,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+31050203,310502,1,,0,301,22,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+31050401,310504,1,,0,101,22,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+31050402,310504,1,,0,201,22,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+31050403,310504,1,,0,301,22,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+31060101,310601,2,,,9220013,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,ro_chip_4,
+31060102,310601,2,,,9220012,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_chouka1,
+31060103,310601,2,,,9220016,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700030,
+31060301,310603,2,,,9220015,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700030,
+31060302,310603,3,,,1003007,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+31060303,310603,3,,,1003002,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+31060501,310605,3,,,1003001,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+31060502,310605,3,,,1003010,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+31060503,310605,3,,,1003026,500,1,,,icon_island7,Island Banner,,enhance_403800,
+31070201,310702,1,1,2,101,26,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+31070202,310702,1,1,2,301,26,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+31070203,310702,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+31070401,310704,1,,1,101,26,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+31070402,310704,1,,1,301,26,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+31070403,310704,3,,,1003013,500,1,,,icon_island7,Island Banner,,enhance_400300,
+31080101,310801,1,1,2,101,30,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+31080102,310801,1,1,2,201,30,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+31080103,310801,1,1,2,301,30,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+31080301,310803,1,1,2,101,30,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+31080302,310803,1,1,2,201,30,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+31080303,310803,1,1,2,301,30,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+31080501,310805,1,,1,101,30,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+31080502,310805,1,,1,201,30,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+31080503,310805,1,,1,301,30,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+31090201,310902,2,,,9220018,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_2520001,
+31090202,310902,2,,,9220017,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1700039,
+31090203,310902,2,,,9220006,,1,,,icon_island4,Island Treasure,Dig to get mysterious treasure,item_1900001,
+31090401,310904,3,,,1003026,500,1,,,icon_island7,Island Banner,,enhance_403800,
+31090402,310904,3,,,1003030,500,1,,,icon_island7,Island Banner,,enhance_403900,
+31090403,310904,3,,,1003006,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+31100301,311003,1,,4,101,36,1,9220003,240,icon_island2,105721,100337,icon_island2,2.4
+31100302,311003,1,,4,201,36,1,9220003,240,icon_island1,105719,100337,icon_island1,2.4
+31100303,311003,1,,4,301,36,1,9220003,240,icon_island3,105717,100337,icon_island3,2.4
+32010101,320102,1,1,3,201,36,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+32010102,320102,1,,2,301,36,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+32010103,320102,1,,2,101,36,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+32010301,320104,1,1,3,201,36,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+32010302,320104,1,,2,301,36,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+32010303,320104,1,,2,101,36,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+32020101,320201,2,,,9220013,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,ro_chip_4,
+32020102,320201,2,,,9220007,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900002,
+32020103,320201,2,,,9220007,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900002,
+32020301,320203,2,,,9220006,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900001,
+32020302,320203,1,1,4,301,40,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+32020303,320203,1,1,4,101,40,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+32020501,320205,2,,,9220015,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1700030,
+32020502,320205,1,,3,301,40,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+32020503,320205,1,,3,101,40,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+32030201,320302,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+32030202,320302,3,,,1003030,500,1,,,icon_island7,Island Banner,,enhance_403900,
+32030203,320302,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+32030401,320304,3,,,1003003,500,1,,,icon_island7,Island Banner,,enhance_400300,
+32030402,320304,3,,,1003023,500,1,,,icon_island7,Island Banner,,enhance_403700,
+32030403,320304,3,,,1003030,500,1,,,icon_island7,Island Banner,,enhance_403900,
+32040101,320401,3,,,1003008,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+32040102,320401,1,,4,201,44,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+32040103,320401,1,,4,301,44,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+32040301,320403,1,1,5,201,44,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+32040302,320403,1,1,5,301,44,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+32040303,320403,1,1,5,101,44,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+32040501,320405,3,,,1003025,500,1,,,icon_island7,Island Banner,,enhance_403700,
+32040502,320405,3,,,1003018,500,1,,,icon_island7,Island Banner,,enhance_403500,
+32040503,320405,3,,,1003012,500,1,,,icon_island7,Island Banner,,enhance_400300,
+32050201,320502,1,,5,201,47,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+32050202,320502,1,,5,301,47,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+32050203,320502,1,,5,101,47,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+32050401,320504,1,,5,201,47,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+32050402,320504,1,,5,301,47,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+32050403,320504,1,,5,101,47,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+32060101,320601,2,,,9220010,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_500000,
+32060102,320601,2,,,9220011,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_510000,
+32060103,320601,2,,,9220013,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,ro_chip_4,
+32060301,320603,2,,,9220014,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_3200001,
+32060302,320603,3,,,1003028,500,1,,,icon_island7,Island Banner,,enhance_403800,
+32060303,320603,3,,,1003005,1000,1,,,icon_island7,Island Banner,,enhance_400100,
+32060501,320605,3,,,1003025,500,1,,,icon_island7,Island Banner,,enhance_403700,
+32060502,320605,3,,,1003013,500,1,,,icon_island7,Island Banner,,enhance_400300,
+32060503,320605,3,,,1003019,500,1,,,icon_island7,Island Banner,,enhance_403500,
+32070201,320702,1,1,7,201,51,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+32070202,320702,1,1,7,101,51,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+32070203,320702,3,,,1003011,500,1,,,icon_island7,Island Banner,,enhance_400300,
+32070401,320704,1,,6,201,51,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+32070402,320704,1,,6,101,51,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+32070403,320704,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+32080101,320801,1,1,7,201,54,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+32080102,320801,1,1,7,301,54,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+32080103,320801,1,1,7,101,54,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+32080301,320803,1,1,7,201,54,1,9220002,120,icon_island1,105719,100337,icon_island1,1.44
+32080302,320803,1,1,7,301,54,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+32080303,320803,1,1,7,101,54,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+32080501,320805,1,,6,201,54,1,9220001,96,icon_island1,105719,100337,icon_island1,1.2
+32080502,320805,1,,6,301,54,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+32080503,320805,1,,6,101,54,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+32090201,320902,2,,,9220010,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_500000,
+32090202,320902,2,,,9220016,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1700030,
+32090203,320902,2,,,9220006,,1,,,icon_island5,Island Treasure,Dig to get mysterious treasure,item_1900001,
+32090401,320904,3,,,1003013,500,1,,,icon_island7,Island Banner,,enhance_400300,
+32090402,320904,3,,,1003010,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+32090403,320904,3,,,1003003,500,1,,,icon_island7,Island Banner,,enhance_400300,
+32100301,321003,1,,9,201,58,1,9220004,240,icon_island1,105719,100337,icon_island1,2.4
+32100302,321003,1,,9,301,58,1,9220004,240,icon_island3,105717,100337,icon_island3,2.4
+32100303,321003,1,,9,101,58,1,9220004,240,icon_island2,105721,100337,icon_island2,2.4
+33010101,330102,1,1,9,301,58,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+33010102,330102,1,,8,101,58,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+33010103,330102,1,,8,201,58,1,9220001,96,icon_island1,105719,100337,icon_island5,1.2
+33010301,330104,1,1,9,301,58,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+33010302,330104,1,,8,101,58,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+33010303,330104,1,,8,201,58,1,9220001,96,icon_island1,105719,100337,icon_island5,1.2
+33020101,330201,2,,,9220007,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1900002,
+33020102,330201,2,,,9220016,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700030,
+33020103,330201,2,,,9220015,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700030,
+33020301,330203,2,,,9220017,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700039,
+33020302,330203,1,1,10,101,62,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+33020303,330203,1,1,10,201,62,1,9220002,120,icon_island1,105719,100337,icon_island5,1.44
+33020501,330205,2,,,9220019,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_2560001,
+33020502,330205,1,,9,101,62,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+33020503,330205,1,,9,201,62,1,9220001,96,icon_island1,105719,100337,icon_island5,1.2
+33030201,330302,3,,,1003002,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+33030202,330302,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+33030203,330302,3,,,1003019,500,1,,,icon_island7,Island Banner,,enhance_403500,
+33030401,330304,3,,,1003018,500,1,,,icon_island7,Island Banner,,enhance_403500,
+33030402,330304,3,,,1003016,500,1,,,icon_island7,Island Banner,,enhance_400400,
+33030403,330304,3,,,1003023,500,1,,,icon_island7,Island Banner,,enhance_403700,
+33040101,330401,3,,,1003011,500,1,,,icon_island7,Island Banner,,enhance_400300,
+33040102,330401,1,,10,301,65,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+33040103,330401,1,,10,101,65,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+33040301,330403,1,1,11,301,65,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+33040302,330403,1,1,11,101,65,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+33040303,330403,1,1,11,201,65,1,9220002,120,icon_island1,105719,100337,icon_island5,1.44
+33040501,330405,3,,,1003020,500,1,,,icon_island7,Island Banner,,enhance_403600,
+33040502,330405,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+33040503,330405,3,,,1003022,500,1,,,icon_island7,Island Banner,,enhance_403600,
+33050201,330502,1,,11,301,69,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+33050202,330502,1,,11,101,69,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+33050203,330502,1,,11,201,69,1,9220001,96,icon_island1,105719,100337,icon_island5,1.2
+33050401,330504,1,,11,301,69,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+33050402,330504,1,,11,101,69,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+33050403,330504,1,,11,201,69,1,9220001,96,icon_island1,105719,100337,icon_island5,1.2
+33060101,330601,2,,,9220017,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700039,
+33060102,330601,2,,,9220009,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700011,
+33060103,330601,2,,,9220009,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700011,
+33060301,330603,2,,,9220015,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1700030,
+33060302,330603,3,,,1003029,500,1,,,icon_island7,Island Banner,,enhance_403900,
+33060303,330603,3,,,1003029,500,1,,,icon_island7,Island Banner,,enhance_403900,
+33060501,330605,3,,,1003015,500,1,,,icon_island7,Island Banner,,enhance_400400,
+33060502,330605,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+33060503,330605,3,,,1003008,,1,,,icon_island7,Island Banner,,enhance_400200,
+33070201,330702,1,1,13,301,72,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+33070202,330702,1,1,13,201,72,1,9220002,120,icon_island1,105719,100337,icon_island5,1.44
+33070203,330702,3,,,1003015,500,1,,,icon_island7,Island Banner,,enhance_400400,
+33070401,330704,1,,12,301,72,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+33070402,330704,1,,12,201,72,1,9220001,96,icon_island1,105719,100337,icon_island5,1.2
+33070403,330704,3,,,1003015,500,1,,,icon_island7,Island Banner,,enhance_400400,
+33080101,330801,1,1,14,301,76,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+33080102,330801,1,1,14,101,76,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+33080103,330801,1,1,14,201,76,1,9220002,120,icon_island1,105719,100337,icon_island5,1.44
+33080301,330803,1,1,14,301,76,1,9220002,120,icon_island3,105717,100337,icon_island3,1.44
+33080302,330803,1,1,14,101,76,1,9220002,120,icon_island2,105721,100337,icon_island2,1.44
+33080303,330803,1,1,14,201,76,1,9220002,120,icon_island1,105719,100337,icon_island5,1.44
+33080501,330805,1,,13,301,76,1,9220001,96,icon_island3,105717,100337,icon_island3,1.2
+33080502,330805,1,,13,101,76,1,9220001,96,icon_island2,105721,100337,icon_island2,1.2
+33080503,330805,1,,13,201,76,1,9220001,96,icon_island1,105719,100337,icon_island5,1.2
+33090201,330902,2,,,9220006,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1900001,
+33090202,330902,2,,,9220007,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_1900002,
+33090203,330902,2,,,9220010,,1,,,icon_island6,Island Treasure,Dig to get mysterious treasure,item_500000,
+33090401,330904,3,,,1003020,500,1,,,icon_island7,Island Banner,,enhance_403600,
+33090402,330904,3,,,1003021,500,1,,,icon_island7,Island Banner,,enhance_403600,
+33090403,330904,3,,,1003009,1000,1,,,icon_island7,Island Banner,,enhance_400200,
+33100301,331003,1,,17,301,84,1,9220005,240,icon_island3,105717,100337,icon_island3,2.4
+33100302,331003,1,,17,101,84,1,9220005,240,icon_island2,105721,100337,icon_island2,2.4
+33100303,331003,1,,17,201,84,1,9220005,240,icon_island1,105719,100337,icon_island5,2.4

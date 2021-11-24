@@ -1,0 +1,44 @@
+id,channel,type,sub_name,text,sub_color,headline_weight,headline_life,news_source,dialog_show
+int,string,int,string,string,string,string,string,int,int
+1,1,1,Newcomer joined,104090,mark_AllianceRecord1,0,,0,0
+2,1,1,Member left,104091,mark_AllianceRecord1,0,,0,0
+3,1,1,New Leader,104092,mark_AllianceRecord4,100,100,0,0
+4,1,1,Rank change,104093,mark_AllianceRecord3,0,,0,0
+5,1,1,See you around,104094,mark_AllianceRecord2,0,,0,0
+6,1,1,Alliance Gift,107404,mark_AllianceRecord3,80,60,0,0
+7,1,1,Leadership election,{0} has replaced {1} as the new Alliance leader.,mark_AllianceRecord4,100,,0,0
+9,1,4,Construction begins,league_message_007,mark_AllianceRecord4,100,300,0,0
+10,1,4,Construction completed,{0} has been built.,mark_AllianceRecord3,100,,0,0
+11,1,3,Tech Upgrade,,mark_AllianceRecord3,0,,0,0
+12,1,1,Victory,{0} beat {1} ({2},{3}) in battle,mark_AllianceRecord5,0,,1,1
+13,1,1,Defeat,{0} was defeated by {1} ({2},{3}),mark_AllianceRecord5,0,,1,1
+14,1,2,Droid Summon,{0} summoned Alliance Droid ({1},{2}),mark_AllianceRecord4,100,300,0,0
+201,2,,throne_forecast_minute,Capital ConTest will start in {0} minutes. Please get ready.,,0,,0,0
+202,2,,throne_start,The Capital ConTest begins, and you can attack Ruins or the Capital in the middle of the World Map.,,0,,0,0
+203,2,,throne_forecast_day,Capital ConTest will start in {0} days. Please get ready.,,0,,0,0
+204,2,,throne_end,{0} protected {1}. Peace status is now active. {2} became the world leader.,,0,,0,0
+205,2,,throne_title,{0} appointed Commander {1} as {2},,0,,0,0
+206,2,,throne_name,{0} just changed the country name.,,0,,0,0
+207,2,,throne_text,{0} just updated the leader declaration.,,0,,0,0
+208,2,,throne_buff,{0} activated Warzone-wide bonus: {1}.,,0,,0,0
+209,2,,deploy_forcast,The round {0} supplies airdrop is about to begin.,,0,,0,0
+210,2,,deploy_round,Supply ConTest event will begin in {0} minutes. Please get ready.,,0,,0,0
+211,1,2,Droid Summon,monster_text_001,mark_AllianceRecord3,0,,0,0
+212,1,2,Droid Summon,monster_text_002,mark_AllianceRecord3,0,,0,0
+213,1,2,Droid Summon,monster_text_003,mark_AllianceRecord3,0,,0,0
+214,2,,deploy_start,Alliance {0} has obtained the supply and started shipping it to the Ruin.,,0,,0,0
+215,2,,deploy_end,Alliance {0} has delivered supplies to the Ruin.,,0,,0,0
+301,2,2,Treasure Guard,{2} found a large number of Basic treasure guards at ({0},{1})! Eliminate them!,mark_AllianceRecord3,0,,0,0
+302,2,2,Treasure Guard,{2} found a large number of Rare Treasure Guards at ({0},{1})! Eliminate them!,mark_AllianceRecord3,0,,0,0
+303,2,2,Treasure Guard,{2} found Treasure cave near ({0},{1})! Go empty it!,mark_AllianceRecord3,0,,0,0
+401,3,,groupline001,{0} invited {1} to join,,0,,0,0
+402,3,,groupline002,{0} has left the group chat,,0,,0,0
+403,3,,groupline003,{0} joins,,0,,0,0
+404,3,,groupline004,{0} modified the group chat name into {1},,0,,0,0
+216,1,,deploy_no_fort,{0} says: "Leader, we must take over ruins to be able to participate in the Supply ConTest!",,0,,0,0
+221,1,4,Teamwork,{0} placed {3} at coordinates ({1},{2}), come and build,mark_AllianceRecord3,100,300,0,1
+222,1,4,DEF Support,The {2} at ({0},{1}) is under attack, please help!,mark_AllianceRecord5,100,300,0,1
+15,1,1,Alliance created,{0} created the Alliance {1},mark_AllianceRecord4,100,300,0,0
+501,1,2,Attack Droid,The unstoppable {0} helped you in attacking the Alliance Droid and caused {1} damage.,mark_AllianceRecord5,0,,0,0
+502,3,2,Droid help,{1} from the Alliance {0} is requesting support for attacking the Droid ({2}).,mark_AllianceRecord3,100,300,0,0
+16,1,1,Appointment/removal,{0} appointed Commander {1} as {2},mark_AllianceRecord3,100,300,0,0

@@ -1,0 +1,6 @@
+id,anim,prefab,sale_btn,get_pram,fragments_number,name,desc,equip_buff,own_buff,ui_cell_offset,ui_main_offset,is_show,is_temporarily,plat,exclude,plat_show,time,endtime,timeType,order,duration
+int,string,string,int,int,int,string,string,string,string,string,string,int,int,string,int,int,string,string,int,int,float
+10000,B_20201030_qiancheng,teleport_effect_10000,0,,10,Golden Ring,The default teleport effect in Top War,,,0,0,1,0,,,,,,2,100,1.2
+10001,B_20201120_qiancheng02,teleport_effect_10001,2,500102,10,Light of Teleportation,Use it to be able to activate the "Light of Teleportation" base-teleport special effect,,,0,0,1,0,,,,,,2,3,0.75
+10002,B_20201120_qiancheng03,teleport_effect_10002,1,111910,10,Twisted Black Hole,Use it to be able to activate the "Twisted Black Hole" base-teleport special effect,,,0,0,1,0,,,,,,2,3,1.3
+10003,B_20201207_fengbao,teleport_effect_10003,1,2916371,10,39400003,Use it to be able to activate "The Blizzard" Teleport Effect,,,0,0,1,0,,,,,,2,4,2.3

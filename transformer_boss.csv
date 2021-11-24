@@ -1,0 +1,9 @@
+id,targetType,targetKey,target,rewardId
+int,int,string,double,int
+1,1,Total times you challenged Megatron,1.0,91077
+2,1,Total times you challenged Megatron,5.0,91078
+3,1,Total times you challenged Megatron,10.0,91079
+4,1,Total times you challenged Megatron,15.0,91080
+5,2,Total damage dealt to Megatron,10000000.0,91081
+6,2,Total damage dealt to Megatron,20000000000.0,91082
+7,2,Total damage dealt to Megatron,30000000000000.0,91083

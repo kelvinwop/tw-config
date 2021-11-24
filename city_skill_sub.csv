@@ -1,0 +1,6 @@
+id,status_id,state_value,overlying_count,lasting_time,target
+int,int,int,int,int,int
+1001,30006,4000,2,900,4
+1002,30007,2000,1,900,1
+1003,30008,3000,1,300,1
+1004,30009,3000,1,300,1

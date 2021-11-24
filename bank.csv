@@ -1,0 +1,6 @@
+id,activity_id,day,profit,min,max,is_lock,icon
+int,int,int,int,int,int,int,string
+1,1,1,5,100,2000,1,icon_ActivityInvest1
+2,1,7,5,100,2000,,icon_ActivityInvest2
+3,1,15,20,100,2000,,icon_ActivityInvest3
+4,1,30,50,100,2000,,icon_ActivityInvest4

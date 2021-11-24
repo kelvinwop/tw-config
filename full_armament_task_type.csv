@@ -1,0 +1,8 @@
+id,desc,desc1,rate
+int,string,string,double
+1,Defeat Dark Mech,Get 50 points,1.0
+2,Defeat Dark Guardian,Get 30 points,1.0
+3,Gather Food and Oil,1 point for every 5K resource gained,0.0002
+4,Defeat and demote enemy units from other servers,Get 0-50 points,1.0
+5,Donate units,Get 1-50 points,1.0
+6,Use training, repair and Perk Speed-up items,Speed-up every 2 minutes to get 1 point,0.5

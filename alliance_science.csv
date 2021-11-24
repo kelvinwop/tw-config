@@ -1,0 +1,259 @@
+id,tab,group_id,level,name,desc,type,parm1,parm2,parm3,unlock_condition,lvup_exp,lvup_cost,lvup_time,donation_exp,alliance_point,crit,crit_add_exp,crit_add_point,icon,alliance_coin
+int,int,int,int,string,string,int,int,int,int,string,int,string,int,int,int,int,int,int,string,int
+10100,1,10100,0,105150,105151,3,950003,0,-1,-1,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_1,320
+10101,1,10100,1,105150,105151,3,950003,10,-1,-1,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_1,320
+10102,1,10100,2,105150,105151,3,950003,25,-1,-1,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_1,320
+10103,1,10100,3,105150,105151,3,950003,40,-1,-1,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_1,320
+10104,1,10100,4,105150,105151,3,950003,55,-1,-1,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_1,320
+10105,1,10100,5,105150,105151,3,950003,70,-1,-1,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_1,320
+10106,1,10100,6,105150,105151,3,950003,95,-1,-1,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_1,320
+10107,1,10100,7,105150,105151,3,950003,120,-1,-1,0,1;0,0,0,0,0,200,200,image/alliance_science/alliance_science_1,320
+10200,1,10200,0,105152,105153,3,950001,0,-1,10100;1,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_2,320
+10201,1,10200,1,105152,105153,3,950001,100,-1,10100;1,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_2,320
+10202,1,10200,2,105152,105153,3,950001,300,-1,10100;1,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_2,320
+10203,1,10200,3,105152,105153,3,950001,500,-1,10100;1,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_2,320
+10204,1,10200,4,105152,105153,3,950001,700,-1,10100;1,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_2,320
+10205,1,10200,5,105152,105153,3,950001,900,-1,10100;1,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_2,320
+10206,1,10200,6,105152,105153,3,950001,1100,-1,10100;1,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_2,320
+10207,1,10200,7,105152,105153,3,950001,1300,-1,10100;1,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_2,320
+10208,1,10200,8,105152,105153,3,950001,1500,-1,10100;1,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_2,320
+10209,1,10200,9,105152,105153,3,950001,1700,-1,10100;1,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_2,320
+10210,1,10200,10,105152,105153,3,950001,1900,-1,10100;1,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_2,320
+10300,1,10300,0,105154,105155,3,920900,0,-1,10100;1,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_3,320
+10301,1,10300,1,105154,105155,3,920900,100,-1,10100;1,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_3,320
+10302,1,10300,2,105154,105155,3,920900,300,-1,10100;1,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_3,320
+10303,1,10300,3,105154,105155,3,920900,500,-1,10100;1,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_3,320
+10304,1,10300,4,105154,105155,3,920900,700,-1,10100;1,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_3,320
+10305,1,10300,5,105154,105155,3,920900,900,-1,10100;1,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_3,320
+10306,1,10300,6,105154,105155,3,920900,1100,-1,10100;1,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_3,320
+10307,1,10300,7,105154,105155,3,920900,1300,-1,10100;1,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_3,320
+10308,1,10300,8,105154,105155,3,920900,1500,-1,10100;1,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_3,320
+10309,1,10300,9,105154,105155,3,920900,1700,-1,10100;1,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_3,320
+10310,1,10300,10,105154,105155,3,920900,1900,-1,10100;1,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_3,320
+10311,1,10300,11,105154,105155,3,920900,2100,-1,10100;1,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_3,320
+10312,1,10300,12,105154,105155,3,920900,2300,-1,10100;1,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_3,320
+10313,1,10300,13,105154,105155,3,920900,2500,-1,10100;1,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_3,320
+10314,1,10300,14,105154,105155,3,920900,2700,-1,10100;1,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_3,320
+10400,1,10400,0,105156,104994,3,950002,0,-1,10100;1,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_4,320
+10401,1,10400,1,105156,104994,3,950002,100,-1,10100;1,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_4,320
+10402,1,10400,2,105156,104994,3,950002,300,-1,10100;1,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_4,320
+10403,1,10400,3,105156,104994,3,950002,500,-1,10100;1,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_4,320
+10404,1,10400,4,105156,104994,3,950002,700,-1,10100;1,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_4,320
+10405,1,10400,5,105156,104994,3,950002,900,-1,10100;1,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_4,320
+10406,1,10400,6,105156,104994,3,950002,1100,-1,10100;1,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_4,320
+10407,1,10400,7,105156,104994,3,950002,1300,-1,10100;1,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_4,320
+10408,1,10400,8,105156,104994,3,950002,1500,-1,10100;1,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_4,320
+10409,1,10400,9,105156,104994,3,950002,1700,-1,10100;1,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_4,320
+10410,1,10400,10,105156,104994,3,950002,1900,-1,10100;1,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_4,320
+10500,1,10500,0,Alliance Welfare,The Alliance Welfare is sent everyday from {hour:8}:00 (there could be a delay). Only Alliance members will be able to collect it.,5,0,0,-1,10100;1,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_504,320
+10501,1,10500,1,Alliance Welfare,The Alliance Welfare is sent everyday from {hour:8}:00 (there could be a delay). Only Alliance members will be able to collect it.,5,201,0,-1,10100;1,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_504,320
+10502,1,10500,2,Alliance Welfare,The Alliance Welfare is sent everyday from {hour:8}:00 (there could be a delay). Only Alliance members will be able to collect it.,5,202,0,-1,10100;1,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_504,320
+10503,1,10500,3,Alliance Welfare,The Alliance Welfare is sent everyday from {hour:8}:00 (there could be a delay). Only Alliance members will be able to collect it.,5,203,0,-1,10100;1,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_504,320
+10504,1,10500,4,Alliance Welfare,The Alliance Welfare is sent everyday from {hour:8}:00 (there could be a delay). Only Alliance members will be able to collect it.,5,204,0,-1,10100;1,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_504,320
+10505,1,10500,5,Alliance Welfare,The Alliance Welfare is sent everyday from {hour:8}:00 (there could be a delay). Only Alliance members will be able to collect it.,5,205,0,-1,10100;1,0,1;40000000,0,0,0,0,200,200,image/alliance_science/alliance_science_504,320
+10600,1,10600,0,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,0,-1,10200;3,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_501,320
+10601,1,10600,1,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,100,-1,10200;3,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_501,320
+10602,1,10600,2,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,250,-1,10200;3,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_501,320
+10603,1,10600,3,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,400,-1,10200;3,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_501,320
+10604,1,10600,4,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,550,-1,10200;3,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_501,320
+10605,1,10600,5,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,700,-1,10200;3,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_501,320
+10606,1,10600,6,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,850,-1,10200;3,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_501,320
+10607,1,10600,7,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,1000,-1,10200;3,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_501,320
+10608,1,10600,8,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,1150,-1,10200;3,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_501,320
+10609,1,10600,9,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,1300,-1,10200;3,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_501,320
+10610,1,10600,10,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,1450,-1,10200;3,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_501,320
+10611,1,10600,11,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,1600,-1,10200;3,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_501,320
+10612,1,10600,12,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,1750,-1,10200;3,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_501,320
+10613,1,10600,13,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,1900,-1,10200;3,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_501,320
+10614,1,10600,14,Firepower,Increase Attack for Alliance members within the Fortress Territory,3,1002001,2050,-1,10200;3,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_501,320
+10700,1,10700,0,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,0,-1,10300;3,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_502,320
+10701,1,10700,1,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,100,-1,10300;3,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_502,320
+10702,1,10700,2,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,250,-1,10300;3,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_502,320
+10703,1,10700,3,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,400,-1,10300;3,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_502,320
+10704,1,10700,4,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,550,-1,10300;3,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_502,320
+10705,1,10700,5,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,700,-1,10300;3,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_502,320
+10706,1,10700,6,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,850,-1,10300;3,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_502,320
+10707,1,10700,7,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,1000,-1,10300;3,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_502,320
+10708,1,10700,8,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,1150,-1,10300;3,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_502,320
+10709,1,10700,9,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,1300,-1,10300;3,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_502,320
+10710,1,10700,10,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,1450,-1,10300;3,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_502,320
+10711,1,10700,11,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,1600,-1,10300;3,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_502,320
+10712,1,10700,12,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,1750,-1,10300;3,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_502,320
+10713,1,10700,13,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,1900,-1,10300;3,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_502,320
+10714,1,10700,14,State Security,Increase HP for Alliance members within the Fortress Territory,3,1002002,2050,-1,10300;3,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_502,320
+10800,1,10800,0,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,0,-1,10500;3,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_503,320
+10801,1,10800,1,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,100,-1,10500;3,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_503,320
+10802,1,10800,2,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,250,-1,10500;3,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_503,320
+10803,1,10800,3,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,400,-1,10500;3,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_503,320
+10804,1,10800,4,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,550,-1,10500;3,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_503,320
+10805,1,10800,5,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,700,-1,10500;3,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_503,320
+10806,1,10800,6,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,850,-1,10500;3,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_503,320
+10807,1,10800,7,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,1000,-1,10500;3,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_503,320
+10808,1,10800,8,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,1150,-1,10500;3,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_503,320
+10809,1,10800,9,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,1300,-1,10500;3,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_503,320
+10810,1,10800,10,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,1450,-1,10500;3,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_503,320
+10811,1,10800,11,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,1600,-1,10500;3,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_503,320
+10812,1,10800,12,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,1750,-1,10500;3,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_503,320
+10813,1,10800,13,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,1900,-1,10500;3,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_503,320
+10814,1,10800,14,Load More,Increase troop load of gathering for the Alliance members within the Fort,3,1002003,2050,-1,10500;3,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_503,320
+10900,1,10900,0,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,0,-1,10200;5,10000,1;200000,1800,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10901,1,10900,1,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,300,-1,10200;5,60000,1;1000000,7200,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10902,1,10900,2,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,500,-1,10200;5,260000,1;4000000,18000,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10903,1,10900,3,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,700,-1,10200;5,760000,1;10000000,28800,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10904,1,10900,4,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,900,-1,10200;5,1760000,1;20000000,36000,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10905,1,10900,5,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,1100,-1,10200;5,3760000,1;40000000,43200,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10906,1,10900,6,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,1300,-1,10200;5,8760000,1;100000000,43200,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10907,1,10900,7,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,1500,-1,10200;5,18760000,1;200000000,43200,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10908,1,10900,8,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,1700,-1,10200;5,33760000,1;300000000,43200,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10909,1,10900,9,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,1900,-1,10200;5,53760000,1;400000000,43200,20,0,0,200,200,image/alliance_science/alliance_science_601,0
+10910,1,10900,10,Fast Combat,Increase marching speed to attack Dark Forces,3,960021,2100,-1,10200;5,0,1;0,0,0,0,0,200,200,image/alliance_science/alliance_science_601,0
+20100,2,20100,0,105157,105158,3,920800,0,-1,-1,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_5,320
+20101,2,20100,1,105157,105158,3,920800,300,-1,-1,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_5,320
+20102,2,20100,2,105157,105158,3,920800,500,-1,-1,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_5,320
+20103,2,20100,3,105157,105158,3,920800,700,-1,-1,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_5,320
+20104,2,20100,4,105157,105158,3,920800,900,-1,-1,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_5,320
+20105,2,20100,5,105157,105158,3,920800,1100,-1,-1,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_5,320
+20106,2,20100,6,105157,105158,3,920800,1300,-1,-1,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_5,320
+20107,2,20100,7,105157,105158,3,920800,1500,-1,-1,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_5,320
+20108,2,20100,8,105157,105158,3,920800,1700,-1,-1,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_5,320
+20109,2,20100,9,105157,105158,3,920800,1900,-1,-1,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_5,320
+20110,2,20100,10,105157,105158,3,920800,2100,-1,-1,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_5,320
+20200,2,20200,0,105159,105160,3,921002,0,-1,20100;3,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_6,320
+20201,2,20200,1,105159,105160,3,921002,300,-1,20100;3,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_6,320
+20202,2,20200,2,105159,105160,3,921002,500,-1,20100;3,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_6,320
+20203,2,20200,3,105159,105160,3,921002,700,-1,20100;3,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_6,320
+20204,2,20200,4,105159,105160,3,921002,900,-1,20100;3,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_6,320
+20205,2,20200,5,105159,105160,3,921002,1100,-1,20100;3,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_6,320
+20206,2,20200,6,105159,105160,3,921002,1300,-1,20100;3,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_6,320
+20207,2,20200,7,105159,105160,3,921002,1500,-1,20100;3,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_6,320
+20208,2,20200,8,105159,105160,3,921002,1700,-1,20100;3,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_6,320
+20209,2,20200,9,105159,105160,3,921002,1900,-1,20100;3,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_6,320
+20210,2,20200,10,105159,105160,3,921002,2100,-1,20100;3,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_6,320
+20300,2,20300,0,105161,105162,3,950004,0,-1,20200;3,2000000,1;40000000,1800,4000,50,0,200,200,image/alliance_science/alliance_science_7,320
+20301,2,20300,1,105161,105162,3,950004,20,-1,20200;3,5000000,1;100000000,7200,5000,50,0,200,200,image/alliance_science/alliance_science_7,320
+20302,2,20300,2,105161,105162,3,950004,40,-1,20200;3,10000000,1;200000000,18000,6660,50,0,200,200,image/alliance_science/alliance_science_7,320
+20303,2,20300,3,105161,105162,3,950004,60,-1,20200;3,15000000,1;300000000,28800,7500,50,0,200,200,image/alliance_science/alliance_science_7,320
+20304,2,20300,4,105161,105162,3,950004,80,-1,20200;3,20000000,1;400000000,36000,8000,50,0,200,200,image/alliance_science/alliance_science_7,320
+20305,2,20300,5,105161,105162,3,950004,100,-1,20200;3,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_7,320
+20400,2,20400,0,105163,105164,3,950005,0,-1,-1,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_8,320
+20401,2,20400,1,105163,105164,3,950005,100,-1,-1,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_8,320
+20402,2,20400,2,105163,105164,3,950005,250,-1,-1,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_8,320
+20403,2,20400,3,105163,105164,3,950005,400,-1,-1,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_8,320
+20404,2,20400,4,105163,105164,3,950005,550,-1,-1,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_8,320
+20405,2,20400,5,105163,105164,3,950005,700,-1,-1,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_8,320
+20406,2,20400,6,105163,105164,3,950005,850,-1,-1,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_8,320
+20407,2,20400,7,105163,105164,3,950005,1000,-1,-1,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_8,320
+20408,2,20400,8,105163,105164,3,950005,1150,-1,-1,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_8,320
+20409,2,20400,9,105163,105164,3,950005,1300,-1,-1,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_8,320
+20410,2,20400,10,105163,105164,3,950005,1450,-1,-1,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_8,320
+20411,2,20400,11,105163,105164,3,950005,1600,-1,-1,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_8,320
+20412,2,20400,12,105163,105164,3,950005,1750,-1,-1,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_8,320
+20413,2,20400,13,105163,105164,3,950005,1900,-1,-1,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_8,320
+20414,2,20400,14,105163,105164,3,950005,2050,-1,-1,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_8,320
+20500,2,20500,0,105165,105166,3,950006,0,-1,20400;3,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_9,320
+20501,2,20500,1,105165,105166,3,950006,100,-1,20400;3,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_9,320
+20502,2,20500,2,105165,105166,3,950006,250,-1,20400;3,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_9,320
+20503,2,20500,3,105165,105166,3,950006,400,-1,20400;3,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_9,320
+20504,2,20500,4,105165,105166,3,950006,550,-1,20400;3,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_9,320
+20505,2,20500,5,105165,105166,3,950006,700,-1,20400;3,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_9,320
+20506,2,20500,6,105165,105166,3,950006,850,-1,20400;3,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_9,320
+20507,2,20500,7,105165,105166,3,950006,1000,-1,20400;3,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_9,320
+20508,2,20500,8,105165,105166,3,950006,1150,-1,20400;3,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_9,320
+20509,2,20500,9,105165,105166,3,950006,1300,-1,20400;3,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_9,320
+20510,2,20500,10,105165,105166,3,950006,1450,-1,20400;3,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_9,320
+20511,2,20500,11,105165,105166,3,950006,1600,-1,20400;3,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_9,320
+20512,2,20500,12,105165,105166,3,950006,1750,-1,20400;3,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_9,320
+20513,2,20500,13,105165,105166,3,950006,1900,-1,20400;3,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_9,320
+20514,2,20500,14,105165,105166,3,950006,2050,-1,20400;3,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_9,320
+20600,2,20600,0,105167,105168,3,950007,0,-1,20500;3,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_10,320
+20601,2,20600,1,105167,105168,3,950007,100,-1,20500;3,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_10,320
+20602,2,20600,2,105167,105168,3,950007,250,-1,20500;3,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_10,320
+20603,2,20600,3,105167,105168,3,950007,400,-1,20500;3,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_10,320
+20604,2,20600,4,105167,105168,3,950007,550,-1,20500;3,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_10,320
+20605,2,20600,5,105167,105168,3,950007,700,-1,20500;3,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_10,320
+20606,2,20600,6,105167,105168,3,950007,850,-1,20500;3,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_10,320
+20607,2,20600,7,105167,105168,3,950007,1000,-1,20500;3,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_10,320
+20608,2,20600,8,105167,105168,3,950007,1150,-1,20500;3,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_10,320
+20609,2,20600,9,105167,105168,3,950007,1300,-1,20500;3,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_10,320
+20610,2,20600,10,105167,105168,3,950007,1450,-1,20500;3,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_10,320
+20611,2,20600,11,105167,105168,3,950007,1600,-1,20500;3,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_10,320
+20612,2,20600,12,105167,105168,3,950007,1750,-1,20500;3,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_10,320
+20613,2,20600,13,105167,105168,3,950007,1900,-1,20500;3,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_10,320
+20614,2,20600,14,105167,105168,3,950007,2050,-1,20500;3,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_10,320
+20700,2,20700,0,105169,105170,3,950008,0,-1,-1,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_11,320
+20701,2,20700,1,105169,105170,3,950008,100,-1,-1,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_11,320
+20702,2,20700,2,105169,105170,3,950008,250,-1,-1,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_11,320
+20703,2,20700,3,105169,105170,3,950008,400,-1,-1,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_11,320
+20704,2,20700,4,105169,105170,3,950008,550,-1,-1,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_11,320
+20705,2,20700,5,105169,105170,3,950008,700,-1,-1,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_11,320
+20706,2,20700,6,105169,105170,3,950008,850,-1,-1,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_11,320
+20707,2,20700,7,105169,105170,3,950008,1000,-1,-1,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_11,320
+20708,2,20700,8,105169,105170,3,950008,1150,-1,-1,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_11,320
+20709,2,20700,9,105169,105170,3,950008,1300,-1,-1,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_11,320
+20710,2,20700,10,105169,105170,3,950008,1450,-1,-1,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_11,320
+20711,2,20700,11,105169,105170,3,950008,1600,-1,-1,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_11,320
+20712,2,20700,12,105169,105170,3,950008,1750,-1,-1,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_11,320
+20713,2,20700,13,105169,105170,3,950008,1900,-1,-1,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_11,320
+20714,2,20700,14,105169,105170,3,950008,2050,-1,-1,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_11,320
+20800,2,20800,0,105171,105172,3,950009,0,-1,20700;3,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_12,320
+20801,2,20800,1,105171,105172,3,950009,100,-1,20700;3,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_12,320
+20802,2,20800,2,105171,105172,3,950009,250,-1,20700;3,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_12,320
+20803,2,20800,3,105171,105172,3,950009,400,-1,20700;3,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_12,320
+20804,2,20800,4,105171,105172,3,950009,550,-1,20700;3,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_12,320
+20805,2,20800,5,105171,105172,3,950009,700,-1,20700;3,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_12,320
+20806,2,20800,6,105171,105172,3,950009,850,-1,20700;3,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_12,320
+20807,2,20800,7,105171,105172,3,950009,1000,-1,20700;3,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_12,320
+20808,2,20800,8,105171,105172,3,950009,1150,-1,20700;3,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_12,320
+20809,2,20800,9,105171,105172,3,950009,1300,-1,20700;3,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_12,320
+20810,2,20800,10,105171,105172,3,950009,1450,-1,20700;3,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_12,320
+20811,2,20800,11,105171,105172,3,950009,1600,-1,20700;3,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_12,320
+20812,2,20800,12,105171,105172,3,950009,1750,-1,20700;3,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_12,320
+20813,2,20800,13,105171,105172,3,950009,1900,-1,20700;3,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_12,320
+20814,2,20800,14,105171,105172,3,950009,2050,-1,20700;3,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_12,320
+20900,2,20900,0,105173,105174,3,950010,0,-1,20800;3,10000,1;200000,1800,20,50,0,200,200,image/alliance_science/alliance_science_13,320
+20901,2,20900,1,105173,105174,3,950010,100,-1,20800;3,60000,1;1000000,7200,50,50,0,200,200,image/alliance_science/alliance_science_13,320
+20902,2,20900,2,105173,105174,3,950010,250,-1,20800;3,260000,1;4000000,18000,130,50,0,200,200,image/alliance_science/alliance_science_13,320
+20903,2,20900,3,105173,105174,3,950010,400,-1,20800;3,760000,1;10000000,28800,250,50,0,200,200,image/alliance_science/alliance_science_13,320
+20904,2,20900,4,105173,105174,3,950010,550,-1,20800;3,1760000,1;20000000,36000,400,50,0,200,200,image/alliance_science/alliance_science_13,320
+20905,2,20900,5,105173,105174,3,950010,700,-1,20800;3,3760000,1;40000000,43200,660,50,0,200,200,image/alliance_science/alliance_science_13,320
+20906,2,20900,6,105173,105174,3,950010,850,-1,20800;3,8760000,1;100000000,43200,1420,50,0,200,200,image/alliance_science/alliance_science_13,320
+20907,2,20900,7,105173,105174,3,950010,1000,-1,20800;3,18760000,1;200000000,43200,2500,50,0,200,200,image/alliance_science/alliance_science_13,320
+20908,2,20900,8,105173,105174,3,950010,1150,-1,20800;3,33760000,1;300000000,43200,3330,50,0,200,200,image/alliance_science/alliance_science_13,320
+20909,2,20900,9,105173,105174,3,950010,1300,-1,20800;3,53760000,1;400000000,43200,4000,50,0,200,200,image/alliance_science/alliance_science_13,320
+20910,2,20900,10,105173,105174,3,950010,1450,-1,20800;3,83060000,1;500000000,43200,4800,50,0,200,200,image/alliance_science/alliance_science_13,320
+20911,2,20900,11,105173,105174,3,950010,1600,-1,20800;3,108660000,1;600000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_13,320
+20912,2,20900,12,105173,105174,3,950010,1750,-1,20800;3,133600000,1;700000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_13,320
+20913,2,20900,13,105173,105174,3,950010,1900,-1,20800;3,161360000,1;800000000,43200,5000,50,0,200,200,image/alliance_science/alliance_science_13,320
+20914,2,20900,14,105173,105174,3,950010,2050,-1,20800;3,0,1;0,43200,0,50,0,200,200,image/alliance_science/alliance_science_13,320
+21000,2,21000,0,Super Reinforcement,Increases the max amount of reinforcement units allies could send.,3,950011,0,-1,20300;3,2000000,1;40000000,1800,4000,50,0,200,200,image/alliance_science/alliance_science_14,320
+21001,2,21000,1,Super Reinforcement,Increases the max amount of reinforcement units allies could send.,3,950011,20,-1,20300;3,5000000,1;100000000,7200,5000,50,0,200,200,image/alliance_science/alliance_science_14,320
+21002,2,21000,2,Super Reinforcement,Increases the max amount of reinforcement units allies could send.,3,950011,40,-1,20300;3,10000000,1;200000000,18000,6660,50,0,200,200,image/alliance_science/alliance_science_14,320
+21003,2,21000,3,Super Reinforcement,Increases the max amount of reinforcement units allies could send.,3,950011,60,-1,20300;3,15000000,1;300000000,28800,7500,50,0,200,200,image/alliance_science/alliance_science_14,320
+21004,2,21000,4,Super Reinforcement,Increases the max amount of reinforcement units allies could send.,3,950011,80,-1,20300;3,20000000,1;400000000,36000,8000,50,0,200,200,image/alliance_science/alliance_science_14,320
+21005,2,21000,5,Super Reinforcement,Increases the max amount of reinforcement units allies could send.,3,950011,100,-1,20300;3,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_14,320
+11000,1,11000,0,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,0,-1,10700;10,100000,1;200000,43200,20,50,0,200,200,image/alliance_science/alliance_science_15,320
+11001,1,11000,1,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,100,-1,10700;10,280000,1;1000000,43200,30,50,0,200,200,image/alliance_science/alliance_science_15,320
+11002,1,11000,2,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,200,-1,10700;10,580000,1;4000000,43200,40,50,0,200,200,image/alliance_science/alliance_science_15,320
+11003,1,11000,3,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,300,-1,10700;10,1050000,1;10000000,43200,50,50,0,200,200,image/alliance_science/alliance_science_15,320
+11004,1,11000,4,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,400,-1,10700;10,1800000,1;20000000,43200,60,50,0,200,200,image/alliance_science/alliance_science_15,320
+11005,1,11000,5,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,500,-1,10700;10,2900000,1;40000000,43200,70,50,0,200,200,image/alliance_science/alliance_science_15,320
+11006,1,11000,6,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,600,-1,10700;10,4500000,1;100000000,43200,80,50,0,200,200,image/alliance_science/alliance_science_15,320
+11007,1,11000,7,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,700,-1,10700;10,7000000,1;200000000,43200,90,50,0,200,200,image/alliance_science/alliance_science_15,320
+11008,1,11000,8,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,800,-1,10700;10,11000000,1;300000000,43200,100,50,0,200,200,image/alliance_science/alliance_science_15,320
+11009,1,11000,9,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,900,-1,10700;10,16000000,1;400000000,43200,100,50,0,200,200,image/alliance_science/alliance_science_15,320
+11010,1,11000,10,Ally Discount,Reduced prices of items sold in the Alliance Store,3,990126,1000,-1,10700;10,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_15,320
+11100,1,11100,0,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,0,-1,10800;10,100000,1;200000,43200,20,50,0,200,200,image/alliance_science/alliance_science_16,320
+11101,1,11100,1,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,100,-1,10800;10,280000,1;1000000,43200,30,50,0,200,200,image/alliance_science/alliance_science_16,320
+11102,1,11100,2,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,200,-1,10800;10,580000,1;4000000,43200,40,50,0,200,200,image/alliance_science/alliance_science_16,320
+11103,1,11100,3,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,300,-1,10800;10,1050000,1;10000000,43200,50,50,0,200,200,image/alliance_science/alliance_science_16,320
+11104,1,11100,4,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,400,-1,10800;10,1800000,1;20000000,43200,60,50,0,200,200,image/alliance_science/alliance_science_16,320
+11105,1,11100,5,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,500,-1,10800;10,2900000,1;40000000,43200,70,50,0,200,200,image/alliance_science/alliance_science_16,320
+11106,1,11100,6,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,600,-1,10800;10,4500000,1;100000000,43200,80,50,0,200,200,image/alliance_science/alliance_science_16,320
+11107,1,11100,7,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,700,-1,10800;10,7000000,1;200000000,43200,90,50,0,200,200,image/alliance_science/alliance_science_16,320
+11108,1,11100,8,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,800,-1,10800;10,11000000,1;300000000,43200,100,50,0,200,200,image/alliance_science/alliance_science_16,320
+11109,1,11100,9,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,900,-1,10800;10,16000000,1;400000000,43200,100,50,0,200,200,image/alliance_science/alliance_science_16,320
+11110,1,11100,10,The Most Wanted,Increased Military Tickets gained from Reward Quest,3,990127,1000,-1,10800;10,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_16,320
+11200,1,11200,0,The New Era of Glory,Unlock a new Alliance badge,4,0,0,-1,11000;5,12000000,1;200000,86400,20,50,0,200,200,image/alliance_science/alliance_science_17,320
+11201,1,11200,1,The New Era of Glory,Unlock a new Alliance badge,4,0,1,-1,11000;5,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_17,320
+11300,1,11300,0,Territorial Expansion,Expand the territory of the Alliance Fortress,3,990128,0,-1,11100;5,12000000,1;200000,86400,20,50,0,200,200,image/alliance_science/alliance_science_18,320
+11301,1,11300,1,Territorial Expansion,Expand the territory of the Alliance Fortress,3,990128,1,-1,11100;5,0,1;0,0,0,50,0,200,200,image/alliance_science/alliance_science_18,320

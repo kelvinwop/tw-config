@@ -1,0 +1,10 @@
+id,type,function_id,desc
+int,int,int,string
+997,1,1780000,Buff for you and allies in your Aura: All units ATK bonus +40% and you (only) ATK Bonus +20% to all units. Lasts 15 minutes
+998,1,1778000,March Size +10, lasts 30 minutes
+999,1,1775000,Buff for you and your Allies in your Aura: All units ATK Bonus +30%. Buff for you (only): All units HP Bonus +30%. Lasts for 10 minutes.
+1000,1,1765000,All units 30.0% DMG Increase, lasts for 3 minutes.
+1001,1,1768000,Randomly get 1~3 Relics in the Deep chests
+1002,1,1771000,Virtuous Flower (both players): 1
+1003,1,1772000,Loving Heart (both players): 1
+1004,1,1773000,Obtain Heart of Flames: 1

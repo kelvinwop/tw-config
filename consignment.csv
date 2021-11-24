@@ -1,0 +1,5 @@
+id,item_id,percentage,Low_price,high_price
+int,int,int,int,int
+1,1700092,10,100,1000
+2,1700073,20,500,2000
+3,1700074,30,500,2000

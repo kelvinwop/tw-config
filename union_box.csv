@@ -1,0 +1,16 @@
+id,exp,key,desc,icon,reward,type,order
+int,int,int,string,string,int,int,int
+100,3,3,Common Alliance Gift,alliance_union_box_1,900201,1,0
+101,3,3,Common Alliance Gift,alliance_union_box_1,900201,1,0
+102,20,20,Premium Alliance Gift,alliance_union_box_2,900202,2,0
+103,40,40,Rare Alliance Gift,alliance_union_box_2,900203,2,0
+104,100,100,Extraordinary Alliance Gift,alliance_union_box_3,900204,2,0
+105,200,200,Traditional Alliance Gift,alliance_union_box_4,900205,2,0
+106,450,450,Mythical Alliance Gift,alliance_union_box_5,900206,2,0
+107,1200,1200,Epic Alliance Gift,alliance_union_box_6,900207,2,0
+108,2500,2500,Legendary Alliance Gift,alliance_union_box_7,900208,2,0
+201,1,1,Welfare - Regular,alliance_union_box_1,8301601,1,11
+202,1,1,Welfare - Premium,alliance_union_box_2,8301602,1,12
+203,1,1,Welfare - Exquisite,alliance_union_box_2,8301603,1,13
+204,1,1,Welfare - Great,alliance_union_box_3,8301604,1,14
+205,1,1,Welfare - Luxury,alliance_union_box_4,8301605,1,15

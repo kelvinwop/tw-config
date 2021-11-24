@@ -1,0 +1,17 @@
+id,chapter_name,chapter_desc,chapter_type,reward,stage,treasure_unlock,item_display,is_guide,guide_para
+int,string,string,int,int,int,string,int,int,int
+1,Forefront,The Dark Legion is raging. Freedom League has requested you command the Island Campaign: free up some space on the beach side and build a Frontline Base. Let's keep the flag flying high!,1,9500401,,,,0,0
+2,Regain the Lost Base,Whew. The Dark Legion is gone for now. Let's take back our Base and get ready to rebuild it! We've got to rescue the engineer!,1,9500402,,,,0,0
+3,Upgrade the Equips,The frontline report says the Dark Legion's armored forces were overwhelming. We could not send more armies in such a short time. We need to improve the power of the troops there.,1,9500403,,,,0,0
+4,The Power of Science,The base looks as good as new! Everything is going well so far. We need to put our focus on developing techs. Rumor has it that the Dark Legion studied from an alien civilization. Whether it is true or not, science is our most powerful weapon!,1,9500404,,,,0,0
+5,Stronger Troops,Under your command, we had a major breakthrough in science and technology: forces are fully mechanized! We may have narrowed the gap with the Dark Legion.,1,9500405,,,,6301,8500
+6,Call of Duty,The situation has been stable for days, and our training is highly effective. Expand our territory and eliminate the Dark Legion. This is the goal we need to focus on.,1,9500406,,85000|80009,20200730,0,0
+7,You Are Not Alone,The evil Dark Legion has always wanted to enslave every person in this world. We could unite those free souls to form an alliance, help each other, and fight together!,2,0,100,85000|80008,,0,0
+8,Challenge of Warhammer,The rumors about the Dark Legion's Alien Tech could be true: Warhammer-4K can target the weaknesses of our equips. We need to enhance the components and unite all allies to face the challenge together.,1,9500408,,,,0,0
+9,Heroes Assembled,We are not alone. We've got fellows like us fighting against the Dark Legion. Our victory is a great opportunity to recruit heroes to join us.,1,9500409,,,,0,0
+10,Top Secret,This is absurd! The Warhammer has become a tough enemy, we've got to find the Alien Tech by defeating as many Warhammers as possible to analyze their technology.,2,0,100,85000|80002,,0,0
+11,The Remnants,The Dark Legion is still conducting military activities around our base. They are onto something big. Eliminate those remnants and stop them!,1,9500411,,,,0,0
+12,Code: Blitz,Great job, commander! You may notice that the base could become very crowded from time to time. Develop techs and merge units to free up space. Let's show them the Blitz spirit!,1,9500412,,,,0,0
+13,Type Effectiveness,The theory proposed by the operations officer is constructive. A strategic plan can greatly improve the performance of all forces. We need to focus on different types of units for a better combat result.,1,9500413,,85000|80007,20200730,0,0
+14,Into The Deep,Expansion brings with it risks: we'll be dead soon enough if the Dark Legion attack from the sea. Now you need to set your sights on the vast ocean. The top priority is to build a powerful navy fleet!,1,9500414,,,,0,0
+15,A New Focus,According to the information gathered, Dark Legion's base is located in a remote area. To better cooperate with our allies, please decide which should we focus on, Offense or Defense?,2,0,100,85000|80005,,6401,0

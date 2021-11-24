@@ -1,0 +1,7 @@
+id,mission_name,condition,condition_id,condition_num,icon,star,guide_id
+int,string,int,int,double,string,int,int
+101101,alliance_task_name101101,401,0,50.0,task_jianzao,1,0
+101102,alliance_task_name101102,402,0,50.0,task_jianzao,2,1000
+101103,alliance_task_name101103,405,0,500.0,task_jianzao,3,3401
+101104,alliance_task_name101104,406,0,1.0,task_jianzao,4,3201
+101105,alliance_task_name101105,403,0,1000000000000000.0,task_jianzao,5,0

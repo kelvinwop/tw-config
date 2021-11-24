@@ -1,0 +1,9 @@
+id,lang,buttons,link,Reward
+int,string,string,string,string
+1,common,facebook|twitter|discord,https://www.facebook.com/Topwarbattlegame/|https://twitter.com/TBattlegame|https://discord.gg/6GDjHbA3qj,11024|11025|11026
+2,jp,facebook|twitter|discord|lobi,https://www.facebook.com/Topwarjp|https://twitter.com/TopWar_JP|https://discord.gg/6GDjHbA3qj|https://web.lobi.co/game/topwar,11024|11025|11026|11028
+3,ru,instagram|vkapp|discord,https://www.instagram.com/topwarru/|https://vk.com/topwarru|https://discord.gg/6GDjHbA3qj,11030|11027|11026
+4,de,facebook|twitter|discord,https://www.facebook.com/Top-War-Deustchland-106544760911123/|https://twitter.com/TBattlegame|https://discord.gg/6GDjHbA3qj,11024|11025|11026
+5,zh_tw,facebook|twitter|discord,https://www.facebook.com/TopwarTraditionalChinese/|https://twitter.com/TBattlegame|https://discord.gg/6GDjHbA3qj,11024|11025|11026
+6,ko,cafe|discord,https://cafe.naver.com/topwarofficial|https://discord.gg/6GDjHbA3qj,11029|11026
+7,ar,facebook|twitter|discord,https://www.facebook.com/topwarbattlegamear|https://twitter.com/TopWar_AR|https://discord.gg/6GDjHbA3qj,11024|11025|11026

@@ -1,0 +1,12 @@
+id,type,desc,targetTypeTittle,target,target1,rewardId
+int,int,string,string,string,string,int
+950001,2,Donate soldiers to get {0} points,Advance Force I,5,,8300021
+950002,2,Donate soldiers to get {0} points,Advance Force II,15,,8300022
+950003,2,Donate soldiers to get {0} points,Advance Force III,30,,8300023
+950004,2,Donate soldiers to get {0} points,Advance Force IV,80,,8300024
+950005,2,Donate soldiers to get {0} points,Advance Force V,150,,8300025
+960001,3,Participate in defeating {0} Warhammer-4K,Clear the Enemy I,10,5,8300031
+960002,3,Participate in defeating {0} Warhammer-4K,Clear the Enemy II,20,5,8300032
+960003,3,Participate in defeating {0} Warhammer-4K,Clear the Enemy III,50,5,8300033
+960004,3,Participate in defeating {0} Warhammer-4K,Clear the Enemy IV,100,5,8300034
+960005,3,Participate in defeating {0} Warhammer-4K,Clear the Enemy V,200,5,8300035

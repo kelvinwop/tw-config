@@ -1,0 +1,13 @@
+id,level,name,icon,next_level_mission,next_level_money,mission_quality,next_military
+int,int,string,string,string,double,string,int
+1301,1,New Recruit,military_icon_01,1|5,50.0,1,2,1302
+1302,2,Private 1,military_icon_02,2|8,200.0,1,2,1303
+1303,3,Private 2,military_icon_03,2|12,300.0,1,2,3,1304
+1304,4,Private First Class,military_icon_04,3|15,500.0,2,3,1305
+1305,5,Corporal,military_icon_05,3|30,1500.0,2,3,4,1306
+1306,6,Sergeant,military_icon_06,3|50,2500.0,3,4,5,1307
+1307,7,Staff Sergeant,military_icon_07,4|30,4000.0,3,4,5,1308
+1308,8,Major,military_icon_08,4|50,6000.0,3,4,5,1309
+1309,9,Lieutenant Colonel,military_icon_09,5|60,8000.0,4,5,6,1310
+1310,10,Brigadier General,military_icon_10,6|40,12000.0,4,5,6,1311
+1311,11,Major General,military_icon_11,,,4,5,6,0

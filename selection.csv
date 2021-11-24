@@ -1,0 +1,8 @@
+id,name,detail,icon,position,type,branch,building,special_open,career_icon
+int,string,string,string,string,int,int,int,int,string
+52001,Combat Elite,Combat Elites can study helpful combat skills, like the Mass Rally. After reaching the max level, you can promote to specialized classes including the Tactical Master and Grand Marshal,1001304|1002304|1001704|1002402,1,1,,3201,1003002,professional_icon01
+53001,Mechanical\nMaster,Mechanical Masters can study the Resource Facility skill, which enables you to build resource tiles on the map. After reaching the max level, you can promote to specialized classes including the Great Scientist and the Legendary Craftsman,1011304|1012201|1012301|1012401,1,1,,3301,1013202,professional_icon02
+52002,Grand Marshal,This is a combat class with helpful skills including sending 3 heroes to battle, boosting hero development, improving hero attributes, and others,1112002|1116002|1117002|1118002,1,2,52001,3201,1003002,professional_icon03
+52003,Tactical Master,This is a combat class with helpful skills including boosting soldier's attributes, training super soldiers, and others,1212002|1216002|1217002|1218002,1,2,52001,3201,1003002,professional_icon04
+53002,Legendary Craftsman,This is a support class with helpful skills including building a Strengthening building, building stronger resource gathering facilities, and others,1301006|1305001|1306001|1310001,1,2,53001,3301,1013202,professional_icon05
+53003,Great Scientist,This is a support-type class with helpful skills including greatly boosting members of your attack party, boosting your development, increasing your ability to gather resources, and others,1405004|1413004|1414004|1415004,1,2,53001,3301,1013202,professional_icon06

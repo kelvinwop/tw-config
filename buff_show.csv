@@ -1,0 +1,13 @@
+id,type,prefab,component,para,spell_effect,islow
+int,int,string,string,string,string,int
+1,2,B_20210108_hudun,BuffHudunComponent,1,,
+2,3,Effect_skill_hudun,,,,
+3,1,Effect_skill_duanlu,,,,
+4,1,Effect_skill_shanshao,,,,
+6,1,B_20210311_MX02,,,,
+7,1,B_20210311_MX03,,,,
+8,1,Effect_skill_hudun,,,,
+9,1,B_20210513_jianruo02,,,,
+10,1,B_20210715_qingtianzhu_dun|B_20210715_qingtianzhu_dun02,,,B_20210715_qingtianzhu_Z|B_20210715_qingtianzhu_Z|3|1,1
+11,1,,,,B_20210715_qingtianzhu_B|B_20210715_qingtianzhu_B|3|1,
+12,1,B_20210901_huaban_xia|B_20210901_huaban_shang,,,,

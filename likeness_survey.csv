@@ -1,0 +1,4 @@
+id,key_title,key_content,level,pic,time
+int,string,string,string,string,int
+1,,Commander, how's the readability of the English in Top War?,30|55|70|80,translation_pic02,7200
+2,,Next, please rate your satisfaction with the translation function in chats.,30|55|70|80,translation_pic02,7200

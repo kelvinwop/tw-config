@@ -1,0 +1,2 @@
+id,name,combination,stars,active_skill,platform_on
+int,string,string,int,int,string
