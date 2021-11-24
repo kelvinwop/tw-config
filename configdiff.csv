@@ -20,3 +20,4 @@ int,string,string,string,string,string,string
 19,1,g123,G123,data_config,21090102,value,900000|900001|900002|900003|900013,_g123
 22,1,g123,G123,item,20120219,icon,*_g123
 23,1,g123,G123,emoji,53,path,*_g123
+24,2,zh_cn,jp,ja,ko,data_config,21090103,value,5005037,_ba

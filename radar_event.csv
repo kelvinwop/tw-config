@@ -886,3 +886,6 @@ int,int,int,string,int,int,int,string,string,string,string,int,double,string,int
 5078,5,208,10035,258384,80,80,Kill Dark Forces,radarevent_task,,radarevent_task_world,,2.5,,,,,,,,
 5079,5,208,10035,258385,80,80,Kill Dark Forces,radarevent_task,,radarevent_task_world,,2.5,,,,,,,,
 5080,5,208,10035,258386,80,80,Kill Dark Forces,radarevent_task,,radarevent_task_world,,2.5,,,,,,,,
+2000,0,209,100000,941213,80,80,Join Alliance,radarevent_task,,radarevent_task_world,,1.0,rescue_icon_wrold,11,2,2,9,80,,radarevent_league_new,The radar detected a mysterious signal!
+2001,0,209,100001,941214,80,80,Donate to Alliance Tech,radarevent_task,,radarevent_task_world,,1.0,rescue_icon_wrold,11,3,2,9,80,,radarevent_league_01,The signal is becoming stronger!
+2002,0,205,100002,941215,80,80,Code X,radarevent_task,,radarevent_task_world,,1.0,rescue_icon_wrold,11,1,2,9,80,2029-09-19 10:45:00,radarevent_save,SOS

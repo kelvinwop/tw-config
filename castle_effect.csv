@@ -31,4 +31,5 @@ int,string,string,string,int,int,int,string,string,string,string,string,string,s
 33,Castle_Effect_33_anim,,Castle_Effect_33_pic,,,10,Ice Cube,castle_effectdesc033,930000,500,930300,200,0,20,1,,40,0,1,,0,0,1,0,0,1,1,1,,,,,,2,,,,31,
 34,Castle_Effect_34_anim,,Castle_Effect_34_pic,,,10,Splendid Galaxy,castle_effectdesc034,930100,500,960012,1,0,20,1,,40,0,1,,0,0,1,0,0,1,1,1,,,,,,2,,,,32,
 35,Castle_Effect_35_anim,,Castle_Effect_35_pic,,,10,Spectacular Strike,castle_effectdesc035,930100,500,930100,300|930200,200,0,20,1,,40,0,1,,0,0,1,0,0,1,1,1,,,,,,2,,,,33,
-36,Castle_Effect_36_anim,,Castle_Effect_36_pic,,,10,Swirling Sparks,castle_effectdesc036,930100,500,1130010,100|1001002,200,0,20,1,,40,0,1,,0,0,1,0,0,1,1,1,,,,2021-10-11-0-0-0,2029-08-25-23-59-59,1,,,,-1,
+36,Castle_Effect_36_anim,,Castle_Effect_36_pic,,,10,Swirling Sparks,castle_effectdesc036,930100,500,1130010,100|1001002,200,0,20,1,,40,0,1,,0,0,1,0,0,1,1,1,,,,2021-10-11-0-0-0,2029-08-25-23-59-59,1,,,,34,
+37,Castle_Effect_37_anim,,Castle_Effect_37_pic,,,10,Energy Fountain,castle_effectdesc037,930100,500,1130011,100|930300,100,0,20,1,,40,0,1,,0,0,1,0,0,1,1,1,,,,2021-11-12-0-0-0,2029-8-19-23-59-59,1,,,,-1,

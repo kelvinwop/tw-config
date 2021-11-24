@@ -99,7 +99,7 @@ int,string,string,string,string,string,string
 97,Attack Dark Forces and Warhammer-4K on the World Map to get Missiles,g123_Newyear_replace_097,,,2020-12-31-23-0-0,2021-1-7-23-59-59
 98,activitydesc_500057,g123_Newyear_replace_098,,,2020-12-31-23-0-0,2021-1-7-23-59-59
 99,Reduces VIT cost when attacking Dark Legion, Warhammer and Heartthrob, and increases Troop's ATK Bonus against them.,g123_Newyear_replace_099,,,2020-12-31-23-0-0,2021-1-7-23-59-59
-100,Reduces VIT cost by 2 when attacking Dark Legion, Warhammer and Love POP, and increases Troop's ATK Bonus by {1}% against those enemies.,g123_Newyear_replace_100,,,2020-12-31-23-0-0,2021-1-7-23-59-59
+100,Reduces VIT cost by 2 when attacking Dark Legion, Warhammer and Hearththrob, and increases Troop's ATK Bonus by {1}% against those enemies.,g123_Newyear_replace_100,,,2020-12-31-23-0-0,2021-1-7-23-59-59
 101,Themes are randomly picked from the following activities: \n1. Gold Matters: consume Gold to earn points. \n2. Train Hard - Train units to earn points. \n3. Defeat Warhammers - Defeat Warhammers to earn points (1pt for members - up to 50pts. 2pts for the lead). \n4. Defeat Dark Legion - Defeat Dark Legion enemies to earn points. \n5. Gather Resources - Gather specific amount of resources. \n6. Improve CP - Increase your Combat Power. \n7. Defeat Opponents - Defeat rival commanders and their units to earn points.,g123_Newyear_replace_101,,,2020-12-31-23-0-0,2021-1-7-23-59-59
 102,When we attack, there's a chance to attack three extra enemy units. If our troops defend any building, the DMG of the opponents is reduced when being hit by this skill7,g123_Newyear_replace_102,,,2020-12-31-23-0-0,2021-1-7-23-59-59
 103,skill_desc11117,g123_Newyear_replace_103,,,2020-12-31-23-0-0,2021-1-7-23-59-59
@@ -161,11 +161,11 @@ int,string,string,string,string,string,string
 159,g123_tutorial_name_02,,,フレイア,2021-5-6-0-0-0,2021-5-19-23-59-59
 160,g123_tutorial_name_03,,,フレイア,2021-5-6-0-0-0,2021-5-19-23-59-59
 161,g123_tutorial_name_04,,,フレイア,2021-5-6-0-0-0,2021-5-19-23-59-59
-162,Marshal - World Boss,g123_link_worldboss,,,2021-10-5-0-0-0,2021-10-24-23-59-59
-163,Admiral - World Boss,g123_link_worldboss,,,2021-10-5-0-0-0,2021-10-24-23-59-59
-164,General - World Boss,g123_link_worldboss,,,2021-10-5-0-0-0,2021-10-24-23-59-59
-165,107261,g123_link_worldboss,,,2021-10-5-0-0-0,2021-10-24-23-59-59
-166,107262,g123_link_worldboss_des_1,,,2021-10-5-0-0-0,2021-10-24-23-59-59
-167,The Marshal of the Dark Army riding on a deadly warbot. Defeat him to get Component Chests.,g123_link_worldboss_des_2,,,2021-10-5-0-0-0,2021-10-24-23-59-59
-168,The Admiral of the Dark Navy riding on a deadly warbot. Defeat him to get Component Chests.,g123_link_worldboss_des_3,,,2021-10-5-0-0-0,2021-10-24-23-59-59
-169,The General of the Dark Air Force riding on a deadly warbot. Defeat him to get Component Chests.,g123_link_worldboss_des_4,,,2021-10-5-0-0-0,2021-10-24-23-59-59
+162,Marshal - World Boss,g123_link_worldboss,,,2021-11-11-0-0-0,2021-11-24-23-59-59
+163,Admiral - World Boss,g123_link_worldboss,,,2021-11-11-0-0-0,2021-11-24-23-59-59
+164,General - World Boss,g123_link_worldboss,,,2021-11-11-0-0-0,2021-11-24-23-59-59
+165,107261,g123_link_worldboss,,,2021-11-11-0-0-0,2021-11-24-23-59-59
+166,107262,g123_link_worldboss_des_1,,,2021-11-11-0-0-0,2021-11-24-23-59-59
+167,The Marshal of the Dark Army riding on a deadly warbot. Defeat him to get Component Chests.,g123_link_worldboss_des_2,,,2021-11-11-0-0-0,2021-11-24-23-59-59
+168,The Admiral of the Dark Navy riding on a deadly warbot. Defeat him to get Component Chests.,g123_link_worldboss_des_3,,,2021-11-11-0-0-0,2021-11-24-23-59-59
+169,The General of the Dark Air Force riding on a deadly warbot. Defeat him to get Component Chests.,g123_link_worldboss_des_4,,,2021-11-11-0-0-0,2021-11-24-23-59-59

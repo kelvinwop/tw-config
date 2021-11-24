@@ -227,3 +227,6 @@ int,int,string,int,string,string,int,string,int,int,int,string,string,string,int
 10036,0,0,0,257014,300001|310001|323001,,0,0,,10,Rescue Mission,,Tap to view mission details,
 10206,0,0,0,,,,0,0,,10,Individual Commission,,You discovered one of the Dark Legion's secret bases. Cut off the power supply to see what happens.,
 10207,0,0,0,,,,0,0,,10,Individual Commission,,The Dark Legion is onto something... Enter the correct code to disarm the bomb.,
+100000,501,,1,257014,300001|310001|323001,,0,0,,,,,Team work is better than fighting alone!\nJoin an alliance and develop the server with your friends!,3601
+100001,502,,1,257014,300001|310001|323001,,0,0,,,,,Commander, each member is responsible for contributing to the Alliance!\nPlease make a donation to the alliance!,61000
+100002,0,,1,257014,300001|310001|323001,,0,0,,,,,A "mysterious signal" from an unidentified source. We should check what's going on there...,

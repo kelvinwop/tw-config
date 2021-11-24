@@ -365,7 +365,7 @@ int,string,string
 40007,turn_card_guide_time,5
 40008,turn_card_bottom_count,180
 32001,kill_monster_para,5
-41001,charge_app_reward_cost_limit,1500000
+41001,charge_app_reward_cost_limit,30
 41002,charge_app_reward,5900002
 41003,charge_app_mail,10001
 11111,gou_unlock,3
@@ -1083,7 +1083,7 @@ int,string,string
 133112,app_update_time,2
 1017,hero_fixed_attribute_para,50000
 930301,heroskill_exclusion_id,1402|116|21402|20630
-930131,herospin_times,1000
+930131,herospin_times,300
 930132,herospin_price,100|1000
 930133,herospin_luckypoint,1|5
 930134,herospin_item,5900011
@@ -1533,7 +1533,7 @@ int,string,string
 2000128,area_v3_unlock_reguide,1022,38003|1021,38013
 2000129,area_v3_radar_sys,1
 2000130,area_v3_first_area_number,16
-2000131,area_v3_scene_gift_unlock,2017,3
+2000131,area_v3_scene_gift_unlock,2017;3,4
 2000132,area_v3_building_effect_time,60
 2000133,area_v3_building_effect,6750|6200|6600|6900|6800|6500
 2000134,area_v3_first_purchase_level,5
@@ -1602,7 +1602,7 @@ int,string,string
 4000042,radar_signal_unlock_lv,2
 4000043,radar_sys_des,2,New feature unlocked: radar signal|3,New feature unlocked: Radar defense system
 20210622,The leadership has been changed recently, mail feature will be available in {0} minutes,3600
-8000001,skin_up_banner,activity_banner_825_4|activity_banner_825_4
+8000001,skin_up_banner,activity_banner_855_1|activity_banner_855_1
 10054,new_turntable_reward_time,1633072367
 9964,alliance_record_news_table,1,General|2,Battle|3,Building
 9965,alliance_record_news_rows,3|5
@@ -1656,3 +1656,8 @@ int,string,string
 20210625,Age-appropriate_tips,age_verification.txt
 950033,novice_adjustments_guide_in_areabattle,1026|64000,1047|9404,1023|9404
 20211103,crossserver_chat_minlevel,30
+4000044,radar_guide_lv,9
+4000046,pop_time_cd,3|10
+6000014,switch_show_hero,radar_league,131
+20211105,pay_integral_limit,10000
+37000,city_bgm_loop_para,CITY_BG|63,CITY_BG1|33,CITY_BG|70

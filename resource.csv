@@ -51,4 +51,4 @@ int,int,int,string,double,int,int,long,int,string,string,int,int,string,int,int,
 1514,1,5,gather_res_8,25.0,14400,1,10000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
 1515,1,7,gather_res_9,25.0,14400,1,10000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
 1516,1,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
-1304,1,20,gather_res_7,0.01,21600,60,1000.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,2,,2,,1,building/resource/gather_res_7,2,1,0,0,80,5,0
+1304,1,20,gather_res_7,0.01,21600,60,1000.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,2,,2,,1,building/resource/gather_res_7,2,1,0,0,80,5,80
