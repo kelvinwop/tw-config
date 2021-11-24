@@ -30,3 +30,11 @@ int,int,int,string,int,int,int
 308,60,5023,icon_DwarMine1,2,2,
 309,60,5022,icon_DwarMine1,2,2,
 310,60,5021,icon_DwarMine1,2,2,
+401,60,5040,icon_DwarMine1,99,2,
+402,180,5041,icon_DwarMine2,99,2,
+403,480,5042,icon_DwarMine4,99,2,4
+501,60,5051,icon_DwarMine1,10,2,
+502,60,5052,icon_DwarMine1,10,2,
+503,180,5053,icon_DwarMine2,10,2,
+504,180,5054,icon_DwarMine2,10,2,
+505,480,5055,icon_DwarMine4,99,2,4

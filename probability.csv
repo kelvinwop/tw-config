@@ -19,7 +19,7 @@ int,int,int,string,string
 17,8,421,Primary|Standard|Advanced|Elite|Super,10000|9000|7000|6000|5000
 18,7,412,Orange Hero Shard|Lv. 3 CPNT Chest|Rare Skill Treasure Chest|Hero exclusive skill x5|Lv. 3 CPNT Chest (NEW)|100 Gems|Hero exclusive skill x2|Shining Gold Chest x5|Exclusive Skill Box|Skill Research Card x2,630|950|1590|160|950|1590|630|1590|320|1590
 19,7,2007096,zhuanpan_g123_01|Lv. 3 CPNT Chest|Rare Skill Treasure Chest|Hero exclusive skill x5|Lv. 3 CPNT Chest (NEW)|100 Gems|Hero exclusive skill x2|Shining Gold Chest x5|Exclusive Skill Box|Skill Research Card x2,18|1015|1692|169|1015|1692|677|1692|338|1692
-20,9,5005012,Orange grid|Elite Hero Voucher|Rare Skill Treasure Chest|Orange EXP Book|Purple grid|Premium Recruit Voucher|Purple EXP Book|Lv. 3 CPNT Choice Chest|Blue grid|Shining Gold Chest|107054|Tech Item Choice Chest,1550|200|200|600|500|600|500|500|1200|1300|1400|1450
+20,9,5005034,Orange grid|Elite Hero Voucher|Rare Skill Treasure Chest|Orange EXP Book|Purple grid|Premium Recruit Voucher|Purple EXP Book|Lv. 3 CPNT Choice Chest|Blue grid|Shining Gold Chest|107054|Tech Item Choice Chest,1550|200|200|600|500|600|500|500|1200|1300|1400|1450
 21,8,424,Primary|Standard|Advanced|Elite|Super,10000|9000|7000|6000|5000
 22,9,800015,Orange grid|Elite Hero Voucher|Rare Skill Treasure Chest|Orange EXP Book|Purple grid|Premium Recruit Voucher|Purple EXP Book|106732|Blue grid|Shining Gold Chest|107054|Tech Item Choice Chest,1550|200|200|600|500|600|500|500|1200|1300|1400|1450
 23,7,2008068,zhuanpan_g123_01|Lv. 3 CPNT Chest|Rare Skill Treasure Chest|Hero exclusive skill x5|Lv. 3 CPNT Chest (NEW)|100 Gems|Hero exclusive skill x2|Shining Gold Chest x5|Exclusive Skill Box|Skill Research Card x2,18|1015|1692|169|1015|1692|677|1692|338|1692
@@ -56,7 +56,10 @@ int,int,int,string,string
 64,7,500088,Akatora Shard|Lv. 3 CPNT Chest|Moss Lantern|Akatora Exclusive Skill x5|Lv. 3 CPNT Chest (NEW)|100 Gems|Akatora Exclusive Skill x2|Shining Gold Chest|Florist Lantern|Purple Universal Shard,1000|1700|400|100|1700|1200|500|2000|200|1200
 65,8,682,Primary|Standard|Advanced|Elite|Super,10000|9000|7000|6000|5000
 66,8,714,Primary|Standard|Advanced|Elite|Super,10000|9000|7000|6000|5000
-67,8,741,Primary|Standard|Advanced|Elite|Super,10000|9000|7000|6000|5000
+67,8,847,Primary|Standard|Advanced|Elite|Super,10000|9000|7000|6000|5000
 68,3,1900004,Sentry Post|The Pond – Moonlight|Green Vine Fence|Mini Balloon|Hunter of the Deep|Spotlight Tower|Weapon Box|New Year Bonfire|106906|Golden Warship|Golden Plane,2500|1280|1280|1280|1000|1000|1000|600|20|20|20
 69,9,800075,Orange grid|Elite Hero Voucher|Rare Skill Treasure Chest|Orange EXP Book|Purple grid|Premium Recruit Voucher|Purple EXP Book|106732|Blue grid|Shining Gold Chest|107054|Tech Item Choice Chest,1550|200|200|600|500|600|500|500|1200|1300|1400|1450
 70,7,500089,Orange Equip Supply Chest|Purple Equip Supply Chest|Blue Equip Supply Chest|Blue Material Choice Box|Green Material Choice Box|White Material Choice Box|100 Gems,10|30|360|1600|3000|4000|1000
+71,7,501080,Formation Manual Choice Chest *10|Formation Manual Choice Chest *5|Formation Manual Choice Chest *2|Formation Manual Choice Chest|Formation 101 *50|Formation 101 *20|Formation 101 *10|Formation 101 *5|100 Gems|10 Gems,10|30|200|1200|360|500|2200|3000|1000|1500
+72,7,501081,Element reactor unit *1,000|Element reactor unit *500|Element reactor unit *300|Element reactor unit *100|Element Chest *1,000|Element Chest *500|Element Chest *300|Element Chest *100|100 Gems|10 Gems,50|100|200|1000|350|1200|2000|3600|500|1000
+73,7,501082,Orange Equip Supply Chest|Purple Equip Supply Chest|Blue Equip Supply Chest|Blue Material Choice Box|Green Material Choice Box|White Material Choice Box|100 Gems,10|30|360|1600|3000|4000|1000

@@ -53,3 +53,6 @@ int,int,string,string,int,string,int,string,int,int,string,string,string,string,
 50,1,image/headFrame/headFrame_50,,4,headframe_get_desc_50,900002,Top Player Avatar Frame,1,70,1,-108,1,0,0,0.4,,,,
 51,1,image/headFrame/headFrame_51,,4,headframe_get_desc_51,0,Moon Gazing Avatar Frame,1,70,1,-108,1,0,0,0.4,,2021-9-19-0-0-0,2029-5-19-23-59-59,1
 52,1,image/headFrame/headFrame_52,,4,headframe_get_desc_52,5516,Autumn Lantern Avatar Frame,1,70,1,-108,1,0,0,0.4,,2021-9-30-0-0-0,2029-9-21-23-59-59,1
+53,1,image/headFrame/headFrame_53,,4,headframe_get_desc_53,0,headeframe_name053,1,70,1,-108,1,0,0,0.4,g123,2021-10-23-0-0-0,2029-4-27-22-59-59,1
+54,1,image/headFrame/headFrame_54,,4,headframe_get_desc_54,0,Ribbon & Sakura,1,70,1,-108,1,0,0,0.4,wx|webgame|baidugame|toutiao|qqmini|esprit|appios|appandroid|appwx|apptianci|appqq|quickoppo|quickvivo|quickhuawei|qqwanba|appiosglobal|appfb|googleplay|webgameglobal|fbgame|apphuaweiglobal|qqgame|appiosviet|googleplayviet,2021-10-23-0-0-0,2029-5-19-23-59-59,1
+56,1,image/headFrame/headFrame_56,,4,headframe_get_desc_56,841,Magic Broomstick Avatar Frame,1,70,1,-108,1,0,0,0.4,,2021-10-28-0-0-0,2029-5-19-23-59-59,1

@@ -91,7 +91,7 @@ int,string,string
 5301,ad_cure_free_level,10|100
 5302,ad_cure_free_number,3
 5303,ad_cure_free_cd,600
-5401,ad_gold_free_base,10
+5401,ad_gold_free_base,15
 5402,ad_gold_free_cd,15
 5403,ad_gold_free_level,1|100
 5404,ad_gold_free_add,10|1,12|1.5,15|2
@@ -365,7 +365,7 @@ int,string,string
 40007,turn_card_guide_time,5
 40008,turn_card_bottom_count,180
 32001,kill_monster_para,5
-41001,charge_app_reward_cost_limit,30
+41001,charge_app_reward_cost_limit,1500000
 41002,charge_app_reward,5900002
 41003,charge_app_mail,10001
 11111,gou_unlock,3
@@ -886,7 +886,7 @@ int,string,string
 930036,hero_return_blue_reward,2200001,1|2200007,1|2200013,1|2100001,1|1800001,10
 930037,hero_return_task,50|300
 930038,hero_return_daily_limit,1000
-930121,hero_return_orange_reward_new,2200027,1|2200028,1|2200025,1|2604901,1|2605001,1|2505101,1;2200027,1|2200047,1|2200028,1|2200041,1|2200045,1|2200036,1|2604901,1|2606101,1|2605001,1|2605801,1|2605901,1|2505501,1
+930121,hero_return_orange_reward_new,2200027,1|2200028,1|2200025,1|2604901,1|2605001,1|2505101,1;2200027,1|2200032,1|2200035,1|2200041,1|2200045,1|2200021,1|2604901,1|2505201,1|2505401,1|2605801,1|2605901,1|2504901,1
 930122,hero_return_purple_reward_new,2200002,1|2200003,1|2200019,1|2200008,1|2200009,1|2200014,1|2200015,1|2540002,1;2200002,1|2200003,1|2200019,1|2200008,1|2200009,1|2200014,1|2200015,1|2540002,1
 930123,hero_return_blue_reward_new,2200001,1|2200007,1|2200013,1|2100001,1|1800001,10;2200001,1|2200007,1|2200013,1|2100001,1|3610009,10
 920001,material_production_time,9000
@@ -1383,7 +1383,7 @@ int,string,string
 3330003,warhammer_guide_war_car,80001
 3330004,warhammer_guide_physical_stregth,260001
 3800001,sever_shield_time,48
-2030,construction_count,2,6
+2030,construction_count,2,4,5,6,26
 3340004,raytheon_gift_bag,940001
 25010,alliance_boss_order,1|0|Summon Now,2|3600|In 1 hour,3|10800|In 3 hours
 25011,alliance_boss_help_gift,941212
@@ -1445,7 +1445,7 @@ int,string,string
 960122,element_three_times,5
 20210705,shortcut_level,22
 9960,alliance_record_weight_param,50
-9961,alliance_record_officer_param,6,Vice-leader|7,Matriarch|8,War Commander|9,Ambassador
+9961,alliance_record_officer_param,5,100383|6,Vice-leader|7,Matriarch|8,War Commander|9,Ambassador
 20210613,chat_cooldown,10-20|30,20-30|10,30-100|2
 20210614,group_mail_level,20
 20210615,chat_send_level_cn,10
@@ -1573,9 +1573,9 @@ int,string,string
 5000005,sergey_max_revice_num,30
 5000007,russian_linkage_day_bp,12001,50|12002,50|12003,50|12004,50|12005,50|12006,50
 5000008,russian_linkage_radar_bp,100
-11119,units_gather_unlock_level,80
-11120,units_gather_diameter_max,40
-11121,units_gather_number_max,800
+11119,units_gather_unlock_level,70
+11120,units_gather_diameter_max,30
+11121,units_gather_number_max,900
 4000032,radar_show_time,1440
 4000019,radar_sys_19,1|4800|1,2|4200|1,3|3600|1,4|3000|1,5|2400|1
 9963,alliance_record_news_end_time,168
@@ -1590,7 +1590,7 @@ int,string,string
 20210619,FB_guide_reopen,10
 20210620,FB_bind_reward,19104|367801
 20210621,FB_reopen_time,24
-4000033,radar_signal_num,0|75,1|25
+4000033,radar_signal_num,0|80,1|20
 4000034,radar_deference_time,600
 4000035,radar_deference_count,1
 4000036,radar_deference_open_lv,3
@@ -1604,3 +1604,55 @@ int,string,string
 20210622,The leadership has been changed recently, mail feature will be available in {0} minutes,3600
 8000001,skin_up_banner,activity_banner_825_4|activity_banner_825_4
 10054,new_turntable_reward_time,1633072367
+9964,alliance_record_news_table,1,General|2,Battle|3,Building
+9965,alliance_record_news_rows,3|5
+9966,alliance_record_news_opened,1
+9967,alliance_record_profession_name,52001,Combat Elite|52002,Grand Marshal|52003,Tactical Master,53001,Mechanical\nMaster|53002,Legendary Craftsman|53003,Great Scientist
+9968,Droid Donationtimes,20
+9969,alliance_record_alliance_tech_donatetimes,20
+9971,alliance_record_setting_panel,4101
+10055,G123ShareCommunity_level,30
+20210924,gift_points_free,20211028|1
+36031,april_boss_member_reward_times,50
+7000001,sergey_box_integral_daily,500
+7000002,sergey_box_reward_daily,9900001
+7000003,sergey_max_revice_num_daily,30
+9990,BP_jump_daily,900010
+99910,video_jump_bp,900011
+2211011,rich_man_probability,1|1|1|1|1|1
+2211012,rich_man_target,0,1|80,1
+2211013,rich_man_start_reward_num,3
+2211014,rich_man_achievement,20|21101101
+9980,priority_selection_setting_panel,4201
+9981,diamond_double_check_setting_panel,4301
+6000001,hero_cap_num_limit,1|1,2|12
+6000002,warConvertCap,5e-05
+6000003,developConvertCap,5e-05
+6000004,auxiliaryConvertCap,0.5
+6000005,old_hero_unlock_level,27
+6000006,TurnCapHeroSeat,1047
+6000007,auxiliaryConvertCapBuff,990202
+6000008,ChooseCapHero,1026
+10056,area_v3_additional_guide,2|52200,4|52400,12|52500,10-1|52700,10-4|52600,15|52800,13|52900
+280235,transfer_server_application_cd,60
+280236,transfer_server_idle_discount,100
+280237,transfer_server_update_period,15
+280238,transfer_server_idle_move_in_num,30
+280239,transfer_server_normal_move_in_num,30
+280240,transfer_server_power_num,3
+280241,transfer_server_idle_num,3
+280242,newbie_transfer_level,10|30
+280243,newbie_transfer_player_days,10
+280244,newbie_transfer_movein_in_one,10
+280245,newbie_transfer_movein_server_days,5|30
+280246,transfer_server_power_move_in_num,10
+280247,transfer_server_price_para,0.001|1|0.002|1|500|500
+280248,transfer_server_exchange_goto,9202378|9202178|9202402|9202405
+280249,newbie_transfer_movein_item,20211013
+20210925,gift_points_server_open,0
+20210926,gift_points_server_time,1636300800
+20210623,terms_service_url,terms_of_service.txt
+20210624,privacy_policy_url,privacy_policy.txt
+20210625,Age-appropriate_tips,age_verification.txt
+950033,novice_adjustments_guide_in_areabattle,1026|64000,1047|9404,1023|9404
+20211103,crossserver_chat_minlevel,30

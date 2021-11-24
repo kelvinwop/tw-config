@@ -1,16 +1,16 @@
-id,name,buff,min_num,max_num,add_num,understand,weight,icon,power
-int,string,int,int,int,int,string,int,string,int
-1,Tank ATK,930101,10,1000,5000,40,70,1,UI/talent/Perk,183000
-2,Tank HP,930001,10,1000,5000,40,70,1,UI/talent/Current hero has maxed out. Upgrade this hero's Perk to obtain more bonuses.,183000
-3,Navy ATK,930102,10,1000,5000,40,70,1,UI/talent/Activate Perk,183000
-4,Navy HP,930002,10,1000,5000,40,70,1,UI/talent/Redeem,183000
-5,Air Force Attack,930103,10,1000,5000,40,70,1,UI/talent/{0}'s Perk,183000
-6,Air Force HP,930003,10,1000,5000,40,70,1,UI/talent/Change Perk,183000
-7,All forces ATK,930100,10,1000,5000,40,70,1,UI/talent/Perk refreshes today:,183000
-8,All forces HP,930000,10,1000,5000,40,70,1,UI/talent/Perk book owned,183000
-9,Gathering Load,970002,10,400,2000,16,28,1,UI/talent/Upgraded,183000
-10,Gold Gathering Speed,982003,10,400,2000,16,28,1,UI/talent/Current Attribute,183000
-11,Food Gathering Speed,982001,10,400,2000,16,28,1,UI/talent/New Attribute,183000
-12,Oil Gathering Speed,982002,10,400,2000,16,28,1,UI/talent/Upgrade 1 more time,183000
-13,World Map Collection Speed,960002,10,400,2000,16,28,1,UI/talent/Attribute upgrade results have been automatically saved.,183000
-14,March speed,910300,10,200,1000,8,14,1,UI/talent/Current Perk,183000
+id,name,buff,min_num,max_num,add_num,understand,weight,icon,power,power5,power4,power3,power2,power1
+int,string,int,int,int,int,string,int,string,int,int,int,int,int,int
+1,Tank ATK,930101,10,1000,5000,40,70,1,UI/talent/Perk,183000,183000,80000,8000,2500,2500
+2,Tank HP,930001,10,1000,5000,40,70,1,UI/talent/Current hero has maxed out. Upgrade this hero's Perk to obtain more bonuses.,183000,183000,80000,8000,2500,2500
+3,Navy ATK,930102,10,1000,5000,40,70,1,UI/talent/Activate Perk,183000,183000,80000,8000,2500,2500
+4,Navy HP,930002,10,1000,5000,40,70,1,UI/talent/Redeem,183000,183000,80000,8000,2500,2500
+5,Air Force Attack,930103,10,1000,5000,40,70,1,UI/talent/{0}'s Perk,183000,183000,80000,8000,2500,2500
+6,Air Force HP,930003,10,1000,5000,40,70,1,UI/talent/Change Perk,183000,183000,80000,8000,2500,2500
+7,All forces ATK,930100,10,1000,5000,40,70,1,UI/talent/Perk refreshes today:,183000,183000,80000,8000,2500,2500
+8,All forces HP,930000,10,1000,5000,40,70,1,UI/talent/Perk book owned,183000,183000,80000,8000,2500,2500
+9,Gathering Load,970002,10,400,2000,16,28,1,UI/talent/Upgraded,183000,183000,80000,8000,2500,2500
+10,Gold Gathering Speed,982003,10,400,2000,16,28,1,UI/talent/Current Attribute,183000,183000,80000,8000,2500,2500
+11,Food Gathering Speed,982001,10,400,2000,16,28,1,UI/talent/New Attribute,183000,183000,80000,8000,2500,2500
+12,Oil Gathering Speed,982002,10,400,2000,16,28,1,UI/talent/Upgrade 1 more time,183000,183000,80000,8000,2500,2500
+13,World Map Collection Speed,960002,10,400,2000,16,28,1,UI/talent/Attribute upgrade results have been automatically saved.,183000,183000,80000,8000,2500,2500
+14,March speed,910300,10,200,1000,8,14,1,UI/talent/Current Perk,183000,183000,80000,8000,2500,2500

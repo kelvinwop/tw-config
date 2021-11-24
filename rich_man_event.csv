@@ -1,0 +1,8 @@
+id,event,para,desc
+int,int,int,string
+1,5,21101106,A complimentary gift
+2,5,21101206,A complimentary gift
+3,3,1,Roll 2 dice for free {0} times
+4,1,1,Go backwards for the next {0} roll(s)
+5,4,2,Next Item square gain {0} extra EXP
+6,4,3,Next Item square gain {0} extra EXP
