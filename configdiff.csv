@@ -18,6 +18,7 @@ int,string,string,string,string,string,string
 17,2|3|5|6,ru|2165|1|esprit,item,2200052,name,desc,*_ru
 18,1,g123,G123,data_config,21090103,value,900002|900003,_g123
 19,1,g123,G123,data_config,21090102,value,900000|900001|900002|900003|900013,_g123
-22,1,g123,G123,item,20120219,icon,*_g123
-23,1,g123,G123,emoji,53,path,*_g123
+22,1,g123,G123,item,20120219,20120220,icon,*_g123
+23,1,g123,G123,emoji,53,54,path,*_g123
 24,2,zh_cn,jp,ja,ko,data_config,21090103,value,5005037,_ba
+25,1|5,wx,baidugame,toutiao,appios,appandroid,appwx,appqq,apptianci,appquick,quickoppo,quickvivo,quickhuawei,webgame,qqmini,qqwanba,qqgame,chrome|4,data_config,21090103,value,896,_cn

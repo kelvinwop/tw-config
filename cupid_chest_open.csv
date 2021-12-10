@@ -2,7 +2,7 @@ id,need_keys,vanish_time,reward,chest_pic,limit,limittype
 int,int,int,int,string,int,int
 1,600,10,9222248,image/ValentineDay/Item_ValentineDay5,20,2
 2,300,10,9222247,image/ValentineDay/Item_ValentineDay4,3,2
-3,100,10,9222246,image/ValentineDay/Item_ValentineDay3,2,2
+3,100,10,9222246,image/ValentineDay/Item_ValentineDay3,10,2
 4,30,10,9222254,image/ValentineDay/Item_ValentineDay2,5,2
 5,1000,10,9222255,image/ValentineDay/Item_ValentineDay6,1,2
 6,1000,10,9222250,image/ValentineDay/Item_ValentineDay6,1,2

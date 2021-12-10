@@ -1,6 +1,6 @@
-id,type,para,title,des
-int,int,string,string,string
-1,1,0-120,Preparation Zone,At this stage, the birth time of Warzone is under 120 days (including 120 days), commanders on these Warzones cannot use Server Transfer service.
-2,1,121-260,Support Zone,Warzones opened between 121 - 260 days (inclusive) are defined as "Support Zones". Commanders on these Warzones can only transfer to another Warzone located in the "Support Zone"
-3,1,261-400,Conflict Zone,Warzones opened between 260 - 400 days (inclusive) are defined as "Conflict Zones". Commanders on these Warzones can only transfer to another Warzone located in the "Conflict Zone"
-4,1,401-9999,Total War Zone,Warzones above 401 days (inclusive) are defined as "Total War Zones". Commanders on these Warzones can only transfer to another Warzone located in the "Total War Zone"
+id,type,para,title,des,permit_range
+int,int,string,string,string,string
+1,1,0-120,Preparation Zone,At this stage, the birth time of Warzone is under 120 days (including 120 days), commanders on these Warzones cannot use Server Transfer service.,1
+2,1,121-260,Support Zone,Warzones opened between 121 - 260 days (inclusive) are defined as "Support Zones". Commanders on these Warzones can only transfer to another Warzone located in the "Support Zone",2
+3,1,261-400,Conflict Zone,Warzones opened between 260 - 400 days (inclusive) are defined as "Conflict Zones". Commanders on these Warzones can only transfer to another Warzone located in the "Conflict Zone",3
+4,1,401-9999,Total War Zone,Warzones above 401 days (inclusive) are defined as "Total War Zones". Commanders on these Warzones can only transfer to another Warzone located in the "Total War Zone",4

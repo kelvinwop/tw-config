@@ -1,0 +1,25 @@
+ID,title,name,desc,icon,times,reward_ID,CD,CD_cost,gift_type
+int,string,string,string,string,int,int,int,int,int
+1,Overcooked Meal,失败菜肴,Overcooked Meal\nOops, it's overcooked... Practice makes perfect, commander,item_ActivityGourmetCook1,-1,6040000,3,30,0
+2,Barely-edible Meal,保熟菜肴,Barely-edible Meal\nWell, it's edible, sort of.,item_ActivityGourmetCook1,-1,6040001,5,30,0
+3,"Special" Meal,另类菜肴,"Special" Meal\nHmmm...It tastes interesting.,item_ActivityGourmetCook1,-1,6040002,10,30,0
+4,Family Meal,家庭菜肴,Family Meal\nMom's meals are always the best.,item_ActivityGourmetCook1,-1,6040003,20,30,0
+5,Decent Meal,精致菜肴,Decent Meal\nSee, that's how the meal should be served.,item_ActivityGourmetCook1,-1,6040004,30,30,0
+6,Perfect Meal,丰盛菜肴,Perfect Meal\nThis meal is out of this world.,item_ActivityGourmetCook1,-1,6040005,40,30,0
+7,Luxury Meal,豪华菜肴,Luxury Meal\nMeticulous preparation and expert cooking skills... Voila! Haute cuisine.,item_ActivityGourmetCook1,-1,6040006,60,30,0
+8,Binary,"二进制",Binary\nBinary is the foundation of everything,item_ActivityGourmetCook2,1,6040007,60,30,1
+9,Well Planned,"精打细算",Well Planned\nThis doesn't seem like much of a meal to me.,item_ActivityGourmetCook2,1,6040008,60,30,1
+10,Grande Cuisine,"奢华盛宴",Grande Cuisine\nBon Appétit Mon Ami!,item_ActivityGourmetCook2,1,6040009,60,30,1
+11,Autobots, Roll Out,"汽车人，出发",Autobots, Roll Out!\nThe Transformers landed on Top War on August 10, 2021! Will they come back again?,item_ActivityGourmetCook2,1,6040010,60,30,1
+12,Stay Sharp,"藏剑于鞘",Stay Sharp\nThe Black Widow trained at the hidden site for 6,935 days.,item_ActivityGourmetCook2,1,6040011,60,30,1
+13,New Element?,"新元素？",The New Element?\nLaTest news: Doctor Reichstein discovered the element No. 116,item_ActivityGourmetCook2,1,6040012,60,30,1
+14,Grateful to You,"感恩有你",Grateful To You\nWe're thankful to you and the many more memories we will continue to create.,item_ActivityGourmetCook2,1,6040013,60,30,1
+15,Eternal King,"永恒之王",Eternal King\nThe first Eternal Land event took place in June 2020, marking the beginning of the epic war,item_ActivityGourmetCook2,1,6040014,60,30,1
+16,One-on-one War,"最强之战",One-on-one War\nThe first SVS was launched in May 2019.,item_ActivityGourmetCook2,1,6040015,60,30,1
+17,The Top War,"群雄争霸",The Top War\n73.38 million new commanders have joined us this year, ready to fight by your side!,item_ActivityGourmetCook2,1,6040016,60,30,1
+18,The World's Richest,"最壕指挥官",The World's Richest\nThe current fortune of the Richest Commander is estimated at $105 trillion according to the TW Billionaires Index.,item_ActivityGourmetCook2,1,6040017,60,30,1
+19,SaND Festival Dishes,沙岛节日料理,SaND Festival Dishes\nUnique dishes for SaND festivals,item_ActivityGourmetCook2,2,6040018,60,30,1
+20,MRE Combat Ration,作战料理包,MRE Combat Ration\nService members take these Meals Ready-to-Eat for use in combat.,item_ActivityGourmetCook2,2,6040019,60,30,1
+21,Dark Legion Ration,黑暗军团料理,Dark Legion Ration\nYou got to admit, this is good.,item_ActivityGourmetCook2,2,6040020,60,30,1
+22,Staff Dinner,员工晚餐,Staff Dinner\nA decent dinner for Zizak Metal Co. Ltd. employees...What's making me eat so much?,item_ActivityGourmetCook2,2,6040021,60,30,1
+23,Freedom League Turkey,自由联盟烤火鸡,Freedom League Turkey\nThe main course during the Thanksgiving feast.,item_ActivityGourmetCook2,2,6040022,60,30,1
