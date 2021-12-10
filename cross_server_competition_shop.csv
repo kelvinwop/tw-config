@@ -1,0 +1,9 @@
+id,order,item_id,price_shop,buy_limit,is_open,cost_reason,switch,need_player_level
+int,int,int,int,int,int,string,string,int
+1,1,3950802,400,2,1,shopBuyItem_csc,,50
+2,2,3950701,100,1,1,shopBuyItem_csc,,50
+3,3,3950702,100,1,1,shopBuyItem_csc,,50
+4,4,3950901,100,1,1,shopBuyItem_csc,,50
+5,5,920003,5,99,1,shopBuyItem_csc,,50
+6,6,910003,5,99,1,shopBuyItem_csc,,50
+7,7,3300001,5,99,1,shopBuyItem_csc,,50

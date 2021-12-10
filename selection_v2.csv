@@ -1,0 +1,5 @@
+id,name,detail,icon,position,type,branch,building,special_open,career_icon,career_banner,career_banner_desc
+int,string,string,string,string,int,int,int,int,string,string,string
+72000,Trainee Officer,Combat Elites can study helpful combat skills; like the Mass Rally. After reaching the max level; you can promote to specialized classes including the Tactical Master and Grand Marshal,1001304|1002304|1001704|1002402,1,0,,7701,6012002,professional_icon01,,
+72001,Combat Elite,Combat Elites can study helpful combat skills; like the Mass Rally. After reaching the max level; you can promote to specialized classes including the Tactical Master and Grand Marshal,1001304|1002304|1001704|1002402,1,1,72000,7701,6012002,professional_icon03,,
+72002,Mechanical\nMaster,Mechanical Masters can study the Resource Facility skill; which enables you to build resource tiles on the map. After reaching the max level; you can promote to specialized classes including the Great Scientist and the Legendary Craftsman,1011304|1012201|1012301|1012401,1,1,72000,7701,6012002,professional_icon02,,

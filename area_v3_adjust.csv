@@ -1,0 +1,2 @@
+id,width,height,x,y,area,terrain_type,group,is_special,click_interface,interface_desc,unlock_type,block_type,plot_restriction,ini_building,set_building,cond_type,cond_amount,cond_target,cost_type,cost_amount,cost_target,cond_desc,require_pve,waiting_time,prefab,prefab_group,power,extra_around,order,ini_building_1,set_building_1
+int,int,int,int,int,int,int,int,int,int,string,int,int,int,string,string,int,long,int,int,long,int,string,int,int,string,string,int,int,int,string,string

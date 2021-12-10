@@ -62,3 +62,4 @@ int,int,double,string,string,string,string,int,double,string,double,string,strin
 10000003,10000003,0.0,tanke_hit,tank_bullet_20,0,,1,,B_20211009_L_daodan,0.5,,B_20211009_L_baodian,0.0,0.5,,B_20211009_L_baodian,B_20211009_L_baodian,B_20211009_L_baodian,,
 4012,4012,0.0,tanke_hit,tank_bullet_20,0,,1,1.0,,,,B_20211025_paodian_mingzhong,0.0,1.0,,B_20211025_paodian_mingzhong,B_20211025_paodian_mingzhong,B_20211025_paodian_mingzhong,,
 4013,4013,0.0,tanke_hit,tank_bullet_20,0,,1,0.5,,,,B_20211111_baodian,0.0,1.0,,B_20211111_baodian,B_20211111_baodian,B_20211111_baodian,,
+1025,1025,0.0,army_h_thor1_hit,machine_gun_fire_heavy,0,,1,0.5,,,,E_2021_12yue_skill_hit,0.0,1.0,,E_2021_12yue_skill_hit,E_2021_12yue_skill_hit,E_2021_12yue_skill_hit,,

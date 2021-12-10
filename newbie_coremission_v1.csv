@@ -100,7 +100,7 @@ int,int,int,string,double,string,string,int,string,string,int,int,int,string,str
 98,15,4,Merge {0} Gold Mine(s) into Lv. {1} or above.,1.0,1700,26,,1|250000000,,,1,599,1724,0|1;0|26
 99,15,3,Research Lv. {1} {0} Tech.,18.0,322000,,,1|250000000,,,1,7201,322000,1|103989;0|18
 100,15,3,Research Lv. {1} {0} Tech.,22.0,300000,,,1|250000000,,,1,7201,300000,1|103013;0|22
-101,15,24,Unlock Class Bldg,1.0,,,,1|250000000,,,0,5801,0,
+101,15,24,Select a Profession,1.0,,,,1|250000000,,,0,5801,0,
 102,15,25,Research Class skill {0} or {1} to Lv. {2},2.0,1001300|1011300,,,1|250000000,,,0,5901,1001300|1011300,1|War Fever;1|Development Fever;0|2
 103,15,2,Build {0},1.0,3800,,,1|250000000,,,1,799,3800,1|Expedition Base
 104,15,30,Complete Warzone Exercise {0} times.,1.0,,,,1|250000000,,,1,6901,0,0|1

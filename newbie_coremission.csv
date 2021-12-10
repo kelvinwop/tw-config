@@ -114,7 +114,7 @@ int,int,int,string,double,string,string,string,string,int,int,int,string,string
 112,15,3,Research Lv. {1} {0} Tech.,24.0,323000,,1|1500000000,,10,1,1299,323000,1|104087;0|24
 113,15,3,Research Lv. {1} {0} Tech.,21.0,327000,,1|1500000000,,8,1,1299,327000,1|Infinite Firepower;0|21
 114,15,5,Merge {0} Army into Lv. {1} or above,1.0,101,30,1|1500000000,,8,1,699,10030,0|1;0|30
-115,15,24,Unlock Class Bldg,1.0,,,1|1500000000,,8,0,5801,0,
+115,15,24,Select a Profession,1.0,,,1|1500000000,,8,0,5801,0,
 116,15,25,Research Class skill {0} or {1} to Lv. {2},2.0,1001300|1011300,,1|1500000000,,8,0,5901,1001300|1011300,1|War Fever;1|Development Fever;0|2
 117,15,2,Build {0},20.0,1040,,1|1500000000,,10,1,799,1040,1|106930
 118,15,4,Merge {0} Gold Mine(s) into Lv. {1} or above.,1.0,1700,30,1|1500000000,,8,1,599,1730,0|1;0|30
@@ -130,7 +130,7 @@ int,int,int,string,double,string,string,string,string,int,int,int,string,string
 128,7,2,Build {0},1.0,2500,,,,13,1,799,2500,1|107421
 129,6,2,Build {0},8.0,1700,,1|100000,,,1,799,1700,1|106935
 130,14,14,Own {0} Lv. {1} hero(es),1.0,0,45,1|250000000,,,1,5501,0,0|1;0|45
-131,14,24,Unlock Class Bldg,1.0,,,1|250000000,,,0,5801,0,
+131,14,24,Select a Profession,1.0,,,1|250000000,,,0,5801,0,
 132,14,25,Research Class skill {0} or {1} to Lv. {2},2.0,1001300|1011300,,1|250000000,,,0,5901,1001300|1011300,1|War Fever;1|Development Fever;0|2
 133,15,25,Research Class skill {0} or {1} to Lv. {2},3.0,1001700|1011700,,1|1500000000,,8,0,5901,1001700|1011700,1|Training Acceleration;1|March Speed-up;0|3
 134,15,8,Consume {0} VIT,200.0,,,1|1500000000,,8,1,1501,0,0|200

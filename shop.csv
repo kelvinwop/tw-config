@@ -49,7 +49,7 @@ int,int,int,int,int,int,int,int,string,string,string,string,string,int
 48,2400004,1,30,1,1,310,-1,shopBuyItem_heroexp,1|17,1|17,,,
 49,2400005,1,90,1,1,311,-1,shopBuyItem_heroexp,1|17,1|17,,,
 50,3200002,1,50,1,1,312,-1,shopBuyItem_skin,1|17,1|17,,,
-51,2100003,1,300,1,1,509,-1,shopBuyItem_acitivityHero,1|17,1|17,,,
+51,2100003,1,300,1,0,509,-1,shopBuyItem_acitivityHero,1|17,1|17,,,
 52,2100005,1,400,1,1,510,-1,shopBuyItem_skin,1|17,1|17,,,
 53,2560001,1,30,1,1,511,-1,shopBuyItem_skill,1|17,1|17,,,
 54,2560002,1,1000,1,1,512,-1,shopBuyItem_talent,1|17,1|17,,,

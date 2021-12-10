@@ -1,0 +1,12 @@
+id,gift_type,name,image,gift_num,reward_id,mail_id
+int,int,string,string,int,int,int
+1,1,Frontier Equips,gift_ThirtyTwo4,5,5007601,19114
+2,1,Frontier Arms,gift_ThirtyTwo5,5,5007602,19114
+3,1,Frontier Supplies,gift_ThirtyTwo3,5,5007603,19114
+4,1,Frontier CPNTs,gift_ThirtyTwo2,5,5007604,19114
+5,1,Frontier Techs,gift_ThirtyTwo1,5,5007605,19114
+6,2,War Equips,gift_ThirtyTwo4,5,5007701,19114
+7,2,War Arms,gift_ThirtyTwo5,5,5007702,19114
+8,2,War Supplies,gift_ThirtyTwo3,5,5007703,19114
+9,2,War CPNTs,gift_ThirtyTwo2,5,5007704,19114
+10,2,War Techs,gift_ThirtyTwo1,5,5007705,19114

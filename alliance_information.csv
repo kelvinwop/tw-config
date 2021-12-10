@@ -12,7 +12,7 @@ int,int,string,int,string,string,string,string,string,int,int,int
 11,1,1,3,Tech Upgrade,The upgrade of Tech "{0}" is completed. We're getting stronger!,mark_AllianceRecord3,0,,0,0,1
 12,1,1,,Victory,{0} beat {1} ({2};{3}) in battle,mark_AllianceRecord5,0,,1,1,2
 13,1,1,,Defeat,{0} was defeated by {1} ({2};{3}),mark_AllianceRecord5,0,,1,1,2
-14,1,1,2,Droid Summon,{0} summoned Alliance Droid ({1};{2}),mark_AllianceRecord4,100,300,0,0,1
+14,1,1,2,Alliance Droid,{0} summoned Alliance Droid ({1};{2}),mark_AllianceRecord4,100,300,0,0,1
 201,0,2,,throne_forecast_minute,Capital ConTest will start in {0} minutes. Please get ready.,,0,,0,0,0
 202,0,2,,throne_start,The Capital ConTest begins; and you can attack Ruins or the Capital in the middle of the World Map.,,0,,0,0,0
 203,0,2,,throne_forecast_day,Capital ConTest will start in {0} days. Please get ready.,,0,,0,0,0
@@ -23,9 +23,9 @@ int,int,string,int,string,string,string,string,string,int,int,int
 208,0,2,,throne_buff,{0} activated Warzone-wide bonus: {1}.,,0,,0,0,0
 209,0,2,,deploy_forcast,The round {0} supplies airdrop is about to begin.,,0,,0,0,0
 210,0,2,,deploy_round,Supply ConTest event will begin in {0} minutes. Please get ready.,,0,,0,0,0
-211,1,1,2,Droid Summon,monster_text_001,mark_AllianceRecord3,0,,0,0,1
-212,1,1,2,Droid Summon,monster_text_002,mark_AllianceRecord3,0,,0,0,1
-213,1,1,2,Droid Summon,monster_text_003,mark_AllianceRecord3,0,,0,0,1
+211,1,1,2,Alliance Droid,monster_text_001,mark_AllianceRecord3,0,,0,0,1
+212,1,1,2,Alliance Droid,monster_text_002,mark_AllianceRecord3,0,,0,0,1
+213,1,1,2,Alliance Droid,monster_text_003,mark_AllianceRecord3,0,,0,0,1
 214,0,2,,deploy_start,Alliance {0} has obtained the supply and started shipping it to the Ruin.,,0,,0,0,0
 215,0,2,,deploy_end,Alliance {0} has delivered supplies to the Ruin.,,0,,0,0,0
 301,1,2,2,Treasure Guard,{2} found a large number of Basic treasure guards at ({0};{1})! Eliminate them!,mark_AllianceRecord3,0,,0,0,1
@@ -45,7 +45,7 @@ int,int,string,int,string,string,string,string,string,int,int,int
 17,1,1,2,Droid Donation,[Military Order] {0} {1} has selected the Droid "{2}" as the target. Please donate shards in time.,mark_AllianceRecord5,0,,1,0,1
 18,0,1,2,Droid Donation,Thank you {0}; for donating {1} Droid Shards.,mark_AllianceRecord3,0,,0,0,1
 19,1,1,2,Droid Donation,{0} dealt huge damage to the Alliance Droid! Great job done there!,mark_AllianceRecord3,0,,0,0,1
-22,0,1,2,Droid Summon,Awesome! With the help of {0}; we finally defeated the Droid!,mark_AllianceRecord3,0,,0,0,1
+22,0,1,2,Alliance Droid,Awesome! With the help of {0}; we finally defeated the Droid!,mark_AllianceRecord3,0,,0,0,1
 20,0,1,4,Ally Construction,Attention! {0} {1} is building "{4}" at ({2};{3}),mark_AllianceRecord5,0,,1,0,3
 21,0,1,4,Ally Construction,The construction of "{4}" ({2};{3}) started by {0} {1} is completed! Cheers!,mark_AllianceRecord5,0,,1,0,3
 24,1,1,3,Tech Priority,{0} {1} has started the upgrade process of "{2}".,mark_AllianceRecord5,0,,0,0,1
@@ -55,7 +55,7 @@ int,int,string,int,string,string,string,string,string,int,int,int
 28,1,1,1,Defeat,{0} was defeated by {1}({2};{3}). Better luck next time!,mark_AllianceRecord5,0,,1,0,2
 29,1,1,1,Victory,Brilliant! Commander {0} successfully defended off {1} ({2};{3})'s attack.,mark_AllianceRecord5,0,,1,0,2
 30,1,1,1,Defeat,{0} failed to defend against {1}({2};{3})'s attack. Better luck next time!,mark_AllianceRecord5,0,,1,0,2
-23,1,1,2,Droid Summon,Thank you {0}; for making such a generous donation to the Droid.,mark_AllianceRecord3,0,,0,0,1
+23,1,1,2,Alliance Droid,Thank you {0}; for making such a generous donation to the Droid.,mark_AllianceRecord3,0,,0,0,1
 31,1,1,1,Application Approved,{0}-{1} approved {2}'s application.,mark_AllianceRecord1,0,,0,0,1
 32,1,1,1,Member Removal,{0}-{1} moved {2} out of the alliance.,mark_AllianceRecord1,0,,0,0,1
 33,1,1,4,Construction begins,[Military Order] Speed-up! {0}-{1} is building {4} at ({2};{3}). Commander; we need your help!,mark_AllianceRecord1,97,300,0,0,3

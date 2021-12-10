@@ -1,7 +1,7 @@
 id,purpose,para,image,dialog_title,dialog_des,reward_preview_resource,reward_preview_item,open_level,switch,order,fast_jump,jump_icon
 int,int,int,string,string,string,string,string,int,string,int,int,string
 2,7,3101,bg5_openBuilding,Island Battle,Remaining lives: {0},,2560001|2550001|2540002,42,,50,,
-3,7,2201,bg3_openBuilding,Tax Center,Times collected today: {0}/{1},1,,99,,60,,
+3,7,2201,bg3_openBuilding,Tax Center,Times collected today: {0}/{1},1,,5,,60,,
 4,3,59,bg1_openBuilding,Refugee Rescue,Participant rewards claimed: {0}/10,,2560001|1700040,21,,20,,
 5,8,,bg4_openBuilding,Reward Quest,Completed: {0}/10,1|12,1700039,20,,30,,
 6,3,77,bg6_openBuilding,Warhammer Raid,Participant rewards claimed: {0}/{1},,1800001|323001|520001,5,,10,,

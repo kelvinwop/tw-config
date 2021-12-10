@@ -84,8 +84,8 @@ int,string,string,string,int,string,string,int,int,int,int,string,int,string,str
 1002902,Enhance Crit Damage,Increase Crit. damage by {0}% for all units,training_skills,1002900,8;4,1002901,1,0,1,3,5|21895178;7|21895178,628906,1600025|3,1101028,500,52001,55,1000,Combat Elite,#ffffff,4,,4,
 1002903,Enhance Crit Damage,Increase Crit. damage by {0}% for all units,training_skills,1002900,8;4,1002902,1,0,2,3,5|32842767;7|32842767,880468,1600025|5,1101028,1000,52001,55,2000,Combat Elite,#ffffff,4,,4,
 1002904,Enhance Crit Damage,Increase Crit. damage by {0}% for all units,training_skills,1002900,8;4,1002903,1,0,3,3,5|0;7|0,0,,1101028,1500,52001,55,3000,Combat Elite,#ffffff,4,5,4,
-1003001,Open Specialization,Unlock Specialized Perk of this class,career_hero_001,1003000,9;3,1002804|1002904,1,0,0,1,5|32842767;7|32842767,100,1600025|50,,0,52001,60,50,Combat Elite,#ffffff,5,,1,
-1003002,Open Specialization,Unlock Specialized Perk of this class,career_hero_001,1003000,9;3,1003001,1,0,1,1,5|0;7|0,0,,,0,52001,60,50,Combat Elite,#ffffff,5,,1,
+1003001,Open Specialization,Unlock Specialized Perk of this Profession,career_hero_001,1003000,9;3,1002804|1002904,1,0,0,1,5|32842767;7|32842767,100,1600025|50,,0,52001,60,50,Combat Elite,#ffffff,5,,1,
+1003002,Open Specialization,Unlock Specialized Perk of this Profession,career_hero_001,1003000,9;3,1003001,1,0,1,1,5|0;7|0,0,,,0,52001,60,50,Combat Elite,#ffffff,5,,1,
 1011301,Development Fever,Increase unit load by {0}%,career_strengthen_003,1011300,1;3,0,1,0,0,3,5|50000;7|50000,300,,970002,0,53001,30,0,Mechanical\nMaster,#ffffff,1,,1,
 1011302,Development Fever,Increase unit load by {0}%,career_strengthen_003,1011300,1;3,1011301,1,0,1,3,5|75000;7|75000,420,,970002,500,53001,30,1000,Mechanical\nMaster,#ffffff,1,,1,
 1011303,Development Fever,Increase unit load by {0}%,career_strengthen_003,1011300,1;3,1011302,1,0,2,3,5|112500;7|112500,588,,970002,1000,53001,30,2000,Mechanical\nMaster,#ffffff,1,,1,
@@ -178,8 +178,8 @@ int,string,string,string,int,string,string,int,int,int,int,string,int,string,str
 1013006,Air Force ATK,Increase Air Force Attack by {0}%,air_attack,1013000,7;5,1013005,1,0,5,5,5|0;7|0,0,,1101026,1500,53001,55,5000,Mechanical\nMaster,#ffffff,3,,1,
 1013101,Enhance Gathering,Increases gathering speed by {0}%,career_mechanical_002,1013100,8;3,1012806|1012906|1013006,1,0,0,1,5|32842767;7|32842767,2641405,,960002,0,53001,60,0,Mechanical\nMaster,#ffffff,4,,2,
 1013102,Enhance Gathering,Increases gathering speed by {0}%,career_mechanical_002,1013100,8;3,1013101,1,0,1,1,5|0;7|0,0,,960002,1000,53001,60,30000,Mechanical\nMaster,#ffffff,4,5,2,
-1013201,Open Specialization,Unlock Specialized Perk of this class,career_hero_001,1013200,9;3,1013102,1,0,0,1,5|32842767;7|32842767,300,1600026|50,,0,53001,60,50,Mechanical\nMaster,#ffffff,5,,1,
-1013202,Open Specialization,Unlock Specialized Perk of this class,career_hero_001,1013200,9;3,1013201,1,0,1,1,5|0;7|0,0,,,0,53001,60,50,Mechanical\nMaster,#ffffff,5,,1,
+1013201,Open Specialization,Unlock Specialized Perk of this Profession,career_hero_001,1013200,9;3,1013102,1,0,0,1,5|32842767;7|32842767,300,1600026|50,,0,53001,60,50,Mechanical\nMaster,#ffffff,5,,1,
+1013202,Open Specialization,Unlock Specialized Perk of this Profession,career_hero_001,1013200,9;3,1013201,1,0,1,1,5|0;7|0,0,,,0,53001,60,50,Mechanical\nMaster,#ffffff,5,,1,
 1014001,Enhanced Oil Craft,You can Craft Enhanced oil in the Craft Center,strengthening_oil,1014000,10;1,0,1,1,0,3,5|9731190;7|9731190,491129,1600028|15,10001,0,53001,65,1000,Mechanical\nMaster,#ffffff,2,,1,trap_potion_switch
 1014002,Enhanced Oil Craft,You can Craft Enhanced oil in the Craft Center,strengthening_oil,1014000,10;1,1014001,1,1,1,3,5|14596785;7|14596785,687580,1600028|15,10001,1,53001,65,1000,Mechanical\nMaster,#ffffff,2,,1,trap_potion_switch
 1014003,Enhanced Oil Craft,You can Craft Enhanced oil in the Craft Center,strengthening_oil,1014000,10;1,1014002,1,1,2,3,5|21895178;7|21895178,962612,1600028|15,10002,1,53001,65,1000,Mechanical\nMaster,#ffffff,2,,1,trap_potion_switch

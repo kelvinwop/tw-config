@@ -365,7 +365,7 @@ int,string,string
 40007,turn_card_guide_time,5
 40008,turn_card_bottom_count,180
 32001,kill_monster_para,5
-41001,charge_app_reward_cost_limit,99999
+41001,charge_app_reward_cost_limit,30
 41002,charge_app_reward,5900002
 41003,charge_app_mail,10001
 11111,gou_unlock,3
@@ -679,7 +679,7 @@ int,string,string
 130055,airdrop_vote_every_round_time,12
 130056,airdrop_every_round_end_time,1
 130057,airdrop_open_time_day,13
-130059,battle_report_comparison_source,2;Hero Skills|16;Hero Bond;hero_bond|4;CPNT|5;Suppress|1;Science|3;Hero Perk|17;Mastery|8;VIP privileges|9;Class Perk|6;102635|7;Decoration|10;Mechanical Master Potion|12;Strengthening/Weakening building|13;102583|15;Tactical Master Perk|14;Great Scientist Talent|19;Medal Promotion|0;Others|20;Alliance Titles|18;Special Effect Upgrade|21;Eternal Tech
+130059,battle_report_comparison_source,2;Hero Skills|16;Hero Bond;hero_bond|4;CPNT|5;Suppress|1;Science|3;Hero Perk|17;Mastery|8;VIP privileges|9;Profession Perk|6;102635|7;Decoration|10;Mechanical Master Potion|12;Strengthening/Weakening building|13;102583|15;Tactical Master Perk|14;Great Scientist Talent|19;Medal Promotion|0;Others|20;Alliance Titles|18;Special Effect Upgrade|21;Eternal Tech
 61059,trap_potion_level,65
 33040,change_worldboss_activityId,265
 130027,notification_level,70;8;12;25;33;46;55
@@ -886,7 +886,7 @@ int,string,string
 930036,hero_return_blue_reward,2200001;1|2200007;1|2200013;1|2100001;1|1800001;10
 930037,hero_return_task,50|300
 930038,hero_return_daily_limit,1000
-930121,hero_return_orange_reward_new,2200027;1|2200028;1|2200025;1|2604901;1|2605001;1|2505101;1;2200027;1|2200032;1|2200035;1|2200041;1|2200045;1|2200021;1|2604901;1|2505201;1|2505401;1|2605801;1|2605901;1|2504901;1
+930121,hero_return_orange_reward_new,2200027;1|2200028;1|2200025;1|2604901;1|2605001;1|2505101;1;2200027;1|2200047;1|2200035;1|2200049;1|2200045;1|2200021;1|2604901;1|2606101;1|2505401;1|2607101;1|2605901;1|2504901;1
 930122,hero_return_purple_reward_new,2200002;1|2200003;1|2200019;1|2200008;1|2200009;1|2200014;1|2200015;1|2540002;1;2200002;1|2200003;1|2200019;1|2200008;1|2200009;1|2200014;1|2200015;1|2540002;1
 930123,hero_return_blue_reward_new,2200001;1|2200007;1|2200013;1|2100001;1|1800001;10;2200001;1|2200007;1|2200013;1|2100001;1|3610009;10
 920001,material_production_time,9000
@@ -1066,7 +1066,7 @@ int,string,string
 930211,alliance_defend_min_base_level,20
 950030,newislandbattle_quick_rewardre,20201028
 137002,newislandbattle_quickrewardlevel,5
-138006,vip_level_rewards06,12
+138006,vip_level_rewards06,7
 930201,continuous_fighting_monster_level,10
 930202,continuous_fighting_monster_num,5
 930203,continuous_fighting_monster_rate,1
@@ -1521,7 +1521,7 @@ int,string,string
 2000116,area_v3_unlock_plot,1022|1021|1030|1029|1026
 2000117,area_v3_unlock_firstbuilding_pve,1022|999
 2000118,area_v3_unlock_firstbuilding_area,60001
-2000119,area_v3_unlocklevel,1040;newbase_gameplayV3;5|1700;newbase_gameplayV3;5|4900;key_novice_adjustments;14|3200;key_novice_adjustments;45|3300;key_novice_adjustments;45|2400;newbase_gameplayV3;15|2000;newbase_gameplayV3;8|3500;newbase_gameplayV3;12|2700;newbase_gameplayV3;30|2800;newbase_gameplayV3;30|2900;newbase_gameplayV3;30
+2000119,area_v3_unlocklevel,1040;newbase_gameplayV3;5|1700;newbase_gameplayV3;5|4900;key_novice_adjustments;14|3200;key_novice_adjustments;45|3300;key_novice_adjustments;45|2400;newbase_gameplayV3;15|2000;newbase_gameplayV3;6|3500;newbase_gameplayV3;12|2700;newbase_gameplayV3;30|2800;newbase_gameplayV3;30|2900;newbase_gameplayV3;30
 2000120,area_v3_unlock_hero_area,1029
 2000121,area_v3_unlock_activity_level,8
 2000122,area_v3_unlock_scene_locate,5
@@ -1579,7 +1579,7 @@ int,string,string
 4000032,radar_show_time,1440
 4000019,radar_sys_19,1|4800|1;2|4200|1;3|3600|1;4|3000|1;5|2400|1
 9963,alliance_record_news_end_time,168
-4000029,radar_sys_0119,1;20|2;25|3;30|4;35|5;40
+4000029,radar_sys_0119,1;30|2;35|3;40|4;45|5;50
 10053,web_game_create_short_cut_reward,1916352
 950031,novice_adjustments_guide_building,3900;4900
 950032,novice_adjustments_collector_rebate,0|120|360|1560|2560|4520
@@ -1647,7 +1647,7 @@ int,string,string
 280245,newbie_transfer_movein_server_days,5|30
 280246,transfer_server_power_move_in_num,10
 280247,transfer_server_price_para,0.001|1|0.002|1|500|500
-280248,transfer_server_exchange_goto,9202378|9202178|9202402|9202405
+280248,transfer_server_exchange_goto,9202378|9202178|9202402|9202405|9202406
 280249,newbie_transfer_movein_item,20211013
 20210925,gift_points_server_open,0
 20210926,gift_points_server_time,1636300800
@@ -1656,7 +1656,7 @@ int,string,string
 20210625,Age-appropriate_tips,age_verification.txt
 950033,novice_adjustments_guide_in_areabattle,1026|64000;1047|9404;1023|9404
 20211103,crossserver_chat_minlevel,30
-4000044,radar_guide_lv,9
+4000044,radar_guide_lv,10
 4000046,pop_time_cd,3|10
 6000014,switch_show_hero,radar_league;131
 20211105,pay_integral_limit,5000
@@ -1680,3 +1680,20 @@ int,string,string
 20211111,hit_count,5
 20211112,discount_cd,120
 30303003,bargain_shop_coin,2611344
+16013,alliance_new_player_off2,11
+16014,alliance_button_appear,12
+16015,alliance_new_player_reward2,10000002
+941212,reset_profession_v2,10000|1600024
+941214,reset_talent_v2,5000|1600031
+941215,unlock_the_profession_v2,35
+5090,building_engineer_room_tip_count,0
+5091,building_engineer_room_born_count,30
+2220003,MsgQueueMax,20
+1024,item_init_science_v1,200007;2|5100302;1|323002;10|320001;10
+930401,csc_statistics_rank_order,0;1;2;3;4
+930402,csc_help_info_01,3101;3104;3107;3113;3122;3131;3134;3145;3150;3154
+930403,csc_help_info_02,3201
+930404,csc_help_info_03,3301
+930405,csc_display_level,20
+930406,csc_help_info_04,3401
+130169,upgrade_component_talent,1600029
