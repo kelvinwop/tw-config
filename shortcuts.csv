@@ -3,8 +3,8 @@ int,int,int,string,string,string,int,string,int,string,int,string
 1,1,1,icon_land_Shortcut,Army Training,1040,,1040,,,1,image/mainui_btn/btn_trainAll
 2,1,2,icon_sea_Shortcut,Navy Training,1100,,1100,,,1,image/mainui_btn/btn_trainAll
 3,1,3,icon_air_Shortcut,Air Force Training,1050,,1050,,,1,image/mainui_btn/btn_trainAll
-4,2,4,icon_talent_Shortcut,Talent queue,3200,3300,45,3200,3300,45,You got an idle talent queue, it would be better to utilize it!,1,image/mainui_btn/btn_xingjunjiasu
-5,2,5,icon_restraint_Shortcut,Unit Suppression,4900,22,1900,22,You have got an idle Unit Suppression queue, it would be better to utilize it!,1,image/mainui_btn/btn_xingjunjiasu
-6,2,6,icon_equipment_Shortcut,Produce materials,4900,65,4900,65,You got an idle Material production queue, it would be better to utilize it!,1,image/mainui_btn/btn_xingjunjiasu
+4,2,4,icon_talent_Shortcut,Talent queue,3200;3300,45,3200;3300,45,You got an idle talent queue; it would be better to utilize it!,1,image/mainui_btn/btn_xingjunjiasu
+5,2,5,icon_restraint_Shortcut,Unit Suppression,4900,22,1900,22,You have got an idle Unit Suppression queue; it would be better to utilize it!,1,image/mainui_btn/btn_xingjunjiasu
+6,2,6,icon_equipment_Shortcut,Produce materials,4900,65,4900,65,You got an idle Material production queue; it would be better to utilize it!,1,image/mainui_btn/btn_xingjunjiasu
 7,2,7,icon_donate_Shortcut,Alliance Donation,,,,,You can donate now. Make a donation!,1,image/mainui_btn/btn_xingjunjiasu
 8,2,8,icon_march_Shortcut,Marching Queue,,5,,5,,1,image/mainui_btn/btn_xingjunjiasu

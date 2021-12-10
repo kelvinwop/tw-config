@@ -1,57 +1,57 @@
 id,pic,get_type,get_desc,get_param,name,show_order,userui_main_offset,is_show,world_offset,plat,time,endtime,timeType
 int,string,int,string,int,string,int,string,int,string,string,string,string,int
-0,image/world_unit2/castle_name_1,0,plate_get_desc_0,0,No,1,1,-108,1,1,0,0,0.4,,,,
-1,image/world_unit2/castle_name_2,1,Available at Commander Lv. {0},70,Veteran,70,1,-108,1,1,0,0,0.4,,,,
-2,image/world_unit2/castle_name_3,2,VIP {0} to get,8,Mighty,8,1,-105,1,1,0,1.2,0.4,,,,
-3,image/world_unit2/castle_name_4,4,plate_get_desc_3,19,War Madman,8,1,-105,1,0,0,1.2,0.4,,,,
-4,image/world_unit2/castle_name_5,4,plate_get_desc_4,19,plate_name_005,8,1,-85,1,1,-13,7,0.4,g123,2021-1-21-0-0-0,2021-1-27-23-59-59,1
-5,image/world_unit2/castle_name_6,4,plate_get_desc_4,19,plate_name_006,8,1,-85,1,1,-17,5,0.4,g123,2019-11-18-0-0-0,2019-12-01-23-59-59,1
-8,image/world_unit2/castle_name_9,4,plate_get_desc_4,179,2020 New Year,71,1,-105,1,1,0,0,0.4,,,,
-6,image/world_unit2/castle_name_7,4,plate_get_desc_4,2009188,plate_name_007,8,1,-85,1,1,-10,12,0.5,g123,2020-10-29-0-0-0,2020-11-04-23-59-59,
-7,image/world_unit2/castle_name_8,4,Get it in Top 16 Tournament,179,Top War,71,-30,-99,1.4,1,-12,0,0.6,,,,
-9,image/world_unit2/castle_name_10,6,You may get it with Rare Treasure Map,0,Treasure Hunter,72,1,-105,1,1,-12,-1.3,0.6,,,,
-10,image/world_unit2/castle_name_11,4,plate_get_desc_4,2002002,plate_name_011,8,1,-85,1,1,-10,2,0.5,g123,2020-02-13-0-0-0,2020-02-26-23-59-59,1
-11,image/world_unit2/castle_name_12,4,plate_get_desc_4,2002001,plate_name_012,8,1,-85,1,1,-10,2,0.5,g123,2020-03-12-0-0-0,2020-03-25-23-59-59,1
-13,image/world_unit2/castle_name_14,4,plate_get_desc_7,9856000,Expedition Vanguard,72,1,-105,1,1,-12,-1.3,0.6,,,,
-14,image/world_unit2/castle_name_15,4,plate_get_desc_7,335,Early Summer,72,1,-105,1,1,0,-1.3,0.6,wx|webgame|baidugame|toutiao|appios|appandroid|googleplay|appwx|qqmini|appqq|apptianci|appfb|quickvivo|quickhuawei|quickoppo|appiosglobal|esprit|qqwanba,,,
-12,image/world_unit2/castle_name_13,4,plate_get_desc_4,2004007,plate_name_013,8,1,-105,1,1,-13,4,0.6,g123,2020-04-30-0-0-0,2020-05-14-23-59-59,1
-17,image/world_unit2/castle_name_17,4,plate_get_desc_0,0,plate_name_017,8,1,-85,1,1,-10,2,0.5,g123,2020-06-01-0-0-0,2020-07-25-23-59-59,1
-15,image/world_unit2/castle_name_16,4,Available at Commander Lv. {0}0,2006186,plate_name_016,8,1,-85,1,1,-10,15,0.5,g123,2020-06-11-0-0-0,2020-06-24-23-59-59,1
-18,image/world_unit2/castle_name_18,4,plate_get_desc_8,0,plate_name_018,8,1,-85,1,1,3,2,0.5,g123,,,
-19,image/world_unit2/castle_name_19,4,plate_get_desc_8,0,plate_name_019,8,1,-85,1,1,3,2,0.5,g123,,,
-20,image/world_unit2/castle_name_20,4,plate_get_desc_8,0,plate_name_020,8,1,-85,1,1,3,1.7,0.5,g123,,,
-21,image/world_unit2/castle_name_21,4,plate_get_desc_9,2007241,plate_name_021,8,1,-85,1,1,5,2,0.5,g123,2020-07-24-0-0-0,2020-09-30-23-59-59,3
-22,image/world_unit2/castle_name_22,4,Available at Commander Lv. {0}1,2007091,plate_name_022,8,1,-105,1,1,3,2,0.5,g123,2020-07-09-0-0-0,2020-07-22-23-59-59,1
-23,image/world_unit2/castle_name_23,4,VIP {0} to get3,2008061,plate_name_023,9,1,-85,1,1,3,2,0.5,g123,2020-08-06-0-0-0,2020-08-19-23-59-59,1
-24,image/world_unit2/castle_name_24,4,VIP {0} to get4,500057,plate_name_024,9,1,-85,1,1,3,2,0.5,g123,2020-9-24-0-0-0,2020-9-30-23-59-59,1
-25,image/world_unit2/castle_name_25,4,VIP {0} to get5,2009171,plate_name_025,9,1,-85,1,1,3,2,0.5,g123,2020-9-17-0-0-0,2020-9-30-23-59-59,1
-27,image/world_unit2/castle_name_27,4,,0,Autumn Bunny Nameplate,72,1,-105,1,1,-2,0.3,0.6,,,,
-26,image/world_unit2/castle_name_26,4,VIP {0} to get6,2009186,plate_name_026,9,1,-85,1,1,3,2,0.5,g123,2020-10-15-0-0-0,2020-10-28-23-59-59,1
-28,image/world_unit2/castle_name_28,4,VIP {0} to get8,2009196,plate_name_028,9,1,-85,1,1,3,2,0.5,g123,2020-11-12-0-0-0,2020-11-25-23-59-59,1
-29,image/world_unit2/castle_name_29,4,VIP {0} to get9,101980,plate_name_029,9,1,-85,1,1,3,2,0.5,g123,2020-12-10-0-0-0,2020-12-23-23-59-59,1
-30,image/world_unit2/castle_name_30,4,Obtained from the "Winter Operation" event,5201,Wishing Snowman Nameplate,10,1,-105,1,1,-2,0.3,0.6,,,,
-31,image/world_unit2/castle_name_31,4,plate_get_desc_31,2009203,plate_name_031,9,10,-94,1,1,7,8,0.5,g123,2020-12-24-0-0-0,2020-12-26-23-59-59,1
-32,image/world_unit2/castle_name_32,4,plate_get_desc_32,0,plate_name_032,9,1,-85,1,1,3,2,0.5,g123,2020-12-31-23-0-0,2021-1-11-23-59-59,1
-33,image/world_unit2/castle_name_33,4,plate_get_desc_33,500123,plate_name_033,9,1,-85,1,1,3,2,0.5,g123,2021-1-7-0-0-0,2021-1-20-23-59-59,1
-34,image/world_unit2/castle_name_34,6,From Limited Time Pack,0,Flowing Clouds Nameplate,9,1,-102,1,1,3,2,0.5,,,,
-35,image/world_unit2/castle_name_35,4,plate_get_desc_35,102090,plate_name_035,9,1,-85,1,1,0,10,0.5,g123,2021-2-11-0-0-0,2021-2-24-23-59-59,1
-36,image/world_unit2/castle_name_36,4,plate_get_desc_36,2009222,plate_name_036,9,1,-85,1,1,3,2,0.5,g123,2021-3-11-0-0-0,2021-3-24-23-59-59,1
-37,image/world_unit2/castle_name_37,4,plate_get_desc_37,0,plate_name_037,9,1,-103,1,1,3,2,0.5,g123,2021-3-25-0-0-0,2021-3-31-23-59-59,1
-38,image/world_unit2/castle_name_38,4,plate_get_desc_38,2009228,plate_name_038,9,1,-85,1,1,3,8,0.5,g123,2021-4-8-0-0-0,2021-4-21-23-59-59,1
-39,image/world_unit2/castle_name_39,4,plate_get_desc_39,2009234,plate_name_039,9,1,-105,1,1,3,2,0.5,g123,2021-5-6-0-0-0,2021-5-19-23-59-59,1
-40,image/world_unit2/castle_name_40,4,plate_get_desc_40,5520,Cherry Lamp Nameplate,9,1,-102,1,1,3,2,0.5,,,,
-41,image/world_unit2/castle_name_41,4,plate_get_desc_41,2009243,plate_name_041,9,1,-105,1,1,-10,2,0.5,g123,2021-6-10-0-0-0,2021-6-16-23-59-59,1
-42,image/world_unit2/castle_name_42,4,plate_get_desc_42,500281,Pro-surfer Nameplate,9,1,-102,1,1,3,2,0.5,,,,
-43,image/world_unit2/castle_name_43,4,plate_get_desc_43,2009249,plate_name_043,9,1,-105,1,1,-10,2,0.5,g123,2021-7-8-0-0-0,2021-7-21-23-59-59,1
-46,image/world_unit2/castle_name_46,4,plate_get_desc_46,735,Ready for Battle,9,1,-105,1,1,3,2,0.5,wx|webgame|baidugame|toutiao|qqmini|esprit|appios|appandroid|appwx|apptianci|appqq|quickoppo|quickvivo|quickhuawei|qqwanba|appiosglobal|appfb|googleplay|fbgame|apphuaweiglobal|qqgame,,,
-45,image/world_unit2/castle_name_45,4,plate_get_desc_45,0,plate_name_045,9,1,-105,1,1,3,2,0.5,g123,2021-7-22-0-0-0,2022-4-27-22-59-59,1
-44,image/world_unit2/castle_name_44,4,plate_get_desc_44,5615,Never Fall,9,1,-105,1,1,3,2,0.5,,2021-8-10-0-0-0,2029-5-19-23-59-59,1
-47,image/world_unit2/castle_name_47,4,plate_get_desc_47,5002805,Starry Love Nameplate,71,1,-105,1,1,-3,-1,0.5,,,,
-48,image/world_unit2/castle_name_48,4,plate_get_desc_48,900002,Street Path Nameplate,9,1,-105,1,1,3,-2,0.5,,,,
-49,image/world_unit2/castle_name_49,4,plate_get_desc_49,5002808,Lunar Cloud Nameplate,9,1,-105,1,1,3,-2,0.5,,2021-9-19-0-0-0,2029-5-19-23-59-59,1
-50,image/world_unit2/castle_name_50,4,Get it in Top 16 Tournament0,5516,Glorious Clouds Nameplate,9,1,-105,1,1,3,-2,0.5,,2021-9-30-0-0-0,2029-9-21-23-59-59,1
-51,image/world_unit2/castle_name_51,4,Get it in Top 16 Tournament1,0,plate_name_051,9,1,-95,1,1,3,2,0.5,g123,2021-10-23-0-0-0,2029-4-27-22-59-59,1
-52,image/world_unit2/castle_name_52,4,Get it in Top 16 Tournament2,0,Ribbon & Sakura,9,1,-105,1,1,3,0,0.5,wx|webgame|baidugame|toutiao|qqmini|esprit|appios|appandroid|appwx|apptianci|appqq|quickoppo|quickvivo|quickhuawei|qqwanba|appiosglobal|appfb|googleplay|webgameglobal|fbgame|apphuaweiglobal|qqgame|appiosviet|googleplayviet,2021-10-23-0-0-0,2029-5-19-23-59-59,1
-54,image/world_unit2/castle_name_54,4,Get it in Top 16 Tournament4,900011,Midnight Party Nameplate,9,1,-105,1,1,3,0,0.5,,2021-10-28-0-0-0,2029-5-19-23-59-59,1
-53,image/world_unit2/castle_name_53,4,Get it in Top 16 Tournament3,2009273,plate_name_053,9,1,-105,1,1,-10,2,0.5,g123,2021-11-11-0-0-0,2021-11-17-23-59-59,1
-55,image/world_unit2/castle_name_55,4,Get it in Top 16 Tournament5,900014,Harvest Time Nameplate,9,1,-105,1,1,3,0,0.5,,2021-10-21-0-0-0,2029-5-19-23-59-59,1
+0,image/world_unit2/castle_name_1,0,plate_get_desc_0,0,No,1,1;-108;1,1,0;0;0.4,,,,
+1,image/world_unit2/castle_name_2,1,Available at Commander Lv. {0},70,Veteran,70,1;-108;1,1,0;0;0.4,,,,
+2,image/world_unit2/castle_name_3,2,VIP {0} to get,8,Mighty,8,1;-105;1,1,0;1.2;0.4,,,,
+3,image/world_unit2/castle_name_4,4,plate_get_desc_3,19,War Madman,8,1;-105;1,0,0;1.2;0.4,,,,
+4,image/world_unit2/castle_name_5,4,plate_get_desc_4,19,plate_name_005,8,1;-85;1,1,-13;7;0.4,g123,2021-1-21-0-0-0,2021-1-27-23-59-59,1
+5,image/world_unit2/castle_name_6,4,plate_get_desc_4,19,plate_name_006,8,1;-85;1,1,-17;5;0.4,g123,2019-11-18-0-0-0,2019-12-01-23-59-59,1
+8,image/world_unit2/castle_name_9,4,plate_get_desc_4,179,2020 New Year,71,1;-105;1,1,0;0;0.4,,,,
+6,image/world_unit2/castle_name_7,4,plate_get_desc_4,2009188,plate_name_007,8,1;-85;1,1,-10;12;0.5,g123,2020-10-29-0-0-0,2020-11-04-23-59-59,
+7,image/world_unit2/castle_name_8,4,Get it in Top 16 Tournament,179,Top War,71,-30;-99;1.4,1,-12;0;0.6,,,,
+9,image/world_unit2/castle_name_10,6,You may get it with Rare Treasure Map,0,Treasure Hunter,72,1;-105;1,1,-12;-1.3;0.6,,,,
+10,image/world_unit2/castle_name_11,4,plate_get_desc_4,2002002,plate_name_011,8,1;-85;1,1,-10;2;0.5,g123,2020-02-13-0-0-0,2020-02-26-23-59-59,1
+11,image/world_unit2/castle_name_12,4,plate_get_desc_4,2002001,plate_name_012,8,1;-85;1,1,-10;2;0.5,g123,2020-03-12-0-0-0,2020-03-25-23-59-59,1
+13,image/world_unit2/castle_name_14,4,plate_get_desc_7,9856000,Expedition Vanguard,72,1;-105;1,1,-12;-1.3;0.6,,,,
+14,image/world_unit2/castle_name_15,4,plate_get_desc_7,335,Early Summer,72,1;-105;1,1,0;-1.3;0.6,wx|webgame|baidugame|toutiao|appios|appandroid|googleplay|appwx|qqmini|appqq|apptianci|appfb|quickvivo|quickhuawei|quickoppo|appiosglobal|esprit|qqwanba,,,
+12,image/world_unit2/castle_name_13,4,plate_get_desc_4,2004007,plate_name_013,8,1;-105;1,1,-13;4;0.6,g123,2020-04-30-0-0-0,2020-05-14-23-59-59,1
+17,image/world_unit2/castle_name_17,4,plate_get_desc_0,0,plate_name_017,8,1;-85;1,1,-10;2;0.5,g123,2020-06-01-0-0-0,2020-07-25-23-59-59,1
+15,image/world_unit2/castle_name_16,4,Available at Commander Lv. {0}0,2006186,plate_name_016,8,1;-85;1,1,-10;15;0.5,g123,2020-06-11-0-0-0,2020-06-24-23-59-59,1
+18,image/world_unit2/castle_name_18,4,plate_get_desc_8,0,plate_name_018,8,1;-85;1,1,3;2;0.5,g123,,,
+19,image/world_unit2/castle_name_19,4,plate_get_desc_8,0,plate_name_019,8,1;-85;1,1,3;2;0.5,g123,,,
+20,image/world_unit2/castle_name_20,4,plate_get_desc_8,0,plate_name_020,8,1;-85;1,1,3;1.7;0.5,g123,,,
+21,image/world_unit2/castle_name_21,4,plate_get_desc_9,2007241,plate_name_021,8,1;-85;1,1,5;2;0.5,g123,2020-07-24-0-0-0,2020-09-30-23-59-59,3
+22,image/world_unit2/castle_name_22,4,Available at Commander Lv. {0}1,2007091,plate_name_022,8,1;-105;1,1,3;2;0.5,g123,2020-07-09-0-0-0,2020-07-22-23-59-59,1
+23,image/world_unit2/castle_name_23,4,VIP {0} to get3,2008061,plate_name_023,9,1;-85;1,1,3;2;0.5,g123,2020-08-06-0-0-0,2020-08-19-23-59-59,1
+24,image/world_unit2/castle_name_24,4,VIP {0} to get4,500057,plate_name_024,9,1;-85;1,1,3;2;0.5,g123,2020-9-24-0-0-0,2020-9-30-23-59-59,1
+25,image/world_unit2/castle_name_25,4,VIP {0} to get5,2009171,plate_name_025,9,1;-85;1,1,3;2;0.5,g123,2020-9-17-0-0-0,2020-9-30-23-59-59,1
+27,image/world_unit2/castle_name_27,4,,0,Autumn Bunny Nameplate,72,1;-105;1,1,-2;0.3;0.6,,,,
+26,image/world_unit2/castle_name_26,4,VIP {0} to get6,2009186,plate_name_026,9,1;-85;1,1,3;2;0.5,g123,2020-10-15-0-0-0,2020-10-28-23-59-59,1
+28,image/world_unit2/castle_name_28,4,VIP {0} to get8,2009196,plate_name_028,9,1;-85;1,1,3;2;0.5,g123,2020-11-12-0-0-0,2020-11-25-23-59-59,1
+29,image/world_unit2/castle_name_29,4,VIP {0} to get9,101980,plate_name_029,9,1;-85;1,1,3;2;0.5,g123,2020-12-10-0-0-0,2020-12-23-23-59-59,1
+30,image/world_unit2/castle_name_30,4,Obtained from the "Winter Operation" event,5201,Wishing Snowman Nameplate,10,1;-105;1,1,-2;0.3;0.6,,,,
+31,image/world_unit2/castle_name_31,4,plate_get_desc_31,2009203,plate_name_031,9,10;-94;1,1,7;8;0.5,g123,2020-12-24-0-0-0,2020-12-26-23-59-59,1
+32,image/world_unit2/castle_name_32,4,plate_get_desc_32,0,plate_name_032,9,1;-85;1,1,3;2;0.5,g123,2020-12-31-23-0-0,2021-1-11-23-59-59,1
+33,image/world_unit2/castle_name_33,4,plate_get_desc_33,500123,plate_name_033,9,1;-85;1,1,3;2;0.5,g123,2021-1-7-0-0-0,2021-1-20-23-59-59,1
+34,image/world_unit2/castle_name_34,6,From Limited Time Pack,0,Flowing Clouds Nameplate,9,1;-102;1,1,3;2;0.5,,,,
+35,image/world_unit2/castle_name_35,4,plate_get_desc_35,102090,plate_name_035,9,1;-85;1,1,0;10;0.5,g123,2021-2-11-0-0-0,2021-2-24-23-59-59,1
+36,image/world_unit2/castle_name_36,4,plate_get_desc_36,2009222,plate_name_036,9,1;-85;1,1,3;2;0.5,g123,2021-3-11-0-0-0,2021-3-24-23-59-59,1
+37,image/world_unit2/castle_name_37,4,plate_get_desc_37,0,plate_name_037,9,1;-103;1,1,3;2;0.5,g123,2021-3-25-0-0-0,2021-3-31-23-59-59,1
+38,image/world_unit2/castle_name_38,4,plate_get_desc_38,2009228,plate_name_038,9,1;-85;1,1,3;8;0.5,g123,2021-4-8-0-0-0,2021-4-21-23-59-59,1
+39,image/world_unit2/castle_name_39,4,plate_get_desc_39,2009234,plate_name_039,9,1;-105;1,1,3;2;0.5,g123,2021-5-6-0-0-0,2021-5-19-23-59-59,1
+40,image/world_unit2/castle_name_40,4,plate_get_desc_40,5520,Cherry Lamp Nameplate,9,1;-102;1,1,3;2;0.5,,,,
+41,image/world_unit2/castle_name_41,4,plate_get_desc_41,2009243,plate_name_041,9,1;-105;1,1,-10;2;0.5,g123,2021-6-10-0-0-0,2021-6-16-23-59-59,1
+42,image/world_unit2/castle_name_42,4,plate_get_desc_42,500281,Pro-surfer Nameplate,9,1;-102;1,1,3;2;0.5,,,,
+43,image/world_unit2/castle_name_43,4,plate_get_desc_43,2009249,plate_name_043,9,1;-105;1,1,-10;2;0.5,g123,2021-7-8-0-0-0,2021-7-21-23-59-59,1
+46,image/world_unit2/castle_name_46,4,plate_get_desc_46,735,Ready for Battle,9,1;-105;1,1,3;2;0.5,wx|webgame|baidugame|toutiao|qqmini|esprit|appios|appandroid|appwx|apptianci|appqq|quickoppo|quickvivo|quickhuawei|qqwanba|appiosglobal|appfb|googleplay|fbgame|apphuaweiglobal|qqgame,,,
+45,image/world_unit2/castle_name_45,4,plate_get_desc_45,0,plate_name_045,9,1;-105;1,1,3;2;0.5,g123,2021-7-22-0-0-0,2022-4-27-22-59-59,1
+44,image/world_unit2/castle_name_44,4,plate_get_desc_44,5615,Never Fall,9,1;-105;1,1,3;2;0.5,,2021-8-10-0-0-0,2029-5-19-23-59-59,1
+47,image/world_unit2/castle_name_47,4,plate_get_desc_47,5002805,Starry Love Nameplate,71,1;-105;1,1,-3;-1;0.5,,,,
+48,image/world_unit2/castle_name_48,4,plate_get_desc_48,900002,Street Path Nameplate,9,1;-105;1,1,3;-2;0.5,,,,
+49,image/world_unit2/castle_name_49,4,plate_get_desc_49,5002808,Lunar Cloud Nameplate,9,1;-105;1,1,3;-2;0.5,,2021-9-19-0-0-0,2029-5-19-23-59-59,1
+50,image/world_unit2/castle_name_50,4,Get it in Top 16 Tournament0,5516,Glorious Clouds Nameplate,9,1;-105;1,1,3;-2;0.5,,2021-9-30-0-0-0,2029-9-21-23-59-59,1
+51,image/world_unit2/castle_name_51,4,Get it in Top 16 Tournament1,0,plate_name_051,9,1;-95;1,1,3;2;0.5,g123,2021-10-23-0-0-0,2029-4-27-22-59-59,1
+52,image/world_unit2/castle_name_52,4,Get it in Top 16 Tournament2,0,Ribbon & Sakura,9,1;-105;1,1,3;0;0.5,wx|webgame|baidugame|toutiao|qqmini|esprit|appios|appandroid|appwx|apptianci|appqq|quickoppo|quickvivo|quickhuawei|qqwanba|appiosglobal|appfb|googleplay|webgameglobal|fbgame|apphuaweiglobal|qqgame|appiosviet|googleplayviet,2021-10-23-0-0-0,2029-5-19-23-59-59,1
+54,image/world_unit2/castle_name_54,4,Get it in Top 16 Tournament4,900011,Midnight Party Nameplate,9,1;-105;1,1,3;0;0.5,,2021-10-28-0-0-0,2029-5-19-23-59-59,1
+53,image/world_unit2/castle_name_53,4,Get it in Top 16 Tournament3,2009273,plate_name_053,9,1;-105;1,1,-10;2;0.5,g123,2021-11-11-0-0-0,2021-11-17-23-59-59,1
+55,image/world_unit2/castle_name_55,4,Get it in Top 16 Tournament5,900014,Harvest Time Nameplate,9,1;-105;1,1,3;0;0.5,,2021-10-21-0-0-0,2029-5-19-23-59-59,1

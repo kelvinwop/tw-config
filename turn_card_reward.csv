@@ -1,9 +1,9 @@
 id,combine,reward,reward_level,type,desc
 int,string,int,int,int,string
-1,1,1,1,5700001,0,1,Special Prize
-2,2,2,2,5700002,1,0,First Prize
-3,3,3,3,5700003,2,0,Second Prize
-4,1,1,2,5700004,2,0,Second Prize
-5,1,1,3,5700005,3,0,Third Prize
-6,1,2,3,5700006,3,0,Third Prize
-7,1,2,2,5700007,3,0,Third Prize
+1,1;1;1,5700001,0,1,Special Prize
+2,2;2;2,5700002,1,0,First Prize
+3,3;3;3,5700003,2,0,Second Prize
+4,1;1;2,5700004,2,0,Second Prize
+5,1;1;3,5700005,3,0,Third Prize
+6,1;2;3,5700006,3,0,Third Prize
+7,1;2;2,5700007,3,0,Third Prize

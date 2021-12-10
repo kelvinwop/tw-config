@@ -24,5 +24,5 @@ int,int,int,int,int,int,int,int,string,string,string,int,int,int,int,string,stri
 22,1900003,101,20000,1,1,1,1,AlliancePointBuyItem_chest,,,0,,,,,
 23,200007,101,1500,1,1,2,10,AlliancePointBuyItem_qian2,,,180,,,,,
 24,9992001,101,180,1,1,1,10,AlliancePointBuyItem_medal,,,180,1,1,55,,alliance_shop_switch
-25,20210105,101,15000,1,1,1,1,AlliancePointBuyItem_move,,,180,,1,50,15,1,server_move_function
+25,20210105,101,15000,1,1,1,1,AlliancePointBuyItem_move,,,180,,1,50,15;1,server_move_function
 26,1800001,101,20,1,1,1,100,AlliancePointBuyItem_sci,,,180,,1,,,

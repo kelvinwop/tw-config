@@ -1,6 +1,6 @@
 id,model,icon,name,desc,player_level,cost_energy,life_time,pve_monster,generate_district
 int,string,string,string,string,int,int,int,int,string
-1,PrefabWmBoss2,image/icon_army/shijieboss,107261,107262,7,5,3600,4001,49,50,51,52,60,53,59,54,58,57,56,55
-2,PrefabWmBoss2,image/icon_army/shijieboss,Marshal - World Boss,The Marshal of the Dark Army riding on a deadly warbot. Defeat him to get Component Chests.,7,5,3600,4002,49,50,51,52,60,53,59,54,58,57,56,55
-3,PrefabWmEnemyH,image/icon_army/shijiebossH,Admiral - World Boss,The Admiral of the Dark Navy riding on a deadly warbot. Defeat him to get Component Chests.,7,5,3600,4003,49,50,51,52,60,53,59,54,58,57,56,55
-4,PrefabWmEnemyK,image/icon_army/shijiebossK,General - World Boss,The General of the Dark Air Force riding on a deadly warbot. Defeat him to get Component Chests.,7,5,3600,4004,49,50,51,52,60,53,59,54,58,57,56,55
+1,PrefabWmBoss2,image/icon_army/shijieboss,107261,107262,7,5,3600,4001,49;50;51;52;60;53;59;54;58;57;56;55
+2,PrefabWmBoss2,image/icon_army/shijieboss,Marshal - World Boss,The Marshal of the Dark Army riding on a deadly warbot. Defeat him to get Component Chests.,7,5,3600,4002,49;50;51;52;60;53;59;54;58;57;56;55
+3,PrefabWmEnemyH,image/icon_army/shijiebossH,Admiral - World Boss,The Admiral of the Dark Navy riding on a deadly warbot. Defeat him to get Component Chests.,7,5,3600,4003,49;50;51;52;60;53;59;54;58;57;56;55
+4,PrefabWmEnemyK,image/icon_army/shijiebossK,General - World Boss,The General of the Dark Air Force riding on a deadly warbot. Defeat him to get Component Chests.,7,5,3600,4004,49;50;51;52;60;53;59;54;58;57;56;55

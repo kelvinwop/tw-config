@@ -2,9 +2,9 @@ id,name,value
 int,string,string
 1000,coin,50000
 1002,oil,0
-1004,army_init,10001,23,25|10001,22,26|10001,24,26|10001,21,27|10001,23,27|10001,22,28|10002,22,24
-1005,building_init,1701,18,22,0|1701,16,24,0|1701,16,20,0|1801,18,18,0|1041,20,28,1|1901,24,30,0|2001,28,26,0|2201,28,18,0|2101,24,14,0
-1007,item_init,320001,10|200007,2|5100302,1|323001,10
+1004,army_init,10001;23;25|10001;22;26|10001;24;26|10001;21;27|10001;23;27|10001;22;28|10002;22;24
+1005,building_init,1701;18;22;0|1701;16;24;0|1701;16;20;0|1801;18;18;0|1041;20;28;1|1901;24;30;0|2001;28;26;0|2201;28;18;0|2101;24;14;0
+1007,item_init,320001;10|200007;2|5100302;1|323001;10
 1008,hero_init,101
 1010,critical_base,1.5
 1011,dodge_base,0.1
@@ -26,11 +26,11 @@ int,string,string
 5006,daily_task_num,9
 5007,daily_task_help_limited,6
 5008,ad_get_gold_probability,50
-5009,ad_get_gold_milestone,25|5,50|10
+5009,ad_get_gold_milestone,25|5;50|10
 5010,fav_wx_reward,950
 5011,share_coin_gold_num,70
 5012,ad_get_gold,10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10|10
-5013,foundation,5,1000|10,300|15,400|20,400|25,500|30,500|35,500|40,500|45,3500|50,6000
+5013,foundation,5;1000|10;300|15;400|20;400|25;500|30;500|35;500|40;500|45;3500|50;6000
 5014,day_share_coin_reward_min,40
 5015,day_ad_coin_reward_min,30
 5016,day_share_coin_reward_times,3
@@ -50,7 +50,7 @@ int,string,string
 5047,repair_cost_time,0.5
 5048,repair_cost_resource,0
 5049,hospital_initial,4
-5050,hospital_update,800001|1,800001|5,800001|10,800001|20,800001|50,800001|100
+5050,hospital_update,800001|1;800001|5;800001|10;800001|20;800001|50;800001|100
 5051,autogather_buycoin_time,3600
 5052,autogather_buycoin_price,5|5|10|10|20|20|50|50|50|100
 5053,share_tech_group_reward_count,2
@@ -74,8 +74,8 @@ int,string,string
 5071,share_tech_reward_check,310001|311001|312001|313001|300001|301001|302001|303001|320001|321001|322001|323001
 5072,lucky_tree_free_count,5
 5073,lucky_tree_cost_count,25
-5074,lucky_tree_free_group_rate,5000,9000,1000|4000,8000,2000|1000,5000,5000|0,0,10000
-5075,lucky_tree_cost_group_rate,1000,9000,1000|4000,8000,2000|4900,5000,5000|100,0,10000
+5074,lucky_tree_free_group_rate,5000;9000;1000|4000;8000;2000|1000;5000;5000|0;0;10000
+5075,lucky_tree_cost_group_rate,1000;9000;1000|4000;8000;2000|4900;5000;5000|100;0;10000
 5076,lucky_tree_pool_rate,200
 5077,lucky_tree_pool_count,25
 5078,lucky_tree_reward_time,36000
@@ -94,7 +94,7 @@ int,string,string
 5401,ad_gold_free_base,15
 5402,ad_gold_free_cd,15
 5403,ad_gold_free_level,1|100
-5404,ad_gold_free_add,10|1,12|1.5,15|2
+5404,ad_gold_free_add,10|1;12|1.5;15|2
 6001,default_destroy_time,10
 6002,click_destroy_addon_time,1.5
 7001,fix_tank_obstacle,999
@@ -105,7 +105,7 @@ int,string,string
 8001,monster_refresh_time,3
 8002,area_monster_num,200
 8003,area_monsterBoss_num,60
-8004,area_monsterBossWeight_num,10|5,20|10,30|20,40|30,50|40,60|50,70|60,80|70
+8004,area_monsterBossWeight_num,10|5;20|10;30|20;40|30;50|40;60|50;70|60;80|70
 8005,area_monsterBoss_newplayer,5
 9001,world_access_level,5
 9002,upgrade_build_level_init,5
@@ -241,7 +241,7 @@ int,string,string
 22001,chest_share,30
 22002,prod_scheduler_start_min_interval,30
 23001,banned_report_time,10800
-23002,banned_report_number,5|2,20|6,45|20,69|30,100|9999999
+23002,banned_report_number,5|2;20|6;45|20;69|30;100|9999999
 23003,banned_chat_time,60
 23004,banned_chat_number,5
 23005,banned_punish_time,21600|43200|86400|172800|259200
@@ -256,7 +256,7 @@ int,string,string
 23108,crystal_buy_id,3100001
 23109,crystal_use_id,3100002
 23110,first_purchase_level,3
-23111,recall_player_1,1|30|1,2|500|1;1|30|4,2|500|1;1|30|1,2|500|4;1|30|4,2|500|4
+23111,recall_player_1,1|30|1;2|500|1;1|30|4;2|500|1;1|30|1;2|500|4;1|30|4;2|500|4
 23112,ios_app_level,5
 23113,gender_price,500
 23115,recall_player_reward,9006421|9006422|9006423|9006424
@@ -270,8 +270,8 @@ int,string,string
 23123,turn_destiny_item_id,2300003
 23124,turn_day_max_count,1000
 23125,cure_free_level,9
-23126,rank_rose_receive,1,1,9018001|2,2,9018002|3,3,9018003|4,10,9018004|11,50,9018005|51,100,9018006|101,9999999,9018007
-23127,rank_rose_send,1,1,9018011|2,2,9018012|3,3,9018013|4,10,9018004|11,50,9018005|51,100,9018006|101,9999999,9018007
+23126,rank_rose_receive,1;1;9018001|2;2;9018002|3;3;9018003|4;10;9018004|11;50;9018005|51;100;9018006|101;9999999;9018007
+23127,rank_rose_send,1;1;9018011|2;2;9018012|3;3;9018013|4;10;9018004|11;50;9018005|51;100;9018006|101;9999999;9018007
 23128,money_to_vippoint,1
 23129,login_rose,5
 23130,defaultLattice,50
@@ -279,16 +279,16 @@ int,string,string
 23132,first_purchase_1,1|5003003
 23133,first_purchase_6,6|5003003
 23134,training_num,15
-23135,rank_rose_receive_allserver,1,1,3600016|2,2,3600013|3,3,3600014|4,10,3600015
-23136,rank_rose_send_allserver,1,1,3600012|2,2,3600013|3,3,3600014|4,10,3600015
+23135,rank_rose_receive_allserver,1;1;3600016|2;2;3600013|3;3;3600014|4;10;3600015
+23136,rank_rose_send_allserver,1;1;3600012|2;2;3600013|3;3;3600014|4;10;3600015
 23137,rank_rose_allserver_capacity,20
-23138,drop_decorations,1700025,25|1700026,25|1700027,10|1700028,5
+23138,drop_decorations,1700025;25|1700026;25|1700027;10|1700028;5
 23139,first_purchase_pop_level,5
 23200,new_emperor_chest_time,5
 23201,new_emperor_chest_number,100
 23202,new_emperor_chest_last,1
 23203,new_emperor_chest,9013999
-23204,new_emperor_task_unlock,0,0,0,1,2
+23204,new_emperor_task_unlock,0;0;0;1;2
 24001,hero_unlockLevel,7
 24002,system_unlock_delay,5
 24003,levelup_guide_level,1|15
@@ -297,7 +297,7 @@ int,string,string
 25003,alliance_boss_item,3200001
 25004,max_rally_avatar_in_screen,3
 25005,max_avatar_number_except_captain,4
-25006,alliance_boss_open,3|1001,4|1001,4|1002,5|1001,5|1002,5|1003,5|2001,5|2002,5|2003
+25006,alliance_boss_open,3|1001;4|1001;4|1002;5|1001;5|1002;5|1003;5|2001;5|2002;5|2003
 25007,alliance_boss_cd,691200
 25008,alliance_boss_item_limit,500
 25009,alliance_boss_attack_limit,86400
@@ -307,11 +307,11 @@ int,string,string
 28001,wonder_big_start,14
 28002,wonder_big_weekday,7
 28003,wonder_big_hour,10
-28004,wonder_occupy_time,3600,1800|1800,900|1800,300
+28004,wonder_occupy_time,3600;1800|1800;900|1800;300
 28005,wonder_downgrade_percent,0.3
 28006,wonder_name_gold,200
-28007,throne_buff_diamond,500,1000,2000,3000,4000,5000
-28008,rank_throne_battle,1,1,320001|2,2,320002|3,3,320003|4,4,320004|5,5,320005|6,10,320006|11,20,320007|21,50,320008
+28007,throne_buff_diamond,500;1000;2000;3000;4000;5000
+28008,rank_throne_battle,1;1;320001|2;2;320002|3;3;320003|4;4;320004|5;5;320005|6;10;320006|11;20;320007|21;50;320008
 28009,wonder_server_reward,310000
 28010,silo_coutdown,90
 28011,silo_kill_percent,200
@@ -319,19 +319,19 @@ int,string,string
 28013,silo_new_a0,4000
 28014,silo_new_M,10
 28015,silo_new_tmin,20
-28101,worldbattle_buff,921002,3000|920800,3000|930000,2000|930100,2000
+28101,worldbattle_buff,921002;3000|920800;3000|930000;2000|930100;2000
 28102,worldbattle_domain_battle_time,1800
 28103,worldbattle_domain_peace_time,5400
-28201,deploy_route,448,128|448,896|64,896|64,128
+28201,deploy_route,448;128|448;896|64;896|64;128
 28202,deploy_route_time,120|120|120|120
 28203,deploy_round_time,600|600
 28204,deploy_count_min,55
 28205,deploy_count_max,56
 28206,deploy_start_hour,9
 28207,deploy_end_hour,10
-28208,deploy_debuff,910300,-9000|930000,-6000|930100,-6000
+28208,deploy_debuff,910300;-9000|930000;-6000|930100;-6000
 28209,deploy_gift_time,36000
-28210,deploy_guide,101,106,112,115
+28210,deploy_guide,101;106;112;115
 28211,deploy_transfer_mail,9013
 28212,deploy_transfer_reward_multipletimes,5
 28213,deploy_transfer_max_time,20
@@ -347,7 +347,7 @@ int,string,string
 30007,limit_open_level,9
 30008,shop_exp_para,9000000
 30009,shop_exp_level,45
-31001,puzzle_synthesis,4000101|1,4000102|1,4000103|1,4000104|1,4000105|1,4000106|1,4000107|1,4000108|1,4000109|1
+31001,puzzle_synthesis,4000101|1;4000102|1;4000103|1;4000104|1;4000105|1;4000106|1;4000107|1;4000108|1;4000109|1
 31002,puzzle_reward,9001701
 31101,refugee_camp_monster_level,1
 31102,refugee_camp_reward_captain,9103301
@@ -398,11 +398,11 @@ int,string,string
 34207,world_rank_war_ratio_live,0.25|0.25|0.1|0.15
 34208,world_rank_war_ratio_attack,0.25|0.25|0.1|0.15|0.2|0.1
 34209,world_rank_war_ratio_power,0.5
-70001,cross_server_battlefield_coordinate,60,66|60,962|451,67|451,963
+70001,cross_server_battlefield_coordinate,60;66|60;962|451;67|451;963
 70002,cross_server_nomanland_id,1|8|22|15
-70003,cross_server_wonder_occupy_time,3600,1800|1800,900|1800,300
+70003,cross_server_wonder_occupy_time,3600;1800|1800;900|1800;300
 70004,cross_wonder_time,180
-70005,cross_wonder_member_buff,1,0|2,20|3,40
+70005,cross_wonder_member_buff,1;0|2;20|3;40
 70006,cross_server_donate_phase_time,432000
 70007,cross_server_prepare_phase_time,46800
 70008,cross_server_battle_phase_time,7200
@@ -412,20 +412,20 @@ int,string,string
 70012,cross_server_loser_mail,9015
 70013,cross_server_forced_retreat_percent,10
 70014,cross_server_mail_login_days,7
-70015,cross_server_ladder_K,-9999,1999,32|2000,2399,24|2400,9999,16
+70015,cross_server_ladder_K,-9999;1999;32|2000;2399;24|2400;9999;16
 70016,cross_server_reward_phase_time,104400
 70017,cross_server_point_donate_item,5
 70018,cross_server_point_occupy_fort,350
-70019,cross_server_ranking_reward,1,1,5006501|2,2,5006502|3,3,5006503|4,5,5006504|6,10,5006505|11,15,5006506|16,30,5006507|31,50,5006508|51,100,5006509
+70019,cross_server_ranking_reward,1;1;5006501|2;2;5006502|3;3;5006503|4;5;5006504|6;10;5006505|11;15;5006506|16;30;5006507|31;50;5006508|51;100;5006509
 70020,cross_server_ranking_mail,19086
 70021,cross_server_entrance_level,20
-70022,cross_server_ranking_loser_reward,1,1,5006601|2,2,5006602|3,3,5006603|4,5,5006604|6,10,5006605|11,15,5006606|16,30,5006607|31,50,5006608|51,100,5006609
+70022,cross_server_ranking_loser_reward,1;1;5006601|2;2;5006602|3;3;5006603|4;5;5006604|6;10;5006605|11;15;5006606|16;30;5006607|31;50;5006608|51;100;5006609
 70023,cross_server_disabled_area,61|62|63|64
 70024,cross_server_ranking_number,20
-70025,throne_guide,401,404,415,419
+70025,throne_guide,401;404;415;419
 70026,cross_server_shield_minute,1
 70027,cross_server_loser_reward,5007004
-70028,cross_server_personal_ranking_reward,1,1,5007401|2,2,5007402|3,3,5007403|4,5,5007404|6,10,5007405|11,15,5007406|16,30,5007407|31,50,5007408|51,100,5007409|101,200,5007410
+70028,cross_server_personal_ranking_reward,1;1;5007401|2;2;5007402|3;3;5007403|4;5;5007404|6;10;5007405|11;15;5007406|16;30;5007407|31;50;5007408|51;100;5007409|101;200;5007410
 70029,cross_server_personal_score_info,1901
 70030,cross_server_log_info,2001
 70032,cross_server_shop_level,40
@@ -443,10 +443,10 @@ int,string,string
 35003,island_level,20
 36001,warhammer_refresh_time,0|90|180|270|360|450|540|630|720|810|900|990|1080|1170|1260|1350
 36002,warhammer_countdown_interval,175
-36003,warhammer_guide,201,204,208,211
+36003,warhammer_guide,201;204;208;211
 36006,warhammer_search_count_limit,3
 33006,precious_score_rmb,1
-33007,precious_price,30|0,60|1,100|3,200|6,320|6,460|12,550|12,700|30,700|30,800|30
+33007,precious_price,30|0;60|1;100|3;200|6;320|6;460|12;550|12;700|30;700|30;800|30
 37001,special_gift_btn_level_limit,20
 38001,time_limit_gacha_once_price,300
 38002,time_limit_gacha_tenth_price,3000
@@ -457,8 +457,8 @@ int,string,string
 20021,talent_self_choose_time,20
 23205,iosapp_guide_reopen,10
 9991,league_create_new,50|10
-9992,item_init_b,320001,10|200007,2|5100302,1|323001,10
-9993,warhammer_rank,301,304,308,311
+9992,item_init_b,320001;10|200007;2|5100302;1|323001;10
+9993,warhammer_rank,301;304;308;311
 38006,character_time,5
 38007,character_num,3
 61001,unlock_the_profession,45
@@ -471,7 +471,7 @@ int,string,string
 100002,share_new_army_lv,4
 100003,queue_countdown,70004
 33008,lottery_stage_time,3
-33009,lottery_stage_price,5800001|3,5800001|10,5800001|20
+33009,lottery_stage_price,5800001|3;5800001|10;5800001|20
 33010,lottery_stage_num,20
 33011,lottery_stage_adnum,5
 35004,island_battle_open,20
@@ -491,19 +491,19 @@ int,string,string
 35013,island_battle_reward,9004103
 61002,number_combat_heroes,2
 33012,recharge_score_ratio,530
-33013,recharge_score_task,9005501|5,9005502|30,9005503|100,9005504|500,9005505|3000,9005506|10000,9005507|30000,9005508|50000
+33013,recharge_score_task,9005501|5;9005502|30;9005503|100;9005504|500;9005505|3000;9005506|10000;9005507|30000;9005508|50000
 33014,recharge_score_condition,300
 33015,recharge_score_item,5900001
 33016,scratch_card_normal_reward,9015001
 33017,scratch_card_super_reward,9015002
-33018,scratch_card_price,1|35,10|330
+33018,scratch_card_price,1|35;10|330
 33019,scratch_card_score,10
 33020,scratch_card_score_ratio,300
 33021,scratch_card_normal_diamond,2000
 33022,scratch_card_add_diamond,3
-33023,scratch_card_rank_reward,1,1,9015003|2,2,9015004|3,3,9015005|4,10,9015006|11,50,9015007|51,100,9015008
+33023,scratch_card_rank_reward,1;1;9015003|2;2;9015004|3;3;9015005|4;10;9015006|11;50;9015007|51;100;9015008
 33024,scratch_card_mail,14001
-100004,progress_treasure_chest,9013526,2|9013527,3|9013528,4|9013529,5|9013530,5|9013531,6|9013532,6|9013533,7|9013534,7|9013535,8|9013536,8|9013537,9|9013538,9|9013539,9|9013540,10
+100004,progress_treasure_chest,9013526;2|9013527;3|9013528;4|9013529;5|9013530;5|9013531;6|9013532;6|9013533;7|9013534;7|9013535;8|9013536;8|9013537;9|9013538;9|9013539;9|9013540;10
 33025,scratch_card_time,99999
 61003,attack_point_win,30;150
 61004,attack_point_lose,0;0
@@ -565,7 +565,7 @@ int,string,string
 61027,lose_amount_of_loss,0|0
 61028,repair_fortress_item,1600030|5
 61029,repair_fortress_degree,3|5
-61030,weaken_monster_item,1600030,2|1600030,3|1600030,4|1600030,5|1600030,5|1600030,5
+61030,weaken_monster_item,1600030;2|1600030;3|1600030;4|1600030;5|1600030;5|1600030;5
 61031,weaken_monster_limit,120
 61032,weaken_monster_degree,2|5
 61033,weaken_monster_level,3
@@ -573,16 +573,16 @@ int,string,string
 61039,repair_fortress_point,2
 61040,weaken_monster_point,1
 33100,activity_task_group_reward,9010244|9010245|9010246|9010247|9010248|9010249|9010250|9010251|9010252
-33101,activity_task_group,11116|11117|11118|11119,11120|11121|11122|11123,11124|11125|11126|11127,11128|11129|11130|11131
-35101,doubleplay,1|2|2,2|2|2,3|2|2,4|2|2,5|2|2,6|2|2,7|2|2,8|2|2,9|2|2,10|2|2,11|2|2,12|2|2,13|2|2,14|2|2,15|2|2,16|2|2,17|2|2,18|2|2,19|2|2,20|2|2,21|2|2,22|2|2,23|2|2,24|2|2,25|2|2,26|2|2,32|2|2,34|2|2,935|2|2,936|2|2,937|2|2,938|2|2,43|2|2
+33101,activity_task_group,11116|11117|11118|11119;11120|11121|11122|11123;11124|11125|11126|11127;11128|11129|11130|11131
+35101,doubleplay,1|2|2;2|2|2;3|2|2;4|2|2;5|2|2;6|2|2;7|2|2;8|2|2;9|2|2;10|2|2;11|2|2;12|2|2;13|2|2;14|2|2;15|2|2;16|2|2;17|2|2;18|2|2;19|2|2;20|2|2;21|2|2;22|2|2;23|2|2;24|2|2;25|2|2;26|2|2;32|2|2;34|2|2;935|2|2;936|2|2;937|2|2;938|2|2;43|2|2
 33037,spin_lucky_num,1|5
-33038,google_rating_level,9,13,18,23,28,33,38,43,48
-9995,MOD_guide,501,503
+33038,google_rating_level,9;13;18;23;28;33;38;43;48
+9995,MOD_guide,501;503
 9959,domain_count_default_new,2
 62001,worldbattle16_time,1575770400|1576375200|1576980000|1577584800
 62002,worldbattle16_points,100|200|400|800
-62003,worldbattle16_reward_server,1,1,5006401|2,2,5006402|3,4,5006403|5,8,5006404|9,16,5006405
-62004,worldbattle16_reward_personal,1,1,5006411|2,2,5006412|3,4,5006413|5,8,5006414|9,16,5006415
+62003,worldbattle16_reward_server,1;1;5006401|2;2;5006402|3;4;5006403|5;8;5006404|9;16;5006405
+62004,worldbattle16_reward_personal,1;1;5006411|2;2;5006412|3;4;5006413|5;8;5006414|9;16;5006415
 130010,Obtaining_method,12
 130002,VirtAlli_NoAvail,0
 130003,VirtAlli_Change_Time,86400
@@ -601,12 +601,12 @@ int,string,string
 61042,militaryTask_num,10
 61043,militaryTask_refurbish,5
 61044,militaryTask_price,5
-130016,foreigner_banned_report_NO,5|10,20|30,45|50,69|100
+130016,foreigner_banned_report_NO,5|10;20|30;45|50;69|100
 130017,foreigner_banned_chat_NO,30
-100066,RecruitTrial,3610003,55
-130015,RecruitTrial_task_unlock,0,1,2,3,4
+100066,RecruitTrial,3610003;55
+130015,RecruitTrial_task_unlock,0;1;2;3;4
 130014,Levelup_dis_level,85
-121001,RndTaskProb,2,50|3,40|4,20|5,5
+121001,RndTaskProb,2;50|3;40|4;20|5;5
 121002,RndTaskNum,10
 121003,RndTaskPrice,50
 130018,banned_avatar_time,6|12|24|72|168|720
@@ -614,7 +614,7 @@ int,string,string
 130020,banned_avatar_report_time,10800
 80006,change_flag,100
 130021,Levelup_show,5
-130022,Levelup_content,For some facilities, you need to unlock grids before you could unlock them|Do not look down on coins. You might get stuck for lacking coins|You can join the Warhammer up to 50 times a day. After that, you won't get any more rewards|Join the alliance to have more fun with your allies around the world|On the World Map, you can attack the Dark Forces, gather resources, and interact with fellow commanders|Components are always the game changers|The auto join function has a time limit. Please check whether you are in the queue in a timely manner|Each type of unit has strengths and weaknesses.
+130022,Levelup_content,For some facilities; you need to unlock grids before you could unlock them|Do not look down on coins. You might get stuck for lacking coins|You can join the Warhammer up to 50 times a day. After that; you won't get any more rewards|Join the alliance to have more fun with your allies around the world|On the World Map; you can attack the Dark Forces; gather resources; and interact with fellow commanders|Components are always the game changers|The auto join function has a time limit. Please check whether you are in the queue in a timely manner|Each type of unit has strengths and weaknesses.
 130023,march_queue_presets_unlock,10|20|40|60|80|80|80|80
 130024,SearchNumber,5
 130025,Community_Gems,100
@@ -633,7 +633,7 @@ int,string,string
 130036,consignment_sale_num,3
 130037,consignment_play_level,20
 130038,consignment_sale_time,4
-130039,treasure_map_display_item,1700048,1700046
+130039,treasure_map_display_item,1700048;1700046
 130043,treasure_map_play_level,20
 130044,consignment_on_sale_num,10
 130045,consignment_crystal_lock_hour,72
@@ -659,7 +659,7 @@ int,string,string
 110011,antiindulged_011,100
 110012,antiindulged_012,50
 110013,antiindulged_013,0
-130028,wonder_vote_start_weekday,6,10,1,100|6,11,0,110|6,12,1,120|6,13,0,130|6,14,1,140|6,15,0,150|6,16,1,160|6,17,0,170|6,18,1,180|6,19,0,190|6,20,1,200|6,21,0,10|6,22,1,20|6,23,0,30|7,0,1,40|7,1,0,50|7,2,1,60|7,3,0,70|7,4,1,80|7,5,0,210|7,6,1,90|7,7,0,220|7,8,1,230|7,9,0,240|7,10,1,250|7,11,0,260|7,12,0,270|7,13,0,280|7,14,0,290|7,15,0,300|7,16,0,310|7,17,0,320|7,18,0,330|7,19,0,340|7,20,0,350|7,21,0,360|7,22,0,370
+130028,wonder_vote_start_weekday,6;10;1;100|6;11;0;110|6;12;1;120|6;13;0;130|6;14;1;140|6;15;0;150|6;16;1;160|6;17;0;170|6;18;1;180|6;19;0;190|6;20;1;200|6;21;0;10|6;22;1;20|6;23;0;30|7;0;1;40|7;1;0;50|7;2;1;60|7;3;0;70|7;4;1;80|7;5;0;210|7;6;1;90|7;7;0;220|7;8;1;230|7;9;0;240|7;10;1;250|7;11;0;260|7;12;0;270|7;13;0;280|7;14;0;290|7;15;0;300|7;16;0;310|7;17;0;320|7;18;0;330|7;19;0;340|7;20;0;350|7;21;0;360|7;22;0;370
 130030,wonder_vote_time_last,10
 130031,wonder_vote_level,20
 130033,wonder_vote_lord_time,24
@@ -671,7 +671,7 @@ int,string,string
 131002,invite_alliance_time,86400
 131003,invite_alliance_limit,10
 130058,mod_selection_time,30|60|120|360
-130050,airdrop_vote_start_time,0,9,1,10|0,10,0,20|0,11,1,30|0,12,0,40|0,13,1,50|0,14,0,60|0,15,1,70|0,16,0,80|0,17,1,90|0,18,0,100|0,19,1,110|0,20,0,120|0,21,1,130
+130050,airdrop_vote_start_time,0;9;1;10|0;10;0;20|0;11;1;30|0;12;0;40|0;13;1;50|0;14;0;60|0;15;1;70|0;16;0;80|0;17;1;90|0;18;0;100|0;19;1;110|0;20;0;120|0;21;1;130
 130051,airdrop_vote_time_last,10
 130052,airdrop_vote_level,20
 130053,airdrop_vote_lord_time,12
@@ -679,14 +679,14 @@ int,string,string
 130055,airdrop_vote_every_round_time,12
 130056,airdrop_every_round_end_time,1
 130057,airdrop_open_time_day,13
-130059,battle_report_comparison_source,2,Hero Skills|16,Hero Bond,hero_bond|4,CPNT|5,Suppress|1,Science|3,Hero Perk|17,Mastery|8,VIP privileges|9,Class Perk|6,102635|7,Decoration|10,Mechanical Master Potion|12,Strengthening/Weakening building|13,102583|15,Tactical Master Perk|14,Great Scientist Talent|19,Medal Promotion|0,Others|20,Alliance Titles|18,Special Effect Upgrade|21,Eternal Tech
+130059,battle_report_comparison_source,2;Hero Skills|16;Hero Bond;hero_bond|4;CPNT|5;Suppress|1;Science|3;Hero Perk|17;Mastery|8;VIP privileges|9;Class Perk|6;102635|7;Decoration|10;Mechanical Master Potion|12;Strengthening/Weakening building|13;102583|15;Tactical Master Perk|14;Great Scientist Talent|19;Medal Promotion|0;Others|20;Alliance Titles|18;Special Effect Upgrade|21;Eternal Tech
 61059,trap_potion_level,65
 33040,change_worldboss_activityId,265
-130027,notification_level,70,8,12,25,33,46,55
-61058,debuff_cooldown,200004|300,200005|300
-130060,upgrade_component_box,1700019,1700018,1700017,1700016,1700015,1700014,1700013,1700012,1700011
-130061,upgrade_component_box_new,1700038,1700037,1700036,1700035,1700034,1700033,1700032,1700031,1700030
-130063,upgrade_component_gift,3360,3361,3362,3363,3364,3365,3366,3367,3426,3427,3428,3429,3430,3431,3432,3492,3493,3494,3495,3496,3497,3498,3569,3570,3571,3572,3573,3574,3575,3576,3577,3578,3579,3580,3581,3582,3583,3584,3585,3586,3587,3588,3589,3590,9100869,9100870,9100871,9100872,9100873,9100874,9100875,9100904,9100905,9100906,9100907,9100908,9100909,9100910,9101099,9101100,9101101,9101102,9101103,9101104,9101105
+130027,notification_level,70;8;12;25;33;46;55
+61058,debuff_cooldown,200004|300;200005|300
+130060,upgrade_component_box,1700019;1700018;1700017;1700016;1700015;1700014;1700013;1700012;1700011
+130061,upgrade_component_box_new,1700038;1700037;1700036;1700035;1700034;1700033;1700032;1700031;1700030
+130063,upgrade_component_gift,3360;3361;3362;3363;3364;3365;3366;3367;3426;3427;3428;3429;3430;3431;3432;3492;3493;3494;3495;3496;3497;3498;3569;3570;3571;3572;3573;3574;3575;3576;3577;3578;3579;3580;3581;3582;3583;3584;3585;3586;3587;3588;3589;3590;9100869;9100870;9100871;9100872;9100873;9100874;9100875;9100904;9100905;9100906;9100907;9100908;9100909;9100910;9101099;9101100;9101101;9101102;9101103;9101104;9101105
 130064,upgrade_component_gift_time,24
 31003,crystal_vip_unlock_level,7
 111001,hurtnew_consume,98
@@ -695,9 +695,9 @@ int,string,string
 31004,pop_star_VIP0_daily_limitation,5
 160051,dailyTask_multiple,3
 130062,Alliance_Request01,10
-130066,request_level_limit,1|-2,5|-3,7|-3
+130066,request_level_limit,1|-2;5|-3;7|-3
 130067,request_deflevel_limit,-2
-130065,product_type_unlock_level,1|60|0,2|10|1
+130065,product_type_unlock_level,1|60|0;2|10|1
 23140,flower_onboard_limitation,100
 910029,eight_countries_teaser,54|73|64|78|66|82|74|93
 130085,consignment_buy_num_1,3
@@ -712,7 +712,7 @@ int,string,string
 130074,adventure_fakeakill_prob,65
 130075,adventure_itemtype_fix,1
 130076,scout_foundation,900013|900018|900019
-130077,adventure_herorecomm,101|102|103|104|105|106|107,201|202|203|204|205,301|302|303|304|305,102|303|201|305|307
+130077,adventure_herorecomm,101|102|103|104|105|106|107;201|202|203|204|205;301|302|303|304|305;102|303|201|305|307
 130078,adventure_heropara_weight,0.23|0.10|0.4|0.15|0.12
 130079,adventure_heroskill_weight,0.6|0.6|0.6|0.6
 130080,adventure_herono,3
@@ -737,8 +737,8 @@ int,string,string
 130104,easter_failprobability,75|25
 130105,easter_maxlevel,7
 130106,easter_firstpay,60
-131101,easter_eggpoint1,5,50,100,200,500,1000,2000
-131102,easter_eggpoint2,100,200
+131101,easter_eggpoint1,5;50;100;200;500;1000;2000
+131102,easter_eggpoint2,100;200
 131103,easter_eggpointid1,1700301
 131104,easter_eggpointid2,1700302
 1020,alliance_fort_expire_donate_countdown,24
@@ -751,19 +751,19 @@ int,string,string
 130112,launch_tower_battle_personal_trap_get,5
 130113,launch_tower_battle_personal_trap_use,20
 130114,launch_tower_battle_pve_reward,9018301
-130115,launch_tower_battle_recover_item,1601001,1601002,1601003
+130115,launch_tower_battle_recover_item,1601001;1601002;1601003
 130116,launch_tower_battle_alliance_rank,5
-130117,launch_tower_battle_alliance_rank_reward,1,1,9018101|2,2,9018102|3,3,9018103|4,4,9018104|5,5,9018105
-130118,launch_tower_battle_personal_reward,10,9018201|50,9018202|100,9018203|200,9018204|400,9018205|700,9018206|1200,9018207
+130117,launch_tower_battle_alliance_rank_reward,1;1;9018101|2;2;9018102|3;3;9018103|4;4;9018104|5;5;9018105
+130118,launch_tower_battle_personal_reward,10;9018201|50;9018202|100;9018203|200;9018204|400;9018205|700;9018206|1200;9018207
 130119,launch_tower_battle_activity_id,325
-130120,launch_tower_battle_helpinfo,601,604,611,615,618
+130120,launch_tower_battle_helpinfo,601;604;611;615;618
 130121,launch_tower_battle_helpinfo_point,618
 130123,helicopter_stay,2
 130124,helicopter_away,2
 130125,adventure_skip_level,4
 130126,adventure_reward_time_reciv,180
 130127,adventure_available_level,260
-130128,adventure_describe,629,631,633,635
+130128,adventure_describe,629;631;633;635
 101600,new_init_mountain,4;604|3;704|2;804|1;904|5;605|6;606|7;1008|8;508|9;1005|10;306|11;407|12;808|13;907|19;903|20;702|22;707|21;608|23;610|24;410|26;910|25;1006|27;1106|27;1108|27;1206|38;1014|39;1114|40;1214|41;1512|42;1612|43;1611|44;1511|45;1414|46;1311|47;1211
 32002,arms_race_warhammer_score_captain,2
 32003,arms_race_warhammer_score_member,1
@@ -779,7 +779,7 @@ int,string,string
 910021,prepare_monster_02,3502|105
 130151,alliance_defend_battle_pve_reward,9041001
 130152,alliance_defend_battle_monster_group,1|2|3|41|42|43|1215001|1215101|1215201|51|52|53|9001
-130153,alliance_defend_battle_rank_reward,1,1,9055001|2,2,9055002|3,3,9055003|4,6,9055004|7,10,9055005
+130153,alliance_defend_battle_rank_reward,1;1;9055001|2;2;9055002|3;3;9055003|4;6;9055004|7;10;9055005
 130154,alliance_defend_battle_help,661
 130155,alliance_defend_battle_total_score,0.1
 137001,newislandbattle_resettime,2
@@ -790,12 +790,12 @@ int,string,string
 138003,vip_level_rewards03,1
 138004,vip_level_rewards04,1
 138005,vip_level_rewards05,2
-130204,army_equip_point_table,1,1|2,3|3,9|4,27|5,81|6,243|7,729|8,2187|9,6561|10,19683
+130204,army_equip_point_table,1;1|2;3|3;9|4;27|5;81|6;243|7;729|8;2187|9;6561|10;19683
 132100,video_freegem_times,20
 132101,video_function_times,5
-130156,corss_server_help_info,701,717,2401
+130156,corss_server_help_info,701;717;2401
 130201,egg_recharge_score_item,5900001
-130205,login_dubbing_pack,1001|G123,g123|5|5015|2020-06-25-00-00-00|2020-07-02-00-00-00
+130205,login_dubbing_pack,1001|G123;g123|5|5015|2020-06-25-00-00-00|2020-07-02-00-00-00
 132102,QQmini_download_reward,90150001
 132103,hammer_tips_time,30|5
 910019,prepare_stage_time,1440|1440|1440
@@ -804,45 +804,45 @@ int,string,string
 910100,june_hero_skill_ratio,0.1
 910036,kvk_country_main_ui_level,30
 910011,preparation_rewards,8300011
-910012,seven_weights,1|20,2|20,3|20,4|20,5|20,6|20,7|20
+910012,seven_weights,1|20;2|20;3|20;4|20;5|20;6|20;7|20
 910013,preparation_score,200
 910014,preparatio_weights,10000
-910028,kvk_country_rank,1003001|1500,1003001|1200,1003001|1000,960002|800,960002|600,960002|500,960002|400,960002|300
+910028,kvk_country_rank,1003001|1500;1003001|1200;1003001|1000;960002|800;960002|600;960002|500;960002|400;960002|300
 910030,prepare_monster_reward,8301001
 910034,kvk_country_rank_image,rankBuff_01|rankBuff_01|rankBuff_01|rankBuff_02|rankBuff_02|rankBuff_02|rankBuff_02|rankBuff_02
-910001,base_reconstruction_1,5|50000|200|7300501,7|50000|200|7300501
-910002,base_reconstruction_2,10|2000|7300502,10|2000|7300502
-910003,base_reconstruction_3,3|40|7300505,4|200|7300504,5|1000|7300503
+910001,base_reconstruction_1,5|50000|200|7300501;7|50000|200|7300501
+910002,base_reconstruction_2,10|2000|7300502;10|2000|7300502
+910003,base_reconstruction_3,3|40|7300505;4|200|7300504;5|1000|7300503
 910004,base_point_1,500000
 910005,base_point_2,300000
 910006,base_point_3,200000
-910007,base_reward_buff1,1101042|500,930000|500,980204|500
-910008,base_reward_buff2,1101018|1000,960002|1000
+910007,base_reward_buff1,1101042|500;930000|500;980204|500
+910008,base_reward_buff2,1101018|1000;960002|1000
 910009,kvk_building_burning,4
 910010,kvk_building_repair,3
-910015,rebuild_reward_display,army_attack|army_hp|career_command_004,career_strengthen_003|career_battlemaster_004,career_battlemaster_001
+910015,rebuild_reward_display,army_attack|army_hp|career_command_004;career_strengthen_003|career_battlemaster_004;career_battlemaster_001
 910016,kvk_fire_consumption,200|200
 910017,kvk_resource_output,5
 910018,kvk_resource_conversion,300
 910027,kvk_initial_resource,8000
-910031,eight_countries_montser_star,1,5
-910032,eight_countries_montser_star_level,1,1,1|2,2,2|3,3,3|4,4,4|5,5,5
-910033,eight_countries_stage_name,Perimeter of the Eternal Land,Entering the Eternal Land,Deep into the Eternal Land,Battle for the Eternal Land,Claim Rewards
+910031,eight_countries_montser_star,1;5
+910032,eight_countries_montser_star_level,1;1;1|2;2;2|3;3;3|4;4;4|5;5;5
+910033,eight_countries_stage_name,Perimeter of the Eternal Land;Entering the Eternal Land;Deep into the Eternal Land;Battle for the Eternal Land;Claim Rewards
 910035,kvk_country_level_limit,45
 910038,kvk_building_repair_cd,5
 910037,eveArmyLevelPass,0
-133100,treasure_unlockbattle,99999,85000
+133100,treasure_unlockbattle,99999;85000
 132108,transfer_code,15
 132109,blackwidow_level,7
-132111,landforce_speedlevel,15,25
+132111,landforce_speedlevel,15;25
 930001,pve_arena_army,31001
 930002,pve_arena_navy,32001
 930003,pve_arena_air,33001
 930004,pve_arena_battle_num,5
 930005,pve_arena_reward,270001
-930006,pve_arena_damage_phase,8500000|1,17000000|1,28050000|1,42450000|1,59750000|1,80550000|1,105550000|1,135550000|1,171550000|1,214750000|1,283850000|1,394450000|1,571450000|1,854450000|1,1307450000|1,2168450000|1,3804450000|1,6914450000|1,12824450000|1,24054450000|1,57754450000|1,158854450000|1,461854450000|1,1370854450000|1,4097854450000|1,15007854450000|1,58607854450000|1,233007854450000|1,931007854450000|1,3723007854450000|1
+930006,pve_arena_damage_phase,8500000|1;17000000|1;28050000|1;42450000|1;59750000|1;80550000|1;105550000|1;135550000|1;171550000|1;214750000|1;283850000|1;394450000|1;571450000|1;854450000|1;1307450000|1;2168450000|1;3804450000|1;6914450000|1;12824450000|1;24054450000|1;57754450000|1;158854450000|1;461854450000|1;1370854450000|1;4097854450000|1;15007854450000|1;58607854450000|1;233007854450000|1;931007854450000|1;3723007854450000|1
 930007,pve_arena_boss_type,101
-930008,pve_arena_soldier_choose,10040|80,20040|80,30040|80
+930008,pve_arena_soldier_choose,10040|80;20040|80;30040|80
 930009,arena_activity_unlock_level,5
 930010,pve_arena_unlock_level,10
 930011,pvp_arena_unlock_level,30
@@ -850,29 +850,29 @@ int,string,string
 930013,pve_arena_report_num,10
 930014,arena_activity_page,20200624|1
 132112,myLandAreasCount,62
-132001,prohibited_buildingType,2,6,7,10,16,17,18
+132001,prohibited_buildingType,2;6;7;10;16;17;18
 132104,unlock_the_expansionArea,68
 930040,fury_heroid,1412|114|313|1401|120|216|218
 930041,skill_defence_count_max,7
 930042,skill_defence_count_use,7
-130157,mail_classification_type,1|9;2|15;3|2,14,1;4|3,10,8,13,5;5|6;6|7,11,12;7|4
-930055,shielded_building_type,4,5,26,27
+130157,mail_classification_type,1|9;2|15;3|2;14;1;4|3;10;8;13;5;5|6;6|7;11;12;7|4
+930055,shielded_building_type,4;5;26;27
 930015,pvp_arena_base_score,1000
 930016,pvp_arena_protect_score,1000
 930017,pvp_arena_protect_ratio,0.6
 930018,pvp_arena_score_para1,40
 930019,pvp_arena_score_para2,400
 930020,pvp_arena_open_day,1
-930021,pvp_arena_last_time,1,5
-930022,pvp_arena_topic_order,1,2
-930023,pvp_arena_topic_name,Full-on,Full-on
+930021,pvp_arena_last_time,1;5
+930022,pvp_arena_topic_order,1;2
+930023,pvp_arena_topic_name,Full-on;Full-on
 930024,pvp_arena_battle_num_free,5
-930025,pvp_arena_battle_item_price,50,80,100,150,200
+930025,pvp_arena_battle_item_price,50;80;100;150;200
 930026,pvp_arena_battle_item_num,10
 930027,pvp_arena_win_gold,270002
 930028,pvp_arena_lose_gold,270003
-930029,pvp_arena_rank_reward,1,1,270011|2,2,270012|3,3,270013|4,5,270014|6,10,270015|11,20,270016|21,30,270017|31,50,270018|51,70,270019|71,100,270020|101,200,270021
-930030,pvp_arena_help_info,801,808
+930029,pvp_arena_rank_reward,1;1;270011|2;2;270012|3;3;270013|4;5;270014|6;10;270015|11;20;270016|21;30;270017|31;50;270018|51;70;270019|71;100;270020|101;200;270021
+930030,pvp_arena_help_info,801;808
 930051,pvp_arena_battle_item_cost,1700076
 930057,pvp_arena_challenge_top_num,20
 930058,pvp_arena_challenge_end_num,60
@@ -881,14 +881,14 @@ int,string,string
 930031,hero_return_diamond,55|500
 930032,hero_return_score,25|200
 930033,hero_return_score_id,5900010
-930034,hero_return_orange_reward,2200027,1|2200028,1|2200025,1|2604901,1|2605001,1|2505101,1
-930035,hero_return_purple_reward,2200002,1|2200003,1|2200019,1|2200008,1|2200009,1|2200014,1|2200015,1|2540002,1
-930036,hero_return_blue_reward,2200001,1|2200007,1|2200013,1|2100001,1|1800001,10
+930034,hero_return_orange_reward,2200027;1|2200028;1|2200025;1|2604901;1|2605001;1|2505101;1
+930035,hero_return_purple_reward,2200002;1|2200003;1|2200019;1|2200008;1|2200009;1|2200014;1|2200015;1|2540002;1
+930036,hero_return_blue_reward,2200001;1|2200007;1|2200013;1|2100001;1|1800001;10
 930037,hero_return_task,50|300
 930038,hero_return_daily_limit,1000
-930121,hero_return_orange_reward_new,2200027,1|2200028,1|2200025,1|2604901,1|2605001,1|2505101,1;2200027,1|2200032,1|2200035,1|2200041,1|2200045,1|2200021,1|2604901,1|2505201,1|2505401,1|2605801,1|2605901,1|2504901,1
-930122,hero_return_purple_reward_new,2200002,1|2200003,1|2200019,1|2200008,1|2200009,1|2200014,1|2200015,1|2540002,1;2200002,1|2200003,1|2200019,1|2200008,1|2200009,1|2200014,1|2200015,1|2540002,1
-930123,hero_return_blue_reward_new,2200001,1|2200007,1|2200013,1|2100001,1|1800001,10;2200001,1|2200007,1|2200013,1|2100001,1|3610009,10
+930121,hero_return_orange_reward_new,2200027;1|2200028;1|2200025;1|2604901;1|2605001;1|2505101;1;2200027;1|2200032;1|2200035;1|2200041;1|2200045;1|2200021;1|2604901;1|2505201;1|2505401;1|2605801;1|2605901;1|2504901;1
+930122,hero_return_purple_reward_new,2200002;1|2200003;1|2200019;1|2200008;1|2200009;1|2200014;1|2200015;1|2540002;1;2200002;1|2200003;1|2200019;1|2200008;1|2200009;1|2200014;1|2200015;1|2540002;1
+930123,hero_return_blue_reward_new,2200001;1|2200007;1|2200013;1|2100001;1|1800001;10;2200001;1|2200007;1|2200013;1|2100001;1|3610009;10
 920001,material_production_time,9000
 920002,material_production_number,10
 920003,material_tear_consume,1|731352000000000000000;1|20687084000000000000000;1|727690503000000000000000;1|324790281847000000000000000
@@ -901,10 +901,10 @@ int,string,string
 16011,alliance_donation_max_score,5000000000
 910039,kvk_alliance_building_inactivated_cd,600
 910040,kvk_alliance_level_need,3
-910041,kvk_alliance_building_fortress_cost,0,3,1000
-910042,kvk_alliance_building_powerstation_cost,0,20,500|21,50,1000|51,100,1500|100,99999,2000
+910041,kvk_alliance_building_fortress_cost,0;3;1000
+910042,kvk_alliance_building_powerstation_cost,0;20;500|21;50;1000|51;100;1500|100;99999;2000
 930046,grb_level_exp,200|400|600|800|1000|1200|1400|1600|1800|2000|2200|2400|2600|2800|3000|3200|3400|3600|3800|4000
-930047,grb_combo_par,1,40|2,40|5,20
+930047,grb_combo_par,1;40|2;40|5;20
 930048,grb_item_id,39200066
 930049,grb_gif_jump,426
 48000,treasure_map_s2_player_level,35
@@ -920,17 +920,17 @@ int,string,string
 48102,treasure_map_s2_donate_item_num,100
 48103,treasure_map_s2_donate_reward,216002
 48104,treasure_map_s2_donate_countdown,3600
-48201,treasure_map_s2_roulette_reward,216003,5|216004,10|216005,10|216006,10|216007,10|216008,10|216009,10|216010,10|216011,10|216012,10
+48201,treasure_map_s2_roulette_reward,216003;5|216004;10|216005;10|216006;10|216007;10|216008;10|216009;10|216010;10|216011;10|216012;10
 48202,treasure_map_s2_roulette_gold_price,0|200|200|200|200|200|200|200|200|200
 48203,treasure_map_s2_roulette_countdown,3600
 48301,treasure_map_s2_boss_monster_id,21101|21201|21301
-48302,treasure_map_s2_boss_summon_cost_coin_gold,0,0|200000000,0|200000000000,0
+48302,treasure_map_s2_boss_summon_cost_coin_gold,0;0|200000000;0|200000000000;0
 48303,treasure_map_s2_boss_info_delay,60
 48304,treasure_map_s2_boss_reward_summon,216013|216014|216015
 48305,treasure_map_s2_boss_reward_attack,216016|216017|216018
-48306,treasure_map_s2_boss_reward_lv1,1,1,216019|2,2,216020|3,3,216021
-48307,treasure_map_s2_boss_reward_lv2,1,1,216027|2,2,216028|3,3,216029
-48308,treasure_map_s2_boss_reward_lv3,1,1,216035|2,2,216036|3,3,216037
+48306,treasure_map_s2_boss_reward_lv1,1;1;216019|2;2;216020|3;3;216021
+48307,treasure_map_s2_boss_reward_lv2,1;1;216027|2;2;216028|3;3;216029
+48308,treasure_map_s2_boss_reward_lv3,1;1;216035|2;2;216036|3;3;216037
 48309,treasure_map_s2_boss_countdown,3600|3600|3600
 48310,treasure_map_s2_boss_summon_countdown,1800
 48311,treasure_map_s2_boss_damage_parameter,2e-06
@@ -938,15 +938,15 @@ int,string,string
 48313,treasure_map_s2_boss_leaderboard_num,100
 48401,treasure_map_s2_shop_info_delay,60
 48402,treasure_map_s2_shop_countdown,3600
-48403,treasure_map_s2_shop_type_per_group,1,2|2,2|3,2
+48403,treasure_map_s2_shop_type_per_group,1;2|2;2|3;2
 48404,treasure_map_s2_shop_info_notice,10|3|1
 930070,lucky_mall_ticket,39200067
 930045,kingdom_legend_condition,100
 930050,ShowHand_Lucky_conifg,7|80
 930080,UnderTheSea_cooldown,21600
-930081,UnderTheSea_treasure_search_weight,2008071,8000|2008072,2000|2008077,0|2008074,0
+930081,UnderTheSea_treasure_search_weight,2008071;8000|2008072;2000|2008077;0|2008074;0
 930082,UnderTheSea_slot_spend,2000|3500
-930083,UnderTheSea_treasure_merge_weight,2008077,8000|2008074,2000
+930083,UnderTheSea_treasure_merge_weight,2008077;8000|2008074;2000
 930084,UnderTheSea_treasure_merge_num,3
 930085,UnderTheSea_notice_num,20
 930086,gather_type_buff_not_work,10
@@ -966,16 +966,16 @@ int,string,string
 8009,newbie_creat_wild_monster_area_count_max,100
 8010,newbie_creat_wild_monster_server_days,20
 950000,UnLockTileOrderIds,805|705|807|707|606|605
-950001,functionbuilding_init_new,3901,705,0,20,16|1801,905,0|2501,907,0|4901,606,0
-950002,building_init_new,1701,18,22,0|1701,16,24,0|1701,16,20,0|1041,20,28,1
+950001,functionbuilding_init_new,3901;705;0;20;16|1801;905;0|2501;907;0|4901;606;0
+950002,building_init_new,1701;18;22;0|1701;16;24;0|1701;16;20;0|1041;20;28;1
 950003,plot_unlock _new,805|705|906|905|907|807|707|607|507
-950004,unlock_shadowtext,3901,Unlock the Tech Center here to boost your power.|1801,Auto-collects Gold for you. Simple and easy.|2201,Greatly gains gold in no time.|2501,107422|4901,Use it to enhance your units and greatly improve your combat power.
+950004,unlock_shadowtext,3901;Unlock the Tech Center here to boost your power.|1801;Auto-collects Gold for you. Simple and easy.|2201;Greatly gains gold in no time.|2501;107422|4901;Use it to enhance your units and greatly improve your combat power.
 950005,unlock_herogiven,707
-950006,plot_unlock _secondforce,14,606
-950007,unlocklevel _arsenal,4900,key_novice_adjustments,14|3200,key_novice_adjustments,45|3300,key_novice_adjustments,45
+950006,plot_unlock _secondforce,14;606
+950007,unlocklevel _arsenal,4900;key_novice_adjustments;14|3200;key_novice_adjustments;45|3300;key_novice_adjustments;45
 950008,unlocklevel_bigworld,5
-950009,oldscience_close,1901,key_novice_adjustments,0|2201,key_novice_adjustments,0
-950010,new_version_content_login_official,659,663,680,674,675,682,684,685-3000:1.117.1|1623,1637,1639,1640,1663,1664,1668-1670,1694-3000:1.207
+950009,oldscience_close,1901;key_novice_adjustments;0|2201;key_novice_adjustments;0
+950010,new_version_content_login_official,659;663;680;674;675;682;684;685-3000:1.117.1|1623;1637;1639;1640;1663;1664;1668-1670;1694-3000:1.207
 950011,new_version_content_login_Test,1-4017:1.0.0|4023:1.205
 950012,harvester_display_status,0|1|3000|10000
 15010,heterogeneous_ore_attack_number,5|5|30
@@ -987,15 +987,15 @@ int,string,string
 930087,SniperElite_drop,9010216
 930088,SniperElite_dropMonsterId,1|2|3|5|41|42|43|44|60101|60201|1215001|1215101|1215201|51|52|53
 930089,SniperElite_level_exp,100|210|330|460|600|750|910|1080|1260|1450|1650|1870|2110|2370|2650|2950|3250|3550|3850|4150
-930090,SniperElite_combo_par,1,45|2,40|5,15
+930090,SniperElite_combo_par,1;45|2;40|5;15
 930091,SniperElite_item_id,39200079
 133201,defend_personal_actitity_id,130
 950014,merge_all_level,30
-950013,treasure_unlockbattle_v1,99999,85000
+950013,treasure_unlockbattle_v1,99999;85000
 133301,kingdom_batlle_record,{0}'s troop has arrived the Capital and it's in a combat with the Defense Troop.|{0}'s troop has arrived the Capital and supported the Capital.|{0} has conquered the Capital. Starting a {1}-minute countdown.|{0} has conquered the Capital and this Alliance has won the Capital ConTest! Congrats!
 133302,cross_server_kingdom_batlle_record,Commander {1} on {0} has arrived the Capital and started fighting with the defender.|Commander {1} on {0} has arrived the Capital and provided support.|Commander {1} on {0} has conquered the Capital. Starting a {2}-minute countdown.|Warzone {0} has conquered the Capital and it has won the Cross-warzone War! Congrats!|Commander {1} on {0} conquered the Capital.
-133104,broken_treasure_vein_type,27,29
-133101,mineral_vein_unlock,10,10|11,11|13,13|15,15|17,17|18,18|22,22|24,24|26,26|28,28|30,30|31,31|33,33|35,35|37,37|39,39|41,41|43,43|45,45|47,47
+133104,broken_treasure_vein_type,27;29
+133101,mineral_vein_unlock,10;10|11;11|13;13|15;15|17;17|18;18|22;22|24;24|26;26|28;28|30;30|31;31|33;33|35;35|37;37|39;39|41;41|43;43|45;45|47;47
 133102,mineral_vein_id,2|3|4|8|2|5|8|8|8|9|6|4|1|1|1|6|3|5|10|10
 133103,mineral_vein_rage_time,6
 950015,amasstime_max,90
@@ -1003,7 +1003,7 @@ int,string,string
 950017,amassitem_use_level,30
 950018,novice_marching_queue,5100302
 950019,novice_marching_status,70004
-2013,area_cloud_unlock,708,908,208,308,1008|1109,709,809,909,1009|810,811,713,1004,107,404,701,812,910,911,1007,1010,1105
+2013,area_cloud_unlock,708;908;208;308;1008|1109;709;809;909;1009|810;811;713;1004;107;404;701;812;910;911;1007;1010;1105
 2014,area_escape,107|701
 133310,castle_change_cd,60
 5089,science_type_order,0|1|2|3
@@ -1013,13 +1013,13 @@ int,string,string
 910047,kvk_gather_score_alliance,0
 910048,kvk_collection_score_alliance,0
 910043,kvk_full_armament_rank_mail,19043
-910044,kvk_full_armament_rank_reward,1,1,8300201|2,2,8300202|3,3,8300203|4,10,8300204|11,20,8300205|21,50,8300206|51,100,8300207|101,500,8300208|501,1000,8300209
+910044,kvk_full_armament_rank_reward,1;1;8300201|2;2;8300202|3;3;8300203|4;10;8300204|11;20;8300205|21;50;8300206|51;100;8300207|101;500;8300208|501;1000;8300209
 920100,month_card_ids_always_video_diamond,5003
 950020,guide_quickhand_level,85|86
 101700,new_cg_init_mountain,4;604|3;704|2;804|1;904|5;605|6;606|7;1008|8;508|9;1005|10;306|11;407|12;808|13;907|19;903|20;702|22;707|21;608|23;610|24;410|26;910|25;1006|27;1106|27;1108|27;1206|38;1014|39;1114|40;1214|41;1512|42;1612|43;1611|44;1511|45;1414|46;1311|47;1211|48;705
-2011,area_init_default,706,806
-2012,area_init_has_warguide,806,807
-2016,army_init_v1,10001,19,25|10001,18,26|10001,20,26|10001,17,27|10001,19,27|10001,18,28|10002,20,24
+2011,area_init_default,706;806
+2012,area_init_has_warguide,806;807
+2016,army_init_v1,10001;19;25|10001;18;26|10001;20;26|10001;17;27|10001;19;27|10001;18;28|10002;20;24
 950022,plot_unlock _new_cg,805|705|906|905|907|706|707|607|507
 950021,energy_dig,14001|14002|14003|14004
 950023,goldout_notice_level,35
@@ -1030,14 +1030,14 @@ int,string,string
 930104,cross_server_arena_score_para1,40
 930105,cross_server_arena_score_para2,400
 930106,cross_server_arena_open_day,28
-930107,cross_server_arena_last_time,6,7
+930107,cross_server_arena_last_time,6;7
 930108,cross_server_arena_battle_num_free,10
-930109,cross_server_arena_battle_item_price,50,70,100,150,200,250,300
+930109,cross_server_arena_battle_item_price,50;70;100;150;200;250;300
 930110,cross_server_arena_battle_item_num,10
 930111,cross_server_arena_win_gold,270031
 930112,cross_server_arena_lose_gold,270032
-930113,cross_server_arena_rank_reward,1,1,270041|2,2,270042|3,3,270043|4,10,270044|11,20,270045|21,50,270046|51,100,270047|101,200,270048|201,500,270049|501,1000,270050|1001,2000,270051|2001,4000,270052
-930114,cross_server_arena_help_info,901,908
+930113,cross_server_arena_rank_reward,1;1;270041|2;2;270042|3;3;270043|4;10;270044|11;20;270045|21;50;270046|51;100;270047|101;200;270048|201;500;270049|501;1000;270050|1001;2000;270051|2001;4000;270052
+930114,cross_server_arena_help_info,901;908
 930115,cross_server_arena_battle_item_cost,1700078
 930116,cross_server_arena_challenge_top_num,20
 930117,cross_server_arena_challenge_end_num,30
@@ -1052,7 +1052,7 @@ int,string,string
 950024,fortress_automatic_invitation,35
 930150,star_adjust,10117|11117
 10013,login_reward_v1,2021|2022|2023|2024|2025|2026|2027
-10014,login_hero_tips,106|The legendary General Sam. The man with a bleeding eye, delivered a crushing blow against the enemies.,205|Naval officer of the Naval Operations Department. Talented in planning and initiating vessel combats
+10014,login_hero_tips,106|The legendary General Sam. The man with a bleeding eye; delivered a crushing blow against the enemies.;205|Naval officer of the Naval Operations Department. Talented in planning and initiating vessel combats
 23009,private_chat_word_limit,1000
 950027,merge_all_level_army,8
 950028,merge_all_level_building,8
@@ -1072,10 +1072,10 @@ int,string,string
 930203,continuous_fighting_monster_rate,1
 930204,continuous_fighting_monster_time,60
 930205,continuous_fighting_monster_end_time,1
-930206,continuous_fighting_monster_type,1,2,3,41,42,43,60101,1215001,1215101,1215201,9001,51,52,53
+930206,continuous_fighting_monster_type,1;2;3;41;42;43;60101;1215001;1215101;1215201;9001;51;52;53
 133107,hero_skin_display_tw,7
 133108,g123_sns_delayT,10
-133106,scene_gift_unlock,9,1
+133106,scene_gift_unlock,9;1
 133109,vip_level_rewards00,916163
 950050,functionlist_open_level,10
 133110,app_update_version,1.214
@@ -1092,20 +1092,20 @@ int,string,string
 42002,city_teleport_effect_default,10000
 133200,ship_wait_time,720
 133210,ship_common_reward,4112000
-133211,ship_unit_reward,201|1|4,301|1|4
+133211,ship_unit_reward,201|1|4;301|1|4
 133212,ship_unit_reward_minlevel,13
 133213,ship_unit_reward_maxlevel,35
 133214,ship_unit_diamond_time,0.7
 160003,refund_rule1_limit,10000
 160004,refund_rule2_limit,50
 160005,refund_rule3_limit,50000|3000|20
-160006,refund_deduction,10028,3000|10029,4400|10030,7400|131001,3000|25001,2560|5003,1960|2006,5000
-160001,emoji_castle_position,1,2,3,4,5,6|11,12,13,14,15,16
+160006,refund_deduction,10028;3000|10029;4400|10030;7400|131001;3000|25001;2560|5003;1960|2006;5000
+160001,emoji_castle_position,1;2;3;4;5;6|11;12;13;14;15;16
 160002,emoji_castle_limit_level,5
-930066,cross_server_arena_rank_group,1,20,1|21,50,4|51,200,20|201,500,40|501,1000,80|1001,5000,500|5001,99999,1000
+930066,cross_server_arena_rank_group,1;20;1|21;50;4|51;200;20|201;500;40|501;1000;80|1001;5000;500|5001;99999;1000
 930067,cross_server_arena_battle_list_num,5
-930068,cross_server_arena_topic_order,2,2
-930069,cross_server_arena_topic_name,Full-on,Full-on
+930068,cross_server_arena_topic_order,2;2
+930069,cross_server_arena_topic_name,Full-on;Full-on
 170011,hero_compose_guide_level,10
 170007,gp_order_tip01,5
 170008,gp_order_tip02,3
@@ -1118,9 +1118,9 @@ int,string,string
 280013,platform_screening_rule,googleplay|g123|G123|appiosglobal|esprit|fbgame|apphuaweiglobal
 61060,thor_soldier_speedup_price,0.5
 170013,winter_action_final_reward,19073|913551
-170014,winter_action_FAQ,1215,1218,1223
+170014,winter_action_FAQ,1215;1218;1223
 280207,gold_army,921006|981021|921016
-280101,bonfire_combo_par,1,59|2,16|5,9
+280101,bonfire_combo_par,1;59|2;16|5;9
 280103,bonfire_building_circle,8
 280102,bonfire_building_range,20|95
 130160,upgrade_component_box_attack,1700209|1700208|1700207|1700206|1700205|1700204|1700203|1700202|1700201
@@ -1132,8 +1132,8 @@ int,string,string
 130167,upgrade_component_unlock,4901
 133501,cross_top_war_official_players,30
 133502,cross_top_war_substitute_players,10
-133503,cross_top_war_airdrop_line,13,101,64,128;13,101,64,128
-133504,cross_top_war_airdrop_flight_point,120,127|0,127
+133503,cross_top_war_airdrop_line,13;101;64;128;13;101;64;128
+133504,cross_top_war_airdrop_flight_point,120;127|0;127
 133505,cross_top_war_battle_preparation_time,180
 133506,cross_top_war_airdrop_cd,720|1200|1680|2160|2640|3120
 133507,cross_top_war_airdrop_time,10
@@ -1141,42 +1141,42 @@ int,string,string
 133509,cross_top_war_battle_score_coefficient,1|0.5
 133510,cross_top_war_battle_resources_id,1401
 133511,cross_top_war_battle_resources_num,40
-133512,cross_top_war_battle_help_info,1305,1311,1317,1322,1337,1341
-133513,cross_top_war_battle_reward,Alliance Reward;Rewards for winning Alliance (all members),8300602:Rewards for the Lost Alliance (all members),8300604|Participation;Participants of the Winner will get the following,8300601:Participants of the Losing Alliance will get the following,8300603
-133514,cross_top_war_battle_score,1000,2500,8300501|2501,5000,8300502|5001,7000,8300503|7001,10000,8300504|10001,99999,8300505
+133512,cross_top_war_battle_help_info,1305;1311;1317;1322;1337;1341
+133513,cross_top_war_battle_reward,Alliance Reward;Rewards for winning Alliance (all members);8300602:Rewards for the Lost Alliance (all members);8300604|Participation;Participants of the Winner will get the following;8300601:Participants of the Losing Alliance will get the following;8300603
+133514,cross_top_war_battle_score,1000;2500;8300501|2501;5000;8300502|5001;7000;8300503|7001;10000;8300504|10001;99999;8300505
 133515,cross_top_war_relocate_num,20
-133516,cross_top_war_win_lose_score,-9999,1999,32|2000,2399,24|2400,9999,16
-133517,cross_top_war_deploy_debuff,910300,-3000
+133516,cross_top_war_win_lose_score,-9999;1999;32|2000;2399;24|2400;9999;16
+133517,cross_top_war_deploy_debuff,910300;-3000
 133518,cross_top_war_blast_car_kill_army,2000
 133519,cross_top_war_march_speed,0.8
 133520,cross_top_war_substitute_players_time,600
-133521,cross_top_war_battle_help_info_01,1301,1303
+133521,cross_top_war_battle_help_info_01,1301;1303
 133522,cross_top_war_fix_diamond,1
 133523,cross_top_war_blast_car_life_percentage,0.05
 133524,cross_top_war_server_day,30
-133525,cross_top_war_battle_score_failure,1000,2500,8300511|2501,5000,8300512|5001,7000,8300513|7001,10000,8300514|10001,99999,8300515
+133525,cross_top_war_battle_score_failure,1000;2500;8300511|2501;5000;8300512|5001;7000;8300513|7001;10000;8300514|10001;99999;8300515
 133526,cross_top_war_match_failed,8300901
-133527,cross_top_war_win_personal_rank,1,1,8300501
-133528,cross_top_war_lose_personal_rank,1,1,8300501
+133527,cross_top_war_win_personal_rank,1;1;8300501
+133528,cross_top_war_lose_personal_rank,1;1;8300501
 133529,cross_top_war_shop_level,30
-133530,cross_top_war_battle_reward_win,Alliance Reward;Rewards for winning Alliance (all members),8300602|Participation;Participants of the Winner will get the following,8300601
-133531,cross_top_war_battle_reward_lose,Alliance Reward;Rewards for the Lost Alliance (all members),8300604|Participation;Participants of the Losing Alliance will get the following,8300603
-133532,cross_top_war_personal_rank_total,1,1,8300801|2,2,8300802|3,3,8300803|4,10,8300804|11,30,8300805
+133530,cross_top_war_battle_reward_win,Alliance Reward;Rewards for winning Alliance (all members);8300602|Participation;Participants of the Winner will get the following;8300601
+133531,cross_top_war_battle_reward_lose,Alliance Reward;Rewards for the Lost Alliance (all members);8300604|Participation;Participants of the Losing Alliance will get the following;8300603
+133532,cross_top_war_personal_rank_total,1;1;8300801|2;2;8300802|3;3;8300803|4;10;8300804|11;30;8300805
 130170,guide_area_unlockto_level,12
 280208,innate_gold,3300001
 131010,recommend_server_day,30
 170015,score_value,1
 170016,new_score_item,5900015
 170017,clover_lottery_item,39200183
-170018,clover_lottery_cost,1,1
+170018,clover_lottery_cost,1;1
 130168,guard_limit,20
 931001,kvk_home_Preview,8300014
-173001,QQ_diamond_daily,1,10000021|2,10000022|3,10000023|4,10000024|5,10000025|6,10000026|7,10000027
+173001,QQ_diamond_daily,1;10000021|2;10000022|3;10000023|4;10000024|5;10000025|6;10000026|7;10000027
 173002,QQ_diamond_luxury,10000028
 173003,QQ_diamond_years,10000029
-173004,QQ_diamond_growing,10,10000030|20,10000031|30,10000032|40,10000033|50,10000034|60,10000035|70,10000036|80,10000037
+173004,QQ_diamond_growing,10;10000030|20;10000031|30;10000032|40;10000033|50;10000034|60;10000035|70;10000036|80;10000037
 173005,QQ_diamond_new,10000038
-130220,army_autouse_level,7,50
+130220,army_autouse_level,7;50
 130221,army_autouse_waittime,5
 280210,transfer_server_ticket_score,80000
 280211,transfer_server_enhance_rank_num,30
@@ -1188,7 +1188,7 @@ int,string,string
 280217,transfer_server_vip_exp_score_j,60000
 173007,QQ_hall_daily,10000021
 173008,QQ_hall_registered,10000021
-173009,QQ_hall_growing,10,10000021|20,10000021|30,10000021|40,10000021|50,10000021|60,10000021|70,10000021|80,10000021
+173009,QQ_hall_growing,10;10000021|20;10000021|30;10000021|40;10000021|50;10000021|60;10000021|70;10000021|80;10000021
 280201,transfer_server_item,20210105
 280202,transfer_server_limit_level,80
 280203,transfer_server_open_day,120
@@ -1196,15 +1196,15 @@ int,string,string
 280205,transfer_server_days_protect,40
 280206,transfer_server_days_semiopen,120
 280209,transfer_server_days_power,4E28|2E29|4E29|0
-280220,transfer_server_notice_back,You can't transfer to this server: your level is too high/low,Application not accepted. You have an account in the target server.
+280220,transfer_server_notice_back,You can't transfer to this server: your level is too high/low;Application not accepted. You have an account in the target server.
 133541,launch_tower_battle_display_level,15
 36016,monster_wind_group_v2_param,16|20|24|28|32|36|40|44|48|52|56|60|64|68|72|90|91|92|93|94
 36017,monster_wind_group_v2_limit,20
 36018,monster_wind_group_v2_newbie,5
 36019,monster_wind_group_v2_refresh_param,-2|1
 36020,monster_wind_group_v2_feature_param,5
-36022,monster_wind_group_v2_failure_param,100|A Worthy Opponent,60|Was A Close Call,0|Not A Chance
-36025,monster_wind_group_v2_desc_param,-2|Very easy|1|icon_fire_worldmap1,-1|Easy|1|icon_fire_worldmap2,0|Average|2|icon_fire_worldmap2,1|Hard|3|icon_fire_worldmap3
+36022,monster_wind_group_v2_failure_param,100|A Worthy Opponent;60|Was A Close Call;0|Not A Chance
+36025,monster_wind_group_v2_desc_param,-2|Very easy|1|icon_fire_worldmap1;-1|Easy|1|icon_fire_worldmap2;0|Average|2|icon_fire_worldmap2;1|Hard|3|icon_fire_worldmap3
 16012,target_type_32_score_para_v2,8000
 36015,monster_wind_group_id_v2,1215001|1215002|1215003|1215004|1215101|1215102|1215103|1215104|1215201|1215202|1215203|1215204
 36024,monster_harm_ratio,0.05
@@ -1214,7 +1214,7 @@ int,string,string
 36023,lucky_item_02,2400001
 33041,activity_harmony_daytime_limit,50
 280219,scene_gift_unlock_02,100002
-280221,scene_gift_unlock_03,20,2
+280221,scene_gift_unlock_03,20;2
 17007,thor_air1_atk,12500|6875|5000|4375|3750|3125|2500|2250|1875
 17008,thor_land1_atk,10000|5500
 17009,thor_sea1_atk,4000|3800
@@ -1242,8 +1242,8 @@ int,string,string
 11114,enhance_mastery_item_exp,1|3|9|27|81|243|729|2187|6561|19683
 11115,enhance_mastery_attri_show_level,5
 11116,enhance_mastery_entrance_show_level,60
-280231,gems_obtain_animation,1000,3000
-133610,ss_fortress_occupied_num,1,3|2,2|3,2
+280231,gems_obtain_animation,1000;3000
+133610,ss_fortress_occupied_num,1;3|2;2|3;2
 133611,ss_fortress_task_helpinfo,1401
 133612,ss_fortress_alliance_min_num,50
 133613,ss_fortress_monster_type,804
@@ -1259,8 +1259,8 @@ int,string,string
 133624,sp_world_fortress_giveup_cd,86400
 930092,UnderTheSea_treasure_search_inevitable,4
 11117,enhance_mastery_max_level,20
-280232,ss_fortress_server_task_guide_para,3|29,5|30
-160232,league_create_new_seper,1500|20,50|10
+280232,ss_fortress_server_task_guide_para,3|29;5|30
+160232,league_create_new_seper,1500|20;50|10
 15030,likeness_survey,1|2
 300001,element_def_A,0.6
 300002,element_def_B,0.9
@@ -1280,7 +1280,7 @@ int,string,string
 133619,ss_fortress_server_task_clear,0
 999001,element_sci_lv,4001
 133625,ss_fortress_army_level,80
-36026,monster_wind_group_v2_passport_param,95|Give It A Shot,60|Incomparable,0|Overwhelming
+36026,monster_wind_group_v2_passport_param,95|Give It A Shot;60|Incomparable;0|Overwhelming
 36027,monster_wind_group_v2_passport_point,25|25|25|25|200
 15025,g123_Twitter_link,https://twitter.com/vivid_army_/status/1374541478530195457
 70031,friend_add_level_limit,20
@@ -1297,7 +1297,7 @@ int,string,string
 15026,banner_cut_select,2917368|2917369|2917370|2917371|2917372|916762|916763|916764|916765|916266|916267|916268|916269|916270
 133701,csb_throne_open_time,1800
 9970097,ele_sci_key,2101
-2021320,requestCountConfig,901,60,100,58|901,120,200,118|901,180,300,178|901,300,500,298|1001,60,100,58|1001,120,200,118|1001,180,300,178|1001,300,500,298
+2021320,requestCountConfig,901;60;100;58|901;120;200;118|901;180;300;178|901;300;500;298|1001;60;100;58|1001;120;200;118|1001;180;300;178|1001;300;500;298
 15038,dwarf_miner_space,4
 15039,dwarf_miner_dig_times,300
 1000702,svs_jump_target,60|64
@@ -1317,7 +1317,7 @@ int,string,string
 15040,ramadan_hero,115|2021-04-08-00-00-00|2021-05-13-00-00-00
 15041,ramadan_event_banner,11|501|511
 15043,signIn_makeup_num,13
-15044,signIn_makeup_price,1,10|2,20|3,50|4,100
+15044,signIn_makeup_price,1;10|2;20|3;50|4;100
 15037,ramadan_language,ar|tr|id
 1000603,relic_guard_cost,5|10
 1000604,relic_guard_boss_harm_ratio,0.7
@@ -1343,20 +1343,20 @@ int,string,string
 3500009,alliance_coin_max_allipoints,1200
 15045,signin30_level,5
 90004,alliance_officer_leader_change_para,4
-90005,alliance_officer_kvk_build_permission,4,5,6,7,8,9
+90005,alliance_officer_kvk_build_permission,4;5;6;7;8;9
 90006,alliance_officer_appointment_cd,300
 3501011,shop_sort,
 20214232,vipshop_show,1|5|10
 36030,monster_wind_group_id_v3,51|52|53
-3502011,sci_maxlv,300000|80,301000|80,302000|80,303000|80,310000|80,311000|80,312000|80,313000|80,320000|80,321000|80,322000|80,329000|80,330000|80,480001|80,480002|80,480003|80,490001|80,490002|80,490003|80,470001|80,470002|80,470003|80
-2018,army_init_jelly,10003,19,25|10003,18,26|10002,20,26|10002,17,27|10001,19,27|10001,18,28|10003,20,24
+3502011,sci_maxlv,300000|80;301000|80;302000|80;303000|80;310000|80;311000|80;312000|80;313000|80;320000|80;321000|80;322000|80;329000|80;330000|80;480001|80;480002|80;480003|80;490001|80;490002|80;490003|80;470001|80;470002|80;470003|80
+2018,army_init_jelly,10003;19;25|10003;18;26|10002;20;26|10002;17;27|10001;19;27|10001;18;28|10003;20;24
 4000014,robotics_alliance_number,30
 2021324,ios14_data_upload,1
 20214231,max_field,10|10
-3600121,is_share_chat,1,2,5
+3600121,is_share_chat,1;2;5
 3600123,goto_app_registrationtime,1440
-3600124,goto_app_level,10,20,25,30,35,40
-3600122,manufacture_tips_notice,3500009|4000,3500010|2000
+3600124,goto_app_level,10;20;25;30;35;40
+3600122,manufacture_tips_notice,3500009|4000;3500010|2000
 202105081,begin_fury_heroid,10216
 281101,antiindulged_max_time,10
 280233,transfer_server_days_out,90
@@ -1369,23 +1369,23 @@ int,string,string
 4000007,radar_sys_7,200|200|200
 4000008,radar_sys_8,2
 4000009,radar_sys_9,20
-4000010,radar_sys_10,1,30,3|31,50,4|51,80,5
+4000010,radar_sys_10,1;30;3|31;50;4|51;80;5
 4000011,radar_sys_11,20
 4000012,radar_sys_12,1
 4000013,radar_sys_13,7200
 4000016,radar_sys_16,20
 4000017,radar_sys_17,100
 4000018,radar_sys_18,600
-8014,arms_race_item_score_para,1800001|695,323001|1389
+8014,arms_race_item_score_para,1800001|695;323001|1389
 131125,hero_defense_h,2701
 3330001,warhammer_guide_new,13
 3330002,warhammer_guide_air,30
 3330003,warhammer_guide_war_car,80001
 3330004,warhammer_guide_physical_stregth,260001
 3800001,sever_shield_time,48
-2030,construction_count,2,4,5,6,26
+2030,construction_count,2;4;5;6;26
 3340004,raytheon_gift_bag,940001
-25010,alliance_boss_order,1|0|Summon Now,2|3600|In 1 hour,3|10800|In 3 hours
+25010,alliance_boss_order,1|0|Summon Now;2|3600|In 1 hour;3|10800|In 3 hours
 25011,alliance_boss_help_gift,941212
 25012,allianceBoss_freeTime_2,1800
 25013,alliance_boss_time_limit,10800
@@ -1414,7 +1414,7 @@ int,string,string
 3020001,map_war_fever_cd,360
 3020002,map_war_fever_staus_id,41001
 1018,hero_attri_power_para,2|2|2
-1023,power_detail_group,2,Territory CP|1,6,7,8,Tech CP|9,10,11,12,Hero CP|3,4,13,Arsenal CP|5,Profession CP
+1023,power_detail_group,2;Territory CP|1;6;7;8;Tech CP|9;10;11;12;Hero CP|3;4;13;Arsenal CP|5;Profession CP
 20210610,skin_hide_values,960013
 3020005,set_buff_time_limlt,1623427200
 3110002,relic_give_up_time_01,0
@@ -1429,24 +1429,24 @@ int,string,string
 130136,kvk_tec_helpinfo,2901
 4000020,radar_sys_20,43200|86399
 4000021,radar_sys_21,480
-4000022,radar_sys_22,10,15|20,16|40,17|60,18
-4000023,radar_sys_23,1,2|2,3|3,4|4,5|5,6|6,7
+4000022,radar_sys_22,10;15|20;16|40;17|60;18
+4000023,radar_sys_23,1;2|2;3|3;4|4;5|5;6|6;7
 4000024,radar_sys_24,3|30|300|600|1200
 4000025,radar_sys_25,5
-4000026,Radar is under Testing, more details will be released soon.,3001
+4000026,Radar is under Testing; more details will be released soon.,3001
 20210607,active_in_other_server_skin_buff_ids,990176
 3600126,bind_mailphone_reward,257099
-3600127,bind_mailphone_type,appandroid,appwx,appios,wx|appiosglobal,googleplay,apphuaweiglobal,appfb
+3600127,bind_mailphone_type,appandroid;appwx;appios;wx|appiosglobal;googleplay;apphuaweiglobal;appfb
 20210608,bind_successfully_disappear,6
-15065,landbeaching,2300003,20|39200167,15|1000001,10
-960119,element_two,1,2|1,3|2,1|2,3|3,1|3,2
-960120,element_three,1,2,3|1,3,2|2,1,3|2,3,1|3,1,2|3,2,1
+15065,landbeaching,2300003;20|39200167;15|1000001;10
+960119,element_two,1;2|1;3|2;1|2;3|3;1|3;2
+960120,element_three,1;2;3|1;3;2|2;1;3|2;3;1|3;1;2|3;2;1
 960121,element_two_times,5
 960122,element_three_times,5
 20210705,shortcut_level,22
 9960,alliance_record_weight_param,50
-9961,alliance_record_officer_param,5,100383|6,Vice-leader|7,Matriarch|8,War Commander|9,Ambassador
-20210613,chat_cooldown,10-20|30,20-30|10,30-100|2
+9961,alliance_record_officer_param,5;100383|6;Vice-leader|7;Matriarch|8;War Commander|9;Ambassador
+20210613,chat_cooldown,10-20|30;20-30|10;30-100|2
 20210614,group_mail_level,20
 20210615,chat_send_level_cn,10
 10040,g123_video_722_1,913229|913230|913236|913237|913238|913239
@@ -1458,13 +1458,13 @@ int,string,string
 10046,transformers_Notice_time,2021-8-10-00-00
 10047,transformers_video_name,TransformBossPreview_
 4000030,radar_sys_29,15
-4000027,radar_sys_27,1,50|20,50|30,50|40,50
+4000027,radar_sys_27,1;50|20;50|30;50|40;50
 4000028,radar_sys_28,5
-20210714,spell_effect_round,124,10124,990184|124,10124,990185
+20210714,spell_effect_round,124;10124;990184|124;10124;990185
 20210707,August_heroskill_max,70
-20210719,skill_release,218,124,101
+20210719,skill_release,218;124;101
 15066,Transformers_power_state_num,40000|80000|100000
-15067,Transformers_donate_limit,1,40000|2,80000
+15067,Transformers_donate_limit,1;40000|2;80000
 15068,Transformers_day_limit,4
 15069,Transformers_challenge_times,3
 15070,Transformers_pveid,4005
@@ -1480,14 +1480,14 @@ int,string,string
 202106282,veteranplayer_Loss_max,50
 202106283,veteranplayer_Loss_target,5
 202106284,veteranplayer_Loss_target_reward,20|20217801
-202106286,veteranplayer_active_target_reward,1,5,20248822|1,7,20248823|1,10,20248824|2,15,20248825|3,20,20248826
+202106286,veteranplayer_active_target_reward,1;5;20248822|1;7;20248823|1;10;20248824|2;15;20248825|3;20;20248826
 20210715,upgrade_get_hero,128
 15058,mtbox_refreshlimit,99
 15059,mtbox_patpat,30|1
-15060,mtbox_price,30,54,78,102,126,150,174,198
+15060,mtbox_price,30;54;78;102;126;150;174;198
 15061,mtbox_gem,1|10
 15062,mtbox_autorefresh,24
-15063,mtbox_reward,2,8,24,40|91100,91101,91102,91103
+15063,mtbox_reward,2;8;24;40|91100;91101;91102;91103
 15064,mtbox_patlimit,3
 15077,mtbox_currency,5800011
 15078,mtbox_flash,1701212|1701213
@@ -1498,19 +1498,19 @@ int,string,string
 15084,bumblebee_dayTarget,168
 15091,Transformers_ppboss_time,2021-08-10-00-00-00|2021-08-24-00-00-00
 15092,Transformers_pp_img,image/icon_army/bianxing_search
-15093,Transformers_boss_id,4001,4002,4003
-15056,Scratchcard_hero_scale,124,0,190,0.75
-15057,heropack_hero_scale,124,0,150,0.8
-21801201,batch_training,1040,1100,1050|2700,2800,2900
-2000100,area_v3_init_default,1001,1007,1006,1005,1004,1002,1011,1010,1009,1008,1003,1017,1016,1015,1014,1013,8062,8063,8048,8053,8070
+15093,Transformers_boss_id,4001;4002;4003
+15056,Scratchcard_hero_scale,124;0;190;0.75
+15057,heropack_hero_scale,124;0;150;0.8
+21801201,batch_training,1040;1100;1050|2700;2800;2900
+2000100,area_v3_init_default,1001;1007;1006;1005;1004;1002;1011;1010;1009;1008;1003;1017;1016;1015;1014;1013;8062;8063;8048;8053;8070
 2000101,area_v3_ocean_unlock_area,12
 2000102,area_v3_obstacle_time,2.5
-2000103,army_init_v3,10001,11,33|10001,11,35|10001,12,32|10001,12,34|10001,13,33
+2000103,army_init_v3,10001;11;33|10001;11;35|10001;12;32|10001;12;34|10001;13;33
 2000104,area_v3_ocean_unlock_level,12
 2000105,area_v3_unlock_the_expansionArea,62
 2000106,area_v3_unlock_the_zone_reward,20220001|20220002|20220003|20220004|20220005|20220001|20220004
-2000107,area_v3_unlock_the_zone_key,Smoky Forest,After connecting with Agent Black Widow, the Task Force embarked on a journey to find all the secrets on the island. The goal has become clear: first things first, we need to find those Atmospheric Manipulators.|Arid Desert,Surprisingly, there is a new desert outside the rain forest, full of rocks that are eroded by the wind. Is this all caused by that horrible Atmospheric Manipulator? Let's figure it out.|Mysterious Mountain,Passing through the desert there is the Mountain they have named the Sacred Mountain. The Sacred Mountain is covered with ice and snow, and we have no idea what's waiting for us there. Anyway, we must restore the Island as best as we can!|Forbidden Land,The Northern part of the island is a forbidden area for local residents only, it looks like a place of ceremonial gathering. You discovered the purpose of the Atmospheric Manipulator is to create extreme weather above the enemy. What monsters!|Hidden Base,There's rough terrain, a powerful stronghold, fierce firepower and the base of the Dark Legion lying in front of us... All Dark Forces have garrisoned within the base here. This shall be our Top War with the Dark Forces.|Blue Bay,Let's walk those poor residents home. We can easily occupy the Beachhead area by the South Island. So the new task is to keep the horrible Atmospheric Manipulator for yourself.|Ceremonial Forest,The rainforest here is more dangerous than before, hearing gun shots deep in the forest from time to time... With eliminating all the enemies and finding the last Atmospheric Manipulator you are going to liberate and bring peace back to the Island.
-2000108,area_v3_unlock_the_camera_move,2,2015|3,3007|4,4010|5,5004|6,6010|7,7117
+2000107,area_v3_unlock_the_zone_key,Smoky Forest;After connecting with Agent Black Widow; the Task Force embarked on a journey to find all the secrets on the island. The goal has become clear: first things first; we need to find those Atmospheric Manipulators.|Arid Desert;Surprisingly; there is a new desert outside the rain forest; full of rocks that are eroded by the wind. Is this all caused by that horrible Atmospheric Manipulator? Let's figure it out.|Mysterious Mountain;Passing through the desert there is the Mountain they have named the Sacred Mountain. The Sacred Mountain is covered with ice and snow; and we have no idea what's waiting for us there. Anyway; we must restore the Island as best as we can!|Forbidden Land;The Northern part of the island is a forbidden area for local residents only; it looks like a place of ceremonial gathering. You discovered the purpose of the Atmospheric Manipulator is to create extreme weather above the enemy. What monsters!|Hidden Base;There's rough terrain; a powerful stronghold; fierce firepower and the base of the Dark Legion lying in front of us... All Dark Forces have garrisoned within the base here. This shall be our Top War with the Dark Forces.|Blue Bay;Let's walk those poor residents home. We can easily occupy the Beachhead area by the South Island. So the new task is to keep the horrible Atmospheric Manipulator for yourself.|Ceremonial Forest;The rainforest here is more dangerous than before; hearing gun shots deep in the forest from time to time... With eliminating all the enemies and finding the last Atmospheric Manipulator you are going to liberate and bring peace back to the Island.
+2000108,area_v3_unlock_the_camera_move,2;2015|3;3007|4;4010|5;5004|6;6010|7;7117
 2000109,area_v3_unlock_ocean_hero,6
 2000110,area_v3_unlock_ocean_areaid,8046
 2000111,area_v3_unlock_ocean_hero_time,5
@@ -1521,7 +1521,7 @@ int,string,string
 2000116,area_v3_unlock_plot,1022|1021|1030|1029|1026
 2000117,area_v3_unlock_firstbuilding_pve,1022|999
 2000118,area_v3_unlock_firstbuilding_area,60001
-2000119,area_v3_unlocklevel,1040,newbase_gameplayV3,5|1700,newbase_gameplayV3,5|4900,key_novice_adjustments,14|3200,key_novice_adjustments,45|3300,key_novice_adjustments,45|2400,newbase_gameplayV3,15|2000,newbase_gameplayV3,8|3500,newbase_gameplayV3,12|2700,newbase_gameplayV3,30|2800,newbase_gameplayV3,30|2900,newbase_gameplayV3,30
+2000119,area_v3_unlocklevel,1040;newbase_gameplayV3;5|1700;newbase_gameplayV3;5|4900;key_novice_adjustments;14|3200;key_novice_adjustments;45|3300;key_novice_adjustments;45|2400;newbase_gameplayV3;15|2000;newbase_gameplayV3;8|3500;newbase_gameplayV3;12|2700;newbase_gameplayV3;30|2800;newbase_gameplayV3;30|2900;newbase_gameplayV3;30
 2000120,area_v3_unlock_hero_area,1029
 2000121,area_v3_unlock_activity_level,8
 2000122,area_v3_unlock_scene_locate,5
@@ -1530,10 +1530,10 @@ int,string,string
 2000125,area_v3_unlock_areaid_loading,3026
 2000126,area_v3_unlock_ocean_scene_new,9009
 2000127,area_v3_radar_first_task,10001
-2000128,area_v3_unlock_reguide,1022,38003|1021,38013
+2000128,area_v3_unlock_reguide,1022;38003|1021;38013
 2000129,area_v3_radar_sys,1
 2000130,area_v3_first_area_number,16
-2000131,area_v3_scene_gift_unlock,2017;3,4
+2000131,area_v3_scene_gift_unlock,2017;3;4
 2000132,area_v3_building_effect_time,60
 2000133,area_v3_building_effect,6750|6200|6600|6900|6800|6500
 2000134,area_v3_first_purchase_level,5
@@ -1541,7 +1541,7 @@ int,string,string
 21801202,timer_showdot,3
 2000136,area_v3_cloud_minlevel,90
 2000137,area_v3_enhance_level,10
-21801203,Aggregate_event,72,7,client_battle_begin|15,hero_get|4,hero_recruit_hero|10,client_world_attack_monster|30,merge_building|120,train|200,get_online_reward|9
+21801203,Aggregate_event,72;7;client_battle_begin|15;hero_get|4;hero_recruit_hero|10;client_world_attack_monster|30;merge_building|120;train|200;get_online_reward|9
 2000138,area_v3_unlock_store_level,6
 2000139,area_v3_unlock_area_guide_show,60001
 2000140,area_v3_unlock_area_maxtime_Test,30
@@ -1549,7 +1549,7 @@ int,string,string
 2181902,recovery_shop_record,7
 2181903,recovery_shop_item,39201011
 2181904,recovery_shop_limit,1000
-280016,new_version_content_login_platform_official,baidugame,toutiao,appios,appandroid,appwx,appqq,apptianci,appquick,quickoppo,quickvivo,quickhuawei,webgame:1.209
+280016,new_version_content_login_platform_official,baidugame;toutiao;appios;appandroid;appwx;appqq;apptianci;appquick;quickoppo;quickvivo;quickhuawei;webgame:1.209
 280017,new_version_content_login_platform_Test,wx:1.208
 280234,transfer_server_ignore_hero,128
 2021322,anti_plugin_time,300
@@ -1558,7 +1558,7 @@ int,string,string
 10049,russian_linkage_hero_show_1,115|2165
 10050,russian_linkage_hero_show_2,14
 10051,russian_linkage_language,ru
-10052,russian_linkage_recruit_voice,Are you ready?|newKingTaskRussiaGuide1,Hi! Help me please!|newKingTaskRussiaGuide2,Oww. I have got too many things to do today!|newKingTaskRussiaGuide3,Can I buy you a drink? Tea?|newKingTaskRussiaGuide4,Right on time! I could use your help|newKingTaskRussiaGuide5,I never make mistakes.|newKingTaskRussiaGuide6
+10052,russian_linkage_recruit_voice,Are you ready?|newKingTaskRussiaGuide1;Hi! Help me please!|newKingTaskRussiaGuide2;Oww. I have got too many things to do today!|newKingTaskRussiaGuide3;Can I buy you a drink? Tea?|newKingTaskRussiaGuide4;Right on time! I could use your help|newKingTaskRussiaGuide5;I never make mistakes.|newKingTaskRussiaGuide6
 5000006,russian_linkage_trigger_time,1631808000
 941213,world_boss_order,2|3|4
 2183001,forecast_activity_banner,activity_banner_900012_truen.png
@@ -1566,48 +1566,48 @@ int,string,string
 21090102,festival_icon_difference,
 21090103,banner_difference,
 21090104,dynamic_icon_difference,
-5000001,russian_linkage_img_jump,Marching Queue Skin|image/RussiaActivity/cell1_Enter_ActivityRU,More rewards|image/RussiaActivity/cell2_Enter_ActivityRU,Avatar Frame|image/RussiaActivity/cell3_Enter_ActivityRU,Nameplate|image/RussiaActivity/cell4_Enter_ActivityRU
+5000001,russian_linkage_img_jump,Marching Queue Skin|image/RussiaActivity/cell1_Enter_ActivityRU;More rewards|image/RussiaActivity/cell2_Enter_ActivityRU;Avatar Frame|image/RussiaActivity/cell3_Enter_ActivityRU;Nameplate|image/RussiaActivity/cell4_Enter_ActivityRU
 5000002,russian_linkage_open_event,900000
 5000003,sergey_box_integral,500
 5000004,sergey_box_reward,9900001
 5000005,sergey_max_revice_num,30
-5000007,russian_linkage_day_bp,12001,50|12002,50|12003,50|12004,50|12005,50|12006,50
+5000007,russian_linkage_day_bp,12001;50|12002;50|12003;50|12004;50|12005;50|12006;50
 5000008,russian_linkage_radar_bp,100
 11119,units_gather_unlock_level,70
 11120,units_gather_diameter_max,30
 11121,units_gather_number_max,900
 4000032,radar_show_time,1440
-4000019,radar_sys_19,1|4800|1,2|4200|1,3|3600|1,4|3000|1,5|2400|1
+4000019,radar_sys_19,1|4800|1;2|4200|1;3|3600|1;4|3000|1;5|2400|1
 9963,alliance_record_news_end_time,168
-4000029,radar_sys_0119,1,20|2,25|3,30|4,35|5,40
+4000029,radar_sys_0119,1;20|2;25|3;30|4;35|5;40
 10053,web_game_create_short_cut_reward,1916352
-950031,novice_adjustments_guide_building,3900,4900
+950031,novice_adjustments_guide_building,3900;4900
 950032,novice_adjustments_collector_rebate,0|120|360|1560|2560|4520
 202191002,pay_integral_gem,1|5
 202191001,pay_integral_data,2191001
 20210617,goto_FB_registrationtime,5
-20210618,goto_FB_level,5,10,15
+20210618,goto_FB_level,5;10;15
 20210619,FB_guide_reopen,10
 20210620,FB_bind_reward,19104|367801
 20210621,FB_reopen_time,24
-4000033,radar_signal_num,0|80,1|20
+4000033,radar_signal_num,0|80;1|20
 4000034,radar_deference_time,600
 4000035,radar_deference_count,1
 4000036,radar_deference_open_lv,3
 4000037,radar_signal_default,1|5
-4000038,radar_star_id,5001,5002,5003,5004,5005,5006,5007,5008,5009,5010,5011,5012,5013,5014,5015,5016,5017,5018,5019,5020,5021,5022,5023,5024,5025,5026,5027,5028,5029,5030,5031,5032,5033,5034,5035,5036,5037,5038,5039,5040,5041,5042,5043,5044,5045,5046,5047,5048,5049,5050,5051,5052,5053,5054,5055,5056,5057,5058,5059,5060,5061,5062,5063,5064,5065,5066,5067,5068,5069,5070,5071,5072,5073,5074,5075,5076,5077,5078,5079,5080
+4000038,radar_star_id,5001;5002;5003;5004;5005;5006;5007;5008;5009;5010;5011;5012;5013;5014;5015;5016;5017;5018;5019;5020;5021;5022;5023;5024;5025;5026;5027;5028;5029;5030;5031;5032;5033;5034;5035;5036;5037;5038;5039;5040;5041;5042;5043;5044;5045;5046;5047;5048;5049;5050;5051;5052;5053;5054;5055;5056;5057;5058;5059;5060;5061;5062;5063;5064;5065;5066;5067;5068;5069;5070;5071;5072;5073;5074;5075;5076;5077;5078;5079;5080
 4000039,radar_reset_diamond,20|40|60|80|100
 4000040,radar_signal_default_add,0|20|40|60|80|100|150|200
 4000041,radar_show,4001
 4000042,radar_signal_unlock_lv,2
-4000043,radar_sys_des,2,New feature unlocked: radar signal|3,New feature unlocked: Radar defense system
-20210622,The leadership has been changed recently, mail feature will be available in {0} minutes,3600
+4000043,radar_sys_des,2;New feature unlocked: radar signal|3;New feature unlocked: Radar defense system
+20210622,The leadership has been changed recently; mail feature will be available in {0} minutes,3600
 8000001,skin_up_banner,activity_banner_855_1|activity_banner_855_1
 10054,new_turntable_reward_time,1633072367
-9964,alliance_record_news_table,1,General|2,Battle|3,Building
+9964,alliance_record_news_table,1;General|2;Battle|3;Building
 9965,alliance_record_news_rows,3|5
 9966,alliance_record_news_opened,1
-9967,alliance_record_profession_name,52001,Combat Elite|52002,Grand Marshal|52003,Tactical Master,53001,Mechanical\nMaster|53002,Legendary Craftsman|53003,Great Scientist
+9967,alliance_record_profession_name,52001;Combat Elite|52002;Grand Marshal|52003;Tactical Master;53001;Mechanical\nMaster|53002;Legendary Craftsman|53003;Great Scientist
 9968,Droid Donationtimes,20
 9969,alliance_record_alliance_tech_donatetimes,20
 9971,alliance_record_setting_panel,4101
@@ -1620,12 +1620,12 @@ int,string,string
 9990,BP_jump_daily,900010
 99910,video_jump_bp,900011
 2211011,rich_man_probability,1|1|1|1|1|1
-2211012,rich_man_target,0,1|80,1
+2211012,rich_man_target,0;1|80;1
 2211013,rich_man_start_reward_num,3
 2211014,rich_man_achievement,20|21101101
 9980,priority_selection_setting_panel,4201
 9981,diamond_double_check_setting_panel,4301
-6000001,hero_cap_num_limit,1|1,2|12
+6000001,hero_cap_num_limit,1|1;2|12
 6000002,warConvertCap,5e-05
 6000003,developConvertCap,5e-05
 6000004,auxiliaryConvertCap,0.5
@@ -1633,7 +1633,7 @@ int,string,string
 6000006,TurnCapHeroSeat,1047
 6000007,auxiliaryConvertCapBuff,990202
 6000008,ChooseCapHero,1026
-10056,area_v3_additional_guide,2|52200,4-1|53700,4-7|53500|,4-5|53600,4-20|53800,12|52500,10-1|52700,10-4|52600,15|52800,13|52900,1|53300,40|53200
+10056,area_v3_additional_guide,2|52200;4-1|53700;4-7|53500|;4-5|53600;4-20|53800;12|52500;10-1|52700;10-4|52600;15|52800;13|52900;1|53300;40|53200
 280235,transfer_server_application_cd,60
 280236,transfer_server_idle_discount,100
 280237,transfer_server_update_period,15
@@ -1654,21 +1654,21 @@ int,string,string
 20210623,terms_service_url,terms_of_service.txt
 20210624,privacy_policy_url,privacy_policy.txt
 20210625,Age-appropriate_tips,age_verification.txt
-950033,novice_adjustments_guide_in_areabattle,1026|64000,1047|9404,1023|9404
+950033,novice_adjustments_guide_in_areabattle,1026|64000;1047|9404;1023|9404
 20211103,crossserver_chat_minlevel,30
 4000044,radar_guide_lv,9
 4000046,pop_time_cd,3|10
-6000014,switch_show_hero,radar_league,131
+6000014,switch_show_hero,radar_league;131
 20211105,pay_integral_limit,5000
-37000,city_bgm_loop_para,CITY_BG|63,CITY_BG1|33,CITY_BG|70
-6000012,hero_anger_random,1,1000|2,2000|3,3000|4,2000|5,1000|6,1000
-6000013,hero_anger_pseudo_random,10,5,6,3
-6000015,exclude_effect_buff_id_simple_open,990415,990184
+37000,city_bgm_loop_para,CITY_BG|63;CITY_BG1|33;CITY_BG|70
+6000012,hero_anger_random,1;1000|2;2000|3;3000|4;2000|5;1000|6;1000
+6000013,hero_anger_pseudo_random,10;5;6;3
+6000015,exclude_effect_buff_id_simple_open,990415;990184
 20211106,new_first_charge_gift,131001
 20211107,new_first_charge_gift,131003
 930130,cross_server_arena_need_pvp_arena_rank,20
-2220001,marquee_open_lv,all,8
-2220002,marquee_open_lv_gm,all,8
+2220001,marquee_open_lv,all;8
+2220002,marquee_open_lv_gm,all;8
 130301,first_gift_level_limit,10
 30303000,radar_effects_second_num,2
 30303001,radar_effects_second,5

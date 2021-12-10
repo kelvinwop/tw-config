@@ -1926,11 +1926,11 @@ int,int,int,int,int,string,int,string,string,string,string,string,int,int,int,in
 44100,44,100,0,44100,,,,,,,,,,,,,
 2021001,1215001,1,0,2021001,icon_star_worldmap1,1,Abandoned Dark Army,Hey! What's going on with those poorly made copycats?,PrefabEnemyD_B1,PrefabEnemyD_B1_Min,PrefabEnemyD_B1_Max,3,7,1,1,0,2
 2021002,1215001,2,0,2021002,icon_star_worldmap1,2,Noisy Dark Army,Oh shut it! They are driving me crazy!,PrefabEnemyD_B1,PrefabEnemyD_B1_Min,PrefabEnemyD_B1_Max,3,7,1,1,0,2
-2021003,1215001,3,0,2021003,icon_star_worldmap1,3,Impressive Dark Army,Don't underestimate this enemy, or you'll regret it.,PrefabEnemyD_B1,PrefabEnemyD_B1_Min,PrefabEnemyD_B1_Max,3,7,1,1,0,2
+2021003,1215001,3,0,2021003,icon_star_worldmap1,3,Impressive Dark Army,Don't underestimate this enemy; or you'll regret it.,PrefabEnemyD_B1,PrefabEnemyD_B1_Min,PrefabEnemyD_B1_Max,3,7,1,1,0,2
 2021004,1215001,4,0,2021004,icon_star_worldmap1,4,Arrogant Dark Army,Arrogance kills curiosity and passion. They are dead to us.,PrefabEnemyD_B1,PrefabEnemyD_B1_Min,PrefabEnemyD_B1_Max,5,7,1,1,0,2
-2021005,1215001,5,0,2021005,icon_star_worldmap1,5,Snotty Dark Army,Don't get too close, or there would be a counterattack.,PrefabEnemyD_B1,PrefabEnemyD_B1_Min,PrefabEnemyD_B1_Max,5,7,1,1,0,3
+2021005,1215001,5,0,2021005,icon_star_worldmap1,5,Snotty Dark Army,Don't get too close; or there would be a counterattack.,PrefabEnemyD_B1,PrefabEnemyD_B1_Min,PrefabEnemyD_B1_Max,5,7,1,1,0,3
 2021006,1215001,6,0,2021006,icon_star_worldmap2,1,Ruthless Dark Army,We do not train to be merciful here. Go get 'em!,PrefabEnemyD_T1,PrefabEnemyD_T1_Min,PrefabEnemyD_T1_Max,5,7,1,1,0,3
-2021007,1215001,7,0,2021007,icon_star_worldmap2,2,Filthy Dark Army,Careful, beware of the sneak attack!,PrefabEnemyD_T1,PrefabEnemyD_T1_Min,PrefabEnemyD_T1_Max,8,7,1,5,0,3
+2021007,1215001,7,0,2021007,icon_star_worldmap2,2,Filthy Dark Army,Careful; beware of the sneak attack!,PrefabEnemyD_T1,PrefabEnemyD_T1_Min,PrefabEnemyD_T1_Max,8,7,1,5,0,3
 2021008,1215001,8,0,2021008,icon_star_worldmap2,3,Cunning Dark Army,It seems very difficult to anticipate their next move. Let's see how it goes for a while.,PrefabEnemyD_T1,PrefabEnemyD_T1_Min,PrefabEnemyD_T1_Max,8,7,1,5,0,3
 2021009,1215001,9,0,2021009,icon_star_worldmap2,4,Stubborn Dark Army,Horrifying enemies that carry out suicidal attacks. Defend yourselves.,PrefabEnemyD_T1,PrefabEnemyD_T1_Min,PrefabEnemyD_T1_Max,8,7,1,5,0,4
 2021010,1215001,10,0,2021010,icon_star_worldmap2,5,Fierce Dark Army,Significant enhancement in the combat power.,PrefabEnemyD_T1,PrefabEnemyD_T1_Min,PrefabEnemyD_T1_Max,12,7,1,10,0,4
@@ -1938,19 +1938,19 @@ int,int,int,int,int,string,int,string,string,string,string,string,int,int,int,in
 2021012,1215001,12,0,2021012,icon_star_worldmap3,2,Brutal Dark Army,Look at what they did to us!! A real pain in the neck.,PrefabEnemyD_T3,PrefabEnemyD_T3_Min,PrefabEnemyD_T3_Max,12,7,1,10,0,4
 2021013,1215001,13,0,2021013,icon_star_worldmap3,3,Vicious Dark Army,Let us put an end to this.,PrefabEnemyD_T3,PrefabEnemyD_T3_Min,PrefabEnemyD_T3_Max,19,10,1,15,0,5
 2021014,1215001,14,0,2021014,icon_star_worldmap3,4,Cranky Dark Army,Impatient and easily irritated. Never interrupt your enemy when he is making a mistake.,PrefabEnemyD_T3,PrefabEnemyD_T3_Min,PrefabEnemyD_T3_Max,19,10,1,15,0,5
-2021015,1215001,15,0,2021015,icon_star_worldmap3,5,Gloomy Dark Army,Don't ever show mercy upon your enemies, because they won't.,PrefabEnemyD_T3,PrefabEnemyD_T3_Min,PrefabEnemyD_T3_Max,19,10,1,15,0,6
-2021016,1215001,16,0,2021016,icon_star_worldmap4,1,Depressed Dark Army,They have thoughts, emotions. Wonder how things will go from there.,PrefabEnemyD_T4,PrefabEnemyD_T4_Min,PrefabEnemyD_T4_Max,24,10,1,20,0,6
-2021017,1215001,17,0,2021017,icon_star_worldmap4,2,Unstable Dark Army,A cold, heartless psychopath, lost his sense of identity as a person.,PrefabEnemyD_T4,PrefabEnemyD_T4_Min,PrefabEnemyD_T4_Max,24,10,1,20,0,7
+2021015,1215001,15,0,2021015,icon_star_worldmap3,5,Gloomy Dark Army,Don't ever show mercy upon your enemies; because they won't.,PrefabEnemyD_T3,PrefabEnemyD_T3_Min,PrefabEnemyD_T3_Max,19,10,1,15,0,6
+2021016,1215001,16,0,2021016,icon_star_worldmap4,1,Depressed Dark Army,They have thoughts; emotions. Wonder how things will go from there.,PrefabEnemyD_T4,PrefabEnemyD_T4_Min,PrefabEnemyD_T4_Max,24,10,1,20,0,6
+2021017,1215001,17,0,2021017,icon_star_worldmap4,2,Unstable Dark Army,A cold; heartless psychopath; lost his sense of identity as a person.,PrefabEnemyD_T4,PrefabEnemyD_T4_Min,PrefabEnemyD_T4_Max,24,10,1,20,0,7
 2021018,1215001,18,0,2021018,icon_star_worldmap4,3,Wild Dark Army,It's an overwhelming challenge for us to deal with.,PrefabEnemyD_T4,PrefabEnemyD_T4_Min,PrefabEnemyD_T4_Max,24,10,1,20,0,7
 2021019,1215001,19,0,2021019,icon_star_worldmap4,4,Mad Dark Army,Savage and brutal attacks. Stay focused.,PrefabEnemyD_T4,PrefabEnemyD_T4_Min,PrefabEnemyD_T4_Max,29,11,1,30,1,8
-2021020,1215001,20,0,2021020,icon_star_worldmap4,5,Normal Dark Army,It looks normal. No, wait. Why are normal like us??,PrefabEnemyD_T4,PrefabEnemyD_T4_Min,PrefabEnemyD_T4_Max,29,11,1,30,1,8
+2021020,1215001,20,0,2021020,icon_star_worldmap4,5,Normal Dark Army,It looks normal. No; wait. Why are normal like us??,PrefabEnemyD_T4,PrefabEnemyD_T4_Min,PrefabEnemyD_T4_Max,29,11,1,30,1,8
 2021101,1215101,1,0,2021101,icon_star_worldmap1,1,Abandoned Dark Navy,Hey! What's going on with those poorly made copycats?,PrefabEnemyD_S1,PrefabEnemyD_S1_Min,PrefabEnemyD_S1_Max,29,11,1,30,1,2
 2021102,1215101,2,0,2021102,icon_star_worldmap1,2,Noisy Dark Navy,Oh shut it! They are driving me crazy!,PrefabEnemyD_S1,PrefabEnemyD_S1_Min,PrefabEnemyD_S1_Max,34,14,1,40,2,2
-2021103,1215101,3,0,2021103,icon_star_worldmap1,3,Impressive Dark Navy,Don't underestimate this enemy, or you'll regret it.,PrefabEnemyD_S1,PrefabEnemyD_S1_Min,PrefabEnemyD_S1_Max,34,14,1,40,2,2
+2021103,1215101,3,0,2021103,icon_star_worldmap1,3,Impressive Dark Navy,Don't underestimate this enemy; or you'll regret it.,PrefabEnemyD_S1,PrefabEnemyD_S1_Min,PrefabEnemyD_S1_Max,34,14,1,40,2,2
 2021104,1215101,4,0,2021104,icon_star_worldmap1,4,Arrogant Dark Navy,Arrogance kills curiosity and passion. They are dead to us.,PrefabEnemyD_S1,PrefabEnemyD_S1_Min,PrefabEnemyD_S1_Max,34,14,1,40,2,2
-2021105,1215101,5,0,2021105,icon_star_worldmap1,5,Snotty Dark Navy,Don't get too close, or there would be a counterattack.,PrefabEnemyD_S1,PrefabEnemyD_S1_Min,PrefabEnemyD_S1_Max,39,16,1,40,3,3
+2021105,1215101,5,0,2021105,icon_star_worldmap1,5,Snotty Dark Navy,Don't get too close; or there would be a counterattack.,PrefabEnemyD_S1,PrefabEnemyD_S1_Min,PrefabEnemyD_S1_Max,39,16,1,40,3,3
 2021106,1215101,6,0,2021106,icon_star_worldmap2,1,Ruthless Dark Navy,We do not train to be merciful here. Go get 'em!,PrefabEnemyD_S2,PrefabEnemyD_S2_Min,PrefabEnemyD_S2_Max,39,16,1,40,3,3
-2021107,1215101,7,0,2021107,icon_star_worldmap2,2,Filthy Dark Navy,Careful, beware of the sneak attack!,PrefabEnemyD_S2,PrefabEnemyD_S2_Min,PrefabEnemyD_S2_Max,39,16,1,40,3,3
+2021107,1215101,7,0,2021107,icon_star_worldmap2,2,Filthy Dark Navy,Careful; beware of the sneak attack!,PrefabEnemyD_S2,PrefabEnemyD_S2_Min,PrefabEnemyD_S2_Max,39,16,1,40,3,3
 2021108,1215101,8,0,2021108,icon_star_worldmap2,3,Cunning Dark Navy,It seems very difficult to anticipate their next move. Let's see how it goes for a while.,PrefabEnemyD_S2,PrefabEnemyD_S2_Min,PrefabEnemyD_S2_Max,44,23,2,60,4,3
 2021109,1215101,9,0,2021109,icon_star_worldmap2,4,Stubborn Dark Navy,Horrifying enemies that carry out suicidal attacks. Defend yourselves.,PrefabEnemyD_S2,PrefabEnemyD_S2_Min,PrefabEnemyD_S2_Max,44,23,2,60,4,4
 2021110,1215101,10,0,2021110,icon_star_worldmap2,5,Fierce Dark Navy,Significant enhancement in the combat power.,PrefabEnemyD_S2,PrefabEnemyD_S2_Min,PrefabEnemyD_S2_Max,44,23,2,60,4,4
@@ -1958,19 +1958,19 @@ int,int,int,int,int,string,int,string,string,string,string,string,int,int,int,in
 2021112,1215101,12,0,2021112,icon_star_worldmap3,2,Brutal Dark Navy,Look at what they did to us!! A real pain in the neck.,PrefabEnemyD_S3,PrefabEnemyD_S3_Min,PrefabEnemyD_S3_Max,49,31,2,80,4,4
 2021113,1215101,13,0,2021113,icon_star_worldmap3,3,Cranky Dark Navy,Let us put an end to this.,PrefabEnemyD_S3,PrefabEnemyD_S3_Min,PrefabEnemyD_S3_Max,49,31,2,80,4,5
 2021114,1215101,14,0,2021114,icon_star_worldmap3,4,Gloomy Dark Navy,Impatient and easily irritated. Never interrupt your enemy when he is making a mistake.,PrefabEnemyD_S3,PrefabEnemyD_S3_Min,PrefabEnemyD_S3_Max,54,33,2,80,5,5
-2021115,1215101,15,0,2021115,icon_star_worldmap3,5,Depressed Dark Navy,Don't ever show mercy upon your enemies, because they won't.,PrefabEnemyD_S3,PrefabEnemyD_S3_Min,PrefabEnemyD_S3_Max,54,33,2,80,5,6
-2021116,1215101,16,0,2021116,icon_star_worldmap4,1,Unstable Dark Navy,They have thoughts, emotions. Wonder how things will go from there.,PrefabEnemyD_S4,PrefabEnemyD_S4_Min,PrefabEnemyD_S4_Max,54,33,2,80,5,6
-2021117,1215101,17,0,2021117,icon_star_worldmap4,2,Mad Dark Navy,A cold, heartless psychopath, lost his sense of identity as a person.,PrefabEnemyD_S4,PrefabEnemyD_S4_Min,PrefabEnemyD_S4_Max,59,42,3,100,5,7
+2021115,1215101,15,0,2021115,icon_star_worldmap3,5,Depressed Dark Navy,Don't ever show mercy upon your enemies; because they won't.,PrefabEnemyD_S3,PrefabEnemyD_S3_Min,PrefabEnemyD_S3_Max,54,33,2,80,5,6
+2021116,1215101,16,0,2021116,icon_star_worldmap4,1,Unstable Dark Navy,They have thoughts; emotions. Wonder how things will go from there.,PrefabEnemyD_S4,PrefabEnemyD_S4_Min,PrefabEnemyD_S4_Max,54,33,2,80,5,6
+2021117,1215101,17,0,2021117,icon_star_worldmap4,2,Mad Dark Navy,A cold; heartless psychopath; lost his sense of identity as a person.,PrefabEnemyD_S4,PrefabEnemyD_S4_Min,PrefabEnemyD_S4_Max,59,42,3,100,5,7
 2021118,1215101,18,0,2021118,icon_star_worldmap4,3,Wild Dark Navy,It's an overwhelming challenge for us to deal with.,PrefabEnemyD_S4,PrefabEnemyD_S4_Min,PrefabEnemyD_S4_Max,59,42,3,100,5,7
 2021119,1215101,19,0,2021119,icon_star_worldmap4,4,Vicious Dark Navy,Savage and brutal attacks. Stay focused.,PrefabEnemyD_S4,PrefabEnemyD_S4_Min,PrefabEnemyD_S4_Max,59,42,3,100,5,8
-2021120,1215101,20,0,2021120,icon_star_worldmap4,5,Normal Dark Navy,It looks normal. No, wait. Why are normal like us??,PrefabEnemyD_S4,PrefabEnemyD_S4_Min,PrefabEnemyD_S4_Max,63,43,3,100,6,8
+2021120,1215101,20,0,2021120,icon_star_worldmap4,5,Normal Dark Navy,It looks normal. No; wait. Why are normal like us??,PrefabEnemyD_S4,PrefabEnemyD_S4_Min,PrefabEnemyD_S4_Max,63,43,3,100,6,8
 2021201,1215201,1,0,2021201,icon_star_worldmap1,1,Abandoned Dark Air Force,Hey! What's going on with those poorly made copycats?,PrefabEnemyD_A1,PrefabEnemyD_A1_Min,PrefabEnemyD_A1_Max,63,43,3,100,6,2
 2021202,1215201,2,0,2021202,icon_star_worldmap1,2,Noisy Dark Air Force,Oh shut it! They are driving me crazy!,PrefabEnemyD_A1,PrefabEnemyD_A1_Min,PrefabEnemyD_A1_Max,63,43,3,100,6,2
-2021203,1215201,3,0,2021203,icon_star_worldmap1,3,Impressive Dark Air Force,Don't underestimate this enemy, or you'll regret it.,PrefabEnemyD_A1,PrefabEnemyD_A1_Min,PrefabEnemyD_A1_Max,66,44,3,100,6,2
+2021203,1215201,3,0,2021203,icon_star_worldmap1,3,Impressive Dark Air Force,Don't underestimate this enemy; or you'll regret it.,PrefabEnemyD_A1,PrefabEnemyD_A1_Min,PrefabEnemyD_A1_Max,66,44,3,100,6,2
 2021204,1215201,4,0,2021204,icon_star_worldmap1,4,Arrogant Dark Air Force,Arrogance kills curiosity and passion. They are dead to us.,PrefabEnemyD_A1,PrefabEnemyD_A1_Min,PrefabEnemyD_A1_Max,66,44,3,100,6,2
-2021205,1215201,5,0,2021205,icon_star_worldmap1,5,Snotty Dark Air Force,Don't get too close, or there would be a counterattack.,PrefabEnemyD_A1,PrefabEnemyD_A1_Min,PrefabEnemyD_A1_Max,66,44,3,100,6,3
+2021205,1215201,5,0,2021205,icon_star_worldmap1,5,Snotty Dark Air Force,Don't get too close; or there would be a counterattack.,PrefabEnemyD_A1,PrefabEnemyD_A1_Min,PrefabEnemyD_A1_Max,66,44,3,100,6,3
 2021206,1215201,6,0,2021206,icon_star_worldmap2,1,Ruthless Dark Air Force,We do not train to be merciful here. Go get 'em!,PrefabEnemyD_A2,PrefabEnemyD_A2_Min,PrefabEnemyD_A2_Max,68,48,4,100,7,3
-2021207,1215201,7,0,2021207,icon_star_worldmap2,2,Filthy Dark Air Force,Careful, beware of the sneak attack!,PrefabEnemyD_A2,PrefabEnemyD_A2_Min,PrefabEnemyD_A2_Max,68,48,4,100,7,3
+2021207,1215201,7,0,2021207,icon_star_worldmap2,2,Filthy Dark Air Force,Careful; beware of the sneak attack!,PrefabEnemyD_A2,PrefabEnemyD_A2_Min,PrefabEnemyD_A2_Max,68,48,4,100,7,3
 2021208,1215201,8,0,2021208,icon_star_worldmap2,3,Cunning Dark Air Force,It seems very difficult to anticipate their next move. Let's see how it goes for a while.,PrefabEnemyD_A2,PrefabEnemyD_A2_Min,PrefabEnemyD_A2_Max,68,48,4,100,7,3
 2021209,1215201,9,0,2021209,icon_star_worldmap2,4,Stubborn Dark Air Force,Horrifying enemies that carry out suicidal attacks. Defend yourselves.,PrefabEnemyD_A2,PrefabEnemyD_A2_Min,PrefabEnemyD_A2_Max,70,49,4,100,7,4
 2021210,1215201,10,0,2021210,icon_star_worldmap2,5,Fierce Dark Air Force,Significant enhancement in the combat power.,PrefabEnemyD_A2,PrefabEnemyD_A2_Min,PrefabEnemyD_A2_Max,70,49,4,100,7,4
@@ -1978,12 +1978,12 @@ int,int,int,int,int,string,int,string,string,string,string,string,int,int,int,in
 2021212,1215201,12,0,2021212,icon_star_worldmap3,2,Brutal Dark Air Force,Look at what they did to us!! A real pain in the neck.,PrefabEnemyD_A3,PrefabEnemyD_A3_Min,PrefabEnemyD_A3_Max,72,49,4,100,8,4
 2021213,1215201,13,0,2021213,icon_star_worldmap3,3,Cranky Dark Air Force,Let us put an end to this.,PrefabEnemyD_A3,PrefabEnemyD_A3_Min,PrefabEnemyD_A3_Max,72,49,4,100,8,5
 2021214,1215201,14,0,2021214,icon_star_worldmap3,4,Gloomy Dark Air Force,Impatient and easily irritated. Never interrupt your enemy when he is making a mistake.,PrefabEnemyD_A3,PrefabEnemyD_A3_Min,PrefabEnemyD_A3_Max,72,49,4,100,8,5
-2021215,1215201,15,0,2021215,icon_star_worldmap3,5,Depressed Dark Air Force,Don't ever show mercy upon your enemies, because they won't.,PrefabEnemyD_A3,PrefabEnemyD_A3_Min,PrefabEnemyD_A3_Max,74,49,4,100,8,6
-2021216,1215201,16,0,2021216,icon_star_worldmap4,1,Unstable Dark Air Force,They have thoughts, emotions. Wonder how things will go from there.,PrefabEnemyD_A4,PrefabEnemyD_A4_Min,PrefabEnemyD_A4_Max,74,49,4,100,8,6
-2021217,1215201,17,0,2021217,icon_star_worldmap4,2,Mad Dark Air Force,A cold, heartless psychopath, lost his sense of identity as a person.,PrefabEnemyD_A4,PrefabEnemyD_A4_Min,PrefabEnemyD_A4_Max,74,49,4,100,8,7
+2021215,1215201,15,0,2021215,icon_star_worldmap3,5,Depressed Dark Air Force,Don't ever show mercy upon your enemies; because they won't.,PrefabEnemyD_A3,PrefabEnemyD_A3_Min,PrefabEnemyD_A3_Max,74,49,4,100,8,6
+2021216,1215201,16,0,2021216,icon_star_worldmap4,1,Unstable Dark Air Force,They have thoughts; emotions. Wonder how things will go from there.,PrefabEnemyD_A4,PrefabEnemyD_A4_Min,PrefabEnemyD_A4_Max,74,49,4,100,8,6
+2021217,1215201,17,0,2021217,icon_star_worldmap4,2,Mad Dark Air Force,A cold; heartless psychopath; lost his sense of identity as a person.,PrefabEnemyD_A4,PrefabEnemyD_A4_Min,PrefabEnemyD_A4_Max,74,49,4,100,8,7
 2021218,1215201,18,0,2021218,icon_star_worldmap4,3,Wild Dark Air Force,It's an overwhelming challenge for us to deal with.,PrefabEnemyD_A4,PrefabEnemyD_A4_Min,PrefabEnemyD_A4_Max,76,60,5,120,9,7
 2021219,1215201,19,0,2021219,icon_star_worldmap4,4,Vicious Dark Air Force,Savage and brutal attacks. Stay focused.,PrefabEnemyD_A4,PrefabEnemyD_A4_Min,PrefabEnemyD_A4_Max,76,60,5,120,9,8
-2021220,1215201,20,0,2021220,icon_star_worldmap4,5,Normal Dark Air Force,It looks normal. No, wait. Why are normal like us??,PrefabEnemyD_A4,PrefabEnemyD_A4_Min,PrefabEnemyD_A4_Max,76,60,5,120,9,8
+2021220,1215201,20,0,2021220,icon_star_worldmap4,5,Normal Dark Air Force,It looks normal. No; wait. Why are normal like us??,PrefabEnemyD_A4,PrefabEnemyD_A4_Min,PrefabEnemyD_A4_Max,76,60,5,120,9,8
 801001,801,40,0,801001,,,,,,,,,,,,,0
 801002,801,50,0,801002,,,,,,,,,,,,,0
 801003,801,60,0,801003,,,,,,,,,,,,,0

@@ -1,6 +1,6 @@
 id,mutetime,is_qa,pic,name
 int,string,int,int,string
-2,24,18,12,6,1,2,Dmod
+2,24;18;12;6,1,2,Dmod
 3,0,1,1,Amod
-4,24,18,12,6,0,2,mod
-5,16,10,4,1,1,2,Smod
+4,24;18;12;6,0,2,mod
+5,16;10;4;1,1,2,Smod

@@ -3,30 +3,30 @@ int,string,string,int,string,double,int,int,int,int,int,int
 1,Kill Dark Forces,Defeat {0} Dark Legion enemies (all Alliance members),1,1|2|3|41|42|43|1215001|1215101|1215201,1000.0,86400,20,8301501,10,43200,2
 2,Kill Warhammer,Defeat {0} Warhammer-4000 (all Alliance members),2,5|44,300.0,86400,20,8301502,10,43200,2
 3,Help members,Complete {0} Alliance Help Requests (all Alliance members),3,,10.0,86400,20,8301503,10,43200,2
-4,Gather Resources,Food, Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301504,10,43200,2
+4,Gather Resources,Food; Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301504,10,43200,2
 5,Reward Quest,Complete Reward Quest {0} times (all Alliance members),5,,150.0,86400,20,8301505,10,43200,2
 6,Refugee Rescue,Refugees rescued by all Alliance members reaches {0},6,12,100.0,86400,20,8301506,10,43200,2
 7,Kill Dark Forces,Defeat {0} Dark Legion enemies (all Alliance members),1,1|2|3|41|42|43|1215001|1215101|1215201,1000.0,86400,20,8301511,10,43200,3
 8,Kill Warhammer,Defeat {0} Warhammer-4000 (all Alliance members),2,5|44,300.0,86400,20,8301512,10,43200,3
 9,Help members,Complete {0} Alliance Help Requests (all Alliance members),3,,10.0,86400,20,8301513,10,43200,3
-10,Gather Resources,Food, Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301514,10,43200,3
+10,Gather Resources,Food; Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301514,10,43200,3
 11,Reward Quest,Complete Reward Quest {0} times (all Alliance members),5,,150.0,86400,20,8301515,10,43200,3
 12,Refugee Rescue,Refugees rescued by all Alliance members reaches {0},6,12,100.0,86400,20,8301516,10,43200,3
 13,Kill Dark Forces,Defeat {0} Dark Legion enemies (all Alliance members),1,1|2|3|41|42|43|1215001|1215101|1215201,1000.0,86400,20,8301521,10,43200,4
 14,Kill Warhammer,Defeat {0} Warhammer-4000 (all Alliance members),2,5|44,300.0,86400,20,8301522,10,43200,4
 15,Help members,Complete {0} Alliance Help Requests (all Alliance members),3,,10.0,86400,20,8301523,10,43200,4
-16,Gather Resources,Food, Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301524,10,43200,4
+16,Gather Resources,Food; Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301524,10,43200,4
 17,Reward Quest,Complete Reward Quest {0} times (all Alliance members),5,,150.0,86400,20,8301525,10,43200,4
 18,Refugee Rescue,Refugees rescued by all Alliance members reaches {0},6,12,100.0,86400,20,8301526,10,43200,4
 19,Kill Dark Forces,Defeat {0} Dark Legion enemies (all Alliance members),1,1|2|3|41|42|43|51|52|53|1215001|1215101|1215201,1000.0,86400,20,8301531,10,43200,5
 20,Kill Warhammer,Defeat {0} Warhammer-4000 (all Alliance members),2,5|44,300.0,86400,20,8301532,10,43200,5
 21,Help members,Complete {0} Alliance Help Requests (all Alliance members),3,,10.0,86400,20,8301533,10,43200,5
-22,Gather Resources,Food, Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301534,10,43200,5
+22,Gather Resources,Food; Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301534,10,43200,5
 23,Reward Quest,Complete Reward Quest {0} times (all Alliance members),5,,150.0,86400,20,8301535,10,43200,5
 24,Refugee Rescue,Refugees rescued by all Alliance members reaches {0},6,12,100.0,86400,20,8301536,10,43200,5
 25,Kill Dark Forces,Defeat {0} Dark Legion enemies (all Alliance members),1,1|2|3|41|42|43|51|52|53|1215001|1215101|1215201,1000.0,86400,20,8301541,10,43200,6
 26,Kill Warhammer,Defeat {0} Warhammer-4000 (all Alliance members),2,5|44,300.0,86400,20,8301542,10,43200,6
 27,Help members,Complete {0} Alliance Help Requests (all Alliance members),3,,10.0,86400,20,8301543,10,43200,6
-28,Gather Resources,Food, Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301544,10,43200,6
+28,Gather Resources,Food; Oil gathered by all Alliance members reaches {0},4,,10000000.0,86400,20,8301544,10,43200,6
 29,Reward Quest,Complete Reward Quest {0} times (all Alliance members),5,,150.0,86400,20,8301545,10,43200,6
 30,Refugee Rescue,Refugees rescued by all Alliance members reaches {0},6,12,100.0,86400,20,8301546,10,43200,6

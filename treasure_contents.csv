@@ -1,10 +1,10 @@
 id,name,buff_isopen,buff_name,buff,reward,theme_icon,content,order,platform
 int,string,int,string,string,int,string,string,int,string
-1,Secret Weapon,1,The Road to Conquest,930100|500,930000|500,912500,mimiwuqi,80009|80007|80012|80030,1,0
-2,In My Name,0,Outstanding,981061|5,981060|5,981062|5,912500,yiwuzhiming,80003|80016|80018|80029,8,0
-3,Japanese Concept,1,Unique Talent,123013|1,1001002|1000,912500,ribengainian,80021|80011|80034|80031,4,g123|G123
+1,Secret Weapon,1,The Road to Conquest,930100|500;930000|500,912500,mimiwuqi,80009|80007|80012|80030,1,0
+2,In My Name,0,Outstanding,981061|5;981060|5;981062|5,912500,yiwuzhiming,80003|80016|80018|80029,8,0
+3,Japanese Concept,1,Unique Talent,123013|1;1001002|1000,912500,ribengainian,80021|80011|80034|80031,4,g123|G123
 4,Jade and The Golden Saddle,0,Exquisite,123005|1000,912500,yumianjinan,80020|80019|80032|80033,6,0
 5,Lost land,0,Law of Survival,123005|1500,912500,shiluozhidi,80010|80027|80008|80035,5,0
-6,Chinese Civilization,1,Great Harmony,981061|5,981060|5,981062|5,912500,huaxiawenming,80000|80038|80023|80036,3,wx|baidugame|toutiao|appios|appandroid|appwx|qqmini|appqq|apptianci|quickoppo|quickvivo|quickhuawei
+6,Chinese Civilization,1,Great Harmony,981061|5;981060|5;981062|5,912500,huaxiawenming,80000|80038|80023|80036,3,wx|baidugame|toutiao|appios|appandroid|appwx|qqmini|appqq|apptianci|quickoppo|quickvivo|quickhuawei
 7,Eastern Ceramic Market,0,Ingenious Works,123004|1,912500,dongfangtaocijishi,80025|80037|80013|80039,7,0
-8,City of the Sun,0,Pharaoh's Trial,123001|100,123003|30000,912500,taiyangzhicheng,80002|80006|80005|80028,2,0
+8,City of the Sun,0,Pharaoh's Trial,123001|100;123003|30000,912500,taiyangzhicheng,80002|80006|80005|80028,2,0

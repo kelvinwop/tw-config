@@ -3,7 +3,7 @@ int,int,string,string,string,int,int,int,int,int,string,int,int,string,string,in
 1,100,1,,,2,0,0,0,0,Home,0,0,,,0,0,
 2,16,3800,,,3,0,0,0,0,,0,1,,,0,0,
 3,7,Adventure,,,4,1,0,0,0,,0,0,,,0,0,
-4,1,AdventureMapPanel,ScrollView/view/content/flagnode/0/btnNode,,5,1,100,100,50,,0,0,Sergeant,This is the area we are challenging, let's go!,-250,0,
+4,1,AdventureMapPanel,ScrollView/view/content/flagnode/0/btnNode,,5,1,100,100,50,,0,0,Sergeant,This is the area we are challenging; let's go!,-250,0,
 5,1,AdventureUnlockPop,gotoNode,,6,0,0,0,0,,0,0,,,0,1,
 6,1,AdventureMapPanel,smallMapNode/parentNode/AdventureMapNode_1/ScrollView/view/content/1,,7,1,100,100,50,,0,0,Sergeant,Click here to see the current lineup of enemy troops!,30,0,
 7,1,AdventureBossChallengePanel,btnFight,,0,0,0,0,0,,0,0,,,0,1,

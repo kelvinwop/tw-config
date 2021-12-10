@@ -12,7 +12,7 @@ int,int,int,string,string,string,string,int,int,string,int
 112,12,2,Message from a mod,Message from a mod,,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
 113,13,2,Perk Development Progress,Perk Development Progress,notification_desc13,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
 114,14,2,Unit Suppression Notification,Unit Suppression Notification,notification_desc14,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
-108,8,2,,,notification_desc15,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,1,1440,4320,1
-109,9,2,,,notification_desc16,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,1,500211,5511,1
+108,8,2,,,notification_desc15,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,1,1440;4320,1
+109,9,2,,,notification_desc16,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,1,500211;5511,1
 115,15,2,Select Droid notification,Select Droid notification,notification_desc17,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
 116,16,2,Enable Droid notification,Enable Droid notification,notification_desc18,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1

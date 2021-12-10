@@ -420,23 +420,23 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 570,Gather {1} {0},203,5,900000.0,70,80,2500023,task_nongye,16,5,0,3,3,5
 571,[Hard] Defeat {0} Empire Royal Guard(s),401,50014,1.0,10,29,2500006,task_jianzao,998,10,0,3,4,6
 572,Gather {0} [Oil] in the Ancient Ruins.,501,5001,250000.0,10,29,2500006,task_nongye,998,10,0,0,4,6
-573,In the ancient ruins, gather {0} Coin,501,1001,250000.0,10,29,2500006,task_nongye,998,10,0,0,4,6
-574,In the Ancient Ruins, gather {0} Food.,501,7001,250000.0,10,29,2500006,task_nongye,998,10,0,0,4,6
+573,In the ancient ruins; gather {0} Coin,501,1001,250000.0,10,29,2500006,task_nongye,998,10,0,0,4,6
+574,In the Ancient Ruins; gather {0} Food.,501,7001,250000.0,10,29,2500006,task_nongye,998,10,0,0,4,6
 575,Defeat {0} Empire Elite Unit(s),601,5019,1.0,10,29,2500006,task_xunlian,998,10,0,0,4,6
 576,[Hard] Defeat {0} Empire Royal Guard(s),401,50043,1.0,30,49,2500012,task_jianzao,998,10,0,3,4,6
 577,Gather {0} [Oil] in the Ancient Ruins.,501,5001,650000.0,30,49,2500012,task_nongye,998,10,0,0,4,6
-578,In the ancient ruins, gather {0} Coin,501,1001,650000.0,30,49,2500012,task_nongye,998,10,0,0,4,6
-579,In the Ancient Ruins, gather {0} Food.,501,7001,650000.0,30,49,2500012,task_nongye,998,10,0,0,4,6
+578,In the ancient ruins; gather {0} Coin,501,1001,650000.0,30,49,2500012,task_nongye,998,10,0,0,4,6
+579,In the Ancient Ruins; gather {0} Food.,501,7001,650000.0,30,49,2500012,task_nongye,998,10,0,0,4,6
 580,Defeat {0} Empire Elite Unit(s),601,5030,1.0,30,49,2500012,task_xunlian,998,10,0,0,4,6
 581,[Hard] Defeat {0} Empire Royal Guard(s),401,50065,1.0,50,69,2500018,task_jianzao,998,10,0,3,4,6
 582,Gather {0} [Oil] in the Ancient Ruins.,501,5001,1650000.0,50,69,2500018,task_nongye,998,10,0,0,4,6
-583,In the ancient ruins, gather {0} Coin,501,1001,1650000.0,50,69,2500018,task_nongye,998,10,0,0,4,6
-584,In the Ancient Ruins, gather {0} Food.,501,7001,1650000.0,50,69,2500018,task_nongye,998,10,0,0,4,6
+583,In the ancient ruins; gather {0} Coin,501,1001,1650000.0,50,69,2500018,task_nongye,998,10,0,0,4,6
+584,In the Ancient Ruins; gather {0} Food.,501,7001,1650000.0,50,69,2500018,task_nongye,998,10,0,0,4,6
 585,Defeat {0} Empire Elite Unit(s),601,5050,1.0,50,69,2500018,task_xunlian,998,10,0,0,4,6
 586,[Hard] Defeat {0} Empire Royal Guard(s),401,50076,1.0,70,80,2500024,task_jianzao,998,10,0,3,4,6
 587,Gather {0} [Oil] in the Ancient Ruins.,501,5001,1650000.0,70,80,2500024,task_nongye,998,10,0,0,4,6
-588,In the ancient ruins, gather {0} Coin,501,1001,1650000.0,70,80,2500024,task_nongye,998,10,0,0,4,6
-589,In the Ancient Ruins, gather {0} Food.,501,7001,1650000.0,70,80,2500024,task_nongye,998,10,0,0,4,6
+588,In the ancient ruins; gather {0} Coin,501,1001,1650000.0,70,80,2500024,task_nongye,998,10,0,0,4,6
+589,In the Ancient Ruins; gather {0} Food.,501,7001,1650000.0,70,80,2500024,task_nongye,998,10,0,0,4,6
 590,Defeat {0} Empire Elite Unit(s),601,5070,1.0,70,80,2500024,task_xunlian,998,10,0,0,4,6
 591,[Hard] Defeat {0} Empire Royal Guard(s),401,50083,1.0,70,80,2500024,task_jianzao,998,10,0,1,4,6
 592,[Hard] Defeat {0} Empire Royal Guard(s),401,50092,1.0,70,80,2500024,task_jianzao,998,10,0,1,4,6

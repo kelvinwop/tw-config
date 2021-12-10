@@ -13,9 +13,9 @@ int,int,int,string,double,int,int,long,int,string,string,int,int,string,int,int,
 1201,1,1,gather_res_5,0.0,14400,1,,1,Gold Mine,Gather Gold from Gold Mines.,206,2,300001|301001|302001|303001,2,,1,building/resource/gather_res_5,2,1,0,0,0,3,0
 1205,1,5,gather_res_1,32.0,14400,1,,1,105016,105017,204,2,310001|311001|312001|313001,2,,1,building/resource/gather_res_1,2,1,0,0,0,1,0
 1207,1,7,gather_res_3,32.0,14400,1,,1,105020,105021,205,2,320001|321001|322001|323001,2,,1,building/resource/gather_res_3,2,1,0,0,0,2,0
-1301,1,10,gather_res_6,0.0084,21600,120,150.0,50000,Mine,For a troop with {0} load, every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,2,,1,building/resource/gather_res_6,2,1,0,0,0,0,0
-1302,1,10,gather_res_6,0.0017,60,120,0.0,100000,Mine,For a troop with {0} load, every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,0,,1,building/resource/gather_res_6,2,1,0,0,0,0,0
-1401,1,10,gather_res_6,0.017,4200,60,20.0,100000,Resource Tile,For a troop with {0} load, every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,2,15,1,building/resource/gather_res_6,2,1,0,0,0,0,0
+1301,1,10,gather_res_6,0.0084,21600,120,150.0,50000,Mine,For a troop with {0} load; every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,2,,1,building/resource/gather_res_6,2,1,0,0,0,0,0
+1302,1,10,gather_res_6,0.0017,60,120,0.0,100000,Mine,For a troop with {0} load; every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,0,,1,building/resource/gather_res_6,2,1,0,0,0,0,0
+1401,1,10,gather_res_6,0.017,4200,60,20.0,100000,Resource Tile,For a troop with {0} load; every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,2,15,1,building/resource/gather_res_6,2,1,0,0,0,0,0
 1303,2,20,gather_res_7,0.01,21600,60,1500.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,0,,2,,1,building/resource/gather_res_7,2,1,0,0,80,0,0
 1501,6,5,gather_res_8,25.0,14400,1,7000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,0,0
 1502,6,7,gather_res_9,25.0,14400,1,7000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,0,0
