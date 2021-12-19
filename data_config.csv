@@ -163,7 +163,7 @@ int,string,string
 11107,enhance_air_init,400005|400006
 11108,gather_reward_time,3600
 11109,enhance_diamond_unlock_level,14
-11110,enhance_counter_unlock_level,22
+11110,enhance_counter_unlock_level,45
 12001,ios_autogather_price,200|1200|2500|5000|9800
 12002,autogather_critbuff,100|150|200|250|300
 13001,recommended_strength,1|1.5|2
@@ -365,7 +365,7 @@ int,string,string
 40007,turn_card_guide_time,5
 40008,turn_card_bottom_count,180
 32001,kill_monster_para,5
-41001,charge_app_reward_cost_limit,30
+41001,charge_app_reward_cost_limit,99999
 41002,charge_app_reward,5900002
 41003,charge_app_mail,10001
 11111,gou_unlock,3
@@ -461,7 +461,7 @@ int,string,string
 9993,warhammer_rank,301;304;308;311
 38006,character_time,5
 38007,character_num,3
-61001,unlock_the_profession,45
+61001,unlock_the_profession,30
 90001,alliance_gift_limit,1000
 90002,alliance_gift_time,24
 9994,privateChat_level_limit,20
@@ -594,10 +594,10 @@ int,string,string
 130001,ally_number,10
 130012,VirtAlli_Create,10800
 130013,VirtAlli_Close,432000
-61047,militaryTask_display,6
+61047,militaryTask_display,10
 61048,militaryTask_distance_min,3
 61049,militaryTask_distance_max,35
-61041,military_reward_unlock,20
+61041,military_reward_unlock,10
 61042,militaryTask_num,10
 61043,militaryTask_refurbish,5
 61044,militaryTask_price,5
@@ -727,7 +727,7 @@ int,string,string
 130092,normal_monster2,900008|900008|900008
 130093,normal_monster3,900009|900009|900009
 130094,goldcar_type,1|4|8
-130095,adventure_starttime,22
+130095,adventure_starttime,20
 130096,land_foundation3,900021|900021|900021
 130097,navy_foundation3,900003|900003|900003
 130098,air_foundation3,900017|900017|900017
@@ -844,8 +844,8 @@ int,string,string
 930007,pve_arena_boss_type,101
 930008,pve_arena_soldier_choose,10040|80;20040|80;30040|80
 930009,arena_activity_unlock_level,5
-930010,pve_arena_unlock_level,10
-930011,pvp_arena_unlock_level,30
+930010,pve_arena_unlock_level,15
+930011,pvp_arena_unlock_level,20
 930012,cross_server_arena_unlock_level,45
 930013,pve_arena_report_num,10
 930014,arena_activity_page,20200624|1
@@ -1236,7 +1236,7 @@ int,string,string
 280230,combustion_resistance,0.4
 281001,player_chat_max_character,200
 281002,player_chat_push_max_time,20
-15020,formation_system_open_level,50
+15020,formation_system_open_level,57
 15021,minimum_point_time,0.2
 11113,enhance_mastery_unlock_level,70
 11114,enhance_mastery_item_exp,1|3|9|27|81|243|729|2187|6561|19683
@@ -1521,7 +1521,7 @@ int,string,string
 2000116,area_v3_unlock_plot,1022|1021|1030|1029|1026
 2000117,area_v3_unlock_firstbuilding_pve,1022|999
 2000118,area_v3_unlock_firstbuilding_area,60001
-2000119,area_v3_unlocklevel,1040;newbase_gameplayV3;5|1700;newbase_gameplayV3;5|4900;key_novice_adjustments;14|3200;key_novice_adjustments;45|3300;key_novice_adjustments;45|2400;newbase_gameplayV3;15|2000;newbase_gameplayV3;6|3500;newbase_gameplayV3;12|2700;newbase_gameplayV3;30|2800;newbase_gameplayV3;30|2900;newbase_gameplayV3;30
+2000119,area_v3_unlocklevel,1040;newbase_gameplayV3;5|1700;newbase_gameplayV3;5|4900;key_novice_adjustments;20|3200;key_novice_adjustments;30|3300;key_novice_adjustments;30|2400;newbase_gameplayV3;15|2000;newbase_gameplayV3;6|3500;newbase_gameplayV3;12|2700;newbase_gameplayV3;30|2800;newbase_gameplayV3;30|2900;newbase_gameplayV3;30|5400;newbase_gameplayV3;14
 2000120,area_v3_unlock_hero_area,1029
 2000121,area_v3_unlock_activity_level,8
 2000122,area_v3_unlock_scene_locate,5
@@ -1602,7 +1602,7 @@ int,string,string
 4000042,radar_signal_unlock_lv,2
 4000043,radar_sys_des,2;New feature unlocked: radar signal|3;New feature unlocked: Radar defense system
 20210622,The leadership has been changed recently; mail feature will be available in {0} minutes,3600
-8000001,skin_up_banner,activity_banner_855_1|activity_banner_855_1
+8000001,skin_up_banner,activity_banner_907_1|activity_banner_907_1
 10054,new_turntable_reward_time,1633072367
 9964,alliance_record_news_table,1;General|2;Battle|3;Building
 9965,alliance_record_news_rows,3|5
@@ -1685,7 +1685,7 @@ int,string,string
 16015,alliance_new_player_reward2,10000002
 941212,reset_profession_v2,10000|1600024
 941214,reset_talent_v2,5000|1600031
-941215,unlock_the_profession_v2,35
+941215,unlock_the_profession_v2,30
 5090,building_engineer_room_tip_count,0
 5091,building_engineer_room_born_count,30
 2220003,MsgQueueMax,20
@@ -1697,3 +1697,14 @@ int,string,string
 930405,csc_display_level,20
 930406,csc_help_info_04,3401
 130169,upgrade_component_talent,1600029
+941217,profession_buff_show,72002
+20211113,CastleCos_activityid,920018
+20211206,JP_key_mutex,\n1. This bonus is effective for heroes with HP shield related skills.\n2. Heroes: Aya; Ishi Tarou; Fahed; 914; Dante; Bradley; Katrina|\n1. This bonus is effective for heroes with HP shield related skills.\n2. Heroes: Aya; Ishi Tarou; Fahed; 914; Dante; Bradley; Katrina;Ishi Tarou|Ishi Tarou;Ishi Tarou Shard|Ishi Tarou Shard;The Hero Shard. Collect 10 Hero Shards to recruit Hero - Ishi Tarou. Required for Hero promotions.|The Hero Shard. Collect 10 Hero Shards to recruit Hero - Ishi Tarou. Required for Hero promotions.;Ishi Tarou|Ishi Tarou;As a veteran in the Freedom League; Ishi Tarou has long been tired of the endless fighting. He set himself a slogan - you are right where you should be. Ishi Tarou; who has experienced many battles; is proud that he's never had an accident. When the Freedom League needed a mining expert; Ishi Tarou used his extensive knowledge of mining exploration; and volunteered to join the mining squad. Away from the frontline.|As a veteran in the Freedom League; Ishi Tarou has long been tired of the endless fighting. He set himself a slogan - you are right where you should be. Ishi Tarou; who has experienced many battles is proud that he's never had an accident. When the Freedom League needed a mining expert; Ishi Tarou used his extensive knowledge of mining exploration and volunteered to join the mining squad; away from the frontline.
+6000016,public_static_int_buff_speed_up_distanc,5
+6000017,public_static_int_buff_speed_up_time,1
+6000018,public_static_int_buff_attack,1790000;990433;1000
+2220004,building_up_tips,60
+930039,pve_arena_reward_show,1;270071|65;270072
+930043,pvp_arena_win_gold2,1;270004|50;270004;270005
+930044,pvp_arena_lose_gold2,1;270006|50;270006;270007
+10057,dailytask_same_num,2

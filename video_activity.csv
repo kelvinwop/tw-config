@@ -1,4 +1,4 @@
 id,path,switch,pic
 int,string,string,string
 1,zh_cn|EL_video_cn2;zh_tw|EL_video_cn2;jp|EL_video_jp2;en|EL_video_en2;ko|EL_video_ko2,Story,eternalLand.jpg
-2,zh_cn|EL_video_en2,video_csc,eternalLand.jpg
+2,zh_cn|csc_video_cn;zh_tw|csc_video_cn;jp|csc_video_jp;en|csc_video_en;ko|csc_video_ko,video_csc,csc32battle.jpg

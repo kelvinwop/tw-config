@@ -1,0 +1,101 @@
+ID,group,desc,relation,weight,limit
+int,int,string,string,int,string
+1,4,Christmas is coming; and the Freedom League kids in Top War are excited. You; the greaTest commander; decided to...,1|2|3,100,1
+2,1,Your nephew has been good all year and asks for a gaming console for Christmas; so you gave him...,4|5|6,100,2
+3,1,A very naughty kid wanted a sword for Christmas gift; you gave him...,7|8|9,100,2
+4,1,A quiet little girl wanted a doll for a Christmas gift; you gave her...,10|11|12,100,2
+5,1,When a lonely boy heard about a gift; he asked for a friend. You decided to...,13|14|15,100,2
+6,1,You stumbled over a kid in your way while delivering presents. You decided to...,16|17|18,100,2
+7,1,You saw a boy crying on the street. His dad destroyed his Freedom League figure collection since he invested too much on it. You gave him...,19|20|21,100,2
+8,1,A big guy wanted a gift from you when he learnt you were giving gifts. You decided to...,22|23|24,100,2
+9,1,On Christmas Eve; you saw a group of children who were burning cedar; you decided to...,25|26|27,100,2
+10,1,While traveling you saw a kid who was glued to his phone; frowning and playing a confusing game. You decided to...,28|29|30,100,2
+11,1,Would you tell a tale to a child who enjoys listening to stories?,31|32|33,100,2
+12,1,You saw a crying kid; he said that other children bullied him with a scary clown box. You decided to...,34|35|36,100,2
+13,1,A fragile boy told you that he had a strong desire to join the air force. You gave him...,37|38|39,100,2
+14,1,A poor girl with a dream to pursue her passion for music. So you gave her...,40|41|42,100,2
+15,1,A little boy who often bullies others comes to you and asks for a birthday gift. You decided to...,43|44|45,100,2
+16,5,A homeless child wanted a hot meal as a Christmas gift on Christmas Eve. You gave him...,46|47|48,100,2
+17,5,You dressed as Santa Claus. A kid came and took off your hat and beard; saying loudly that you were faking it. You decided to...,49|50|51,100,2
+18,5,As you walked down the street you saw a little girl staring into a store window looking at a dress. You decided to...,52|53|54,100,2
+19,5,You took the kids to the amusement park and decided to take them to the...,55|56|57,100,2
+20,5,A little boy was playing the guitar at a park on Christmas Eve. He told you that he wanted to be a musician. You decided to...,58|59|60,100,2
+21,5,Your neighbors invited you over on Thanksgiving; so this Christmas; you decided to...,61|62|63,100,2
+22,5,It is Christmas Day and a group of children gather around a drawing board placed up in the park. Which art style would you prefer?,64|65|66,100,2
+23,5,You're handing out balloons to the children on the street as a gift. There are three types of balloons; you gave them...,67|68|69,100,2
+24,5,Everyone gathered around you for gifts; except for one kid who sat alone in the corner. You gave him...,70|71|72,100,2
+25,5,On Christmas Day; a child told you that today is also her birthday. You gave her...,73|74|75,100,2
+26,5,"I simply wish my mom will get better by Christmas." said a boy. You decided to...,76|77|78,100,2
+27,5,A little girl told you that she wanted a pet as her gift; you gave her...,79|80|81,100,2
+28,5,After following you around all day; a kid asked you to be his servant for one day. You decided to...,82|83|84,100,2
+29,5,It's cold outside and you see a bunch of kids. You asked for their wish but there are too many items on their wish list. You told them you will fulfill one of them...,85|86|87,100,2
+30,5,You hung presents on the big Christmas tree. A tall boy took down the gift box at the top of the tree. He got...,88|89|90,100,2
+31,5,An outer space visitor found that the children were really happy here. He wanted to send gifts to children on his planet.,91|92,50,2
+32,5,A child told you that his wish is to make three more wishes...,93|94,50,2
+33,5,A child hoped for a Top War world without conflicts and peace for everybody.,95|96,50,2
+34,2,While searching for the bounty prisoner; Preycis ran across an old friend; Bell; who was confronting a bounty target. Preycis decided to...,100|101|102,100,2
+35,2,The "Ravens" were discovered by patrol troops as they entered the Dark Legion's base. The captain decided to...,103|104|105,100,2
+36,2,In the temple; Aya was getting ready for the ritual when she got a strange feeling. She decided to...,106|107|108,100,2
+37,2,While exploring an ancient ruin; Amalia was haunted by a voice that echoed in her head. She decided to...,109|110|111,100,2
+38,2,Lieutenant Nimitz encountered the most irritating Dark Legion remnants during the Verdan Heights campaign. So he ordered the squad to...,112|113|114,100,2
+39,2,Tian Mu was patrolling at night and saw an unusual light source. He decided to...,115|116|117,100,2
+40,2,Alex was captured by the Dark Legion. He was badly wounded and his left arm was badly damaged as a result of the numerous beatings. Alex made up his mind to...,118|119|120,100,2
+41,2,At the platform base in the seas; Ganso saw a large number of Dark Legion naval enemies approaching. He decided to...,121|122|123,100,2
+42,2,Tywin was in charge of the Freedom League's major ground force. In order to assure the landing campaign's success; Tywin decided to...,124|125|126,100,2
+43,2,The enormous oil resources in Fahed's hometown made him wealthy. To gain a foothold in new markets abroad; he sold the resources to...,127|128|129,100,2
+44,2,Rambo was on an invasion mission when he encountered a Dark Legion patrol. Rambo made up his mind to...,130|131|132,100,2
+45,2,Gira is battling against her friend Florence in an underground boxing match; Gira intended to...,133|134|135,100,2
+46,2,Katrina was pursued relentlessly by the dark navy. She then made a plan to...,136|137|138,100,2
+47,2,Kuruzo's Marine Leading Squad was attacked by the enemy as soon as they landed during the operation. Without hesitation; he...,139|140|141,100,2
+48,2,"SaND" assigned Katyusha an assassination mission. The target was a senior Dark Army official. Katyusha made a plan to...,142|143|144,100,2
+49,2,Artillery forces had a hard time breaking past the fortifications late in the war. To solve this problem; Tywin decided to...,145|146|147,100,2
+50,2,Kate Curry; a war journalist was always willing to risk her own life to interview people on the front lines. One day; she interviewed...,148|149|150,100,2
+51,2,Chloe was on a maritime patrol when she came upon the World Boss. She decided to...,151|152|153,100,2
+52,2,Zizak Metal Co. Ltd. came up with the idea of developing a new type of fighter; and for the design; Lady Zizak decided to focus on...,154|155|156,100,2
+53,2,After finding that the Dark Legion had captured innocent people; Harris commanded a search team to rescue them. He gave the order to...,157|158|159,100,2
+54,2,Hertz was commanded by the Freedom League to locate the Dark Legion headquarters; he...,160|161|162,100,2
+55,2,Bassel made a bet with someone about running a race. To win this game; he...,163|164|165,100,2
+56,2,A Freedom League representative stopped Selina as she skated down the street and invited her to join the Air Force. Selina...,166|167|168,100,2
+57,2,To get access to the Legion's hidden secret; Merida planned to approach a senior Dark Legion officer at a meeting. She planned to...,169|170|171,100,2
+58,2,Bradley was given the task of defending the high ground. When confronted with the oncoming Dark Army; Bradley gave his order to...,172|173|174,100,2
+59,2,A lot of officers came to the League for training. As the trainer; Li Hongyu...,175|176|177,100,2
+60,2,Diana came across a small group of dark army in the forest. She decided to...,178|179|180,100,2
+61,2,Delhuyar was investigating the Odinium veins when a portal emerged in front of her out of nowhere. She decided to...,181|182|183,100,2
+62,2,While Testing a new remote-controlled bomb; Ricardo discovered that the countdown could not be halted. He decided to...,184|185|186,100,2
+63,2,Sam's team was encircled by the enemy during the landing operation. Sam decided to...,187|188|189,100,2
+64,2,The shrine's maid; Tsuru has battled the Dark Legion countless times. When the Freedom League offered her a position; she decided to...,190|191,100,2
+65,2,An organized crime syndicate in the area attempted to get Ben to join them. Ben decided to..,192|193,100,2
+66,2,When Dante was on trial for defying the veterans; he received an unexpected invitation for the "Bear Hunt". He decided to...,194|195,100,2
+67,3,You noticed a girl selling matches in the snow... You decided to...,200|201|202,100,2
+68,3,You saw a small girl walking in the woods. She waved and smiled at you... You decided to...,203|204|205,100,2
+69,3,An elderly lady with a basket was trying to sell apples to a princess in a wooden cabin. You decided to...,206|207|208,100,2
+70,3,The princess promises to marry anybody who can come up with a riddle that she can't answer. You decided to...,209|210|211,100,2
+71,3,The princess promises to marry anybody who can come up with a riddle that she can't answer. You decided to...,212|213|214,100,2
+72,3,A conflict between the master of death and the trolls were heating up; the master of death was on the edge of losing this war. You decided to...,215|216|217,100,2
+73,3,Up the river you notice an old man with both a golden and a silver axe. "Did you lose either of these axes?" he asked.,218|219|220,100,2
+74,3,Cinderella left a crystal shoe in the castle at twelve o'clock. The prince posted a notice to find the girl he had been dancing with. You told him...,221|222|223,100,2
+75,3,The mermaid sat alone on the ship's side; staring out at the endless sea. "If I don't stab my lovely prince with this dagger; I will turn into bubbles. What should I do?",224|225|226,100,2
+76,3,"Where did you put the four gold coins?" questioned the fairy to Pinocchio in the hospital bed. Pinocchio said...,227|228|229,100,2
+77,3,You made it through the tree hole with the help of the witch. There are three chambers in front of you. You go into...,230|231|232,100,2
+78,3,"Don't expect anything that isn't yours;" the tiny fairy warned the one-legged tin soldier who was obsessed with the dancing girl doll. You told the soldier to...,233|234|235,100,2
+79,3,An arrogant prince once conquered several lands; yet he remained unsatisfied. He wanted to challenge the great king. You told him to...,236|237|238,100,2
+80,3,The pilot's engine failed and he was trapped in the desert. A little prince came onward and said: "Please... draw me a sheep". You told the pilot...,239|240|241,100,2
+81,3,The prince passes by the tower and heard a lovely voice from the top of the tower. To get the prince to the top of the tower; you told him...,242|243|244,100,2
+82,3,He climbed up the mountain to hunt for herbs for his sick wife. A snake approached as he was napping in a cave. The guy...,245|246|247,100,2
+83,3,On Christmas Eve; the castle owner wanted to give presents to the children of the servants. He prepared them...,248|249|250,100,2
+84,3,The king got lost in the woods. A witch appeared and promised to save the king in exchange for marrying her daughter. The king...,251|252|253,100,2
+85,3,On Christmas Eve; an old couple wanted to trade their only horse for something; so they...,254|255|256,100,2
+86,3,In the garden; the businessman encountered its protector; a lion. "Give me the first object you see when you get home; or I'll eat you." The businessman...,257|258|259,100,2
+87,3,The little princess’ golden ball tumbled into the river. A frog came out and said: "Be my friend and I will retrieve the golden ball." The princess...,260|261|262,100,2
+88,3,The sister and her younger brother were on their way to find the Sacred Deer. The sister was bitten by a poisonous snake. Her brother...,263|264|265,100,2
+89,3,A servant who ate the snake's flesh gained the ability to hear the animal's speech. The king accused him of ring theft. To prove his innocence he...,266|267|268,100,2
+90,3,A fisherman caught a big fish. The fish claimed to be a prince cursed by a witch. The fisherman...,269|270|271,100,2
+91,3,The mountain troll wanted friendship with humans but his enormous size and frightening look drove people away. In order to make friends with humans; he...,272|273|274,100,2
+92,3,The huntsman headed into the woods. He encountered an old guy with white hair. The old man asked for a slice of cake and a drink. The huntsman...,275|276|277,100,2
+93,3,A girl went out to collect water and came across a woman begging for water. The girl...,278|279|280,100,2
+94,3,Jack's mother told him to sell the horse but Jack came across an old man selling beans. Jack...,281|282|283,100,2
+95,3,A witch cursed the princess so that she would be hurt by a Spinning Wheel and fall into an eternal sleep. The High King decided to...,284|285|286,100,2
+96,3,"Whoever can recognize to which animal this hide belongs would be given my daughter in marriage;" said the king. You told the king...,287|288|289,100,2
+97,3,A woman wanted a child; so she begged the witch. The Witch gave her a seed and asked her to plant it...,290|291,100,2
+98,3,A young man waited in the treasure chamber and overheard the gatekeeper's password to unlock the gate. He was able to get in and grab the treasure. He...,292|293,100,2
+99,3,Aladdin; entrusted by the magician; stole an ancient oil lamp from the tunnel as well as a few gems. Aladdin decided to...,294|295,100,2

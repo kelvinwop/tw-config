@@ -1,9 +1,9 @@
-id,purpose,para,image,dialog_title,dialog_des,reward_preview_resource,reward_preview_item,open_level,switch,order,fast_jump,jump_icon
-int,int,int,string,string,string,string,string,int,string,int,int,string
-2,7,3101,bg5_openBuilding,Island Battle,Remaining lives: {0},,2560001|2550001|2540002,42,,70,,
-8,7,3801,bg8_openBuilding,Expedition Base,Time passed: {0},,2300003|1700015|2100005,20,adventure_function,20,,
-11,12,,bg11_openBuilding,Sandtable Exercise,Limit today: {0},,1800001|5200007|323001,10,pve_arena_function,10,,
-12,13,,bg12_openBuilding,Warzone Exercise,Limit today: {0},10,3300001|5200007,30,pvp_arena_function,40,,
-13,14,,bg13_openBuilding,Warzone Exercise (SvS),Limit today: {0},10,3300001|5200007,45,cross_server_pvp_arena_function,50,,
-10,11,,bg7_openBuilding,Hunting Guild,Current quest: {0}/{1},,1700063,35,treasure_map_s2,60,,
-14,7,3110,bg2_openBuilding,Dimensional Mine,Number of attacks today: {0}/5,10|1,1800001,29,degenerator_building,30,,
+id,purpose,para,image,dialog_title,dialog_des,reward_preview_resource,reward_preview_item,open_level,switch,order,fast_jump,jump_icon,number_reddot
+int,int,int,string,string,string,string,string,int,string,int,int,string,int
+2,7,3101,bg5_openBuilding,Island Battle,Remaining lives: {0},,2560001|2550001|2540002,42,,60,,,1
+8,7,3801,bg8_openBuilding,Expedition Base,Time passed: {0},,2300003|1700015|2100005,18,adventure_function,20,,,1
+10,11,,bg7_openBuilding,Hunting Guild,Current quest: {0}/{1},,1700063,35,treasure_map_s2,50,,,1
+11,12,,bg11_openBuilding,Sandtable Exercise,Limit today: {0},,1800001|5200007|323001,15,pve_arena_function,10,,,1
+12,13,,bg12_openBuilding,Warzone Exercise,Limit today: {0},10,3300001|5200007,20,pvp_arena_function,30,,,1
+13,14,,bg13_openBuilding,Warzone Exercise (SvS),Limit today: {0},10,3300001|5200007,45,cross_server_pvp_arena_function,70,,,1
+14,7,3110,bg2_openBuilding,Dimensional Mine,Number of attacks today: {0}/5,10|1,1800001,29,degenerator_building,40,,,1

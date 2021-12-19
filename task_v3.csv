@@ -299,8 +299,8 @@ int,string,int,int,int,double,int,string,string,string,int,string,int,int,int,in
 3049,Create {1} Lv.{2} {0},50250,101,104048,1.0,4120307,task_jianzao,taskname824,Create {1} Lv.{2} {0},6,,0,0,0,48,,,,0
 3050,Create {1} Lv.{2} {0},51250,101,104049,1.0,4120308,task_jianzao,taskname837,Create {1} Lv.{2} {0},6,,0,0,0,49,,,,0
 3051,Create {1} Lv.{2} {0},52250,101,104050,1.0,4120309,task_jianzao,taskname848,Create {1} Lv.{2} {0},6,,0,0,0,50,,,,0
-3052,Build {1} {0},12001,101,1101,2.0,4120271,task_jianzao,taskname197,Create {1} Lv.{2} {0},11,,0,0,0,1,,,,0
-3053,Create {1} Lv.{2} {0},12002,101,1102,1.0,4120271,task_jianzao,taskname198,Create {1} Lv.{2} {0},6,,0,0,0,2,,,,0
+3052,Build {1} {0},12001,101,1101,2.0,4120271,task_jianzao,taskname197,Create {1} Lv.{2} {0},11,,0,0,0,1,,,,12
+3053,Create {1} Lv.{2} {0},12002,101,1102,1.0,4120271,task_jianzao,taskname198,Create {1} Lv.{2} {0},6,,0,0,0,2,,,,12
 4001,Merge {1} {0}.,2211,102,10002,1.0,4120387,task_xunlian,Merge {1} {0}.,Merge {1} {0}.,7,,0,0,0,2,,,,2
 4002,Merge {1} {0}.,2212,102,10003,1.0,4120388,task_xunlian,Merge {1} {0}.,Merge {1} {0}.,7,,0,0,0,3,,,,2
 4003,Merge {1} {0}.,4211,102,10004,1.0,4120389,task_xunlian,Merge {1} {0}.,Merge {1} {0}.,7,,0,0,0,4,,,,4
@@ -537,78 +537,78 @@ int,string,int,int,int,double,int,string,string,string,int,string,int,int,int,in
 17004,Train {1} Lv. {2} {0},7403,205,10006,2.0,4120313,task_xunlian,taskname133,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,7
 17005,Train {1} Lv. {2} {0},8017,205,10006,5.0,4120314,task_xunlian,taskname142,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,7
 17006,Train {1} Lv. {2} {0},7999,205,10005,5.0,4120315,task_xunlian,taskname153,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,7
-17007,Train {1} Lv. {2} {0},10501,205,10008,5.0,4120316,task_xunlian,taskname172,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,10
-17008,Train {1} Lv. {2} {0},11270,205,10009,5.0,4120317,task_xunlian,taskname185,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,11
-17009,Train {1} Lv. {2} {0},12004,205,10010,10.0,4120317,task_xunlian,taskname190,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,11
-17010,Train {1} Lv. {2} {0},12270,205,10010,10.0,4120318,task_xunlian,taskname208,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,12
-17011,Train {1} Lv. {2} {0},13270,205,10011,10.0,4120319,task_xunlian,taskname225,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,13
-17012,Train {1} Lv. {2} {0},14270,205,10012,10.0,4120320,task_xunlian,taskname236,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,14
-17013,Train {1} Lv. {2} {0},15270,205,10013,10.0,4120321,task_xunlian,taskname256,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,15
-17014,Train {1} Lv. {2} {0},16270,205,10014,10.0,4120322,task_xunlian,taskname269,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,16
-17015,Train {1} Lv. {2} {0},17270,205,10015,10.0,4120323,task_xunlian,taskname286,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,17
-17016,Train {1} Lv. {2} {0},18270,205,10016,10.0,4120324,task_xunlian,taskname302,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,18
-17017,Train {1} Lv. {2} {0},19270,205,10017,10.0,4120325,task_xunlian,taskname317,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,19
-17018,Train {1} Lv. {2} {0},20270,205,10018,20.0,4120326,task_xunlian,taskname330,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,20
-17019,Train {1} Lv. {2} {0},21270,205,10019,20.0,4120327,task_xunlian,taskname348,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,21
-17020,Train {1} Lv. {2} {0},22270,205,10020,20.0,4120328,task_xunlian,taskname364,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,22
-17021,Train {1} Lv. {2} {0},23270,205,10021,20.0,4120329,task_xunlian,taskname378,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,23
-17022,Train {1} Lv. {2} {0},24270,205,10022,20.0,4120330,task_xunlian,taskname395,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,24
-17023,Train {1} Lv. {2} {0},25270,205,10023,20.0,4120331,task_xunlian,taskname414,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,25
-17024,Train {1} Lv. {2} {0},26270,205,10024,20.0,4120332,task_xunlian,taskname430,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,26
-17025,Train {1} Lv. {2} {0},27270,205,10025,20.0,4120333,task_xunlian,taskname445,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,27
-17026,Train {1} Lv. {2} {0},28270,205,10026,20.0,4120334,task_xunlian,taskname462,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,28
-17027,Train {1} Lv. {2} {0},29270,205,10027,20.0,4120335,task_xunlian,taskname481,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,29
-17028,Train {1} Lv. {2} {0},30270,205,10028,20.0,4120336,task_xunlian,taskname499,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,30
-17029,Train {1} Lv. {2} {0},31270,205,10029,20.0,4120337,task_xunlian,taskname516,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,31
-17030,Train {1} Lv. {2} {0},32270,205,10030,20.0,4120338,task_xunlian,taskname527,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,32
-17031,Train {1} Lv. {2} {0},33270,205,10031,20.0,4120339,task_xunlian,taskname546,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,33
-17032,Train {1} Lv. {2} {0},34270,205,10032,20.0,4120340,task_xunlian,taskname564,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,34
-17033,Train {1} Lv. {2} {0},35270,205,10033,20.0,4120341,task_xunlian,taskname579,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,35
-17034,Train {1} Lv. {2} {0},36270,205,10034,20.0,4120342,task_xunlian,taskname594,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,36
-17035,Train {1} Lv. {2} {0},37270,205,10035,20.0,4120343,task_xunlian,taskname610,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,37
-17036,Train {1} Lv. {2} {0},38270,205,10036,20.0,4120344,task_xunlian,taskname627,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,38
-17037,Train {1} Lv. {2} {0},39270,205,10037,20.0,4120345,task_xunlian,taskname643,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,39
-17038,Train {1} Lv. {2} {0},40270,205,10038,20.0,4120346,task_xunlian,taskname656,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,40
-17039,Train {1} Lv. {2} {0},41270,205,10039,20.0,4120347,task_xunlian,taskname671,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,41
-17040,Train {1} Lv. {2} {0},42270,205,10040,20.0,4120348,task_xunlian,taskname687,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,42
-17041,Train {1} Lv. {2} {0},43270,205,10041,20.0,4120349,task_xunlian,taskname701,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,43
-17042,Train {1} Lv. {2} {0},44270,205,10042,20.0,4120350,task_xunlian,taskname721,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,44
-17043,Train {1} Lv. {2} {0},45270,205,10043,20.0,4120351,task_xunlian,taskname732,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,45
-17044,Train {1} Lv. {2} {0},46270,205,10044,20.0,4120352,task_xunlian,taskname748,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,46
-17045,Train {1} Lv. {2} {0},47270,205,10045,20.0,4120353,task_xunlian,taskname763,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,47
-17046,Train {1} Lv. {2} {0},48270,205,10046,20.0,4120354,task_xunlian,taskname779,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,48
-17047,Train {1} Lv. {2} {0},49270,205,10047,20.0,4120355,task_xunlian,taskname794,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,49
-17048,Train {1} Lv. {2} {0},50270,205,10048,20.0,4120356,task_xunlian,taskname808,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,50
-17049,Train {1} Lv. {2} {0},51270,205,10049,20.0,4120357,task_xunlian,taskname825,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,51
-17050,Train {1} Lv. {2} {0},52270,205,10050,20.0,4120358,task_xunlian,taskname838,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,52
-17051,Train {1} Lv. {2} {0},53270,205,10051,20.0,4120359,task_xunlian,taskname849,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,53
-17052,Train {1} Lv. {2} {0},54270,205,10052,20.0,4120360,task_xunlian,taskname855,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,54
-17053,Train {1} Lv. {2} {0},55270,205,10053,20.0,4120361,task_xunlian,taskname863,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,55
-17054,Train {1} Lv. {2} {0},56270,205,10054,20.0,4120362,task_xunlian,taskname870,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,56
-17055,Train {1} Lv. {2} {0},57270,205,10055,20.0,4120363,task_xunlian,taskname877,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,57
-17056,Train {1} Lv. {2} {0},58270,205,10056,20.0,4120364,task_xunlian,taskname882,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,58
-17057,Train {1} Lv. {2} {0},59270,205,10057,20.0,4120365,task_xunlian,taskname887,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,59
-17058,Train {1} Lv. {2} {0},60270,205,10058,20.0,4120366,task_xunlian,taskname891,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,60
-17059,Train {1} Lv. {2} {0},61270,205,10059,20.0,4120367,task_xunlian,taskname894,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,61
-17060,Train {1} Lv. {2} {0},62270,205,10060,20.0,4120368,task_xunlian,taskname903,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,62
-17061,Train {1} Lv. {2} {0},63270,205,10061,20.0,4120369,task_xunlian,taskname905,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,63
-17062,Train {1} Lv. {2} {0},64270,205,10062,20.0,4120370,task_xunlian,taskname910,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,64
-17063,Train {1} Lv. {2} {0},65270,205,10063,20.0,4120371,task_xunlian,taskname918,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,65
-17064,Train {1} Lv. {2} {0},66270,205,10064,20.0,4120372,task_xunlian,taskname919,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,66
-17065,Train {1} Lv. {2} {0},67270,205,10065,20.0,4120373,task_xunlian,taskname920,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,67
-17066,Train {1} Lv. {2} {0},68270,205,10066,20.0,4120374,task_xunlian,taskname921,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,68
-17067,Train {1} Lv. {2} {0},69270,205,10067,20.0,4120375,task_xunlian,taskname922,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,69
-17068,Train {1} Lv. {2} {0},70270,205,10068,20.0,4120376,task_xunlian,taskname923,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,70
-17069,Train {1} Lv. {2} {0},71270,205,10069,20.0,4120377,task_xunlian,taskname924,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,71
-17070,Train {1} Lv. {2} {0},72270,205,10070,20.0,4120378,task_xunlian,taskname925,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,72
-17071,Train {1} Lv. {2} {0},73270,205,10071,20.0,4120379,task_xunlian,taskname926,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,73
-17072,Train {1} Lv. {2} {0},74270,205,10072,20.0,4120380,task_xunlian,taskname927,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,74
-17073,Train {1} Lv. {2} {0},75270,205,10073,20.0,4120381,task_xunlian,taskname928,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,75
-17074,Train {1} Lv. {2} {0},76270,205,10074,20.0,4120382,task_xunlian,taskname929,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,76
-17075,Train {1} Lv. {2} {0},77270,205,10075,20.0,4120383,task_xunlian,taskname930,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,77
-17076,Train {1} Lv. {2} {0},78270,205,10076,20.0,4120384,task_xunlian,taskname931,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,78
-17077,Train {1} Lv. {2} {0},79270,205,10077,20.0,4120385,task_xunlian,taskname932,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,79
-17078,Train {1} Lv. {2} {0},12003,205,20001,2.0,4120271,task_xunlian,taskname199,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,0
+17007,Train {1} Lv. {2} {0},10501,205,10008,5.0,4120316,task_xunlian,taskname172,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,8
+17008,Train {1} Lv. {2} {0},11270,205,10009,5.0,4120317,task_xunlian,taskname185,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,9
+17009,Train {1} Lv. {2} {0},12004,205,10010,10.0,4120317,task_xunlian,taskname190,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,9
+17010,Train {1} Lv. {2} {0},12270,205,10010,10.0,4120318,task_xunlian,taskname208,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,10
+17011,Train {1} Lv. {2} {0},13270,205,10011,10.0,4120319,task_xunlian,taskname225,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,11
+17012,Train {1} Lv. {2} {0},14270,205,10012,10.0,4120320,task_xunlian,taskname236,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,12
+17013,Train {1} Lv. {2} {0},15270,205,10013,10.0,4120321,task_xunlian,taskname256,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,13
+17014,Train {1} Lv. {2} {0},16270,205,10014,10.0,4120322,task_xunlian,taskname269,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,14
+17015,Train {1} Lv. {2} {0},17270,205,10015,10.0,4120323,task_xunlian,taskname286,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,15
+17016,Train {1} Lv. {2} {0},18270,205,10016,10.0,4120324,task_xunlian,taskname302,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,16
+17017,Train {1} Lv. {2} {0},19270,205,10017,10.0,4120325,task_xunlian,taskname317,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,17
+17018,Train {1} Lv. {2} {0},20270,205,10018,20.0,4120326,task_xunlian,taskname330,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,18
+17019,Train {1} Lv. {2} {0},21270,205,10019,20.0,4120327,task_xunlian,taskname348,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,19
+17020,Train {1} Lv. {2} {0},22270,205,10020,20.0,4120328,task_xunlian,taskname364,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,20
+17021,Train {1} Lv. {2} {0},23270,205,10021,20.0,4120329,task_xunlian,taskname378,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,21
+17022,Train {1} Lv. {2} {0},24270,205,10022,20.0,4120330,task_xunlian,taskname395,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,22
+17023,Train {1} Lv. {2} {0},25270,205,10023,20.0,4120331,task_xunlian,taskname414,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,23
+17024,Train {1} Lv. {2} {0},26270,205,10024,20.0,4120332,task_xunlian,taskname430,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,24
+17025,Train {1} Lv. {2} {0},27270,205,10025,20.0,4120333,task_xunlian,taskname445,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,25
+17026,Train {1} Lv. {2} {0},28270,205,10026,20.0,4120334,task_xunlian,taskname462,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,26
+17027,Train {1} Lv. {2} {0},29270,205,10027,20.0,4120335,task_xunlian,taskname481,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,27
+17028,Train {1} Lv. {2} {0},30270,205,10028,20.0,4120336,task_xunlian,taskname499,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,28
+17029,Train {1} Lv. {2} {0},31270,205,10029,20.0,4120337,task_xunlian,taskname516,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,29
+17030,Train {1} Lv. {2} {0},32270,205,10030,20.0,4120338,task_xunlian,taskname527,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,30
+17031,Train {1} Lv. {2} {0},33270,205,10031,20.0,4120339,task_xunlian,taskname546,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,31
+17032,Train {1} Lv. {2} {0},34270,205,10032,20.0,4120340,task_xunlian,taskname564,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,32
+17033,Train {1} Lv. {2} {0},35270,205,10033,20.0,4120341,task_xunlian,taskname579,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,33
+17034,Train {1} Lv. {2} {0},36270,205,10034,20.0,4120342,task_xunlian,taskname594,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,34
+17035,Train {1} Lv. {2} {0},37270,205,10035,20.0,4120343,task_xunlian,taskname610,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,35
+17036,Train {1} Lv. {2} {0},38270,205,10036,20.0,4120344,task_xunlian,taskname627,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,36
+17037,Train {1} Lv. {2} {0},39270,205,10037,20.0,4120345,task_xunlian,taskname643,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,37
+17038,Train {1} Lv. {2} {0},40270,205,10038,20.0,4120346,task_xunlian,taskname656,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,38
+17039,Train {1} Lv. {2} {0},41270,205,10039,20.0,4120347,task_xunlian,taskname671,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,39
+17040,Train {1} Lv. {2} {0},42270,205,10040,20.0,4120348,task_xunlian,taskname687,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,40
+17041,Train {1} Lv. {2} {0},43270,205,10041,20.0,4120349,task_xunlian,taskname701,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,41
+17042,Train {1} Lv. {2} {0},44270,205,10042,20.0,4120350,task_xunlian,taskname721,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,42
+17043,Train {1} Lv. {2} {0},45270,205,10043,20.0,4120351,task_xunlian,taskname732,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,43
+17044,Train {1} Lv. {2} {0},46270,205,10044,20.0,4120352,task_xunlian,taskname748,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,44
+17045,Train {1} Lv. {2} {0},47270,205,10045,20.0,4120353,task_xunlian,taskname763,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,45
+17046,Train {1} Lv. {2} {0},48270,205,10046,20.0,4120354,task_xunlian,taskname779,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,46
+17047,Train {1} Lv. {2} {0},49270,205,10047,20.0,4120355,task_xunlian,taskname794,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,47
+17048,Train {1} Lv. {2} {0},50270,205,10048,20.0,4120356,task_xunlian,taskname808,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,48
+17049,Train {1} Lv. {2} {0},51270,205,10049,20.0,4120357,task_xunlian,taskname825,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,49
+17050,Train {1} Lv. {2} {0},52270,205,10050,20.0,4120358,task_xunlian,taskname838,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,50
+17051,Train {1} Lv. {2} {0},53270,205,10051,20.0,4120359,task_xunlian,taskname849,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,51
+17052,Train {1} Lv. {2} {0},54270,205,10052,20.0,4120360,task_xunlian,taskname855,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,52
+17053,Train {1} Lv. {2} {0},55270,205,10053,20.0,4120361,task_xunlian,taskname863,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,53
+17054,Train {1} Lv. {2} {0},56270,205,10054,20.0,4120362,task_xunlian,taskname870,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,54
+17055,Train {1} Lv. {2} {0},57270,205,10055,20.0,4120363,task_xunlian,taskname877,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,55
+17056,Train {1} Lv. {2} {0},58270,205,10056,20.0,4120364,task_xunlian,taskname882,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,56
+17057,Train {1} Lv. {2} {0},59270,205,10057,20.0,4120365,task_xunlian,taskname887,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,57
+17058,Train {1} Lv. {2} {0},60270,205,10058,20.0,4120366,task_xunlian,taskname891,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,58
+17059,Train {1} Lv. {2} {0},61270,205,10059,20.0,4120367,task_xunlian,taskname894,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,59
+17060,Train {1} Lv. {2} {0},62270,205,10060,20.0,4120368,task_xunlian,taskname903,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,60
+17061,Train {1} Lv. {2} {0},63270,205,10061,20.0,4120369,task_xunlian,taskname905,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,61
+17062,Train {1} Lv. {2} {0},64270,205,10062,20.0,4120370,task_xunlian,taskname910,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,62
+17063,Train {1} Lv. {2} {0},65270,205,10063,20.0,4120371,task_xunlian,taskname918,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,63
+17064,Train {1} Lv. {2} {0},66270,205,10064,20.0,4120372,task_xunlian,taskname919,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,64
+17065,Train {1} Lv. {2} {0},67270,205,10065,20.0,4120373,task_xunlian,taskname920,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,65
+17066,Train {1} Lv. {2} {0},68270,205,10066,20.0,4120374,task_xunlian,taskname921,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,66
+17067,Train {1} Lv. {2} {0},69270,205,10067,20.0,4120375,task_xunlian,taskname922,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,67
+17068,Train {1} Lv. {2} {0},70270,205,10068,20.0,4120376,task_xunlian,taskname923,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,68
+17069,Train {1} Lv. {2} {0},71270,205,10069,20.0,4120377,task_xunlian,taskname924,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,69
+17070,Train {1} Lv. {2} {0},72270,205,10070,20.0,4120378,task_xunlian,taskname925,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,70
+17071,Train {1} Lv. {2} {0},73270,205,10071,20.0,4120379,task_xunlian,taskname926,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,71
+17072,Train {1} Lv. {2} {0},74270,205,10072,20.0,4120380,task_xunlian,taskname927,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,72
+17073,Train {1} Lv. {2} {0},75270,205,10073,20.0,4120381,task_xunlian,taskname928,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,73
+17074,Train {1} Lv. {2} {0},76270,205,10074,20.0,4120382,task_xunlian,taskname929,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,74
+17075,Train {1} Lv. {2} {0},77270,205,10075,20.0,4120383,task_xunlian,taskname930,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,75
+17076,Train {1} Lv. {2} {0},78270,205,10076,20.0,4120384,task_xunlian,taskname931,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,76
+17077,Train {1} Lv. {2} {0},79270,205,10077,20.0,4120385,task_xunlian,taskname932,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,77
+17078,Train {1} Lv. {2} {0},12003,205,20001,2.0,4120271,task_xunlian,taskname199,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,12
 17079,Train {1} Lv. {2} {0},80501,205,10078,20.0,4120386,task_xunlian,taskname933,Train {1} Lv. {2} {0},480,,0,0,0,0,,,,0
 20001,Unlock Tech Lv.{1} [{0}].,4401,107,330006,1.0,4120471,task_keji,Unlock Tech Lv.{1} [{0}].,Unlock Tech Lv.{1} [{0}].,97,,0,0,0,0,,,,0
 20002,Unlock Tech Lv.{1} [{0}].,7004,107,330007,1.0,4120472,task_keji,Unlock Tech Lv.{1} [{0}].,Unlock Tech Lv.{1} [{0}].,97,,0,0,0,0,,,,0
@@ -879,47 +879,47 @@ int,string,int,int,int,double,int,string,string,string,int,string,int,int,int,in
 20267,Unlock Tech Lv.{1} [{0}].,53201,107,300045,1.0,4120737,task_keji,taskname823,Unlock Tech Lv.{1} [{0}].,72,,0,0,0,0,,,,0
 20268,Unlock Tech Lv.{1} [{0}].,54201,107,300046,1.0,4120738,task_keji,taskname836,Unlock Tech Lv.{1} [{0}].,72,,0,0,0,0,,,,0
 20269,Unlock Tech Lv.{1} [{0}].,55201,107,300047,1.0,4120739,task_keji,taskname847,Unlock Tech Lv.{1} [{0}].,72,,0,0,0,0,,,,0
-20270,Defeat Lv. {0} Dark Forces on the World Map75,2001,207,6750,1.0,4120002,task_jianzao,Clean up {0} rocks or trees in your base,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20271,Defeat Lv. {0} Dark Forces on the World Map75,3560,207,6750,2.0,4120003,task_jianzao,Clean up {0} rocks or trees in your base,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20272,Defeat Lv. {0} Dark Forces on the World Map75,4005,207,6750,3.0,4120004,task_jianzao,Clean up {0} rocks or trees in your base,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20273,Defeat Lv. {0} Dark Forces on the World Map75,5004,207,6750,4.0,4120005,task_jianzao,Clean up {0} rocks or trees in your base,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20274,Defeat Lv. {0} Dark Forces on the World Map75,5005,207,6750,5.0,4120006,task_jianzao,taskname143,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20275,Defeat Lv. {0} Dark Forces on the World Map75,8702,207,6750,6.0,4120741,task_jianzao,taskname154,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20276,Defeat Lv. {0} Dark Forces on the World Map75,12999,207,6750,7.0,4120742,task_jianzao,taskname209,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20277,Defeat Lv. {0} Dark Forces on the World Map75,13999,207,6750,8.0,4120743,task_jianzao,taskname210,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20278,Defeat Lv. {0} Dark Forces on the World Map75,14999,207,6750,9.0,4120744,task_jianzao,taskname237,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20279,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,10.0,4120745,task_jianzao,taskname349,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20280,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,11.0,4120746,task_jianzao,taskname415,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20281,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,12.0,4120747,task_jianzao,taskname379,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20282,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,13.0,4120748,task_jianzao,taskname446,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20283,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,14.0,4120749,task_jianzao,taskname463,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20284,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,15.0,4120750,task_jianzao,taskname464,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20285,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,16.0,4120751,task_jianzao,taskname482,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20286,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,17.0,4120752,task_jianzao,taskname500,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20287,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,18.0,4120753,task_jianzao,taskname528,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20288,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,19.0,4120754,task_jianzao,taskname529,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20289,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,20.0,4120755,task_jianzao,taskname547,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20290,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,21.0,4120756,task_jianzao,taskname548,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20291,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,22.0,4120757,task_jianzao,taskname565,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20292,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,23.0,4120758,task_jianzao,taskname580,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20293,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,24.0,4120759,task_jianzao,taskname595,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20294,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,25.0,4120760,task_jianzao,taskname611,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20295,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,26.0,4120761,task_jianzao,taskname612,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20296,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,27.0,4120762,task_jianzao,taskname628,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20297,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,28.0,4120763,task_jianzao,taskname657,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20298,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,29.0,4120764,task_jianzao,taskname672,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20299,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,30.0,4120765,task_jianzao,taskname702,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20300,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,31.0,4120766,task_jianzao,taskname703,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20301,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,32.0,4120767,task_jianzao,taskname749,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20302,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,33.0,4120768,task_jianzao,taskname780,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20303,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,34.0,4120768,task_jianzao,taskname826,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20304,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,35.0,4120768,task_jianzao,taskname827,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20305,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,36.0,4120768,task_jianzao,taskname839,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20306,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,37.0,4120768,task_jianzao,taskname850,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20307,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,38.0,4120768,task_jianzao,taskname856,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20308,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,39.0,4120768,task_jianzao,taskname866,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20309,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,40.0,4120768,task_jianzao,taskname867,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
-20310,Defeat Lv. {0} Dark Forces on the World Map75,99999,207,6750,41.0,4120768,task_jianzao,taskname878,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20270,Rescue soldiers {0} times,2001,207,6750,1.0,4120002,task_jianzao,Clean up {0} rocks or trees in your base,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20271,Rescue soldiers {0} times,3560,207,6750,2.0,4120003,task_jianzao,Clean up {0} rocks or trees in your base,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20272,Rescue soldiers {0} times,4005,207,6750,3.0,4120004,task_jianzao,Clean up {0} rocks or trees in your base,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20273,Rescue soldiers {0} times,5004,207,6750,4.0,4120005,task_jianzao,Clean up {0} rocks or trees in your base,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20274,Rescue soldiers {0} times,5005,207,6750,5.0,4120006,task_jianzao,taskname143,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20275,Rescue soldiers {0} times,8702,207,6750,6.0,4120741,task_jianzao,taskname154,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20276,Rescue soldiers {0} times,12999,207,6750,7.0,4120742,task_jianzao,taskname209,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20277,Rescue soldiers {0} times,13999,207,6750,8.0,4120743,task_jianzao,taskname210,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20278,Rescue soldiers {0} times,14999,207,6750,9.0,4120744,task_jianzao,taskname237,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20279,Rescue soldiers {0} times,99999,207,6750,10.0,4120745,task_jianzao,taskname349,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20280,Rescue soldiers {0} times,99999,207,6750,11.0,4120746,task_jianzao,taskname415,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20281,Rescue soldiers {0} times,99999,207,6750,12.0,4120747,task_jianzao,taskname379,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20282,Rescue soldiers {0} times,99999,207,6750,13.0,4120748,task_jianzao,taskname446,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20283,Rescue soldiers {0} times,99999,207,6750,14.0,4120749,task_jianzao,taskname463,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20284,Rescue soldiers {0} times,99999,207,6750,15.0,4120750,task_jianzao,taskname464,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20285,Rescue soldiers {0} times,99999,207,6750,16.0,4120751,task_jianzao,taskname482,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20286,Rescue soldiers {0} times,99999,207,6750,17.0,4120752,task_jianzao,taskname500,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20287,Rescue soldiers {0} times,99999,207,6750,18.0,4120753,task_jianzao,taskname528,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20288,Rescue soldiers {0} times,99999,207,6750,19.0,4120754,task_jianzao,taskname529,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20289,Rescue soldiers {0} times,99999,207,6750,20.0,4120755,task_jianzao,taskname547,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20290,Rescue soldiers {0} times,99999,207,6750,21.0,4120756,task_jianzao,taskname548,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20291,Rescue soldiers {0} times,99999,207,6750,22.0,4120757,task_jianzao,taskname565,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20292,Rescue soldiers {0} times,99999,207,6750,23.0,4120758,task_jianzao,taskname580,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20293,Rescue soldiers {0} times,99999,207,6750,24.0,4120759,task_jianzao,taskname595,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20294,Rescue soldiers {0} times,99999,207,6750,25.0,4120760,task_jianzao,taskname611,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20295,Rescue soldiers {0} times,99999,207,6750,26.0,4120761,task_jianzao,taskname612,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20296,Rescue soldiers {0} times,99999,207,6750,27.0,4120762,task_jianzao,taskname628,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20297,Rescue soldiers {0} times,99999,207,6750,28.0,4120763,task_jianzao,taskname657,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20298,Rescue soldiers {0} times,99999,207,6750,29.0,4120764,task_jianzao,taskname672,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20299,Rescue soldiers {0} times,99999,207,6750,30.0,4120765,task_jianzao,taskname702,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20300,Rescue soldiers {0} times,99999,207,6750,31.0,4120766,task_jianzao,taskname703,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20301,Rescue soldiers {0} times,99999,207,6750,32.0,4120767,task_jianzao,taskname749,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20302,Rescue soldiers {0} times,99999,207,6750,33.0,4120768,task_jianzao,taskname780,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20303,Rescue soldiers {0} times,99999,207,6750,34.0,4120768,task_jianzao,taskname826,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20304,Rescue soldiers {0} times,99999,207,6750,35.0,4120768,task_jianzao,taskname827,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20305,Rescue soldiers {0} times,99999,207,6750,36.0,4120768,task_jianzao,taskname839,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20306,Rescue soldiers {0} times,99999,207,6750,37.0,4120768,task_jianzao,taskname850,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20307,Rescue soldiers {0} times,99999,207,6750,38.0,4120768,task_jianzao,taskname856,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20308,Rescue soldiers {0} times,99999,207,6750,39.0,4120768,task_jianzao,taskname866,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20309,Rescue soldiers {0} times,99999,207,6750,40.0,4120768,task_jianzao,taskname867,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
+20310,Rescue soldiers {0} times,99999,207,6750,41.0,4120768,task_jianzao,taskname878,Clean up {0} rocks or trees in your base,682,,,,,,,,area_v3_building_delete,0
 40071,Merge {1} {0}.,5242,102,10006,1.0,4120004,task_xunlian,Merge {1} {0}.,Merge {1} {0}.,7,,0,0,0,6,,,area_v3_building_delete,5
 40072,Merge {1} {0}.,3561,102,10002,1.0,4120005,task_xunlian,Merge {1} {0}.,Merge {1} {0}.,7,,0,0,0,2,,,area_v3_building_delete,3
 40073,Merge {1} {0}.,3562,102,10003,1.0,4120006,task_xunlian,Merge {1} {0}.,Merge {1} {0}.,7,,0,0,0,3,,,area_v3_building_delete,3

@@ -1,0 +1,6 @@
+id,magic_name,skin_id,desc,desc2,skin_type,group_id,cd,skin_rate,item_id,item_num,bg_res
+int,string,string,string,string,int,int,int,int,int,int,string
+1,Magic Change - Snowman,3000000;100,变装魔法-雪人,雪人,1,1,14400,,2611346,2,bg_magic_skin_01.jpg
+2,Magic Change - Glaring Cabin,3000002;100,变装魔法-缤纷雪屋,缤纷雪屋,2,1,14400,50,2611346,2,bg_magic_skin_02.jpg
+3,Magic Change - Crystal Cabin,3000004;100,变装魔法-晶莹雪屋,晶莹雪屋,2,1,14400,20,2611346,3,bg_magic_skin_03.jpg
+4,Magic Change - Merry Christmas,3000006;100,变装魔法-欢乐圣诞,欢乐圣诞,2,1,14400,30,2611346,2,bg_magic_skin_04.jpg

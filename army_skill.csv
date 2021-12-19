@@ -47,8 +47,8 @@ int,string,string,string,string,int,string
 900003,Bullseye,When receiving crit; the damage taken is increased by {0}%,Bullseye,941214,1,300
 900004,Dodged!,{0}% chance to dodge regular attack,Dodged!,941215,1,60
 900005,Dangerous Zone,Attacks with Special Effect will cause damage equal to {0}% of the ATK,Dangerous Zone,941216,1,300
-900006,Spearheads II,It will explode if it's being attacked with 2 different Special Effects (which gained from Special Effect Research Center); deals damage equal to {0}% of the ATK. Effective {1} times in this battle,Spearheads II,941217,1,2000|5
-900007,Spearheads III,It will explode if it's being attacked with 3 different Special Effects (which gained from Special Effect Research Center); deals damage equal to {0}% of the ATK. Effective {1} times in this battle,Spearheads III,941218,1,5000|5
+900006,Spearheads II,It will explode if it's being attacked with 2 different Special Effects (gained from Special Effect Research Center); deals damage equal to {0}% of the ATK. Effective up to {1} time(s) in each battle.,Spearheads II,941217,1,2000|5
+900007,Spearheads III,It will explode if it's being attacked with 3 different Special Effects (gained from Special Effect Research Center); deals damage equal to {0}% of the ATK. Effective up to {1} time(s) in each battle.,Spearheads III,941218,1,5000|5
 900008,Unit Suppression - Army,When receiving damage from the Army; 100% it will be a Critical Hit,Unit Suppression - Army,941219,1,
 900009,Unit Suppression - Navy,When receiving damage from the Navy; 100% it will be a Critical Hit,Unit Suppression - Navy,941220,1,
 900010,Unit Suppression - Air Force,When receiving damage from the Air Force; 100% it will be a Critical Hit,Unit Suppression - Air Force,941221,1,

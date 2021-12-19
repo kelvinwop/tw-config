@@ -307,3 +307,7 @@ int,int,string,string,string,string,string,string,string
 19113,15,Top-star Warzone Reward,Dear commander; your Warzone got No. {0}-{1} in this championship. Thank you for your participation. Please accept the following rewards.,,,,,
 19114,15,Top-star Gift Reward,Dear Commander; thank you very much for your outstanding performance in the tournament! The {0} Gift has been sent to you by the Warzone Leader.,,,,,
 20001,15,Arms Race Ranking Reward,Commander; the new Arms Race has begun. Here's the ranking reward you received in the last stage. Good luck!,,,,,
+82000,15,Arms Race Reward Issue,Dear Commander; \nYou just obtained a ranking prize for the Arms Race as a result of a system glitch; and the award comprises wrongly positioned skins; special effects; or queues. The issue has been resolved and we are sorry that we have to retrieve the reward and replace it with equivalent Orange Universal Shards. Kindly find the items below. \n\nWe are very sorry for the inconvenience caused to you; thank you for your understanding and support.\nTop War Support Team,,,,,
+19116,15,Top-star Warzone Reward,Dear commander; your Warzone were the Top 4 servers in this championship. Congratulations!! Please accept the following rewards.,,,,,
+941212,2,mail_title941212,mail_content941212,,,,,
+667,2,Purchase successfully,Xin chào; {0} Phiếu Mua của Bạn đã được nạp thành công vào trò chơi. Xin vui lòng kiểm tra.,,,,,
