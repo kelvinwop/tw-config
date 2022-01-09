@@ -10,7 +10,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 8,Use {0} VIT,303,0,20.0,5,0,0,task_xiaohaotili,15,1,0,5,1,0
 9,Request gold {0} time(s),304,0,1.0,5,0,0,task_nongye,18,1,0,5,1,0
 10,Buy VIT {0} time(s),305,0,1.0,1,0,0,task_xiaohaotili,19,1,0,5,1,0
-11,Gold Harvester Quick Collect {0} time(s),306,0,1.0,1,0,0,task_nongye,20,1,0,0,1,0
+11,Gold Harvester Quick Collect {0} time(s),306,0,1.0,1,0,0,task_nongye,680,1,0,0,1,0
 12,Buy items in Item Store {0} time(s),307,0,1.0,1,0,0,task_goumaidaoju,54,1,0,5,1,0
 13,dailyTask_name008,308,0,1.0,1,0,0,task_shipinzuanshi,22,1,0,0,1,0
 14,Use Speed-up {0} time(s),310,0,1.0,1,0,0,task_jiasu,999,1,0,5,1,0
@@ -30,7 +30,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 28,Use {0} VIT,303,0,20.0,5,0,0,task_xiaohaotili,15,2,0,4,1,0
 29,Request gold {0} time(s),304,0,1.0,5,0,0,task_nongye,18,2,0,4,1,0
 30,Buy VIT {0} time(s),305,0,1.0,1,0,0,task_xiaohaotili,19,2,0,4,1,0
-31,Gold Harvester Quick Collect {0} time(s),306,0,2.0,1,0,0,task_nongye,20,2,0,0,1,0
+31,Gold Harvester Quick Collect {0} time(s),306,0,2.0,1,0,0,task_nongye,680,2,0,0,1,0
 32,Buy items in Item Store {0} time(s),307,0,1.0,1,0,0,task_goumaidaoju,54,2,0,4,1,0
 33,dailyTask_name008,308,0,1.0,1,0,0,task_shipinzuanshi,22,2,0,0,1,0
 34,Use Speed-up {0} time(s),310,0,1.0,1,0,0,task_jiasu,999,2,0,4,1,0
@@ -44,7 +44,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 42,Use {0} VIT,303,0,20.0,5,0,0,task_xiaohaotili,15,5,0,1,1,0
 43,Request gold {0} time(s),304,0,1.0,5,0,0,task_nongye,18,5,0,1,1,0
 44,Buy VIT {0} time(s),305,0,1.0,1,0,0,task_xiaohaotili,19,5,0,1,1,0
-45,Gold Harvester Quick Collect {0} time(s),306,0,3.0,1,0,0,task_nongye,20,5,0,0,1,0
+45,Gold Harvester Quick Collect {0} time(s),306,0,3.0,1,0,0,task_nongye,680,5,0,0,1,0
 46,Buy items in Item Store {0} time(s),307,0,1.0,1,0,0,task_goumaidaoju,54,5,0,1,1,0
 47,dailyTask_name008,308,0,1.0,1,0,0,task_shipinzuanshi,22,5,0,0,1,0
 48,Use Speed-up {0} time(s),310,0,1.0,1,0,0,task_jiasu,999,5,0,1,1,0
@@ -58,7 +58,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 208,Use {0} VIT,303,0,20.0,10,29,2500001,task_xiaohaotili,15,1,0,40,3,1
 209,Request gold {0} time(s),304,0,1.0,10,29,2500001,task_nongye,18,1,0,40,3,1
 210,Buy VIT {0} time(s),305,0,1.0,10,29,2500001,task_xiaohaotili,19,1,0,40,3,1
-211,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500001,task_nongye,20,1,0,0,3,1
+211,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500001,task_nongye,680,1,0,0,3,1
 212,Buy items in Item Store {0} time(s),307,0,1.0,10,29,2500001,task_goumaidaoju,54,1,0,40,3,1
 213,dailyTask_name008,308,0,1.0,10,29,2500001,task_shipinzuanshi,22,1,0,0,3,1
 214,Use Speed-up {0} time(s),310,0,1.0,10,29,2500001,task_jiasu,999,1,0,40,3,1
@@ -75,7 +75,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 225,Use {0} VIT,303,0,50.0,10,29,2500002,task_xiaohaotili,15,2,0,30,3,2
 226,Request gold {0} time(s),304,0,1.0,10,29,2500002,task_nongye,18,2,0,30,3,2
 227,Buy VIT {0} time(s),305,0,1.0,10,29,2500002,task_xiaohaotili,19,2,0,30,3,2
-228,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500002,task_nongye,20,2,0,0,3,2
+228,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500002,task_nongye,680,2,0,0,3,2
 229,Buy items in Item Store {0} time(s),307,0,1.0,10,29,2500002,task_goumaidaoju,54,2,0,30,3,2
 230,dailyTask_name008,308,0,1.0,10,29,2500002,task_shipinzuanshi,22,2,0,0,3,2
 231,Use Speed-up {0} time(s),310,0,1.0,10,29,2500002,task_jiasu,999,2,0,30,3,2
@@ -92,7 +92,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 242,Use {0} VIT,303,0,50.0,10,29,2500003,task_xiaohaotili,15,3,0,15,3,3
 243,Request gold {0} time(s),304,0,1.0,10,29,2500003,task_nongye,18,3,0,15,3,3
 244,Buy VIT {0} time(s),305,0,1.0,10,29,2500003,task_xiaohaotili,19,3,0,15,3,3
-245,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500003,task_nongye,20,3,0,0,3,3
+245,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500003,task_nongye,680,3,0,0,3,3
 246,Buy items in Item Store {0} time(s),307,0,1.0,10,29,2500003,task_goumaidaoju,54,3,0,15,3,3
 247,dailyTask_name008,308,0,1.0,10,29,2500003,task_shipinzuanshi,22,3,0,0,3,3
 248,Use Speed-up {0} time(s),310,0,1.0,10,29,2500003,task_jiasu,999,3,0,15,3,3
@@ -109,7 +109,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 259,Use {0} VIT,303,0,100.0,10,29,2500004,task_xiaohaotili,15,4,0,8,3,4
 260,Request gold {0} time(s),304,0,1.0,10,29,2500004,task_nongye,18,4,0,8,3,4
 261,Buy VIT {0} time(s),305,0,1.0,10,29,2500004,task_xiaohaotili,19,4,0,8,3,4
-262,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500004,task_nongye,20,4,0,0,3,4
+262,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500004,task_nongye,680,4,0,0,3,4
 263,Buy items in Item Store {0} time(s),307,0,1.0,10,29,2500004,task_goumaidaoju,54,4,0,8,3,4
 264,dailyTask_name008,308,0,1.0,10,29,2500004,task_shipinzuanshi,22,4,0,0,3,4
 265,Use Speed-up {0} time(s),310,0,1.0,10,29,2500004,task_jiasu,999,4,0,8,3,4
@@ -126,7 +126,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 276,Use {0} VIT,303,0,200.0,10,29,2500005,task_xiaohaotili,15,5,0,2,3,5
 277,Request gold {0} time(s),304,0,1.0,10,29,2500005,task_nongye,18,5,0,2,3,5
 278,Buy VIT {0} time(s),305,0,2.0,10,29,2500005,task_xiaohaotili,19,5,0,2,3,5
-279,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500005,task_nongye,20,5,0,0,3,5
+279,Gold Harvester Quick Collect {0} time(s),306,0,1.0,10,29,2500005,task_nongye,680,5,0,0,3,5
 280,Buy items in Item Store {0} time(s),307,0,1.0,10,29,2500005,task_goumaidaoju,54,5,0,2,3,5
 281,dailyTask_name008,308,0,1.0,10,29,2500005,task_shipinzuanshi,22,5,0,0,3,5
 282,Use Speed-up {0} time(s),310,0,1.0,10,29,2500005,task_jiasu,999,5,0,2,3,5
@@ -143,7 +143,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 293,Use {0} VIT,303,0,20.0,30,49,2500007,task_xiaohaotili,15,1,0,40,3,1
 294,Request gold {0} time(s),304,0,1.0,30,49,2500007,task_nongye,18,1,0,40,3,1
 295,Buy VIT {0} time(s),305,0,1.0,30,49,2500007,task_xiaohaotili,19,1,0,40,3,1
-296,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500007,task_nongye,20,1,0,0,3,1
+296,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500007,task_nongye,680,1,0,25,3,1
 297,Buy items in Item Store {0} time(s),307,0,1.0,30,49,2500007,task_goumaidaoju,54,1,0,40,3,1
 298,dailyTask_name008,308,0,1.0,30,49,2500007,task_shipinzuanshi,22,1,0,0,3,1
 299,Use Speed-up {0} time(s),310,0,1.0,30,49,2500007,task_jiasu,999,1,0,40,3,1
@@ -160,7 +160,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 310,Use {0} VIT,303,0,50.0,30,49,2500008,task_xiaohaotili,15,2,0,30,3,2
 311,Request gold {0} time(s),304,0,1.0,30,49,2500008,task_nongye,18,2,0,30,3,2
 312,Buy VIT {0} time(s),305,0,1.0,30,49,2500008,task_xiaohaotili,19,2,0,30,3,2
-313,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500008,task_nongye,20,2,0,0,3,2
+313,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500008,task_nongye,680,2,0,20,3,2
 314,Buy items in Item Store {0} time(s),307,0,1.0,30,49,2500008,task_goumaidaoju,54,2,0,30,3,2
 315,dailyTask_name008,308,0,1.0,30,49,2500008,task_shipinzuanshi,22,2,0,0,3,2
 316,Use Speed-up {0} time(s),310,0,1.0,30,49,2500008,task_jiasu,999,2,0,30,3,2
@@ -177,7 +177,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 327,Use {0} VIT,303,0,50.0,30,49,2500009,task_xiaohaotili,15,3,0,20,3,3
 328,Request gold {0} time(s),304,0,1.0,30,49,2500009,task_nongye,18,3,0,20,3,3
 329,Buy VIT {0} time(s),305,0,1.0,30,49,2500009,task_xiaohaotili,19,3,0,20,3,3
-330,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500009,task_nongye,20,3,0,0,3,3
+330,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500009,task_nongye,680,3,0,18,3,3
 331,Buy items in Item Store {0} time(s),307,0,1.0,30,49,2500009,task_goumaidaoju,54,3,0,20,3,3
 332,dailyTask_name008,308,0,1.0,30,49,2500009,task_shipinzuanshi,22,3,0,0,3,3
 333,Use Speed-up {0} time(s),310,0,1.0,30,49,2500009,task_jiasu,999,3,0,20,3,3
@@ -194,7 +194,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 344,Use {0} VIT,303,0,100.0,30,49,2500010,task_xiaohaotili,15,4,0,15,3,4
 345,Request gold {0} time(s),304,0,1.0,30,49,2500010,task_nongye,18,4,0,15,3,4
 346,Buy VIT {0} time(s),305,0,1.0,30,49,2500010,task_xiaohaotili,19,4,0,15,3,4
-347,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500010,task_nongye,20,4,0,0,3,4
+347,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500010,task_nongye,680,4,0,12,3,4
 348,Buy items in Item Store {0} time(s),307,0,1.0,30,49,2500010,task_goumaidaoju,54,4,0,15,3,4
 349,dailyTask_name008,308,0,1.0,30,49,2500010,task_shipinzuanshi,22,4,0,0,3,4
 350,Use Speed-up {0} time(s),310,0,1.0,30,49,2500010,task_jiasu,999,4,0,15,3,4
@@ -211,7 +211,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 361,Use {0} VIT,303,0,200.0,30,49,2500011,task_xiaohaotili,15,5,0,5,3,5
 362,Request gold {0} time(s),304,0,1.0,30,49,2500011,task_nongye,18,5,0,5,3,5
 363,Buy VIT {0} time(s),305,0,2.0,30,49,2500011,task_xiaohaotili,19,5,0,5,3,5
-364,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500011,task_nongye,20,5,0,0,3,5
+364,Gold Harvester Quick Collect {0} time(s),306,0,1.0,30,49,2500011,task_nongye,680,5,0,7,3,5
 365,Buy items in Item Store {0} time(s),307,0,1.0,30,49,2500011,task_goumaidaoju,54,5,0,5,3,5
 366,dailyTask_name008,308,0,1.0,30,49,2500011,task_shipinzuanshi,22,5,0,0,3,5
 367,Use Speed-up {0} time(s),310,0,1.0,30,49,2500011,task_jiasu,999,5,0,5,3,5
@@ -228,7 +228,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 378,Use {0} VIT,303,0,20.0,50,69,2500013,task_xiaohaotili,15,1,0,25,3,1
 379,Request gold {0} time(s),304,0,1.0,50,69,2500013,task_nongye,18,1,0,25,3,1
 380,Buy VIT {0} time(s),305,0,1.0,50,69,2500013,task_xiaohaotili,19,1,0,25,3,1
-381,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500013,task_nongye,20,1,0,0,3,1
+381,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500013,task_nongye,680,1,0,25,3,1
 382,Buy items in Item Store {0} time(s),307,0,1.0,50,69,2500013,task_goumaidaoju,54,1,0,25,3,1
 383,dailyTask_name008,308,0,1.0,50,69,2500013,task_shipinzuanshi,22,1,0,0,3,1
 384,Use Speed-up {0} time(s),310,0,1.0,50,69,2500013,task_jiasu,999,1,0,25,3,1
@@ -248,7 +248,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 398,Use {0} VIT,303,0,50.0,50,69,2500014,task_xiaohaotili,15,2,0,20,3,2
 399,Request gold {0} time(s),304,0,1.0,50,69,2500014,task_nongye,18,2,0,20,3,2
 400,Buy VIT {0} time(s),305,0,1.0,50,69,2500014,task_xiaohaotili,19,2,0,20,3,2
-401,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500014,task_nongye,20,2,0,0,3,2
+401,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500014,task_nongye,680,2,0,20,3,2
 402,Buy items in Item Store {0} time(s),307,0,1.0,50,69,2500014,task_goumaidaoju,54,2,0,20,3,2
 403,dailyTask_name008,308,0,1.0,50,69,2500014,task_shipinzuanshi,22,2,0,0,3,2
 404,Use Speed-up {0} time(s),310,0,1.0,50,69,2500014,task_jiasu,999,2,0,20,3,2
@@ -268,7 +268,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 418,Use {0} VIT,303,0,50.0,50,69,2500015,task_xiaohaotili,15,3,0,18,3,3
 419,Request gold {0} time(s),304,0,1.0,50,69,2500015,task_nongye,18,3,0,18,3,3
 420,Buy VIT {0} time(s),305,0,1.0,50,69,2500015,task_xiaohaotili,19,3,0,18,3,3
-421,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500015,task_nongye,20,3,0,0,3,3
+421,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500015,task_nongye,680,3,0,18,3,3
 422,Buy items in Item Store {0} time(s),307,0,1.0,50,69,2500015,task_goumaidaoju,54,3,0,18,3,3
 423,dailyTask_name008,308,0,1.0,50,69,2500015,task_shipinzuanshi,22,3,0,0,3,3
 424,Use Speed-up {0} time(s),310,0,1.0,50,69,2500015,task_jiasu,999,3,0,18,3,3
@@ -288,7 +288,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 438,Use {0} VIT,303,0,100.0,50,69,2500016,task_xiaohaotili,15,4,0,8,3,4
 439,Request gold {0} time(s),304,0,1.0,50,69,2500016,task_nongye,18,4,0,8,3,4
 440,Buy VIT {0} time(s),305,0,1.0,50,69,2500016,task_xiaohaotili,19,4,0,8,3,4
-441,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500016,task_nongye,20,4,0,0,3,4
+441,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500016,task_nongye,680,4,0,12,3,4
 442,Buy items in Item Store {0} time(s),307,0,1.0,50,69,2500016,task_goumaidaoju,54,4,0,8,3,4
 443,dailyTask_name008,308,0,1.0,50,69,2500016,task_shipinzuanshi,22,4,0,0,3,4
 444,Use Speed-up {0} time(s),310,0,1.0,50,69,2500016,task_jiasu,999,4,0,8,3,4
@@ -308,7 +308,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 458,Use {0} VIT,303,0,200.0,50,69,2500017,task_xiaohaotili,15,5,0,3,3,5
 459,Request gold {0} time(s),304,0,1.0,50,69,2500017,task_nongye,18,5,0,3,3,5
 460,Buy VIT {0} time(s),305,0,2.0,50,69,2500017,task_xiaohaotili,19,5,0,3,3,5
-461,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500017,task_nongye,20,5,0,0,3,5
+461,Gold Harvester Quick Collect {0} time(s),306,0,1.0,50,69,2500017,task_nongye,680,5,0,7,3,5
 462,Buy items in Item Store {0} time(s),307,0,1.0,50,69,2500017,task_goumaidaoju,54,5,0,3,3,5
 463,dailyTask_name008,308,0,1.0,50,69,2500017,task_shipinzuanshi,22,5,0,0,3,5
 464,Use Speed-up {0} time(s),310,0,1.0,50,69,2500017,task_jiasu,999,5,0,3,3,5
@@ -328,7 +328,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 478,Use {0} VIT,303,0,20.0,70,80,2500019,task_xiaohaotili,15,1,0,25,3,1
 479,Request gold {0} time(s),304,0,1.0,70,80,2500019,task_nongye,18,1,0,25,3,1
 480,Buy VIT {0} time(s),305,0,1.0,70,80,2500019,task_xiaohaotili,19,1,0,25,3,1
-481,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500019,task_nongye,20,1,0,0,3,1
+481,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500019,task_nongye,680,1,0,25,3,1
 482,Buy items in Item Store {0} time(s),307,0,1.0,70,80,2500019,task_goumaidaoju,54,1,0,25,3,1
 483,dailyTask_name008,308,0,1.0,70,80,2500019,task_shipinzuanshi,22,1,0,0,3,1
 484,Use Speed-up {0} time(s),310,0,1.0,70,80,2500019,task_jiasu,999,1,0,25,3,1
@@ -348,7 +348,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 498,Use {0} VIT,303,0,50.0,70,80,2500020,task_xiaohaotili,15,2,0,20,3,2
 499,Request gold {0} time(s),304,0,1.0,70,80,2500020,task_nongye,18,2,0,20,3,2
 500,Buy VIT {0} time(s),305,0,1.0,70,80,2500020,task_xiaohaotili,19,2,0,20,3,2
-501,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500020,task_nongye,20,2,0,0,3,2
+501,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500020,task_nongye,680,2,0,20,3,2
 502,Buy items in Item Store {0} time(s),307,0,1.0,70,80,2500020,task_goumaidaoju,54,2,0,20,3,2
 503,dailyTask_name008,308,0,1.0,70,80,2500020,task_shipinzuanshi,22,2,0,0,3,2
 504,Use Speed-up {0} time(s),310,0,1.0,70,80,2500020,task_jiasu,999,2,0,20,3,2
@@ -368,7 +368,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 518,Use {0} VIT,303,0,50.0,70,80,2500021,task_xiaohaotili,15,3,0,18,3,3
 519,Request gold {0} time(s),304,0,1.0,70,80,2500021,task_nongye,18,3,0,18,3,3
 520,Buy VIT {0} time(s),305,0,1.0,70,80,2500021,task_xiaohaotili,19,3,0,18,3,3
-521,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500021,task_nongye,20,3,0,0,3,3
+521,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500021,task_nongye,680,3,0,18,3,3
 522,Buy items in Item Store {0} time(s),307,0,1.0,70,80,2500021,task_goumaidaoju,54,3,0,18,3,3
 523,dailyTask_name008,308,0,1.0,70,80,2500021,task_shipinzuanshi,22,3,0,0,3,3
 524,Use Speed-up {0} time(s),310,0,1.0,70,80,2500021,task_jiasu,999,3,0,18,3,3
@@ -388,7 +388,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 538,Use {0} VIT,303,0,100.0,70,80,2500022,task_xiaohaotili,15,4,0,8,3,4
 539,Request gold {0} time(s),304,0,1.0,70,80,2500022,task_nongye,18,4,0,8,3,4
 540,Buy VIT {0} time(s),305,0,1.0,70,80,2500022,task_xiaohaotili,19,4,0,8,3,4
-541,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500022,task_nongye,20,4,0,0,3,4
+541,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500022,task_nongye,680,4,0,12,3,4
 542,Buy items in Item Store {0} time(s),307,0,1.0,70,80,2500022,task_goumaidaoju,54,4,0,8,3,4
 543,dailyTask_name008,308,0,1.0,70,80,2500022,task_shipinzuanshi,22,4,0,0,3,4
 544,Use Speed-up {0} time(s),310,0,1.0,70,80,2500022,task_jiasu,999,4,0,8,3,4
@@ -408,7 +408,7 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 558,Use {0} VIT,303,0,200.0,70,80,2500023,task_xiaohaotili,15,5,0,3,3,5
 559,Request gold {0} time(s),304,0,1.0,70,80,2500023,task_nongye,18,5,0,3,3,5
 560,Buy VIT {0} time(s),305,0,2.0,70,80,2500023,task_xiaohaotili,19,5,0,3,3,5
-561,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500023,task_nongye,20,5,0,0,3,5
+561,Gold Harvester Quick Collect {0} time(s),306,0,1.0,70,80,2500023,task_nongye,680,5,0,7,3,5
 562,Buy items in Item Store {0} time(s),307,0,1.0,70,80,2500023,task_goumaidaoju,54,5,0,3,3,5
 563,dailyTask_name008,308,0,1.0,70,80,2500023,task_shipinzuanshi,22,5,0,0,3,5
 564,Use Speed-up {0} time(s),310,0,1.0,70,80,2500023,task_jiasu,999,5,0,3,3,5
@@ -418,22 +418,22 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 568,Gather {1} {0},203,5,900000.0,70,80,2500023,task_nongye,16,5,0,3,3,5
 569,Gather {1} {0},203,7,900000.0,70,80,2500023,task_nongye,16,5,0,3,3,5
 570,Gather {1} {0},203,5,900000.0,70,80,2500023,task_nongye,16,5,0,3,3,5
-571,[Hard] Defeat {0} Empire Royal Guard(s),401,50014,1.0,10,29,2500006,task_jianzao,998,10,0,0,4,6
+571,[Hard] Defeat {0} Empire Royal Guard(s),401,50014,1.0,10,29,2500006,task_jianzao,998,10,0,3,4,6
 572,Gather {0} [Oil] in the Ancient Ruins.,501,5001,250000.0,10,29,2500006,task_nongye,998,10,0,0,4,6
 573,In the ancient ruins; gather {0} Coin,501,1001,250000.0,10,29,2500006,task_nongye,998,10,0,0,4,6
 574,In the Ancient Ruins; gather {0} Food.,501,7001,250000.0,10,29,2500006,task_nongye,998,10,0,0,4,6
 575,Defeat {0} Empire Elite Unit(s),601,5019,1.0,10,29,2500006,task_xunlian,998,10,0,0,4,6
-576,[Hard] Defeat {0} Empire Royal Guard(s),401,50043,1.0,30,49,2500012,task_jianzao,998,10,0,0,4,6
+576,[Hard] Defeat {0} Empire Royal Guard(s),401,50043,1.0,30,49,2500012,task_jianzao,998,10,0,3,4,6
 577,Gather {0} [Oil] in the Ancient Ruins.,501,5001,650000.0,30,49,2500012,task_nongye,998,10,0,0,4,6
 578,In the ancient ruins; gather {0} Coin,501,1001,650000.0,30,49,2500012,task_nongye,998,10,0,0,4,6
 579,In the Ancient Ruins; gather {0} Food.,501,7001,650000.0,30,49,2500012,task_nongye,998,10,0,0,4,6
 580,Defeat {0} Empire Elite Unit(s),601,5030,1.0,30,49,2500012,task_xunlian,998,10,0,0,4,6
-581,[Hard] Defeat {0} Empire Royal Guard(s),401,50065,1.0,50,69,2500018,task_jianzao,998,10,0,0,4,6
+581,[Hard] Defeat {0} Empire Royal Guard(s),401,50065,1.0,50,69,2500018,task_jianzao,998,10,0,3,4,6
 582,Gather {0} [Oil] in the Ancient Ruins.,501,5001,1650000.0,50,69,2500018,task_nongye,998,10,0,0,4,6
 583,In the ancient ruins; gather {0} Coin,501,1001,1650000.0,50,69,2500018,task_nongye,998,10,0,0,4,6
 584,In the Ancient Ruins; gather {0} Food.,501,7001,1650000.0,50,69,2500018,task_nongye,998,10,0,0,4,6
 585,Defeat {0} Empire Elite Unit(s),601,5050,1.0,50,69,2500018,task_xunlian,998,10,0,0,4,6
-586,[Hard] Defeat {0} Empire Royal Guard(s),401,50076,1.0,70,80,2500024,task_jianzao,998,10,0,0,4,6
+586,[Hard] Defeat {0} Empire Royal Guard(s),401,50076,1.0,70,80,2500024,task_jianzao,998,10,0,3,4,6
 587,Gather {0} [Oil] in the Ancient Ruins.,501,5001,1650000.0,70,80,2500024,task_nongye,998,10,0,0,4,6
 588,In the ancient ruins; gather {0} Coin,501,1001,1650000.0,70,80,2500024,task_nongye,998,10,0,0,4,6
 589,In the Ancient Ruins; gather {0} Food.,501,7001,1650000.0,70,80,2500024,task_nongye,998,10,0,0,4,6
@@ -586,30 +586,30 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 730,Recruit hero {0} time(s) (any recruit),313,0,2.0,70,80,2500022,task_xunlian,25,4,0,8,3,4
 731,Recruit hero {0} time(s) (any recruit),313,0,2.0,70,80,2500023,task_xunlian,25,5,0,7,3,5
 732,Recruit hero {0} time(s) (any recruit),313,0,3.0,70,80,2500024,task_xunlian,25,10,0,5,3,6
-733,Donate Alliance Tech {0} times,314,0,1.0,10,29,2500001,task_xunlian,39,1,0,25,3,1
-734,Donate Alliance Tech {0} times,314,0,3.0,10,29,2500002,task_xunlian,39,2,0,20,3,2
-735,Donate Alliance Tech {0} times,314,0,5.0,10,29,2500003,task_xunlian,39,3,0,18,3,3
-736,Donate Alliance Tech {0} times,314,0,10.0,10,29,2500004,task_xunlian,39,4,0,8,3,4
-737,Donate Alliance Tech {0} times,314,0,10.0,10,29,2500005,task_xunlian,39,5,0,7,3,5
-738,Donate Alliance Tech {0} times,314,0,15.0,10,29,2500006,task_xunlian,39,10,0,5,3,6
-739,Donate Alliance Tech {0} times,314,0,1.0,30,49,2500007,task_xunlian,39,1,0,25,3,1
-740,Donate Alliance Tech {0} times,314,0,3.0,30,49,2500008,task_xunlian,39,2,0,20,3,2
-741,Donate Alliance Tech {0} times,314,0,5.0,30,49,2500009,task_xunlian,39,3,0,18,3,3
-742,Donate Alliance Tech {0} times,314,0,10.0,30,49,2500010,task_xunlian,39,4,0,8,3,4
-743,Donate Alliance Tech {0} times,314,0,10.0,30,49,2500011,task_xunlian,39,5,0,7,3,5
-744,Donate Alliance Tech {0} times,314,0,15.0,30,49,2500012,task_xunlian,39,10,0,5,3,6
-745,Donate Alliance Tech {0} times,314,0,1.0,50,69,2500013,task_xunlian,39,1,0,25,3,1
-746,Donate Alliance Tech {0} times,314,0,3.0,50,69,2500014,task_xunlian,39,2,0,20,3,2
-747,Donate Alliance Tech {0} times,314,0,5.0,50,69,2500015,task_xunlian,39,3,0,18,3,3
-748,Donate Alliance Tech {0} times,314,0,10.0,50,69,2500016,task_xunlian,39,4,0,8,3,4
-749,Donate Alliance Tech {0} times,314,0,10.0,50,69,2500017,task_xunlian,39,5,0,7,3,5
-750,Donate Alliance Tech {0} times,314,0,15.0,50,69,2500018,task_xunlian,39,10,0,5,3,6
-751,Donate Alliance Tech {0} times,314,0,1.0,70,80,2500019,task_xunlian,39,1,0,25,3,1
-752,Donate Alliance Tech {0} times,314,0,3.0,70,80,2500020,task_xunlian,39,2,0,20,3,2
-753,Donate Alliance Tech {0} times,314,0,5.0,70,80,2500021,task_xunlian,39,3,0,18,3,3
-754,Donate Alliance Tech {0} times,314,0,10.0,70,80,2500022,task_xunlian,39,4,0,8,3,4
-755,Donate Alliance Tech {0} times,314,0,10.0,70,80,2500023,task_xunlian,39,5,0,7,3,5
-756,Donate Alliance Tech {0} times,314,0,15.0,70,80,2500024,task_xunlian,39,10,0,5,3,6
+733,Donate to Alliance Tech {0} times,314,0,1.0,10,29,2500001,task_xunlian,39,1,0,25,3,1
+734,Donate to Alliance Tech {0} times,314,0,3.0,10,29,2500002,task_xunlian,39,2,0,20,3,2
+735,Donate to Alliance Tech {0} times,314,0,5.0,10,29,2500003,task_xunlian,39,3,0,18,3,3
+736,Donate to Alliance Tech {0} times,314,0,10.0,10,29,2500004,task_xunlian,39,4,0,8,3,4
+737,Donate to Alliance Tech {0} times,314,0,10.0,10,29,2500005,task_xunlian,39,5,0,7,3,5
+738,Donate to Alliance Tech {0} times,314,0,15.0,10,29,2500006,task_xunlian,39,10,0,5,3,6
+739,Donate to Alliance Tech {0} times,314,0,1.0,30,49,2500007,task_xunlian,39,1,0,25,3,1
+740,Donate to Alliance Tech {0} times,314,0,3.0,30,49,2500008,task_xunlian,39,2,0,20,3,2
+741,Donate to Alliance Tech {0} times,314,0,5.0,30,49,2500009,task_xunlian,39,3,0,18,3,3
+742,Donate to Alliance Tech {0} times,314,0,10.0,30,49,2500010,task_xunlian,39,4,0,8,3,4
+743,Donate to Alliance Tech {0} times,314,0,10.0,30,49,2500011,task_xunlian,39,5,0,7,3,5
+744,Donate to Alliance Tech {0} times,314,0,15.0,30,49,2500012,task_xunlian,39,10,0,5,3,6
+745,Donate to Alliance Tech {0} times,314,0,1.0,50,69,2500013,task_xunlian,39,1,0,25,3,1
+746,Donate to Alliance Tech {0} times,314,0,3.0,50,69,2500014,task_xunlian,39,2,0,20,3,2
+747,Donate to Alliance Tech {0} times,314,0,5.0,50,69,2500015,task_xunlian,39,3,0,18,3,3
+748,Donate to Alliance Tech {0} times,314,0,10.0,50,69,2500016,task_xunlian,39,4,0,8,3,4
+749,Donate to Alliance Tech {0} times,314,0,10.0,50,69,2500017,task_xunlian,39,5,0,7,3,5
+750,Donate to Alliance Tech {0} times,314,0,15.0,50,69,2500018,task_xunlian,39,10,0,5,3,6
+751,Donate to Alliance Tech {0} times,314,0,1.0,70,80,2500019,task_xunlian,39,1,0,25,3,1
+752,Donate to Alliance Tech {0} times,314,0,3.0,70,80,2500020,task_xunlian,39,2,0,20,3,2
+753,Donate to Alliance Tech {0} times,314,0,5.0,70,80,2500021,task_xunlian,39,3,0,18,3,3
+754,Donate to Alliance Tech {0} times,314,0,10.0,70,80,2500022,task_xunlian,39,4,0,8,3,4
+755,Donate to Alliance Tech {0} times,314,0,10.0,70,80,2500023,task_xunlian,39,5,0,7,3,5
+756,Donate to Alliance Tech {0} times,314,0,15.0,70,80,2500024,task_xunlian,39,10,0,5,3,6
 757,Challenge Expedition {0} time(s),315,0,1.0,10,29,2500001,task_xunlian,681,1,0,0,3,1
 758,Challenge Expedition {0} time(s),315,0,1.0,10,29,2500002,task_xunlian,681,2,0,0,3,2
 759,Challenge Expedition {0} time(s),315,0,1.0,10,29,2500003,task_xunlian,681,3,0,0,3,3

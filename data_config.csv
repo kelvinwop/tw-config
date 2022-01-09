@@ -162,7 +162,7 @@ int,string,string
 11106,enhance_sea_init,400003|400004
 11107,enhance_air_init,400005|400006
 11108,gather_reward_time,3600
-11109,enhance_diamond_unlock_level,14
+11109,enhance_diamond_unlock_level,20
 11110,enhance_counter_unlock_level,45
 12001,ios_autogather_price,200|1200|2500|5000|9800
 12002,autogather_critbuff,100|150|200|250|300
@@ -365,7 +365,7 @@ int,string,string
 40007,turn_card_guide_time,5
 40008,turn_card_bottom_count,180
 32001,kill_monster_para,5
-41001,charge_app_reward_cost_limit,99999
+41001,charge_app_reward_cost_limit,30
 41002,charge_app_reward,5900002
 41003,charge_app_mail,10001
 11111,gou_unlock,3
@@ -679,7 +679,7 @@ int,string,string
 130055,airdrop_vote_every_round_time,12
 130056,airdrop_every_round_end_time,1
 130057,airdrop_open_time_day,13
-130059,battle_report_comparison_source,2;Hero Skills|16;Hero Bond;hero_bond|4;CPNT|5;Suppress|1;Science|3;Hero Perk|17;Mastery|8;VIP privileges|9;Profession Perk|6;102635|7;Decoration|10;Mechanical Master Potion|12;Strengthening/Weakening building|13;102583|15;Tactical Master Perk|14;Great Scientist Talent|19;Medal Promotion|0;Others|20;Alliance Titles|18;Special Effect Upgrade|21;Eternal Tech
+130059,battle_report_comparison_source,2;Hero Skills|16;Hero Bond;hero_bond|4;CPNT|5;Suppress|1;Science|3;Hero Perk|17;Mastery|8;VIP privileges|9;Profession Perk|6;102635|7;Decoration|10;Mechanical Master Potion|12;Strengthening/Weakening building|13;102583|15;Combat Elite|14;Mechanical Master|19;Medal Promotion|0;Others|20;Alliance Titles|18;Special Effect Upgrade|21;Eternal Tech
 61059,trap_potion_level,65
 33040,change_worldboss_activityId,265
 130027,notification_level,70;8;12;25;33;46;55
@@ -842,7 +842,7 @@ int,string,string
 930005,pve_arena_reward,270001
 930006,pve_arena_damage_phase,8500000|1;17000000|1;28050000|1;42450000|1;59750000|1;80550000|1;105550000|1;135550000|1;171550000|1;214750000|1;283850000|1;394450000|1;571450000|1;854450000|1;1307450000|1;2168450000|1;3804450000|1;6914450000|1;12824450000|1;24054450000|1;57754450000|1;158854450000|1;461854450000|1;1370854450000|1;4097854450000|1;15007854450000|1;58607854450000|1;233007854450000|1;931007854450000|1;3723007854450000|1
 930007,pve_arena_boss_type,101
-930008,pve_arena_soldier_choose,10040|80;20040|80;30040|80
+930008,pve_arena_soldier_choose,10040|200;20040|200;30040|200
 930009,arena_activity_unlock_level,5
 930010,pve_arena_unlock_level,15
 930011,pvp_arena_unlock_level,20
@@ -852,7 +852,7 @@ int,string,string
 132112,myLandAreasCount,62
 132001,prohibited_buildingType,2;6;7;10;16;17;18
 132104,unlock_the_expansionArea,68
-930040,fury_heroid,1412|114|313|1401|120|216|218
+930040,fury_heroid,1412|114|313|1401|120|216|218|131
 930041,skill_defence_count_max,7
 930042,skill_defence_count_use,7
 130157,mail_classification_type,1|9;2|15;3|2;14;1;4|3;10;8;13;5;5|6;6|7;11;12;7|4
@@ -886,7 +886,7 @@ int,string,string
 930036,hero_return_blue_reward,2200001;1|2200007;1|2200013;1|2100001;1|1800001;10
 930037,hero_return_task,50|300
 930038,hero_return_daily_limit,1000
-930121,hero_return_orange_reward_new,2200027;1|2200028;1|2200025;1|2604901;1|2605001;1|2505101;1;2200027;1|2200047;1|2200035;1|2200049;1|2200045;1|2200021;1|2604901;1|2606101;1|2505401;1|2607101;1|2605901;1|2504901;1
+930121,hero_return_orange_reward_new,2200027;1|2200028;1|2200025;1|2604901;1|2605001;1|2505101;1;2200032;1|2200047;1|2200049;1|2200041;1|2200045;1|2200053;1|2505201;1|2606101;1|2607101;1|2605801;1|2605901;1|2608101;1
 930122,hero_return_purple_reward_new,2200002;1|2200003;1|2200019;1|2200008;1|2200009;1|2200014;1|2200015;1|2540002;1;2200002;1|2200003;1|2200019;1|2200008;1|2200009;1|2200014;1|2200015;1|2540002;1
 930123,hero_return_blue_reward_new,2200001;1|2200007;1|2200013;1|2100001;1|1800001;10;2200001;1|2200007;1|2200013;1|2100001;1|3610009;10
 920001,material_production_time,9000
@@ -972,7 +972,7 @@ int,string,string
 950004,unlock_shadowtext,3901;Unlock the Tech Center here to boost your power.|1801;Auto-collects Gold for you. Simple and easy.|2201;Greatly gains gold in no time.|2501;107422|4901;Use it to enhance your units and greatly improve your combat power.
 950005,unlock_herogiven,707
 950006,plot_unlock _secondforce,14;606
-950007,unlocklevel _arsenal,4900;key_novice_adjustments;14|3200;key_novice_adjustments;45|3300;key_novice_adjustments;45
+950007,unlocklevel _arsenal,4900;key_novice_adjustments;20|3200;key_novice_adjustments;30|3300;key_novice_adjustments;30
 950008,unlocklevel_bigworld,5
 950009,oldscience_close,1901;key_novice_adjustments;0|2201;key_novice_adjustments;0
 950010,new_version_content_login_official,659;663;680;674;675;682;684;685-3000:1.117.1|1623;1637;1639;1640;1663;1664;1668-1670;1694-3000:1.207
@@ -1606,7 +1606,7 @@ int,string,string
 10054,new_turntable_reward_time,1633072367
 9964,alliance_record_news_table,1;General|2;Battle|3;Building
 9965,alliance_record_news_rows,3|5
-9966,alliance_record_news_opened,1
+9966,alliance_record_news_opened,0
 9967,alliance_record_profession_name,52001;Combat Elite|52002;Grand Marshal|52003;Tactical Master;53001;Mechanical\nMaster|53002;Legendary Craftsman|53003;Great Scientist
 9968,Droid Donationtimes,20
 9969,alliance_record_alliance_tech_donatetimes,20
@@ -1622,7 +1622,7 @@ int,string,string
 2211011,rich_man_probability,1|1|1|1|1|1
 2211012,rich_man_target,0;1|80;1
 2211013,rich_man_start_reward_num,3
-2211014,rich_man_achievement,20|21101101
+2211014,rich_man_achievement,20|211012063
 9980,priority_selection_setting_panel,4201
 9981,diamond_double_check_setting_panel,4301
 6000001,hero_cap_num_limit,1|1;2|12
@@ -1647,7 +1647,7 @@ int,string,string
 280245,newbie_transfer_movein_server_days,5|30
 280246,transfer_server_power_move_in_num,10
 280247,transfer_server_price_para,0.001|1|0.002|1|500|500
-280248,transfer_server_exchange_goto,9202378|9202178|9202402|9202405|9202406
+280248,transfer_server_exchange_goto,9202378|9202178|9202402|9202405|9202406|9202407|9202408
 280249,newbie_transfer_movein_item,20211013
 20210925,gift_points_server_open,0
 20210926,gift_points_server_time,1636300800
@@ -1688,7 +1688,7 @@ int,string,string
 941215,unlock_the_profession_v2,30
 5090,building_engineer_room_tip_count,0
 5091,building_engineer_room_born_count,30
-2220003,MsgQueueMax,20
+2220003,MsgQueueMax,100
 1024,item_init_science_v1,200007;2|5100302;1|323002;10|320001;10
 930401,csc_statistics_rank_order,0;1;2;3;4
 930402,csc_help_info_01,3101;3104;3107;3113;3122;3131;3134;3145;3150;3154
@@ -1708,3 +1708,15 @@ int,string,string
 930043,pvp_arena_win_gold2,1;270004|50;270004;270005
 930044,pvp_arena_lose_gold2,1;270006|50;270006;270007
 10057,dailytask_same_num,2
+5000106,russian_linkage_trigger_time,1640361600
+20211212,jp_mainui_time,7
+132113,army_equip_unlock_page_level,20|40|60|80
+132114,army_equip_install_limit,400100;400200|400300;400500;403900|403500|403700;403600|400400|403800
+11122,army_equip_unlock_level_v2,0|0|20|25|30|35|40
+2000143,area_v3_hide_taskguide,40
+6000009,box_radar_hero_id,131
+6000010,hero_box_radar_star_num,2;1;39501004|3;1;39501004|4;1;39501005|5;1;39501005
+6000011,hero_box_radar_skill,39501004;39501005|39501005;39501006|39501006;39501006
+3600128,bind_mail_red,7
+2201051,webgame_exchange_id,2112301
+2201052,webgame_plat,webgameglobal

@@ -17,9 +17,9 @@ int,int,int,string,double,int,int,long,int,string,string,int,int,string,int,int,
 1302,1,10,gather_res_6,0.0017,60,120,0.0,100000,Mine,For a troop with {0} load; every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,0,,1,building/resource/gather_res_6,2,1,0,0,0,0,0
 1401,1,10,gather_res_6,0.017,4200,60,20.0,100000,Resource Tile,For a troop with {0} load; every {1}min gains {2} Gems. Each Gem gained will also gain you Individual Points,0,0,,2,15,1,building/resource/gather_res_6,2,1,0,0,0,0,0
 1303,2,20,gather_res_7,0.01,21600,60,1500.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,0,,2,,1,building/resource/gather_res_7,2,1,0,0,80,0,0
-1501,6,5,gather_res_8,25.0,14400,1,7000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,0,0
-1502,6,7,gather_res_9,25.0,14400,1,7000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,0,0
-1503,6,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,0,0
+1501,6,5,gather_res_8,25.0,14400,1,7000000.0,1,105016,105017,207,0,3500009|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,0,0
+1502,6,7,gather_res_9,25.0,14400,1,7000000.0,1,105020,105021,207,0,3500009|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,0,0
+1503,6,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500009|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,0,0
 1504,6,10,gather_res_4,0.0084,14400,120,20.0,100000,Mine,You may gather [Gems] by digging Mines.,0,0,,,,1,building/resource/gather_res_6,2,1,0,0,0,0,0
 502,1,5,gather_res_1,25.0,14400,1,400000.0,1,105016,105017,204,1,310001|311001|312001|313001,,,1,building/resource/gather_res_1,2,1,0,0,0,1,0
 702,1,7,gather_res_3,25.0,14400,1,400000.0,1,105020,105021,205,1,320001|321001|322001|323001,,,1,building/resource/gather_res_3,2,1,0,0,0,2,0
@@ -45,10 +45,10 @@ int,int,int,string,double,int,int,long,int,string,string,int,int,string,int,int,
 1508,6,5,gather_res_8,25.0,14400,1,9000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
 1509,6,7,gather_res_9,25.0,14400,1,9000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
 1510,6,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
-1511,1,5,gather_res_8,25.0,14400,1,9500000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
-1512,1,7,gather_res_9,25.0,14400,1,9500000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
-1513,1,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
-1514,1,5,gather_res_8,25.0,14400,1,10000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
-1515,1,7,gather_res_9,25.0,14400,1,10000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
-1516,1,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
+1511,6,5,gather_res_8,25.0,14400,1,9500000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
+1512,6,7,gather_res_9,25.0,14400,1,9500000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
+1513,6,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
+1514,6,5,gather_res_8,25.0,14400,1,10000000.0,1,105016,105017,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_8,2,1,0,0,0,6,0
+1515,6,7,gather_res_9,25.0,14400,1,10000000.0,1,105020,105021,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_9,2,1,0,0,0,7,0
+1516,6,1,gather_res_10,0.0,14400,1,1.54e+29,1,Gold Mine,Gather Gold from Gold Mines.,207,0,3500010|3500005|3500006|3500007|3500008,,,1,building/resource/gather_res_10,2,1,0,0,0,8,0
 1304,1,20,gather_res_7,0.01,21600,60,1000.0,40000,Odinium Mine,Odinium is produced from the Odinium mines,0,2,,2,,1,building/resource/gather_res_7,2,1,0,0,80,5,80

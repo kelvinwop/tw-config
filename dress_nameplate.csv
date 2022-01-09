@@ -12,8 +12,8 @@ int,string,int,string,int,string,int,string,int,string,string,string,string,int
 9,image/world_unit2/castle_name_10,6,You may get it with Rare Treasure Map,0,Treasure Hunter,72,1;-105;1,1,-12;-1.3;0.6,,,,
 10,image/world_unit2/castle_name_11,4,plate_get_desc_4,2002002,plate_name_011,8,1;-85;1,1,-10;2;0.5,g123,2020-02-13-0-0-0,2020-02-26-23-59-59,1
 11,image/world_unit2/castle_name_12,4,plate_get_desc_4,2002001,plate_name_012,8,1;-85;1,1,-10;2;0.5,g123,2020-03-12-0-0-0,2020-03-25-23-59-59,1
-13,image/world_unit2/castle_name_14,4,plate_get_desc_7,9856000,Expedition Vanguard,72,1;-105;1,1,-12;-1.3;0.6,,,,
-14,image/world_unit2/castle_name_15,4,plate_get_desc_7,335,Early Summer,72,1;-105;1,1,0;-1.3;0.6,wx|webgame|baidugame|toutiao|appios|appandroid|googleplay|appwx|qqmini|appqq|apptianci|appfb|quickvivo|quickhuawei|quickoppo|appiosglobal|esprit|qqwanba,,,
+13,image/world_unit2/castle_name_14,4,Obtained in Treasure Hunt store,9856000,Expedition Vanguard,72,1;-105;1,1,-12;-1.3;0.6,,,,
+14,image/world_unit2/castle_name_15,4,Obtained in Treasure Hunt store,335,Early Summer,72,1;-105;1,1,0;-1.3;0.6,wx|webgame|baidugame|toutiao|appios|appandroid|googleplay|appwx|qqmini|appqq|apptianci|appfb|quickvivo|quickhuawei|quickoppo|appiosglobal|esprit|qqwanba,,,
 12,image/world_unit2/castle_name_13,4,plate_get_desc_4,2004007,plate_name_013,8,1;-105;1,1,-13;4;0.6,g123,2020-04-30-0-0-0,2020-05-14-23-59-59,1
 17,image/world_unit2/castle_name_17,4,plate_get_desc_0,0,plate_name_017,8,1;-85;1,1,-10;2;0.5,g123,2020-06-01-0-0-0,2020-07-25-23-59-59,1
 15,image/world_unit2/castle_name_16,4,Available at Commander Lv. {0}0,2006186,plate_name_016,8,1;-85;1,1,-10;15;0.5,g123,2020-06-11-0-0-0,2020-06-24-23-59-59,1
@@ -56,3 +56,8 @@ int,string,int,string,int,string,int,string,int,string,string,string,string,int
 53,image/world_unit2/castle_name_53,4,Get it in Top 16 Tournament3,2009273,plate_name_053,9,1;-105;1,1,-10;2;0.5,g123,2021-11-11-0-0-0,2021-11-17-23-59-59,1
 55,image/world_unit2/castle_name_55,4,Get it in Top 16 Tournament5,900014,Harvest Time Nameplate,9,1;-105;1,1,3;0;0.5,,2021-10-21-0-0-0,2029-5-19-23-59-59,1
 56,image/world_unit2/castle_name_56,4,Get it in Top 16 Tournament6,930002,Joyful Day Nameplate,9,1;-105;1,1,3;0;0.5,,2021-10-21-0-0-0,2029-5-19-23-59-59,1
+61,image/world_unit2/castle_name_61,4,Get it in Top 16 Tournament6,920017,Happy 2022 Nameplate,9,1;-105;1,1,3;0;0.5,,2021-10-21-0-0-0,2029-5-19-23-59-59,1
+57,image/world_unit2/castle_name_57,4,Get it in Top 16 Tournament7,0,plate_name_057,9,1;-105;1,1,3;0;0.5,g123,2021-12-28-0-0-0,2022-1-9-23-59-59,1
+58,image/world_unit2/castle_name_58,6,Top-star Championship Exclusive,0,Challenger,9,1;-105;1,1,3;0;0.5,,,,2
+59,image/world_unit2/castle_name_59,6,Top-star Championship Exclusive,0,Shining Light,9,1;-105;1,1,3;0;0.5,,,,2
+60,image/world_unit2/castle_name_60,6,Top-star Championship Exclusive,0,Brilliant Light,9,1;-105;1,1,3;0;0.5,,,,2

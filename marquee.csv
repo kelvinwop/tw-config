@@ -1,0 +1,53 @@
+id,type,icontype,keynewid
+int,int,int,string
+10010,1,0,The "Battle Zone Selection" has begun; and the Warzone (Server) Leader will select a Battle Zone for the Enemy!
+10020,1,0,The "Donation Stage" has begun. Please take your time to discuss your strategies!
+10030,1,0,The "Battle Stage" has begun. Please get ready to fight and conquer the opponent's Capital!
+10040,1,0,The "Award Stage" has begun. Please collect your Cross-warzone point rewards in time!
+10050,1,0,{0} begins after 10 minutes; please get ready
+10060,1,0,Donation of Warzone {0} has reached {2} in {1}
+10070,1,0,Warzone {0} successfully conquered Area {1}
+10080,1,0,Warzone {2} is taking over the facility {0} in {1}s
+10090,1,0,Warzone {0} successfully occupied Facility {1}
+20010,2,0,Resource area {0} has been refreshed
+20020,2,0,Resource area {0} is closed
+20030,2,0,Alliance building {0} has been built in {1}; {2}
+20040,2,0,Alliance building {0} have been demolished in {1}; {2}
+20050,2,0,Please go to the Expedition base for reconstruction stage 1
+20060,2,0,Please go to the Expedition base for reconstruction stage 2
+20070,2,0,Please go to the Expedition base for reconstruction stage 3
+20080,2,0,Building {0} has been conquered by Alliance {1}
+20090,2,0,Eternal Land enters stage {0}
+30010,3,0,The Silo Scramble will start in {0} minute(s); please get prepared.
+30020,3,0,The Silo Scramble has begun. Commanders please join this competition.
+30030,3,0,{0} {1} has conquered {2}.
+30040,3,0,{0}'s {1} has conquered {2} and will win in {3} minutes.
+30050,3,0,The Capital ConTest begins; and you can attack Ruins or the Capital in the middle of the World Map.
+30060,3,0,{0} protected {1}. Peace status is now active. {2} became the world leader.
+30070,3,0,Capital ConTest will start in {0} days. Please get ready.
+30080,3,0,Capital ConTest will start in {0} minutes. Please get ready.
+30090,3,0,[{0}] enabled the Warzone buff [{1}]
+40010,4,0,Supply ConTest event will begin in {0} minutes. Please get ready.
+40020,4,0,The round {0} supplies airdrop is about to begin.
+40030,4,0,The airdrop event is over.
+60010,6,0,{2} found a large number of Basic treasure guards at ({0};{1})! Eliminate them!
+60020,6,0,Mechanical Treasure Guard was found at {0};{1}! Defeat it to obtain the treasure!
+60030,6,0,The Mechanical Guard at {0};{1} will disappear in {2} minutes! Hurry up and defeat it!
+60040,6,0,The Treasure Store just has been found! Go to the Hunting Guild to buy super low discount items!
+60050,6,0,The Treasure Store will disappear in {0} minutes! Go and empty it!
+60060,6,0,{2} found a large number of Rare Treasure Guards at ({0};{1})! Eliminate them!
+60070,6,0,{2} found Treasure cave near ({0};{1})! Go empty it!
+60080,6,0,You can march toward the Basic treasure guard only when your troop is more than {0}
+70010,7,1,{0} sent {1} {2} roses.
+70020,7,2,{0} sends {2} microphone(s) to {1}
+80010,8,0,Congratulations to {0} on obtaining {2} in {1}!
+110010,11,0,Congratulations! Commander {0} has won {1} at the Back to Work Roulette
+120010,12,0,Awesome! {0} just recruited SSR Hero {1}!
+130010,13,0,Alliance {3} abandoned the Ruin {2} ({0}; {1}); and it will enter the "At War" status in {4} minutes.
+130020,13,0,Congrats! Alliance {3} has taken over the {2} ({0}; {1}) and became the First Holder!
+130030,13,0,{0} has defended {1} successfully; it is "At Peace" now.
+140010,14,0,Alliance {2} is taking over the facility {0} in {1}s
+140020,14,0,{1} in {0} Alliance has started the Bomb Truck
+140030,14,0,You can compete for the facility {0}
+140040,14,0,The Facility {0} is taken by {1} Alliance
+150010,5,0,Wow; {0} dealt a critical hit to the mine and earned {1} Gems

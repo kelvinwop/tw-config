@@ -8,7 +8,7 @@ int,int,string,string,int,string,int,string,int,int,string,string,string,string,
 5,1,image/headFrame/headFrame_5,,4,Obtain at VIP {0},2,headeframe_name006,1,70,1;-108;1,0;1.2;0.4,g123,2019-11-18-0-0-0,2019-12-01-23-59-59,1
 7,1,image/headFrame/headFrame_7,,4,Obtain at VIP {0},999,2020 New Year Frame,1,70,1;-108;1,0;0;0.4,,,,
 6,1,image/headFrame/headFrame_6,,4,Obtain at VIP {0},2009188,headeframe_name007,1,70,1;-108;1,0;0;0.4,g123,2020-10-29-0-0-0,2020-11-04-23-59-59,1
-8,1,image/headFrame/headFrame_8,,6,You may get it with Rare Treasure Map,0,Treasure Hunter Frame,1,71,1;-108;1,0;0;0.4,,,,
+8,1,image/headFrame/headFrame_8,,6,Obtained in Treasure Hunt store,0,Treasure Hunter Frame,1,71,1;-108;1,0;0;0.4,,,,
 9,1,image/headFrame/headFrame_9,,4,Obtain at VIP {0},2002002,headeframe_name011,1,70,1;-108;1,0;0;0.4,g123,2020-02-13-0-0-0,2020-02-26-23-59-59,1
 10,1,image/headFrame/headFrame_10,,4,Obtain at VIP {0},2003001,headeframe_name012,1,70,1;-108;1,0;0;0.4,g123,2020-03-12-0-0-0,2020-03-25-23-59-59,1
 12,1,image/headFrame/headFrame_12,,4,headframe_get_desc_7,9856000,Expedition Vanguard Frame,1,71,1;-108;1,0;0;0.4,,,,
@@ -59,3 +59,8 @@ int,int,string,string,int,string,int,string,int,int,string,string,string,string,
 55,1,image/headFrame/headFrame_55,,4,headframe_get_desc_55,2009273,headeframe_name055,1,70,1;-108;1,0;0;0.4,g123,2021-11-11-0-0-0,2021-11-24-23-59-59,1
 57,1,image/headFrame/headFrame_57,,4,headframe_get_desc_57,901,Plentiful Harvest Avatar Frame,1,70,1;-108;1,0;0;0.4,,2021-10-21-0-0-0,2029-5-19-23-59-59,1
 58,1,image/headFrame/headFrame_58,,6,From Limited Time Pack,0,Dream Comes True Avatar Frame,1,70,1;-108;1,0;0;0.4,,,,
+63,1,image/headFrame/headFrame_63,,6,From Limited Time Pack,0,2022 New Year Avatar Frame,1,70,1;-108;1,0;0;0.4,,2021-10-21-0-0-0,2029-1-9-23-59-59,1
+59,1,image/headFrame/headFrame_59,,4,headframe_get_desc_59,0,headeframe_name059,1,70,1;-108;1,0;0;0.4,g123,2021-12-28-0-0-0,2029-1-9-23-59-59,1
+60,1,image/headFrame/headFrame_60,,6,Top-star Championship Exclusive,0,Defender,1,70,1;-108;1,0;0;0.4,,,,2
+61,1,image/headFrame/headFrame_61,,6,Top-star Championship Exclusive,0,Shining Star,1,70,1;-108;1,0;0;0.4,,,,2
+62,1,image/headFrame/headFrame_62,,6,Top-star Championship Exclusive,0,Brilliant Star,1,70,1;-108;1,0;0;0.4,,,,2

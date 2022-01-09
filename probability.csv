@@ -19,7 +19,7 @@ int,int,int,string,string
 17,8,421,Primary|Standard|Advanced|Elite|Super,10000|9000|7000|6000|5000
 18,7,412,Orange Hero Shard|Lv. 3 CPNT Chest|Rare Skill Treasure Chest|Hero exclusive skill x5|Lv. 3 CPNT Chest (NEW)|100 Gems|Hero exclusive skill x2|Shining Gold Chest x5|Exclusive Skill Box|Skill Research Card x2,630|950|1590|160|950|1590|630|1590|320|1590
 19,7,2007096,zhuanpan_g123_01|Lv. 3 CPNT Chest|Rare Skill Treasure Chest|Hero exclusive skill x5|Lv. 3 CPNT Chest (NEW)|100 Gems|Hero exclusive skill x2|Shining Gold Chest x5|Exclusive Skill Box|Skill Research Card x2,18|1015|1692|169|1015|1692|677|1692|338|1692
-20,9,5005054,Orange grid|Elite Hero Voucher|Rare Skill Treasure Chest|Orange EXP Book|Purple grid|Premium Recruit Voucher|Purple EXP Book|Lv. 3 CPNT Choice Chest|Blue grid|Shining Gold Chest|107054|Tech Item Choice Chest,1550|200|200|600|500|600|500|500|1200|1300|1400|1450
+20,9,5005070,Orange grid|Elite Hero Voucher|Rare Skill Treasure Chest|Orange EXP Book|Purple grid|Premium Recruit Voucher|Purple EXP Book|Lv. 3 CPNT Choice Chest|Blue grid|Shining Gold Chest|107054|Tech Item Choice Chest,1550|200|200|600|500|600|500|500|1200|1300|1400|1450
 21,8,424,Primary|Standard|Advanced|Elite|Super,10000|9000|7000|6000|5000
 22,9,800015,Orange grid|Elite Hero Voucher|Rare Skill Treasure Chest|Orange EXP Book|Purple grid|Premium Recruit Voucher|Purple EXP Book|106732|Blue grid|Shining Gold Chest|107054|Tech Item Choice Chest,1550|200|200|600|500|600|500|500|1200|1300|1400|1450
 23,7,2008068,zhuanpan_g123_01|Lv. 3 CPNT Chest|Rare Skill Treasure Chest|Hero exclusive skill x5|Lv. 3 CPNT Chest (NEW)|100 Gems|Hero exclusive skill x2|Shining Gold Chest x5|Exclusive Skill Box|Skill Research Card x2,18|1015|1692|169|1015|1692|677|1692|338|1692
@@ -70,3 +70,9 @@ int,int,int,string,string
 78,7,501086,Lv. 5 Rare Skill Choice Chest|Lv. 3 Skill Choice Chest *2|Lv. 3 Rare Skill Choice Chest|Lv. 3 Rare Skill Choice Chest|Rare Skill Chest *20|Rare Skill Chest *10|Rare Skill Chest *3|Rare Skill Treasure Chest|100 Gems|10 Gems,10|100|300|300|490|800|2500|3000|1000|1500
 79,7,501087,Element reactor unit *1;000|Element reactor unit *500|Element reactor unit *300|Element reactor unit *100|Element Chest *1;000|Element Chest *500|Element Chest *300|Element Chest *100|100 Gems|10 Gems,50|100|200|1000|350|1200|2000|3600|500|1000
 80,7,501088,Lv. 5 Rare Skill Choice Chest|Lv. 3 Skill Choice Chest *2|Lv. 3 Rare Skill Choice Chest|Lv. 3 Rare Skill Choice Chest|Rare Skill Chest *20|Rare Skill Chest *10|Rare Skill Chest *3|Rare Skill Treasure Chest|100 Gems|10 Gems,10|100|300|300|490|800|2500|3000|1000|1500
+81,7,501089,Orange Equip Supply Chest|Purple Equip Supply Chest|Blue Equip Supply Chest|Blue Material Choice Box|Green Material Choice Box|White Material Choice Box|100 Gems,10|30|360|1600|3000|4000|1000
+82,3,39501004,Pop Shard|Pop Exclusive|102523|107066,750|750|7500|950
+83,3,39501005,Pop Shard|Pop Exclusive|102523|107066|110118|110133,950|950|5320|660|1060|1060
+84,3,39501006,Pop Shard|Pop Exclusive|102523|107066|110118|110133,1150|1150|5050|630|1010|1010
+85,7,501090,Orange Equip Supply Chest|Purple Equip Supply Chest|Blue Equip Supply Chest|Blue Material Choice Box|Green Material Choice Box|White Material Choice Box|100 Gems,10|30|360|1600|3000|4000|1000
+86,7,501091,Lv. 5 Rare Skill Choice Chest|Lv. 3 Skill Choice Chest *2|Lv. 3 Rare Skill Choice Chest|Lv. 3 Rare Skill Choice Chest|Rare Skill Chest *20|Rare Skill Chest *10|Rare Skill Chest *3|Rare Skill Treasure Chest|100 Gems|10 Gems,10|100|300|300|490|800|2500|3000|1000|1500

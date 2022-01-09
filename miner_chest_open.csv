@@ -38,3 +38,7 @@ int,int,int,string,int,int,int
 503,180,5053,icon_DwarMine2,10,2,
 504,180,5054,icon_DwarMine2,10,2,
 505,480,5055,icon_DwarMine4,99,2,4
+601,240,6051,icon_DwarMine2,20,2,
+602,240,6052,icon_DwarMine2,20,2,
+603,480,6053,icon_DwarMine4,20,2,
+604,480,6054,icon_DwarMine4,20,2,

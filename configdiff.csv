@@ -22,3 +22,11 @@ int,string,string,string,string,string,string
 23,1,g123;G123,emoji,53;54,path,*_g123
 24,2,zh_cn;jp;ja;ko,data_config,21090103,value,5005037;_ba
 25,1|5,wx;baidugame;toutiao;appios;appandroid;appwx;appqq;apptianci;appquick;quickoppo;quickvivo;quickhuawei;webgame;qqmini;qqwanba;qqgame;chrome|4,data_config,21090103,value,896;_cn
+26,2,jp,skin,1791000-1795000,anim,*_jp
+27,2,jp,tutorial_dialog,240;271;272,npc_pic,*_jp
+28,2,jp,skin,1791000-1795000,skin_up_level_icon,*_jp
+29,2,jp,data_config,21090101,value,9200102;_jp
+30,2|6,jp|g123;G123,data_config,21090103,value,5275;_jp
+31,2,jp,skin,1791000-1795000,pic,*_jp
+32,1,g123;G123,specialresources,28,path,B_20210616_leida_xiaobing
+33,1,g123;G123,specialresources,29,path,*_jp
