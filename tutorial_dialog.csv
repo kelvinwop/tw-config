@@ -240,4 +240,4 @@ int,int,string,int,string,int,int,string,string,string,string,string,int,int,str
 272,3,Piedmont,,Collect materials from events to upgrade the camp; you'll see the change later with stronger abilities!,0,133,ea_prefab/hero/bust/hero_tachie133_reverse,,appiosglobal|googleplay|chrome,jp,sound/dub/guide_sound_272,,,
 500,1,Sergeant,0,Welcome to the "Warzone Monument". Here you'll find information about Warzone milestone records and Ruins.,0,,,,,,,,,
 501,1,Sergeant,0,Your Alliance member is inviting you to move your base. We can conduct operations and help each other when the alliance assembles. Visit the area where your Alliance resides now.,0,,,,,,,,,
-502,1,Sergeant,0,This is the place where your Alliance members gather; and you may accept the request to move your base here.,0,,,,,,,,,
+502,1,Sergeant,0,This is the place where your Alliance members gather; you may accept the request to move your base here.,0,,,,,,,,,
