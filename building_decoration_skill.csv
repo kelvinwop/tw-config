@@ -1,0 +1,3 @@
+id,name,building_skill_effect1,building_skill_effect2,times_perday,cd_time,reward_id,num_range,building_skill_desc,skill_desc_para
+int,string,string,string,int,int,int,string,string,string
+100001,Stroke of Luck,B_20201231_haidao02,B_2021114_baoxiang,1,0,100000721,1|1,"It was a Stroke of Luck." Tap the button to get a supply.,

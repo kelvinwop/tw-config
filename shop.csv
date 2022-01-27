@@ -56,7 +56,7 @@ int,int,int,int,int,int,int,int,string,string,string,string,string,int
 55,800003,1,10,1,1,2,-1,shopBuyItem_flower,1|25,1|25,,,
 56,6410001,1,60,1,0,2,-1,shopBuyItem_luckybag,1|17,1|17,,,
 57,6410010,1,60,1,1,2,-1,shopBuyItem_luckybag,1|17,1|17,,,
-59,7100001,1,50,1,1,2,-1,shopBuyItem_dice,1|17,1|17,,,
+59,7100001,1,50,1,0,2,-1,shopBuyItem_dice,1|17,1|17,,,
 60,1700030,1,50,1,1,304,-1,shopBuyItem_chest4,1|17,1|17,,,
 61,1900004,1,1000,1,1,303,-1,shopBuyItem_chest3,1|17,1|17,,,
 100001,300001,14,300,1,1,6,-1,shopBuyItem_sci,1|17,1|17,,,

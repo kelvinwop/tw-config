@@ -44,7 +44,7 @@ int,int,string,int,string,string,string,string,string,int,int,int
 16,1,1,1,Appointment/removal,{0} appointed Commander {1} as {2},mark_AllianceRecord3,100,300,0,0,1
 17,1,1,2,Droid Donation,[Military Order] {0} {1} has selected the Droid "{2}" as the target. Please donate shards in time.,mark_AllianceRecord5,0,,1,0,1
 18,0,1,2,Droid Donation,Thank you {0}; for donating {1} Droid Shards.,mark_AllianceRecord3,0,,0,0,1
-19,1,1,2,Droid Donation,{0} dealt huge damage to the Alliance Droid! Great job done there!,mark_AllianceRecord3,0,,0,0,1
+19,1,1,2,Droid Donation,Thank you {0}; for making such a generous donation to the Droid.,mark_AllianceRecord3,0,,0,0,1
 22,0,1,2,Alliance Droid,Awesome! With the help of {0}; we finally defeated the Droid!,mark_AllianceRecord3,0,,0,0,1
 20,0,1,4,Ally Construction,Attention! {0} {1} is building "{4}" at ({2};{3}),mark_AllianceRecord5,0,,1,0,3
 21,0,1,4,Ally Construction,The construction of "{4}" ({2};{3}) started by {0} {1} is completed! Cheers!,mark_AllianceRecord5,0,,1,0,3
@@ -55,7 +55,7 @@ int,int,string,int,string,string,string,string,string,int,int,int
 28,1,1,1,Defeat,{0} was defeated by {1}({2};{3}). Better luck next time!,mark_AllianceRecord5,0,,1,0,2
 29,1,1,1,Victory,Brilliant! Commander {0} successfully defended off {1} ({2};{3})'s attack.,mark_AllianceRecord5,0,,1,0,2
 30,1,1,1,Defeat,{0} failed to defend against {1}({2};{3})'s attack. Better luck next time!,mark_AllianceRecord5,0,,1,0,2
-23,1,1,2,Alliance Droid,Thank you {0}; for making such a generous donation to the Droid.,mark_AllianceRecord3,0,,0,0,1
+23,1,1,2,Alliance Droid,{0} dealt huge damage to the Alliance Droid! Great job done there!,mark_AllianceRecord3,0,,0,0,1
 31,1,1,1,Application Approved,{0}-{1} approved {2}'s application.,mark_AllianceRecord1,0,,0,0,1
 32,1,1,1,Member Removal,{0}-{1} moved {2} out of the alliance.,mark_AllianceRecord1,0,,0,0,1
 33,1,1,4,Construction begins,[Military Order] Speed-up! {0}-{1} is building {4} at ({2};{3}). Commander; we need your help!,mark_AllianceRecord1,97,300,0,0,3

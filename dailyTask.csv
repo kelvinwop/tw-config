@@ -652,12 +652,12 @@ int,string,int,int,double,int,int,int,string,int,int,int,int,int,int
 796,Produce materials {0} times,316,0,3.0,50,69,2500016,task_xunlian,540,4,0,0,3,4
 797,Produce materials {0} times,316,0,5.0,50,69,2500017,task_xunlian,540,5,0,0,3,5
 798,Produce materials {0} times,316,0,5.0,50,69,2500018,task_xunlian,540,10,0,0,3,6
-799,Produce materials {0} times,316,0,1.0,70,80,2500019,task_xunlian,540,1,0,25,3,1
-800,Produce materials {0} times,316,0,1.0,70,80,2500020,task_xunlian,540,2,0,20,3,2
-801,Produce materials {0} times,316,0,1.0,70,80,2500021,task_xunlian,540,3,0,18,3,3
-802,Produce materials {0} times,316,0,1.0,70,80,2500022,task_xunlian,540,4,0,8,3,4
-803,Produce materials {0} times,316,0,1.0,70,80,2500023,task_xunlian,540,5,0,7,3,5
-804,Produce materials {0} times,316,0,1.0,70,80,2500024,task_xunlian,540,10,0,5,3,6
+799,Produce materials {0} times,316,0,1.0,70,80,2500019,task_xunlian,540,1,0,0,3,1
+800,Produce materials {0} times,316,0,1.0,70,80,2500020,task_xunlian,540,2,0,0,3,2
+801,Produce materials {0} times,316,0,1.0,70,80,2500021,task_xunlian,540,3,0,0,3,3
+802,Produce materials {0} times,316,0,1.0,70,80,2500022,task_xunlian,540,4,0,0,3,4
+803,Produce materials {0} times,316,0,1.0,70,80,2500023,task_xunlian,540,5,0,0,3,5
+804,Produce materials {0} times,316,0,1.0,70,80,2500024,task_xunlian,540,10,0,0,3,6
 805,Use hero EXP book {0} time(s),317,0,1.0,10,29,2500001,task_xunlian,24,1,0,25,3,1
 806,Use hero EXP book {0} time(s),317,0,1.0,10,29,2500002,task_xunlian,24,2,0,20,3,2
 807,Use hero EXP book {0} time(s),317,0,1.0,10,29,2500003,task_xunlian,24,3,0,18,3,3

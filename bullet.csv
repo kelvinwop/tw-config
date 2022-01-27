@@ -65,3 +65,4 @@ int,int,double,string,string,string,string,int,double,string,double,string,strin
 1025,1025,0.0,army_h_thor1_hit,machine_gun_fire_heavy,0,,1,0.5,,,,E_2021_12yue_skill_hit,0.0,1.0,,E_2021_12yue_skill_hit,E_2021_12yue_skill_hit,E_2021_12yue_skill_hit,,
 1026,1026,0.0,tanke_hit,tank_bullet_20,0,,1,0.1,B_20211207_chuchuan_zidan,0.4,,B_20211207_chuchuan_baodian,0.0,0.5,,B_20211207_chuchuan_baodian,B_20211207_chuchuan_baodian,B_20211207_chuchuan_baodian,,
 1027,1027,0.0,tanke_hit,tank_bullet_20,0,,1,0.1,,0.4,,B_20211230_baodian_quan,0.0,0.5,1.0,B_20211230_baodian_quan,B_20211230_baodian_quan,B_20211230_baodian_quan,,1
+1028,1028,0.0,tanke_hit,tank_bullet_20,0,,0,0.1,B_20220121_waren|B_20220121_waren,2.0,,B_20210809_baodian,0.0,0.5,1.0,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,

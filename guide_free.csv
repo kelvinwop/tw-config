@@ -550,3 +550,6 @@ int,int,int,string,string,string,int,int,int,int,int,int,string,int,string,int,s
 71003,0,19,,,,71004,0,0,3,0,0,,0,,0,WorldCameraMoveComplete,,,,,,,,,,,2,,,,,
 71004,0,100,,,,71005,0,0,3,0,0,,0,,0,502,,,,,,,,,,,2,,,,,500
 71005,0,18,AllianceInvitePanel,,,0,0,0,3,0,0,,0,,0,,,,,,,,,,,,2,,,,,
+1604,16,1,MainUI,Bottom/btnNode/btn_World,,1605,0,0,3,0,0,,0,WorldMap,0,2,,,,,,,,,,,,,,,,
+1605,0,1,WorldMainUI,bottomNode/btn_Fight,,1606,0,0,3,0,0,,0,,0,2,,,,,,,,,,,,,,,,
+1606,0,1,prefabMonsterSearch,btnFix,,0,0,0,3,0,0,,0,,0,2,,,,,,,,,,,,,,,,

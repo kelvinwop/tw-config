@@ -1,5 +1,5 @@
 id,name,switch,Test_switch,version,platform,platform_on
 int,string,string,string,string,string,string
-1,login_reward_wade,1717-1720;1724;1725;1731-2999;4000-4999,4076;4078;4023,1.0,all,all
+1,login_reward_wade,1717-1720;1724;1725;1731-2999;4000-4999,4076;4078;4023;4020,1.0,all,all
 2,science_new_item,1753,4022;4,1.0,all,all
 3,army_equip_page_limit,all,all,1.0,all,all
