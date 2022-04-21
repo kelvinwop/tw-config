@@ -10,7 +10,7 @@ int,int,string,int,string,string,string,string,string,int,int,int
 9,1,1,4,Construction begins,league_message_007,mark_AllianceRecord4,100,300,0,0,3
 10,1,1,4,Construction completed,{0} has been built.,mark_AllianceRecord3,100,,0,0,3
 11,1,1,3,Tech Upgrade,The upgrade of Tech "{0}" is completed. We're getting stronger!,mark_AllianceRecord3,0,,0,0,1
-12,1,1,,Victory,{0} beat {1} ({2};{3}) in battle,mark_AllianceRecord5,0,,1,1,2
+12,1,1,,Victory,{0} defeated {1} ({2};{3}) in battle,mark_AllianceRecord5,0,,1,1,2
 13,1,1,,Defeat,{0} was defeated by {1} ({2};{3}),mark_AllianceRecord5,0,,1,1,2
 14,1,1,2,Alliance Droid,{0} summoned Alliance Droid ({1};{2}),mark_AllianceRecord4,100,300,0,0,1
 201,0,2,,throne_forecast_minute,Capital ConTest will start in {0} minutes. Please get ready.,,0,,0,0,0
@@ -61,3 +61,11 @@ int,int,string,int,string,string,string,string,string,int,int,int
 33,1,1,4,Construction begins,[Military Order] Speed-up! {0}-{1} is building {4} at ({2};{3}). Commander; we need your help!,mark_AllianceRecord1,97,300,0,0,3
 34,1,1,4,Construction completed,[Military Order] Speed-up! {0}-{1} is building {4} at ({2};{3}). Commander; we need your help!,mark_AllianceRecord1,97,300,0,0,3
 35,1,1,4,Ally Construction,Well done! The Lv. {4} {5} ({2};{3}) built by {0} - {1} is completed.,mark_AllianceRecord1,0,,0,0,3
+36,1,1,1,Alliance Badge,[Military Order] Attention! {0}-{1} selected a new Alliance Badge.,mark_AllianceRecord4,90,300,0,0,1
+37,1,1,1,Alliance Declaration,[Military Order] Attention! {0}-{1} made a new Alliance Declaration,mark_AllianceRecord4,89,300,0,0,1
+38,1,1,,Victory,{0} {1} defeated {2} {3} in battle,mark_AllianceRecord5,0,,1,1,2
+39,1,1,,Defeat,{0} {1} was defeated by {2} {3} in battle,mark_AllianceRecord5,0,,1,1,2
+40,1,1,1,Victory,{0} {1} successfully attacked {2} {3}.,mark_AllianceRecord5,0,,1,0,2
+41,1,1,1,Defeat,{0} {1} failed to attack {2} {3}.,mark_AllianceRecord5,0,,1,0,2
+42,1,1,1,Victory,{0} {1} successfully defended {2} {3}'s attack.,mark_AllianceRecord5,0,,1,0,2
+43,1,1,1,Defeat,{0} {1} failed to defend {2} {3}'s attack.,mark_AllianceRecord5,0,,1,0,2

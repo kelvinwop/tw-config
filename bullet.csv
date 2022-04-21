@@ -66,3 +66,8 @@ int,int,double,string,string,string,string,int,double,string,double,string,strin
 1026,1026,0.0,tanke_hit,tank_bullet_20,0,,1,0.1,B_20211207_chuchuan_zidan,0.4,,B_20211207_chuchuan_baodian,0.0,0.5,,B_20211207_chuchuan_baodian,B_20211207_chuchuan_baodian,B_20211207_chuchuan_baodian,,
 1027,1027,0.0,tanke_hit,tank_bullet_20,0,,1,0.1,,0.4,,B_20211230_baodian_quan,0.0,0.5,1.0,B_20211230_baodian_quan,B_20211230_baodian_quan,B_20211230_baodian_quan,,1
 1028,1028,0.0,tanke_hit,tank_bullet_20,0,,0,0.1,B_20220121_waren|B_20220121_waren,2.0,,B_20210809_baodian,0.0,0.5,1.0,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,
+2043,2043,0.0,,,fireNode,,0,0.7,B_20220221_dadi_shouji,0.5,,B_20220221_dadi_baodian,,,,B_20220221_dadi_baodian,B_20220221_dadi_baodian,B_20220221_dadi_baodian,,
+1029,1029,0.0,tanke_hit,tank_bullet_20,0,B_20220221_qingtianzhu_gongji,1,0.2,B_20220221_qingtianzhu_gongji,0.2,,B_20210809_baodian,0.0,0.5,,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,
+1030,1030,0.0,tanke_hit,tank_bullet_20,0,B_20210323_zidan,1,0.2,B_20210323_zidan,0.2,,B_20210809_baodian,0.0,0.5,,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,
+1033,1033,0.0,tanke_hit,tank_bullet_20,0,B_20210323_zidan,1,0.5,B_20210323_zidan,0.2,,B_20210809_baodian,0.0,0.5,,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,
+1034,1034,0.0,tanke_hit,tank_bullet_20,0,,0,0.5,B_20220324_saikeer_baodian|B_20220324_saikeer_baodian,0.5,,B_20210809_baodian,0.0,0.5,,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,

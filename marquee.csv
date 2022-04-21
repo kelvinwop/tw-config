@@ -18,6 +18,7 @@ int,int,int,string
 20070,2,0,Please go to the Expedition base for reconstruction stage 3
 20080,2,0,Building {0} has been conquered by Alliance {1}
 20090,2,0,Eternal Land enters stage {0}
+20100,2,0,{0} conTest started. Coordinates ({1};{2})
 30010,3,0,The Silo Scramble will start in {0} minute(s); please get prepared.
 30020,3,0,The Silo Scramble has begun. Commanders please join this competition.
 30030,3,0,{0} {1} has conquered {2}.
@@ -51,3 +52,4 @@ int,int,int,string
 140030,14,0,You can compete for the facility {0}
 140040,14,0,The Facility {0} is taken by {1} Alliance
 150010,5,0,Wow; {0} dealt a critical hit to the mine and earned {1} Gems
+160010,15,0,{0} won the super prize {1}! Lucky you!

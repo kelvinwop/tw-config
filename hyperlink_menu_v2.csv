@@ -7,5 +7,4 @@ int,int,int,string,string,string,string,string,int,string,int,int,string,int
 13,14,,bg13_openBuilding,Warzone Exercise (SvS),Limit today: {0},10,3300001|5200007,45,cross_server_pvp_arena_function,40,,,1
 10,11,,bg7_openBuilding,Hunting Guild,Current quest: {0}/{1},,1700063,35,treasure_map_s2,60,,,1
 14,7,3110,bg2_openBuilding,Dimensional Mine,Number of attacks today: {0}/5,10|1,1800001,29,degenerator_building,50,,,1
-4,3,59,bg1_openBuilding,Refugee Rescue,Participant rewards claimed: {0}/10,,2560001|1700040,21,,45,,,1
 6,3,77,bg6_openBuilding,Warhammer Raid,Participant rewards claimed: {0}/{1},,1800001|323001|520001,10,,5,,,1

@@ -6,7 +6,7 @@ int,int,int,string,string,string,string,int,int,string,int
 104,4,2,Alliance Chat Notification,Alliance Chat Notification,,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
 105,5,2,Private Chat Notification,Private Chat Notification,,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
 106,6,2,VIT Notification,VIT Notification,notification_desc6,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
-107,7,2,[Notice] Expedition Gains,[Notice] Expedition Gains,Get notified when you're under attack!,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
+107,7,2,Expedition Gains Notification,Expedition Gains Notification,Get notified when you're under attack!,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
 110,10,2,Auto-join Notification,Auto-join Notification,Never miss Alliance and private messages again!,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1
 111,11,2,Limited-time Supply is available,Limited-time Supply is available,Notifications will be affected by network operators and platforms. There may be delays or missing info. We appreciate your understanding.,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,0,,,1
 112,12,2,Message from a mod,Message from a mod,,appios|appandroid|appwx|appqq|appfb|googleplay|appiosglobal,1,,,1

@@ -1,0 +1,6 @@
+ID,form,acitivty_id,title,desc,name,icon
+int,int,int,string,string,string,string
+1,973000,960021,{0} Rewards,You have unclaimed rewards in {0}. Remember to claim them.,Stage 1 - Temporary Alliance,activity_icon_5611
+2,973000,960022,{0} Rewards,You have unclaimed rewards in {0}. Remember to claim them.,Stage 2 - Wipe Out,activity_icon_5611
+3,973000,960023,{0} Rewards,You have unclaimed rewards in {0}. Remember to claim them.,Stage 3 - Help Arcee,activity_icon_5611
+4,973000,960024,{0} Rewards,You have unclaimed rewards in {0}. Remember to claim them.,Stage 4 - End War,activity_icon_5611

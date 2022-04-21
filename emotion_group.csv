@@ -1,12 +1,12 @@
 id,page_icon,icon,emoji_name,emoji_des,time,endtime
 int,string,string,string,string,string,string
 0,smile,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40|41|42|43|44|45|46|47|48|49|50|51|52|53|54|55|56|57,,,,
-1,emotion_line_icon,58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73,emojiname_G123_01,emojiname_G123_02,,
+1,emotion_line_icon,58|59|60|61|62|63|64|65|66|67|68|69|70|71|72|73,emojiname_G123_01,emojides_G123_01,,
 2,emotion_Egashira_icon,74|75|76|77,emojiname_G123_02,emojides_G123_02,2020-07-24-0-0-0,2020-09-30-23-59-59
 3,emotion_line_s2_icon,78|79|80|81|82|83|84|85|86|87|88|89|90|91|92|93|94,emojiname_G123_03,emojides_G123_03,,
 4,emotion_Kochikame_icon,95|96|97|98,emojiname_G123_04,emojides_G123_04,,
 5,emotion_Christmas_icon,99|100|101|102|103,emojiname_G123_05,emojides_G123_05,,
-6,emotion_Linkage_icon,104|105,emojiname_G123_06,emojides_G123_06,2020-12-25-0-0-0,2021-1-13-22-59-59
+6,emotion_Linkage_icon,104|105,emojiname_G123_06,emojides_G123_06,2020-12-25-0-0-0,2021-1-13-23-59-59
 7,emotion_Newyear_icon,106|107|108|109|110,emojiname_G123_07,emojides_G123_07,,
 8,emotion_Altman_icon,111|112|113|114,emojiname_G123_08,emojides_G123_08,,
 9,emotion_Grappler_icon,115|116|117|118,emojiname_G123_09,emojides_G123_09,2021-2-11-0-0-0,2028-1-21-23-59-59
@@ -21,3 +21,5 @@ int,string,string,string,string,string,string
 18,emotion_Samurai_icon,156|157|158,emojiname_G123_18,emojides_G123_18,2021-7-8-0-0-0,2028-1-21-23-59-59
 19,emotion_line_s3_icon,159|160|161|162|163|164|165|166|167|168|169|170|171,emojiname_G123_19,emojides_G123_19,2021-7-8-0-0-0,2028-1-21-23-59-59
 20,emotion_Newyear_2_icon,172,emojiname_G123_20,emojides_G123_20,2021-7-8-0-0-0,2028-1-21-23-59-59
+21,emotion_Valentine_icon,173|174|175,emojiname_G123_21,emojides_G123_21,2021-7-8-0-0-0,2028-1-21-23-59-59
+22,emotion_3rd_icon,176|177|178|179,emojiname_G123_22,emojides_G123_22,2021-7-8-0-0-0,2028-1-21-23-59-59

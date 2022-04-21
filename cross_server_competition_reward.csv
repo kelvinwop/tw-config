@@ -1,9 +1,9 @@
 id,rank_low,rank_high,round_num,reward_name,reward,mailId,player_level,player_score,reward_desc
 int,int,int,int,string,int,int,int,int,string
-1,1,1,1,Gold (server-wide),5007501,19111,50,1,Infographics unlocks at commander Lv. {0}.
-2,2,2,2,Silver (server-wide),5007502,19112,50,1,Infographics unlocks at commander Lv. {0}.
-3,3,3,4,Bronze (server-wide),5007503,19116,50,1,Infographics unlocks at commander Lv. {0}.
-4,4,4,4,Bronze (server-wide),5007503,19116,50,1,Infographics unlocks at commander Lv. {0}.
-5,5,8,8,No. {0}-{1} Reward,5007504,19113,50,1,Infographics unlocks at commander Lv. {0}.
-6,9,16,16,No. {0}-{1} Reward,5007505,19113,50,1,Infographics unlocks at commander Lv. {0}.
-7,17,32,32,No. {0}-{1} Reward,5007506,19113,50,1,Infographics unlocks at commander Lv. {0}.
+1,1,1,1,Gold (server-wide),5007501,19111,50,1,Required to be listed on the Infographics to claim the Reward (unlocks at commander Lv. {0})
+2,2,2,2,Silver (server-wide),5007502,19112,50,1,Required to be listed on the Infographics to claim the Reward (unlocks at commander Lv. {0})
+3,3,3,4,Bronze (server-wide),5007503,19116,50,1,Required to be listed on the Infographics to claim the Reward (unlocks at commander Lv. {0})
+4,4,4,4,Bronze (server-wide),5007503,19116,50,1,Required to be listed on the Infographics to claim the Reward (unlocks at commander Lv. {0})
+5,5,8,8,No. {0}-{1} Reward,5007504,19113,50,1,Required to be listed on the Infographics to claim the Reward (unlocks at commander Lv. {0})
+6,9,16,16,No. {0}-{1} Reward,5007505,19113,50,1,Required to be listed on the Infographics to claim the Reward (unlocks at commander Lv. {0})
+7,17,32,32,No. {0}-{1} Reward,5007506,19113,50,1,Required to be listed on the Infographics to claim the Reward (unlocks at commander Lv. {0})

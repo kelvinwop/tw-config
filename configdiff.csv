@@ -30,3 +30,7 @@ int,string,string,string,string,string,string
 32,1,g123;G123,specialresources,28,path,B_20210616_leida_xiaobing
 33,1,g123;G123,specialresources,29,path,*_jp
 35,1,wx;baidugame;toutiao;appios;appandroid;appwx;appqq;apptianci;appquick;quickoppo;quickvivo;quickhuawei;webgame;qqmini;qqwanba;qqgame;chrome,data_config,21090103,value,942;_cn
+36,1,g123;G123|esprit,data_config,15057,value,136;100;300;1
+37,1,g123;G123|esprit,data_config,15056,value,136;100;300;0.8
+38,2,jp,data_config,21090101,value,971000|972000;_jp
+39,2,jp,video_activity,21,pic,jp3_video_pic_jp.jpg

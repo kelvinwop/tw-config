@@ -1,0 +1,13 @@
+id,group_id,banner,title,get_type,get_param
+int,int,string,string,int,int
+1,1,tf_banner_01,Optimus Prime,3,940900
+2,1,tf_banner_02,Cybertron Box,3,940301
+3,1,tf_banner_03,Forward Unto Dawn,3,940400
+4,1,tf_banner_04,Megatron,3,941200
+5,2,tf_banner_04,Megatron Pack,3,941200
+6,2,tf_banner_05,Starscream's Commission,3,940501
+7,2,tf_banner_06,Sharkticons Store,3,941400
+8,3,tf_banner_06,Sharkticons Store,3,941400
+9,3,tf_banner_07,Arcee,3,940603
+11,4,tf_banner_07,Arcee,3,940603
+12,4,tf_banner_08,Celebration,3,940700

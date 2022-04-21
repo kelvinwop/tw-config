@@ -1,0 +1,10 @@
+id,name,desc1,box_quality,icon,group,min_refresh,max_refresh,refresh_weight,min_chest_num,max_chest_num,reward_id
+int,string,string,string,string,int,int,int,int,int,int,int
+1,,特级宝箱,1,box3,1,0,3,30,0,5,30200330
+2,,高级宝箱,3,box2,1,0,3,210,1,5,30200331
+3,,普通宝箱,4,box1,1,0,3,720,0,8,30200332
+4,,假特级宝箱,2,box3,1,0,3,40,0,1,30200333
+5,,特级宝箱,1,box3,1,4,9999999,69,0,5,30200330
+6,,高级宝箱,3,box2,1,4,9999999,200,1,5,30200331
+7,,普通宝箱,4,box1,1,4,9999999,730,0,8,30200332
+8,,假特级宝箱,2,box3,1,4,9999999,1,0,1,30200333

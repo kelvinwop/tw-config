@@ -1,0 +1,15 @@
+id,icon,name,is_guide
+int,string,string,int
+1,icon_server_rush_task_action_1,102204,7501
+2,icon_server_rush_task_action_2,AI Command Center,40000
+3,icon_server_rush_task_action_3,Radar,46000
+4,icon_server_rush_task_action_4,Reward Quest,54200
+5,icon_server_rush_task_action_5,Consume Gold,
+6,icon_server_rush_task_action_6,Expedition Base,7701
+7,icon_server_rush_task_action_7,102223,54300
+8,icon_server_rush_task_action_8,Limited Time Events & Packs,
+9,icon_server_rush_task_action_9,Boost Hero,2401
+10,icon_server_rush_task_action_10,Command college,54400
+11,icon_server_rush_task_action_11,105064,54500
+12,icon_server_rush_task_action_12,Purchase in the Store,5401
+13,icon_server_rush_task_action_13,Kill Rivals,

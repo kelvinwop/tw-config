@@ -48,7 +48,7 @@ int,int,string,string,int,string,int,string,int,int,string,string,string,string,
 47,1,image/headFrame/headFrame_47,,4,headframe_get_desc_47,0,headeframe_name047,1,70,1;-108;1,0;0;0.4,g123,2021-7-22-0-0-0,2022-4-27-22-59-59,1
 45,1,image/headFrame/headFrame_45,,4,headframe_get_desc_45,5000013,Glory Star,1,70,1;-108;1,0;0;0.4,,2021-8-10-0-0-0,2029-5-19-23-59-59,1
 46,1,image/headFrame/headFrame_46,,4,headframe_get_desc_46,5000014,Welcome Back,1,70,1;-108;1,0;0;0.4,,2021-8-10-0-0-0,2029-5-19-23-59-59,1
-44,1,image/headFrame/headFrame_44,,4,headframe_get_desc_44,5515,The Autobots,1,70,1;-108;1,0;0;0.4,wx|baidugame|toutiao|appios|appandroid|appwx|appqq|apptianci|appquick|quickoppo|quickvivo|quickhuawei|webgame|qqmini|qqwanba|qqgame|appiosglobal|googleplay|appfb|apphuaweiglobal|fbgame|esprit,2021-8-10-0-0-0,2029-5-19-23-59-59,1
+44,1,image/headFrame/headFrame_44,,4,headframe_get_desc_44,5515,The Autobots,1,70,1;-108;1,0;0;0.4,wx|baidugame|toutiao|appios|appandroid|appwx|appqq|apptianci|appquick|quickoppo|quickvivo|quickhuawei|webgame|qqmini|qqwanba|qqgame|appiosglobal|googleplay|appfb|apphuaweiglobal|fbgame|esprit|appiosviet|googleplayviet|webgameglobal,2021-8-10-0-0-0,2029-5-19-23-59-59,1
 49,2,image/headFrame/headFrame_49,ea_prefab/__subpack/headFrameEffect/headFrame_49,4,headframe_get_desc_49,5601,Legendary Warrior,1,70,1;-108;1,0;0;0.4,,2021-8-10-0-0-0,2029-5-19-23-59-59,1
 50,1,image/headFrame/headFrame_50,,4,headframe_get_desc_50,900002,Top Player Avatar Frame,1,70,1;-108;1,0;0;0.4,,,,
 51,1,image/headFrame/headFrame_51,,4,headframe_get_desc_51,0,Moon Gazing Avatar Frame,1,70,1;-108;1,0;0;0.4,,2021-9-19-0-0-0,2029-5-19-23-59-59,1
@@ -65,3 +65,12 @@ int,int,string,string,int,string,int,string,int,int,string,string,string,string,
 61,1,image/headFrame/headFrame_61,,6,Top-star Championship Exclusive,0,Shining Star,1,70,1;-108;1,0;0;0.4,,,,2
 62,1,image/headFrame/headFrame_62,,6,Top-star Championship Exclusive,0,Brilliant Star,1,70,1;-108;1,0;0;0.4,,,,2
 64,1,image/headFrame/headFrame_64,,6,From Lunar New Year Offer Pack,0,Sleepy Tiger,1,70,1;-108;1,0;0;0.4,,2021-10-21-0-0-0,2029-1-9-23-59-59,1
+66,1,image/headFrame/headFrame_66,,4,headframe_get_desc_66,2009279,headeframe_name066,1,70,1;-108;1,0;0;0.4,g123,2022-02-10-0-0-0,2022-02-24-23-59-59,1
+65,1,image/headFrame/headFrame_65,,6,From the Valentine's Day exclusive pack,0,Happily Together Avatar Frame,1,70,1;-108;1,0;0;0.4,,2021-10-21-0-0-0,2029-1-9-23-59-59,1
+67,1,image/headFrame/headFrame_67,,4,headframe_get_desc_67,102160,headeframe_name067,1,70,1;-108;1,0;0;0.4,g123,2022-02-12-0-0-0,2022-02-18-23-59-59,1
+68,1,image/headFrame/headFrame_68,,6,Collaboration Limited Pack,0,The Decepticons,1,70,1;-108;1,0;0;0.4,wx|webgame|baidugame|toutiao|qqmini|esprit|appios|appandroid|appwx|apptianci|appqq|quickoppo|quickvivo|quickhuawei|qqwanba|appiosglobal|appfb|googleplay|webgameglobal|fbgame|apphuaweiglobal|qqgame|appiosviet|googleplayviet,2022-3-10-0-0-0,2029-1-9-23-59-59,1
+69,1,image/headFrame/headFrame_69,,4,,940501,Fighter Jet,1,70,1;-108;1,0;0;0.4,wx|webgame|baidugame|toutiao|qqmini|esprit|appios|appandroid|appwx|apptianci|appqq|quickoppo|quickvivo|quickhuawei|qqwanba|appiosglobal|appfb|googleplay|webgameglobal|fbgame|apphuaweiglobal|qqgame|appiosviet|googleplayviet,2022-3-10-0-0-0,2029-1-9-23-59-59,1
+70,1,image/headFrame/headFrame_70,,4,,102169,headeframe_name070,1,70,1;-108;1,0;0;0.4,g123|esprit,2022-3-21-0-0-0,2029-1-9-23-59-59,1
+71,1,image/headFrame/headFrame_71,,4,,500144,headeframe_name071,1,70,1;-108;1,0;0;0.4,g123|esprit,2022-3-14-0-0-0,2029-1-9-23-59-59,1
+72,1,image/headFrame/headFrame_72,,6,From Limited Time Pack,0,Exotic Night,1,70,1;-108;1,0;0;0.4,,2022-4-2-0-0-0,2029-1-9-23-59-59,1
+73,1,image/headFrame/headFrame_73,,6,From Limited Time Pack,0,Egg Hunt,1,70,1;-108;1,0;0;0.4,,2021-10-21-0-0-0,2029-1-9-23-59-59,1

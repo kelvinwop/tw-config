@@ -1,5 +1,7 @@
 id,map_key,form,num,group,reward,is_lock,reward_preview,final_desc
 int,string,int,int,string,int,int,int,string
-1,Give and Take,1,30,4|1|1|1|1|1|1|1|1|1|1|1|1|1|1|5|5|5|5|5|5|5|5|5|5|5|5|5|5|5,940001,-1,9300147,The "Give and Take" stories have come to an end. Thank you for your time! Do come back again!
-2,Hero Stories,1,30,2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2,940002,1,9300148,The "Top War Hero" stories have come to an end. Thank you for your time! Do come back again!
-3,Fairytales,1,30,3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3,940003,2,9300149,The "Fairytales" have come to an end. Thank you for your time! Do come back again!
+1,Give and Take,1,30,4|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1,940001,-1,917001,The "Give and Take" stories have come to an end. Thank you for your time! Do come back again!
+2,Hero Stories,1,30,4|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2,940002,1,917001,The "Top War Hero" stories have come to an end. Thank you for your time! Do come back again!
+3,Fairytales,1,30,4|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3|3,940003,2,917001,The "Fairytales" have come to an end. Thank you for your time! Do come back again!
+4,Truth,2,20,6|6|6|6|6|6|6|6|6|6|6|6|6|6|6|6|6|6|6|6,940004,-1,940004,That's all for the "Truth questions". Thank you for your time! Do come back again!
+5,Dare,2,20,7|7|7|7|7|7|7|7|7|7|7|7|7|7|7|7|7|7|7|7,940005,4,940004,That's all for the "Dare questions". Thank you for your time! Do come back again!

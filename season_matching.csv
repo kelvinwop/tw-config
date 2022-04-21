@@ -1,0 +1,2 @@
+id,season_id,upper_limit,against_matching_rules,next_matching_id,matching_start_type,matching_start_num,matching_delay_time,matching_countdown_time,matching_persistent_time,matching_notice_time
+int,int,string,int,int,int,string,string,string,string,string
