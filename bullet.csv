@@ -71,3 +71,4 @@ int,int,double,string,string,string,string,int,double,string,double,string,strin
 1030,1030,0.0,tanke_hit,tank_bullet_20,0,B_20210323_zidan,1,0.2,B_20210323_zidan,0.2,,B_20210809_baodian,0.0,0.5,,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,
 1033,1033,0.0,tanke_hit,tank_bullet_20,0,B_20210323_zidan,1,0.5,B_20210323_zidan,0.2,,B_20210809_baodian,0.0,0.5,,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,
 1034,1034,0.0,tanke_hit,tank_bullet_20,0,,0,0.5,B_20220324_saikeer_baodian|B_20220324_saikeer_baodian,0.5,,B_20210809_baodian,0.0,0.5,,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,
+1035,1035,0.0,tanke_hit,tank_bullet_20,0,,0,0.1,,1.0,,B_20220407_jujishou_baodian,0.0,1.0,0.5,B_20210809_baodian,B_20210809_baodian,B_20210809_baodian,,1

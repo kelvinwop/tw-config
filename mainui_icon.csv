@@ -30,3 +30,4 @@ string,string,int,int,int,string,string,int,int,string
 30,IconToMiniProgram,13,1,1,27,-1,1,-1,
 31,IconActivity,5,2,3,1,6,1,-1,g123;esprit
 29,IconWebMiniGame,13,2,1,26,-1,,-1,
+32,IconFirstChargeHero,13,1,1,28,-1,,-1,
