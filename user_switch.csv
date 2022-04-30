@@ -1,6 +1,6 @@
 id,name,switch,Test_switch,version,platform,platform_on
 int,string,string,string,string,string,string
-1,login_reward_wade,1717-1720;1724;1725;1731-2999;4000-4999,4076;4078;4023;4020;4036,1.0,all,all
+1,login_reward_wade,1717-1720;1724;1725;1731-2999;4000-4999,4076;4078;4023;4020;4036;4021,1.0,all,all
 2,science_new_item,off,4022;4,1.0,all,all
 3,army_equip_page_limit,all,all,1.0,all,all
 4,inline_mini_game,off,off,1.0,all,googleplay|appiosglobal|apphuaweiglobal

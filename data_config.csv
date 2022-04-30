@@ -367,7 +367,7 @@ int,string,string
 40007,turn_card_guide_time,5
 40008,turn_card_bottom_count,180
 32001,kill_monster_para,5
-41001,charge_app_reward_cost_limit,99999
+41001,charge_app_reward_cost_limit,1
 41002,charge_app_reward,5900002
 41003,charge_app_mail,10001
 11111,gou_unlock,3
@@ -1575,7 +1575,7 @@ int,string,string
 5000005,sergey_max_revice_num,30
 5000007,russian_linkage_day_bp,12001;50|12002;50|12003;50|12004;50|12005;50|12006;50
 5000008,russian_linkage_radar_bp,100
-11119,units_gather_unlock_level,70
+11119,units_gather_unlock_level,60
 11120,units_gather_diameter_max,30
 11121,units_gather_number_max,900
 4000032,radar_show_time,1440
@@ -1604,7 +1604,7 @@ int,string,string
 4000042,radar_signal_unlock_lv,2
 4000043,radar_sys_des,2;New feature unlocked: radar signal|3;New feature unlocked: Radar defense system
 20210622,The leadership has been changed recently; mail feature will be available in {0} minutes,3600
-8000001,skin_up_banner,activity_banner_987_1|activity_banner_987_1
+8000001,skin_up_banner,activity_banner_988n_1|activity_banner_988n_1
 10054,new_turntable_reward_time,1633072367
 9964,alliance_record_news_table,1;General|2;Battle|3;Building
 9965,alliance_record_news_rows,3|5
@@ -1754,7 +1754,7 @@ int,string,string
 2021115,onekeybattle_minlevel_army,3
 2021116,onekeybattle_hero_monster,115|117
 2211016,WebMiniGame_Banner,WebMiniGame_Banner.jpg
-22021001,Daily_gift1,102161|102162|102163:1924-1925;1947-2035;2041-3000;4094;4036;4021;971013|971014|971015:4090;1070;1144;1237;1281;1317;1337;1365;1389;1421;1455;1468;1477;1503;1512;1525;1587;1611;1615;1632;1646;1653;1658;1674;1685;1692;1703;1707;1710;1718;1719;1722;1725;1733;1734;1735;1781;1782;1783;1784;1785;1821;1822;1823;1720;1824;1825;2036;2037;2038;2039;2040
+22021001,Daily_gift1,102161|102162|102163:1924-1925;1947-2035;2041-2093;2096-3000;4094;4036;4021;971013|971014|971015:4090;1070;1144;1237;1281;1317;1337;1365;1389;1421;1455;1468;1477;1503;1512;1525;1587;1611;1615;1632;1646;1653;1658;1674;1685;1692;1703;1707;1710;1718;1719;1722;1725;1733;1734;1735;1781;1782;1783;1784;1785;1821;1822;1823;1720;1824;1825;2036;2037;2038;2039;2040;2094;2095
 22021002,Daily_gift2,102164|971016
 4000045,radar_guide_task,2100
 4000048,radar_sys_39,1|4800|1;2|4500|1;3|4200|1;4|3600|1;5|3000|1
@@ -1810,7 +1810,7 @@ int,string,string
 930417,kvk_battle_token_kill_server,0
 2211037,vk_Signin_language,ru
 2211039,vk_Signin_cdn,https://knight-cdn.akamaized.net/apk/worldbattle-googleplay-global-release.apk
-2211044,naval_lot_open_level,14
+2211044,naval_lot_open_level,12
 2211045,naval_lot_package,2230950
 2211046,ship_exchange_wait_time,2880
 2300000,advancedExtract_reward_v2,40000109
@@ -1824,3 +1824,4 @@ int,string,string
 210001,refugee_new_get,1700039
 210002,refugee_new_show,9103307
 220420,compensation_mail,220420|1
+1005301,web_game_create_short_cut_reward_new,191635201

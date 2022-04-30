@@ -249,3 +249,6 @@ int,int,string,int,string,int,int,string,string,string,string,string,int,int,str
 701,1,Sergeant,0,Commander! We found Dr. Evil; again! He's stealing resources like a monster!,702,,ea_prefab/hero/bust/hero_tachie001,,,,,,,
 702,1,Sergeant,0,What exactly is going on here? Dr. Evil and the Dark Legion... Commanders? What the...?,703,,ea_prefab/hero/bust/hero_tachie001,,,,,,,
 703,1,Sergeant,0,Stop them and find out what's going on.,0,,ea_prefab/hero/bust/hero_tachie001,,,,,,,
+704,1,Sergeant,0,That's a lot of General R&D that the Dark Empire has taken!,705,,ea_prefab/hero/bust/hero_tachie001,,,,,,,
+705,1,Sergeant,0,Challenge attempts are limited; however failing to take on the Empire Relics does not count towards that amount. Choose your opponent wisely.,706,,ea_prefab/hero/bust/hero_tachie001,,,,,,,
+706,1,Sergeant,0,For your own safety; Commander; let us begin the adventure with Empire Relics No. 1!,0,,ea_prefab/hero/bust/hero_tachie001,,,,,,,

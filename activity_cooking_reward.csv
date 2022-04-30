@@ -1,54 +1,83 @@
-ID,title,name,desc,icon,times,reward_ID,CD,CD_cost,gift_type,Unlock
-int,string,string,string,string,int,int,int,int,int,int
-1,Overcooked Meal,失败菜肴,Overcooked Meal\nOops; it's overcooked... Practice makes perfect; commander,item_ActivityGourmetCook1,-1,6040000,3,30,0,0
-2,Barely-edible Meal,保熟菜肴,Barely-edible Meal\nWell; it's edible; sort of.,item_ActivityGourmetCook1,-1,6040001,5,30,0,0
-3,"Special" Meal,另类菜肴,"Special" Meal\nHmmm...It tastes interesting.,item_ActivityGourmetCook1,-1,6040002,10,30,0,0
-4,Family Meal,家庭菜肴,Family Meal\nMom's meals are always the best.,item_ActivityGourmetCook1,-1,6040003,20,30,0,0
-5,Decent Meal,精致菜肴,Decent Meal\nSee; that's how the meal should be served.,item_ActivityGourmetCook1,-1,6040004,30,30,0,0
-6,Perfect Meal,丰盛菜肴,Perfect Meal\nThis meal is out of this world.,item_ActivityGourmetCook1,-1,6040005,40,30,0,0
-7,Luxury Meal,豪华菜肴,Luxury Meal\nMeticulous preparation and expert cooking skills... Voila! Haute cuisine.,item_ActivityGourmetCook1,-1,6040006,60,30,0,0
-8,Binary,"二进制",Binary\nBinary is the foundation of everything,item_ActivityGourmetCook2,1,6040007,60,30,1,0
-9,Well Planned,"精打细算",Well Planned\nThis doesn't seem like much of a meal to me.,item_ActivityGourmetCook2,1,6040008,60,30,1,0
-10,Grande Cuisine,"奢华盛宴",Grande Cuisine\nBon Appétit Mon Ami!,item_ActivityGourmetCook2,1,6040009,60,30,1,0
-11,Autobots; Roll Out,"汽车人，出发",Autobots; Roll Out!\nThe Transformers landed on Top War on August 10; 2021! Will they come back again?,item_ActivityGourmetCook2,1,6040010,60,30,1,0
-12,Stay Sharp,"藏剑于鞘",Stay Sharp\nThe Black Widow trained at the hidden site for 6;935 days.,item_ActivityGourmetCook2,1,6040011,60,30,1,0
-13,New Element?,"新元素？",The New Element?\nLaTest news: Doctor Reichstein discovered the element No. 116,item_ActivityGourmetCook2,1,6040012,60,30,1,0
-14,Grateful to You,"感恩有你",Grateful To You\nWe're thankful to you and the many more memories we will continue to create.,item_ActivityGourmetCook2,1,6040013,60,30,1,0
-15,Eternal King,"永恒之王",Eternal King\nThe first Eternal Land event took place in June 2020; marking the beginning of the epic war,item_ActivityGourmetCook2,1,6040014,60,30,1,0
-16,One-on-one War,"最强之战",One-on-one War\nThe first SVS was launched in May 2019.,item_ActivityGourmetCook2,1,6040015,60,30,1,0
-17,The Top War,"群雄争霸",The Top War\n73.38 million new commanders have joined us this year; ready to fight by your side!,item_ActivityGourmetCook2,1,6040016,60,30,1,0
-18,The World's Richest,"最壕指挥官",The World's Richest\nThe current fortune of the Richest Commander is estimated at $105 trillion according to the TW Billionaires Index.,item_ActivityGourmetCook2,1,6040017,60,30,1,0
-19,SaND Festival Dishes,沙岛节日料理,SaND Festival Dishes\nUnique dishes for SaND festivals,item_ActivityGourmetCook2,2,6040018,60,30,1,0
-20,MRE Combat Ration,作战料理包,MRE Combat Ration\nService members take these Meals Ready-to-Eat for use in combat.,item_ActivityGourmetCook2,2,6040019,60,30,1,0
-21,Dark Legion Ration,黑暗军团料理,Dark Legion Ration\nYou got to admit; this is good.,item_ActivityGourmetCook2,2,6040020,60,30,1,0
-22,Staff Dinner,员工晚餐,Staff Dinner\nA decent dinner for Zizak Metal Co. Ltd. employees...What's making me eat so much?,item_ActivityGourmetCook2,2,6040021,60,30,1,0
-23,Freedom League Turkey,自由联盟烤火鸡,Freedom League Turkey\nThe main course during the Thanksgiving feast.,item_ActivityGourmetCook2,2,6040022,60,30,1,0
-24,Eco-friendly Fireworks,环保烟花,Eco-friendly Fireworks\nNot a true Firework; but it is environmentally friendly.,item_ActivityGourmetCook1,-1,9400009,3,20,0,0
-25,Sparklers,迷你烟花,Sparklers\nWow; such a tiny Fireworks show. Add some more ingredients to the mix.,item_ActivityGourmetCook1,-1,9400010,5,20,0,0
-26,Common Fireworks,家常烟花,Common Fireworks\nIt's just about right; let's make another one.,item_ActivityGourmetCook1,-1,9400011,10,20,0,0
-27,The Willow,纯彩烟花,The Willow\nIt's larger than the Common Fireworks; but it only comes in one color.,item_ActivityGourmetCook1,-1,9400012,15,20,0,0
-28,Comet,神奇烟花,Comet\nNo sound; just a breathtakingly bright light. Try another one; will you?,item_ActivityGourmetCook1,-1,9400013,20,20,0,0
-29,Fountains,超级烟花,Fountains\nThat's huge; and maybe the largest firework set off in Top War.,item_ActivityGourmetCook1,-1,9400014,30,20,0,0
-30,Thunder-bomb Fireworks,双声烟花,Thunder-bomb Fireworks\nOuch; my ears. Is that you; Sir Tinnitus?,item_ActivityGourmetCook1,-1,9400015,60,20,0,0
-31,Crossette,入世烟花,Crossette\nCrossette; just as lovely as Mei; a star rising from the east; was introduced on 01/06/2022,item_ActivityGourmetCook2,1,9400016,60,20,1,0
-32,Flying Fish,城市烟花,Flying Fish\nThe "Ark" is the most popular base skin among commanders; and the Freedom League has created 18 base skins in the last year.,item_ActivityGourmetCook2,1,9400017,60,20,1,0
-33,Fitness Fireworks,健身烟花,Fitness Fireworks\nBen performs 500 push-ups; 500 squats; 500 sit-ups; and a 50-kilometer run every day. As far as we know; Ben is the first and only person to ever beat this record.,item_ActivityGourmetCook2,1,9400018,60,20,1,0
-34,Novelty Fireworks,锦标赛烟花,Novelty Fireworks\nOn March 16; 1926; Robert Goddard successfully launched the first liquid-fueled rocket in Auburn; Mass.,item_ActivityGourmetCook2,1,9400019,60,20,1,0
-35,Odinium Fireworks,放射性烟花,Odinium Fireworks\nDue to the high radioactivity; no more than 271 Thor elements may be collected at a time in the Dimensional Mine. Old Delhuyar was severely damaged when she was exposed to an excessive amount of Odinium.,item_ActivityGourmetCook2,2,9400020,60,20,1,0
-36,Anonymous Fireworks,无名烟花,Anonymous Fireworks\nWe don't know much about the mysterious 914. According to some; the Freedom League supports him; but others believe he's a spy.,item_ActivityGourmetCook2,1,9400021,60,20,1,0
-37,Ground Spinners,穿越的烟花,Ground Spinners\nSpinning and jumping around the way to the Lunar New Year!,item_ActivityGourmetCook2,1,9400022,60,20,1,1
-38,Glory Fireworks,荣耀烟花,Glory Fireworks\nThe first Top-star Championship was ended on 01/23/2022! This is a moment to celebrate for all commanders!,item_ActivityGourmetCook2,1,9400023,60,20,1,1
-39,Ancient Firecrackers,远古爆竹,Ancient Firecrackers\nMany historians believe that fireworks were first developed in ancient China in 645AD.,item_ActivityGourmetCook2,1,9400024,60,20,1,2
-40,Shining Fireworks,砰砰烟花,Shining Fireworks\nA Shining Chest can carry up to 737dd gold coins. According to Dr. Reichstein; "We're still trying to increase the capacity of the chest; but to be honest; I don't have any ideas.",item_ActivityGourmetCook2,2,9400025,60,20,1,2
-41,Skyrocket,英雄烟花,Skyrocket\nA total of 19 new heroes have joined the battle against the Dark Legion in Top War throughout the last year.,item_ActivityGourmetCook2,1,9400026,60,20,1,3
-42,Treasure Fireworks,宝藏烟花,Treasure Fireworks\nIn the last year; Amalia has visited a number of historical sites and has finally discovered nine hidden treasures. Experts of the alliance have never been able to figure out how the painted pattern works.,item_ActivityGourmetCook2,1,9400027,60,20,1,3
-43,Girandola,彩虹烟花,Girandola\nThe brilliant lights from the blooming fireworks illuminate the night.,item_ActivityGourmetCook2,1,9400028,60,20,1,4
-44,Roman Candles,最强烟花,Roman Candles\nSilence has already taken down 482 prey; no one was able to get away.,item_ActivityGourmetCook2,1,9400029,60,20,1,4
-45,Chinese Firecrackers,春节烟花,Chinese Firecrackers\nThe Lunar New Year is on 02/01/2022. Happy Lunar New Year; commanders!!,item_ActivityGourmetCook2,1,9400030,60,20,1,5
-46,Best Wishes Fireworks,恭喜发财烟花,Best Wishes Fireworks\nWe wish the best of health and success for you and your family in the next year.,item_ActivityGourmetCook2,1,9400031,60,20,1,5
-47,Beast Fireworks,猛兽烟花,Beast Fireworks\nRambo's team was able to scatter behind the enemy; destroying many 88mm Forts and rescue fellow forces.,item_ActivityGourmetCook2,1,9400032,60,20,1,6
-48,Chrysanthemum,三色烟花,Chrysanthemum\nFun fact: The primary colors are red; blue; and yellow; while computers use R (R: 255 G: 0 B: 0) G (R: 0 G: 255 B: 0) B (R: 0 G: 0 B: 255) because their screens emit light.,item_ActivityGourmetCook2,1,9400033,60,20,1,6
-49,Mechanical Fireworks,机械烟花,Mechanical Fireworks\nOptimus Prime has a hunch that an evil force is making its way toward Top War from someplace in the cosmos. It's about time.,item_ActivityGourmetCook2,2,9400034,60,20,1,7
-50,Unique Fireworks,识别码烟花,Unique Fireworks\n"Unique ID" is a 12-digit sequence that is exclusive to each commander. Commander; we're delighted to have you here!,item_ActivityGourmetCook2,1,9400035,60,20,1,7
-51,Old Times Fireworks,超古代烟花,Old Times Fireworks\nIt's amazing how much energy it takes to maintain these weapons from the old times. These troops are very strong and essential in the battlefield.,item_ActivityGourmetCook2,2,9400036,60,20,1,8
-52,SaND Fireworks,沙岛烟花,SaND Fireworks\nThere is a deeper meaning to the "SaND" fireworks than just entertaining the crowds. Approximately 181 agents have gone missing. Even if their identities remain a mystery; at the very least; they will not be forgotten.,item_ActivityGourmetCook2,2,9400037,60,20,1,8
+ID,title,name,desc,icon,times,reward_ID,CD,CD_cost,gift_type,Unlock,order
+int,string,string,string,string,int,int,int,int,int,int,int
+1,Overcooked Meal,失败菜肴,Overcooked Meal\nOops; it's overcooked... Practice makes perfect; commander,item_ActivityGourmetCook1,-1,6040000,3,20,0,0,
+2,Barely-edible Meal,保熟菜肴,Barely-edible Meal\nWell; it's edible; sort of.,item_ActivityGourmetCook1,-1,6040001,5,20,0,0,
+3,"Special" Meal,另类菜肴,"Special" Meal\nHmmm...It tastes interesting.,item_ActivityGourmetCook1,-1,6040002,10,20,0,0,
+4,Family Meal,家庭菜肴,Family Meal\nMom's meals are always the best.,item_ActivityGourmetCook1,-1,6040003,15,20,0,0,
+5,Decent Meal,精致菜肴,Decent Meal\nSee; that's how the meal should be served.,item_ActivityGourmetCook1,-1,6040004,20,20,0,0,
+6,Perfect Meal,丰盛菜肴,Perfect Meal\nThis meal is out of this world.,item_ActivityGourmetCook1,-1,6040005,30,20,0,0,
+7,Luxury Meal,豪华菜肴,Luxury Meal\nMeticulous preparation and expert cooking skills... Voila! Haute cuisine.,item_ActivityGourmetCook1,-1,6040006,60,20,0,0,
+8,Binary,"二进制",Binary\nBinary is the foundation of everything,item_ActivityGourmetCook2,1,6040007,60,20,1,0,
+9,Well Planned,"精打细算",Well Planned\nThis doesn't seem like much of a meal to me.,item_ActivityGourmetCook2,1,6040008,60,20,1,0,
+10,Grande Cuisine,"奢华盛宴",Grande Cuisine\nBon Appétit Mon Ami!,item_ActivityGourmetCook2,1,6040009,60,20,1,0,
+11,Autobots; Roll Out,"汽车人，出发",Autobots; Roll Out!\nThe Transformers landed on Top War on August 10; 2021! Will they come back again?,item_ActivityGourmetCook2,1,6040010,60,20,1,0,
+12,Stay Sharp,"藏剑于鞘",Stay Sharp\nThe Black Widow trained at the hidden site for 6;935 days.,item_ActivityGourmetCook2,1,6040011,60,20,1,1,
+13,New Element?,"新元素？",The New Element?\nLaTest news: Doctor Reichstein discovered the element No. 116,item_ActivityGourmetCook2,1,6040012,60,20,1,2,
+14,Grateful to You,"感恩有你",Grateful To You\nWe're thankful to you and the many more memories we will continue to create.,item_ActivityGourmetCook2,1,6040013,60,20,1,3,
+15,Eternal King,"永恒之王",Eternal King\nThe first Eternal Land event took place in June 2020; marking the beginning of the epic war,item_ActivityGourmetCook2,1,6040014,60,20,1,4,
+16,One-on-one War,"最强之战",One-on-one War\nThe first SVS was launched in May 2019.,item_ActivityGourmetCook2,1,6040015,60,20,1,5,
+17,The Top War,"群雄争霸",The Top War\n73.38 million new commanders have joined us this year; ready to fight by your side!,item_ActivityGourmetCook2,1,6040016,60,20,1,6,
+18,The World's Richest,"最壕指挥官",The World's Richest\nThe current fortune of the Richest Commander is estimated at $105 trillion according to the TW Billionaires Index.,item_ActivityGourmetCook2,1,6040017,60,20,1,7,
+19,SaND Festival Dishes,沙岛节日料理,SaND Festival Dishes\nUnique dishes for SaND festivals,item_ActivityGourmetCook2,3,6040018,60,20,1,8,
+20,MRE Combat Ration,作战料理包,MRE Combat Ration\nService members take these Meals Ready-to-Eat for use in combat.,item_ActivityGourmetCook2,3,6040019,60,20,1,9,
+21,Dark Legion Ration,黑暗军团料理,Dark Legion Ration\nYou got to admit; this is good.,item_ActivityGourmetCook2,3,6040020,60,20,1,10,
+22,Staff Dinner,员工晚餐,Staff Dinner\nA decent dinner for Zizak Metal Co. Ltd. employees...What's making me eat so much?,item_ActivityGourmetCook2,3,6040021,60,20,1,11,
+23,Freedom League Turkey,自由联盟烤火鸡,Freedom League Turkey\nThe main course during the Thanksgiving feast.,item_ActivityGourmetCook2,3,6040022,60,20,1,12,
+24,Eco-friendly Fireworks,环保烟花,Eco-friendly Fireworks\nNot a true Firework; but it is environmentally friendly.,item_ActivityGourmetCook1,-1,9400009,3,20,0,0,
+25,Sparklers,迷你烟花,Sparklers\nWow; such a tiny Fireworks show. Add some more ingredients to the mix.,item_ActivityGourmetCook1,-1,9400010,5,20,0,0,
+26,Common Fireworks,家常烟花,Common Fireworks\nIt's just about right; let's make another one.,item_ActivityGourmetCook1,-1,9400011,10,20,0,0,
+27,The Willow,纯彩烟花,The Willow\nIt's larger than the Common Fireworks; but it only comes in one color.,item_ActivityGourmetCook1,-1,9400012,15,20,0,0,
+28,Comet,神奇烟花,Comet\nNo sound; just a breathtakingly bright light. Try another one; will you?,item_ActivityGourmetCook1,-1,9400013,20,20,0,0,
+29,Fountains,超级烟花,Fountains\nThat's huge; and maybe the largest firework set off in Top War.,item_ActivityGourmetCook1,-1,9400014,30,20,0,0,
+30,Thunder-bomb Fireworks,双声烟花,Thunder-bomb Fireworks\nOuch; my ears. Is that you; Sir Tinnitus?,item_ActivityGourmetCook1,-1,9400015,60,20,0,0,
+31,Chinese Firecrackers,春节烟花,Chinese Firecrackers\nThe Lunar New Year is on 02/01/2022. Happy Lunar New Year; commanders!!,item_ActivityGourmetCook2,1,9400016,60,20,1,0,
+32,Crossette,入世烟花,Crossette\nCrossette; just as lovely as Mei; a star rising from the east; was introduced on 01/06/2022,item_ActivityGourmetCook2,1,9400017,60,20,1,0,
+33,Ground Spinners,穿越的烟花,Ground Spinners\nSpinning and jumping around the way to the Lunar New Year!,item_ActivityGourmetCook2,1,9400018,60,20,1,0,
+34,Skyrocket,英雄烟花,Skyrocket\nA total of 19 new heroes have joined the battle against the Dark Legion in Top War throughout the last year.,item_ActivityGourmetCook2,1,9400019,60,20,1,0,
+35,Flying Fish,城市烟花,Flying Fish\nThe "Ark" is the most popular base skin among commanders; and the Freedom League has created 18 base skins in the last year.,item_ActivityGourmetCook2,1,9400020,60,20,1,0,
+36,Ancient Firecrackers,远古爆竹,Ancient Firecrackers\nMany historians believe that fireworks were first developed in ancient China in 645AD.,item_ActivityGourmetCook2,1,9400021,60,20,1,0,
+37,Fitness Fireworks,健身烟花,Fitness Fireworks\nBen performs 500 push-ups; 500 squats; 500 sit-ups; and a 50-kilometer run every day. As far as we know; Ben is the first and only person to ever beat this record.,item_ActivityGourmetCook2,1,9400022,60,20,1,1,
+38,Glory Fireworks,荣耀烟花,Glory Fireworks\nThe first Top-star Championship was ended on 01/23/2022! This is a moment to celebrate for all commanders!,item_ActivityGourmetCook2,1,9400023,60,20,1,1,
+39,Girandola,彩虹烟花,Girandola\nThe brilliant lights from the blooming fireworks illuminate the night.,item_ActivityGourmetCook2,1,9400024,60,20,1,2,
+40,Anonymous Fireworks,无名烟花,Anonymous Fireworks\nWe don't know much about the mysterious 914. According to some; the Freedom League supports him; but others believe he's a spy.,item_ActivityGourmetCook2,1,9400025,60,20,1,2,
+41,Best Wishes Fireworks,恭喜发财烟花,Best Wishes Fireworks\nWe wish the best of health and success for you and your family in the next year.,item_ActivityGourmetCook2,1,9400026,60,20,1,3,
+42,Beast Fireworks,猛兽烟花,Beast Fireworks\nRambo's team was able to scatter behind the enemy; destroying many 88mm Forts and rescue fellow forces.,item_ActivityGourmetCook2,1,9400027,60,20,1,3,
+43,Novelty Fireworks,锦标赛烟花,Novelty Fireworks\nOn March 16; 1926; Robert Goddard successfully launched the first liquid-fueled rocket in Auburn; Mass.,item_ActivityGourmetCook2,1,9400028,60,20,1,4,
+44,Treasure Fireworks,宝藏烟花,Treasure Fireworks\nIn the last year; Amalia has visited a number of historical sites and has finally discovered nine hidden treasures. Experts of the alliance have never been able to figure out how the painted pattern works.,item_ActivityGourmetCook2,1,9400029,60,20,1,4,
+45,Roman Candles,最强烟花,Roman Candles\nSilence has already taken down 482 prey; no one was able to get away.,item_ActivityGourmetCook2,1,9400030,60,20,1,5,
+46,Chrysanthemum,三色烟花,Chrysanthemum\nFun fact: The primary colors are red; blue; and yellow; while computers use R (R: 255 G: 0 B: 0) G (R: 0 G: 255 B: 0) B (R: 0 G: 0 B: 255) because their screens emit light.,item_ActivityGourmetCook2,1,9400031,60,20,1,5,
+47,Unique Fireworks,识别码烟花,Unique Fireworks\n"Unique ID" is a 12-digit sequence that is exclusive to each commander. Commander; we're delighted to have you here!,item_ActivityGourmetCook2,1,9400032,60,20,1,6,
+48,Mechanical Fireworks,机械烟花,Mechanical Fireworks\nOptimus Prime has a hunch that an evil force is making its way toward Top War from someplace in the cosmos. It's about time.,item_ActivityGourmetCook2,3,9400033,60,20,1,6,
+49,Odinium Fireworks,放射性烟花,Odinium Fireworks\nDue to the high radioactivity; no more than 271 Thor elements may be collected at a time in the Dimensional Mine. Old Delhuyar was severely damaged when she was exposed to an excessive amount of Odinium.,item_ActivityGourmetCook2,3,9400034,60,20,1,7,
+50,Shining Fireworks,砰砰烟花,Shining Fireworks\nA Shining Chest can carry up to 737dd gold coins. According to Dr. Reichstein; "We're still trying to increase the capacity of the chest; but to be honest; I don't have any ideas.",item_ActivityGourmetCook2,3,9400035,60,20,1,7,
+51,Old Times Fireworks,超古代烟花,Old Times Fireworks\nIt's amazing how much energy it takes to maintain these weapons from the old times. These troops are very strong and essential in the battlefield.,item_ActivityGourmetCook2,3,9400036,60,20,1,8,
+52,SaND Fireworks,沙岛烟花,SaND Fireworks\nThere is a deeper meaning to the "SaND" fireworks than just entertaining the crowds. Approximately 181 agents have gone missing. Even if their identities remain a mystery; at the very least; they will not be forgotten.,item_ActivityGourmetCook2,3,9400037,60,20,1,8,
+124,Tasty Dessert,美味甜品,Tasty Dessert\nIt's not pretty; but it's tasty.,item_ActivityGourmetCook3,-1,9126000,3,20,0,0,1
+125,Overbaked Dessert,黑暗甜品,"DarkOverbaked Dessert\nIt doesn't seem to be an edible dessert. Adjust the ingredients and try again; maybe?,item_ActivityGourmetCook3,-1,9126001,5,20,0,0,2
+126,Half-baked Dessert,半熟甜品,Half-baked Dessert\nThis is just half-cooked; despite how it seems.,item_ActivityGourmetCook3,-1,9126002,10,20,0,0,3
+127,Cheesecake,芝士蛋糕,Cheesecake\nWith each bite; the mouthwatering combination of salty cheese and sweet cake grows on you.,item_ActivityGourmetCook3,-1,9126003,15,20,0,0,4
+128,Dark Legion Special,军团特供,Dark Legion Special\nDesserts are available solely to members of the Dark Legion; but due to a lack of budget; they are of terrible taste and quality.,item_ActivityGourmetCook3,-1,9126004,20,20,0,0,5
+129,Freedom League Special,同盟特供,Freedom League Special\nDesserts are available solely to members of the Freedom League; healthy and delicious.,item_ActivityGourmetCook3,-1,9126005,25,20,0,0,6
+130,Perfect Dessert,完美甜品,Perfect Dessert\nThat's the best dessert you could ever ask for.,item_ActivityGourmetCook3,-1,9126006,30,20,0,0,7
+138,Healthy Dessert,营养甜品,Healthy Dessert\nPeople may get all seven nutrients they need a day from Dr. Reichstein's healthy sweets. There are rumors that polymer technology is also in use; but no one knows exactly how it is being made.,item_ActivityGourmetCook4,1,9126019,30,20,1,0,8
+139,With All Heart,爱心甜品,With All Heart\nFor her 15 trainees; Li Hongyu has created a special pastry that contains her expectations for their success.,item_ActivityGourmetCook4,1,9126020,30,20,1,0,9
+143,Fake Dessert,无名甜品,Fake Dessert\nIt's not a big deal for The Faceless to whip up a few treats; but he seldom disguises as a baker. You'll be sorry if you miss it.,item_ActivityGourmetCook4,1,9126024,30,20,1,0,10
+144,Rainbow Swirl,彩虹甜品,Rainbow Swirl\nThe Rainbow Swirl bread is Selina's favorite food. Visual and taste pleasures for the tea party at once.,item_ActivityGourmetCook4,1,9126025,30,20,1,0,11
+145,Military Dessert,便携甜品,Military Dessert\nThere is a tradeoff in taste and size in order to achieve the greaTest in simplicity. It was a favorite among soldiers because of its small size.,item_ActivityGourmetCook4,1,9126026,30,20,1,0,12
+149,Appetizer,开胃甜品,Appetizer\nHawthorn pastry is the major ingredient. It used to be the most popular dessert because of how tasty it is and how simple it is to prepare.,item_ActivityGourmetCook3,2,9126008,30,20,1,0,13
+132,La Rose,玫瑰甜点,La Rose\nTo enhance the aroma of a dessert; scatter 4 or 5 cleaned rose petals over the top. Simple and elegant; it is a favorite of many.,item_ActivityGourmetCook4,1,9126011,30,20,1,1,14
+133,Triple Chocolate,巨无霸甜点,Triple Chocolate\nSpread the chocolate sauce over the rolled pancake crust; place another layer on top and repeat the process until all of the ingredients are used. No one has been able to eat the whole thing faster than Merida; who set the record at 11 minutes.,item_ActivityGourmetCook4,1,9126012,30,20,1,1,15
+131,Chocolate Donuts,巧克力甜甜圈,Chocolate Donuts\nIn Piedmont's opinion; the diameter of the ideal doughnut should be between 72 and 82 millimeters; crispy and perfect.,item_ActivityGourmetCook4,1,9126010,30,20,1,2,16
+134,SaND Special,沙岛甜品,SaND Special\nGolden honey is spread on top of the soft; fluffy bread; making each mouthful bursting with sweetness. It's Katyusha's favorite. She once ate 50 pieces of honey bread in a day.,item_ActivityGourmetCook4,1,9126013,30,20,1,2,17
+135,Sugar-free Dessert,健身甜品,Sugar-free Dessert\nThe perfect post-workout treat! The first flavor is a little acidic; but the finish is sweet. According to Ben; a 1:2 ingredient ratio is recommended in order to provide the greaTest flavor.,item_ActivityGourmetCook4,1,9126014,30,20,1,3,18
+137,Tribe Dessert,部落甜品,Tribe Dessert\nThere are 30 different types of ingredients in this dessert from Aya's hometown; including some unusual ones like swine fat. It's a huge hit with Aya.,item_ActivityGourmetCook4,1,9126018,30,20,1,3,19
+136,SMG Special,斯魔格甜品,SMG Special\nNo one can resist the sweet flavor of applesauce wrapped in a crunchy pastry. Preycis recommends cooking at 180 degrees Celsius for 50 minutes.,item_ActivityGourmetCook4,1,9126015,30,20,1,4,20
+141,Droid Cake,机械甜品,Droid Cake\nEven while most people find this dessert made of oil; lubricant and batteries difficult to swallow; a unique set of heroes admires it.,item_ActivityGourmetCook4,1,9126022,30,20,1,4,21
+140,Golden Cake,黄金甜品,Golden Cake\nThe cake's surface is decorated with a thin layer of gold foil. Despite its simplicity; the costs are substantial. According to Rockfield's calculations; the gold foil weighs up to 180 grams.,item_ActivityGourmetCook4,1,9126021,30,20,1,5,22
+148,Fruit Dessert,水果甜品,Fruit Dessert\nIn the heat of summer; nothing beats fruit-flavored ice cream. Fresh; fruity and chilling.,item_ActivityGourmetCook3,2,9126007,30,20,1,5,23
+150,Street Dessert,街头甜品,Street Dessert\nThick cream is mashed into the bread and then a delicious layer of cocoa powder is spread over the top.,item_ActivityGourmetCook3,2,9126009,30,20,1,6,24
+146,Fancy Dessert,豪华甜品,Fancy Dessert\nWhen you have 200 dessert masters working so delicately on a single dish; it's impossible to call it a dish. It's a masterpiece.,item_ActivityGourmetCook4,1,9126027,30,20,1,6,25
+152,Green Tea Dessert,绿竹甜品,Green Tea Dessert\nThickly sprinkle green tea powder over the long; slender loaf. People actually like its bitter flavor. It's not just a dessert for Mei; it's an important part of her life.,item_ActivityGourmetCook4,2,9126017,30,20,1,7,26
+147,Mochi Sweets,祈福甜品,Mochi Sweets\nIn Tsuru's homeland; the special delicacies are given exclusively at the shrine; where she defended the Dark Legion's invasion for three months.,item_ActivityGourmetCook4,1,9126028,30,20,1,7,27
+142,Energy Bites,元气甜品,Energy Bites\nFlora's sweets have a special secret recipe that may leave you feeling revitalized after you've eaten them. Many people grew extremely enthusiastic and could not relax until they ran 88 laps in the training camp.,item_ActivityGourmetCook4,1,9126023,30,20,1,8,28
+151,Odinium Dessert,雷神元素冷饮,Odinium Dessert\nAfter adding the Odinium; it produces a wonderful blue tint; but thus yet no one has attempted to eat it.,item_ActivityGourmetCook4,2,9126016,30,20,1,8,29
