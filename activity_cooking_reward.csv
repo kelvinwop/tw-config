@@ -52,9 +52,9 @@ int,string,string,string,string,int,int,int,int,int,int,int
 50,Shining Fireworks,砰砰烟花,Shining Fireworks\nA Shining Chest can carry up to 737dd gold coins. According to Dr. Reichstein; "We're still trying to increase the capacity of the chest; but to be honest; I don't have any ideas.",item_ActivityGourmetCook2,3,9400035,60,20,1,7,
 51,Old Times Fireworks,超古代烟花,Old Times Fireworks\nIt's amazing how much energy it takes to maintain these weapons from the old times. These troops are very strong and essential in the battlefield.,item_ActivityGourmetCook2,3,9400036,60,20,1,8,
 52,SaND Fireworks,沙岛烟花,SaND Fireworks\nThere is a deeper meaning to the "SaND" fireworks than just entertaining the crowds. Approximately 181 agents have gone missing. Even if their identities remain a mystery; at the very least; they will not be forgotten.,item_ActivityGourmetCook2,3,9400037,60,20,1,8,
-124,Tasty Dessert,美味甜品,Tasty Dessert\nIt's not pretty; but it's tasty.,item_ActivityGourmetCook3,-1,9126000,3,20,0,0,1
-125,Overbaked Dessert,黑暗甜品,"DarkOverbaked Dessert\nIt doesn't seem to be an edible dessert. Adjust the ingredients and try again; maybe?,item_ActivityGourmetCook3,-1,9126001,5,20,0,0,2
-126,Half-baked Dessert,半熟甜品,Half-baked Dessert\nThis is just half-cooked; despite how it seems.,item_ActivityGourmetCook3,-1,9126002,10,20,0,0,3
+124,Overbaked Dessert,黑暗甜品,"DarkOverbaked Dessert\nIt doesn't seem to be an edible dessert. Adjust the ingredients and try again; maybe?,item_ActivityGourmetCook3,-1,9126000,3,20,0,0,1
+125,Half-baked Dessert,半熟甜品,Half-baked Dessert\nThis is just half-cooked; despite how it seems.,item_ActivityGourmetCook3,-1,9126001,5,20,0,0,2
+126,Tasty Dessert,美味甜品,Tasty Dessert\nIt's not pretty; but it's tasty.,item_ActivityGourmetCook3,-1,9126002,10,20,0,0,3
 127,Cheesecake,芝士蛋糕,Cheesecake\nWith each bite; the mouthwatering combination of salty cheese and sweet cake grows on you.,item_ActivityGourmetCook3,-1,9126003,15,20,0,0,4
 128,Dark Legion Special,军团特供,Dark Legion Special\nDesserts are available solely to members of the Dark Legion; but due to a lack of budget; they are of terrible taste and quality.,item_ActivityGourmetCook3,-1,9126004,20,20,0,0,5
 129,Freedom League Special,同盟特供,Freedom League Special\nDesserts are available solely to members of the Freedom League; healthy and delicious.,item_ActivityGourmetCook3,-1,9126005,25,20,0,0,6
